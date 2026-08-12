@@ -1,0 +1,15 @@
+*.db
+*.db-wal
+*.db-shm
+*.log
+*.pyc
+__pycache__/
+progress.json
+dashboard_data.json
+results/
+node_modules/
+dist/
+.env
+*.egg-info/
+.DS_Store
+pending_summary.md
