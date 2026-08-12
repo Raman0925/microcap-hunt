@@ -171,35 +171,63 @@ def _build_result_file_index() -> dict:
     return index
 
 
+def _apply_result_overlay(companies: list) -> list:
+    """Overlay market_cap and agent scores from individual result files."""
+    result_index = _build_result_file_index()
+    if not result_index:
+        return companies
+    for c in companies:
+        overlay = result_index.get(c["symbol"])
+        if not overlay:
+            continue
+        if not c.get("market_cap_cr") and overlay.get("market_cap_cr"):
+            c["market_cap_cr"] = overlay["market_cap_cr"]
+            c["market_cap"] = overlay.get("market_cap", "")
+        for key in ("laxmi_score", "meera_score", "tara_score", "optionality_score"):
+            if c.get(key) is None and overlay.get(key) is not None:
+                c[key] = overlay[key]
+    return companies
+
+
 def read_all_companies():
     # Primary: SQLite
     if _db_has_data():
         try:
             rows = _db.get_all_companies()
             companies = [_normalize_db_row(r) for r in rows]
-            # Overlay market_cap and scores from individual result files
-            result_index = _build_result_file_index()
-            if result_index:
-                for c in companies:
-                    overlay = result_index.get(c["symbol"])
-                    if overlay:
-                        if not c.get("market_cap_cr") and overlay.get("market_cap_cr"):
-                            c["market_cap_cr"] = overlay["market_cap_cr"]
-                            c["market_cap"] = overlay.get("market_cap", "")
-                        if c.get("laxmi_score") is None and overlay.get("laxmi_score") is not None:
-                            c["laxmi_score"] = overlay["laxmi_score"]
-                        if c.get("meera_score") is None and overlay.get("meera_score") is not None:
-                            c["meera_score"] = overlay["meera_score"]
-                        if c.get("tara_score") is None and overlay.get("tara_score") is not None:
-                            c["tara_score"] = overlay["tara_score"]
-                        if c.get("optionality_score") is None and overlay.get("optionality_score") is not None:
-                            c["optionality_score"] = overlay["optionality_score"]
-            return companies
+            return _apply_result_overlay(companies)
         except Exception:
             pass
 
     # Fallback: JSON files
     return _read_companies_from_json()
+
+
+def read_companies_page(page: int = 1, limit: int = 50, verdict: str | None = None):
+    """Return (companies, total) for one page, filtered by normalized verdict."""
+    page = max(1, page)
+    limit = max(1, limit)
+    offset = (page - 1) * limit
+    norm_verdict = normalise_verdict(verdict) if verdict else None
+    if norm_verdict in (None, "all", "unknown"):
+        norm_verdict = None
+
+    # Primary: SQLite with LIMIT/OFFSET
+    if _db_has_data():
+        try:
+            total = _db.get_companies_count(norm_verdict)
+            rows = _db.get_all_companies(limit=limit, offset=offset, verdict=norm_verdict)
+            companies = _apply_result_overlay([_normalize_db_row(r) for r in rows])
+            return companies, total
+        except Exception:
+            pass
+
+    # Fallback: JSON files (paginate in memory)
+    all_c = _read_companies_from_json()
+    if norm_verdict:
+        all_c = [c for c in all_c if c["verdict"] == norm_verdict]
+    total = len(all_c)
+    return all_c[offset:offset + limit], total
 
 
 def _parse_json_list(val):
@@ -339,8 +367,16 @@ def get_progress():
 
 
 @app.get("/api/companies")
-def get_companies():
-    return read_all_companies()
+def get_companies(page: int = 1, limit: int = 50, verdict: str | None = None):
+    companies, total = read_companies_page(page, limit, verdict)
+    pages = max(1, -(-total // limit)) if limit else 1  # ceil division
+    return {
+        "companies": companies,
+        "total": total,
+        "page": max(1, page),
+        "pages": pages,
+        "limit": limit,
+    }
 
 
 @app.get("/api/company/{symbol}")

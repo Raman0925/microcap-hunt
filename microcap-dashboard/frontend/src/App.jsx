@@ -1138,6 +1138,8 @@ const VIEW_TABS = ['All', 'Shortlisted', 'Borderline', 'Rejected', 'Task Board']
 export default function App() {
   const [progress, setProgress] = useState(null)
   const [companies, setCompanies] = useState([])
+  const [page, setPage] = useState(1)
+  const [totalPages, setTotalPages] = useState(1)
   const [selectedTab, setSelectedTab] = useState('All')
   const [selectedCompany, setSelectedCompany] = useState(null)
   const [companyDetail, setCompanyDetail] = useState(null)
@@ -1155,12 +1157,17 @@ export default function App() {
 
   const fetchData = useCallback(async () => {
     try {
+      const isBoard = selectedTab === 'Task Board'
+      const verdictParam = (!isBoard && selectedTab !== 'All')
+        ? `&verdict=${selectedTab.toLowerCase()}`
+        : ''
       const [prog, comps] = await Promise.all([
         fetch(`${API}/progress`).then(r => r.json()),
-        fetch(`${API}/companies`).then(r => r.json()),
+        fetch(`${API}/companies?page=${page}&limit=50${verdictParam}`).then(r => r.json()),
       ])
       setProgress(prog)
-      setCompanies(comps)
+      setCompanies(comps.companies || [])
+      setTotalPages(comps.pages || 1)
       setLastUpdated(new Date())
       setError(null)
     } catch {
@@ -1168,7 +1175,7 @@ export default function App() {
     } finally {
       setLoadingList(false)
     }
-  }, [])
+  }, [page, selectedTab])
 
   useEffect(() => {
     fetchData()
@@ -1192,10 +1199,13 @@ export default function App() {
   const closePanel = () => { setSelectedCompany(null); setCompanyDetail(null) }
 
   const isKanban = selectedTab === 'Task Board'
-  const filteredCompanies = isKanban ? [] : companies.filter(c => {
-    if (selectedTab === 'All') return true
-    return c.verdict === selectedTab.toLowerCase()
-  })
+  // Backend already paginates + filters by verdict, so render the page as-is.
+  const filteredCompanies = isKanban ? [] : companies
+
+  const tabCount = (t) => {
+    if (t === 'All') return progress?.analyzed ?? 0
+    return progress?.[t.toLowerCase()] ?? 0
+  }
 
   const total = progress?.total || 1840
   const analyzed = progress?.analyzed || 0
@@ -1324,7 +1334,7 @@ export default function App() {
                 <button
                   key={t}
                   className="tab-btn"
-                  onClick={() => setSelectedTab(t)}
+                  onClick={() => { setSelectedTab(t); setPage(1) }}
                   style={{
                     padding: '7px 16px', borderRadius: '6px', cursor: 'pointer',
                     fontSize: '13px', fontWeight: 500, transition: 'all 0.15s',
@@ -1336,7 +1346,7 @@ export default function App() {
                   {isBoard ? '📋 ' : ''}{t}
                   {!isBoard && (
                     <span style={{ marginLeft: 6, opacity: 0.7, fontSize: '11px' }}>
-                      ({t === 'All' ? companies.length : companies.filter(c => c.verdict === t.toLowerCase()).length})
+                      ({tabCount(t).toLocaleString()})
                     </span>
                   )}
                 </button>
@@ -1442,6 +1452,36 @@ export default function App() {
                   </tbody>
                 </table>
               )}
+            </div>
+          )}
+
+          {/* Pagination controls */}
+          {!isKanban && !loadingList && totalPages > 1 && (
+            <div style={{
+              display: 'flex', justifyContent: 'center', alignItems: 'center', gap: 8,
+              padding: '12px', borderTop: '1px solid #2d3148', flexShrink: 0,
+            }}>
+              <button
+                disabled={page === 1}
+                onClick={() => setPage(p => Math.max(1, p - 1))}
+                style={{
+                  background: '#1a1d27', border: '1px solid #2d3148', color: '#94a3b8',
+                  borderRadius: 6, padding: '6px 14px', fontSize: 13,
+                  cursor: page === 1 ? 'not-allowed' : 'pointer',
+                  opacity: page === 1 ? 0.4 : 1,
+                }}
+              >← Prev</button>
+              <span style={{ color: '#94a3b8', fontSize: 13 }}>Page {page} of {totalPages}</span>
+              <button
+                disabled={page === totalPages}
+                onClick={() => setPage(p => Math.min(totalPages, p + 1))}
+                style={{
+                  background: '#1a1d27', border: '1px solid #2d3148', color: '#94a3b8',
+                  borderRadius: 6, padding: '6px 14px', fontSize: 13,
+                  cursor: page === totalPages ? 'not-allowed' : 'pointer',
+                  opacity: page === totalPages ? 0.4 : 1,
+                }}
+              >Next →</button>
             </div>
           )}
         </div>

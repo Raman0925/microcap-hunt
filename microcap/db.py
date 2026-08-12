@@ -316,11 +316,33 @@ def _list_last(val) -> float | None:
     return val
 
 
-def get_all_companies() -> list[dict]:
+# Maps a normalized verdict (as used by the API) to the raw verdict strings
+# stored in the DB, so the companies list can be filtered per dashboard tab.
+_VERDICT_DB_MAP = {
+    "shortlisted": ("shortlist", "shortlisted"),
+    "rejected": ("reject", "rejected", "auto_rejected_fraud_veto"),
+    "borderline": ("borderline",),
+    "pass": ("pass",),
+}
+
+
+def get_all_companies(limit=None, offset=None, verdict=None) -> list[dict]:
+    sql = "SELECT * FROM companies"
+    params: list = []
+    if verdict and verdict in _VERDICT_DB_MAP:
+        vals = _VERDICT_DB_MAP[verdict]
+        placeholders = ",".join("?" * len(vals))
+        sql += f" WHERE verdict IN ({placeholders})"
+        params.extend(vals)
+    sql += " ORDER BY analyzed_at DESC NULLS LAST"
+    if limit is not None:
+        sql += " LIMIT ?"
+        params.append(limit)
+        if offset:
+            sql += " OFFSET ?"
+            params.append(offset)
     with _connect() as conn:
-        rows = conn.execute(
-            "SELECT * FROM companies ORDER BY analyzed_at DESC NULLS LAST"
-        ).fetchall()
+        rows = conn.execute(sql, params).fetchall()
     result = []
     for row in rows:
         d = dict(row)
@@ -332,6 +354,19 @@ def get_all_companies() -> list[dict]:
                     pass
         result.append(d)
     return result
+
+
+def get_companies_count(verdict=None) -> int:
+    sql = "SELECT COUNT(*) AS n FROM companies"
+    params: list = []
+    if verdict and verdict in _VERDICT_DB_MAP:
+        vals = _VERDICT_DB_MAP[verdict]
+        placeholders = ",".join("?" * len(vals))
+        sql += f" WHERE verdict IN ({placeholders})"
+        params.extend(vals)
+    with _connect() as conn:
+        row = conn.execute(sql, params).fetchone()
+    return row["n"] if row else 0
 
 
 def get_company(symbol: str) -> dict | None:
