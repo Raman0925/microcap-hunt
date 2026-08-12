@@ -356,6 +356,23 @@ def _read_companies_from_json() -> list:
 
 @app.get("/api/progress")
 def get_progress():
+    # Fast path: get all counts from SQLite — never touch the 38 MB progress.json
+    if _db_has_data():
+        analyzed = _db.get_companies_count()
+        shortlisted = _db.get_companies_count("shortlisted")
+        borderline = _db.get_companies_count("borderline")
+        rejected = _db.get_companies_count("rejected")
+        agents = read_live_agent_status() or {}
+        return {
+            "total": 2123,
+            "analyzed": analyzed,
+            "shortlisted": shortlisted,
+            "borderline": borderline,
+            "rejected": rejected,
+            "agents": agents,
+            "last_updated": "live",
+        }
+    # Fallback: parse progress.json (slow, only if DB unavailable)
     data = read_progress()
     companies = read_all_companies()
     verdicts = [c["verdict"] for c in companies]
