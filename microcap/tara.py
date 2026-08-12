@@ -198,6 +198,7 @@ def analyse(company: dict) -> dict:
         "red_flags": red_flags,
         "positive_catalysts": positive_catalysts,
         "sector_view": sector_view,
+        "score": max(1, min(10, 5 + positive_news - len(red_flags) * 2)),
         "narrative_score": max(1, min(10, 5 + positive_news - len(red_flags) * 2)),
         "governance_signal": governance_signal,
         "news_used": "; ".join(headlines[:3])[:200],

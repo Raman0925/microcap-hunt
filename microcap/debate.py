@@ -37,7 +37,7 @@ def _tally_votes(laxmi: dict, meera: dict, tara: dict) -> dict:
     }
 
 
-def debate(laxmi: dict, meera: dict, tara: dict) -> dict:
+def debate(laxmi: dict, meera: dict = None, tara: dict = None) -> dict:
     """
     Aggregate three agent verdicts and return a final verdict dict.
 
@@ -52,6 +52,8 @@ def debate(laxmi: dict, meera: dict, tara: dict) -> dict:
             "vote_tally": dict,
         }
     """
+    meera = meera or {}
+    tara = tara or {}
     symbol = laxmi.get("symbol", "UNKNOWN")
     name = laxmi.get("name", symbol)
     tally = _tally_votes(laxmi, meera, tara)
