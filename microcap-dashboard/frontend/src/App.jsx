@@ -1142,6 +1142,7 @@ export default function App() {
   const [selectedCompany, setSelectedCompany] = useState(null)
   const [companyDetail, setCompanyDetail] = useState(null)
   const [loadingDetail, setLoadingDetail] = useState(false)
+  const [loadingList, setLoadingList] = useState(true)
   const [lastUpdated, setLastUpdated] = useState(null)
   const [error, setError] = useState(null)
   const [isMobile, setIsMobile] = useState(() => window.innerWidth < 768)
@@ -1164,6 +1165,8 @@ export default function App() {
       setError(null)
     } catch {
       setError('API unreachable — retrying...')
+    } finally {
+      setLoadingList(false)
     }
   }, [])
 
@@ -1348,7 +1351,13 @@ export default function App() {
             </div>
           ) : (
             <div className="company-table-wrapper" style={{ flex: 1, overflow: 'auto', borderRadius: '10px', border: '1px solid #2d3148' }}>
-              {filteredCompanies.length === 0 ? (
+              {loadingList ? (
+                <div style={{ padding: '60px', textAlign: 'center' }}>
+                  <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
+                  <div style={{ width: 32, height: 32, border: '3px solid #2d3148', borderTopColor: '#6366f1', borderRadius: '50%', animation: 'spin 0.8s linear infinite', margin: '0 auto 12px' }} />
+                  <div style={{ color: '#475569', fontSize: '13px' }}>Loading companies...</div>
+                </div>
+              ) : filteredCompanies.length === 0 ? (
                 <div style={{ padding: '60px', textAlign: 'center', color: '#475569', fontSize: '14px' }}>
                   No companies in this category yet.
                 </div>
@@ -1444,9 +1453,41 @@ export default function App() {
           <div className="detail-panel" style={{
             position: 'fixed', top: 0, right: 0, bottom: 0, width: isMobile ? '100%' : '500px',
             background: '#141720', borderLeft: '1px solid #2d3148', zIndex: 100,
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
+            overflowY: 'auto', padding: '20px',
           }}>
-            <div style={{ color: '#64748b', fontSize: '14px' }}>Loading company data...</div>
+            <style>{`
+              @keyframes shimmer {
+                0% { background-position: -400px 0; }
+                100% { background-position: 400px 0; }
+              }
+              .skel {
+                background: linear-gradient(90deg, #1e2333 25%, #252a3d 50%, #1e2333 75%);
+                background-size: 800px 100%;
+                animation: shimmer 1.4s infinite linear;
+                border-radius: 6px;
+              }
+            `}</style>
+            {/* Header skeleton */}
+            <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 20 }}>
+              <div className="skel" style={{ height: 12, width: 80 }} />
+              <div className="skel" style={{ height: 24, width: 24, borderRadius: '50%' }} />
+            </div>
+            <div className="skel" style={{ height: 28, width: '60%', marginBottom: 10 }} />
+            <div className="skel" style={{ height: 22, width: 100, borderRadius: 10, marginBottom: 20 }} />
+            {/* Thesis skeleton */}
+            <div className="skel" style={{ height: 80, width: '100%', marginBottom: 20 }} />
+            {/* Agent panel skeletons */}
+            {[1,2,3].map(i => (
+              <div key={i} style={{ background: '#1a1d27', borderRadius: 8, padding: 16, marginBottom: 12 }}>
+                <div className="skel" style={{ height: 11, width: 120, marginBottom: 12 }} />
+                {[1,2,3].map(j => (
+                  <div key={j} style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 8 }}>
+                    <div className="skel" style={{ height: 12, width: '45%' }} />
+                    <div className="skel" style={{ height: 12, width: '25%' }} />
+                  </div>
+                ))}
+              </div>
+            ))}
           </div>
         ) : companyDetail ? (
           <CompanyDetailPanel data={companyDetail} onClose={closePanel} isMobile={isMobile} />
