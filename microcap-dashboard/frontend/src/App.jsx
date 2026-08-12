@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react'
+import React, { useState, useEffect } from 'react'
 import './mobile.css'
 
 const API = '/api'
@@ -1155,34 +1155,36 @@ export default function App() {
     return () => window.removeEventListener('resize', handleResize)
   }, [])
 
-  const fetchData = useCallback(async () => {
-    try {
-      const isBoard = selectedTab === 'Task Board'
-      const verdictParam = (!isBoard && selectedTab !== 'All')
-        ? `&verdict=${selectedTab.toLowerCase()}`
-        : ''
-      const [prog, comps] = await Promise.all([
-        fetch(`${API}/progress`).then(r => r.json()),
-        fetch(`${API}/companies?page=${page}&limit=50${verdictParam}`).then(r => r.json()),
-      ])
-      setProgress(prog)
-      setCompanies(comps.companies || [])
-      setTotalPages(comps.pages || 1)
-      setLastUpdated(new Date())
-      setError(null)
-    } catch {
-      setError('API unreachable — retrying...')
-    } finally {
-      setLoadingList(false)
-    }
-  }, [page, selectedTab])
-
   useEffect(() => {
-    fetchData()
+    let cancelled = false
+    const doFetch = async () => {
+      setLoadingList(true)
+      try {
+        const isBoard = selectedTab === 'Task Board'
+        const verdictParam = (!isBoard && selectedTab !== 'All')
+          ? `&verdict=${selectedTab.toLowerCase()}`
+          : ''
+        const [prog, comps] = await Promise.all([
+          fetch(`${API}/progress`).then(r => r.json()),
+          fetch(`${API}/companies?page=${page}&limit=50${verdictParam}`).then(r => r.json()),
+        ])
+        if (cancelled) return
+        setProgress(prog)
+        setCompanies(comps.companies || [])
+        setTotalPages(comps.pages || 1)
+        setLastUpdated(new Date())
+        setError(null)
+      } catch {
+        if (!cancelled) setError('API unreachable — retrying...')
+      } finally {
+        if (!cancelled) setLoadingList(false)
+      }
+    }
+    doFetch()
     // Kanban auto-refreshes every 15s, table every 30s
-    const id = setInterval(fetchData, selectedTab === 'Task Board' ? 15000 : 30000)
-    return () => clearInterval(id)
-  }, [fetchData, selectedTab])
+    const id = setInterval(doFetch, selectedTab === 'Task Board' ? 15000 : 30000)
+    return () => { cancelled = true; clearInterval(id) }
+  }, [page, selectedTab])
 
   const openCompany = async (symbol) => {
     setSelectedCompany(symbol)
