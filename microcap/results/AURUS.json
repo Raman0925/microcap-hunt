@@ -1,0 +1,120 @@
+{
+  "symbol": "AURUS",
+  "name": "AURUS GEM CORPORATION LTD",
+  "sector": "",
+  "market_cap": "\u20b913.9Cr.",
+  "market_cap_cr": 13.9,
+  "description": "AboutIncorporated in 1995, Lypsa Gems and Jewellery Ltd does wholesale & retail trading of Rough, Cut & Polished Diamonds and Gold Diamond Studded Jewellery[1]Key PointsBusiness Overview:[1]LGJL is in the business of trading and manufacturing small-sized polished diamondsranging from 0.005 to 0.75 cents, and in the price range of 300 -900 US Dollars.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AURUS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "AURUS GEM CORPORATION LTD \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "AURUS GEM CORPORATION LTD \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; Revenue grew 3/4 years consistently. What to watch: Low ROCE: 7.2% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Convexity: both B2B and B2C revenue streams",
+    "Optionality: Low PE 8.0 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 AURUS GEM CORPORATION LTD \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.4,
+    "normalised_score": -0.311
+  },
+  "laxmi": {
+    "symbol": "AURUS",
+    "name": "AURUS GEM CORPORATION LTD",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "AURUS GEM CORPORATION LTD \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 3.0,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 7.2% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 7.18,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": -0.98,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AURUS",
+    "name": "AURUS GEM CORPORATION LTD",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "AURUS GEM CORPORATION LTD \u2014 solid technical setup (score 4.0/6). Signals: Revenue +110.4% YoY \u2014 strong momentum, Profit +197.5% YoY with margin expansion \u2014 quality growth, PE 8.0 < revenue growth 110.4% \u2014 undervalued vs growth. Notes: Price 38.0% below 52w high \u2014 weak price action. Optionality: Low PE 8.0 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 4.0,
+    "price_signal": "optionality",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 8.01,
+    "from_high_pct": 38.0,
+    "revenue_growth_pct": 110.4,
+    "profit_growth_pct": 197.5,
+    "optionality_signals": [
+      "Low PE 8.0 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Revenue +110.4% YoY \u2014 strong momentum; Profit +197.5% YoY with margin expansion \u2014 quality growth; PE 8.0 < revenue growth 110.4% \u2014 undervalued vs growth; Price 38.0% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 4.7,
+      "52w_high": 7.58,
+      "52w_low": 4.05,
+      "position_pct": 18.4,
+      "from_high_pct": 38.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AURUS",
+    "name": "AURUS GEM CORPORATION LTD",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "AURUS GEM CORPORATION LTD has a mixed narrative (score 3.0/10). Positives: Small size (\u20b914cr mcap) \u2014 large runway ahead, Established company (founded ~1995). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b914cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1995)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

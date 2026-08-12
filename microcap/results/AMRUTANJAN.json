@@ -1,0 +1,106 @@
+{
+  "symbol": "AMRUTANJAN",
+  "name": "Amrutanjan Health Care Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,543Cr.",
+  "market_cap_cr": 1543.0,
+  "description": "AboutAHCL has been manufacturing ayurvedic balm for pain management since 1893, and is currently managed by the third-generation of promoters. The company is more than 120 years old and is into OTC products in the segments of pain management, women's hygiene, and packaged fruit juice drink.[1]Key PointsHigh Market Share in Modern TradeAmrutanjan has maintained the No. 1 rank in Modern Trade in Head Category with the volume market share of 41.1%* in CY19.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AMRUTANJAN/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Amrutanjan Health Care Ltd \u2014 rejected (score -0.44). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "verdict_memo": "Amrutanjan Health Care Ltd \u2014 rejected (score -0.44). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 24.8% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.44"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -1.963,
+    "normalised_score": -0.436
+  },
+  "laxmi": {
+    "symbol": "AMRUTANJAN",
+    "name": "Amrutanjan Health Care Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Amrutanjan Health Care Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 24.8% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 24.8% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 24.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.12,
+    "forensic_flags": [],
+    "owner_earnings": 17.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AMRUTANJAN",
+    "name": "Amrutanjan Health Care Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Amrutanjan Health Care Ltd \u2014 weak technical setup (score 0.0/6): Price 32.5% below 52w high \u2014 weak price action; Revenue -11.5% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 24.8,
+    "from_high_pct": 32.5,
+    "revenue_growth_pct": -11.5,
+    "profit_growth_pct": -22.7,
+    "optionality_signals": [],
+    "technical_notes": "Price 32.5% below 52w high \u2014 weak price action; Revenue -11.5% YoY \u2014 declining; Net profit declined -22.7% YoY",
+    "price_position": {
+      "current_price": 534.0,
+      "52w_high": 791.0,
+      "52w_low": 486.0,
+      "position_pct": 15.7,
+      "from_high_pct": 32.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AMRUTANJAN",
+    "name": "Amrutanjan Health Care Ltd",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "Amrutanjan Health Care Ltd \u2014 rejected (score 1.5/10): failed qualitative checks",
+    "score": 1.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

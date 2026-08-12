@@ -1,0 +1,115 @@
+{
+  "symbol": "MHLXMIRU",
+  "name": "Mahalaxmi Rubtech Ltd",
+  "sector": "",
+  "market_cap": "\u20b9166Cr.",
+  "market_cap_cr": 166.0,
+  "description": "AboutIncorporated in 1991, Mahalaxmi Rubtech Ltd does manufacturing and marketing of Traditional Textiles and Polymer based Technical Textiles & Rubber products[1]Key PointsBusiness Overview:[1][2]MRTL is a part of the Mahalaxmi Group. It is an ISO 9001:2000 certified research-based, technology-driven company that manufactures Offset printing Blankets, niche textile and Rubber products. Company is the only Indian manufacturer with inhouse facility from Yan to offset printing blanket. Company does weaving and processing of fabric (own and job work) and manufacturing of technical textiles (rubber offset printing blankets)Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/MHLXMIRU/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Mahalaxmi Rubtech Ltd \u2014 rejected (score -0.18). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Mahalaxmi Rubtech Ltd \u2014 rejected (score -0.18). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 32.4% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.18"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.8,
+    "normalised_score": -0.178
+  },
+  "laxmi": {
+    "symbol": "MHLXMIRU",
+    "name": "Mahalaxmi Rubtech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Mahalaxmi Rubtech Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 32.4% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 32.4% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 32.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 4.0,
+    "forensic_flags": [],
+    "owner_earnings": 3.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "MHLXMIRU",
+    "name": "Mahalaxmi Rubtech Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Mahalaxmi Rubtech Ltd \u2014 weak technical setup (score 0.0/6): Price 39.8% below 52w high \u2014 weak price action; Revenue -14.3% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 7.16,
+    "from_high_pct": 39.8,
+    "revenue_growth_pct": -14.3,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 39.8% below 52w high \u2014 weak price action; Revenue -14.3% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 156.0,
+      "52w_high": 259.0,
+      "52w_low": 106.0,
+      "position_pct": 32.7,
+      "from_high_pct": 39.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "MHLXMIRU",
+    "name": "Mahalaxmi Rubtech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Mahalaxmi Rubtech Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b9166cr mcap) \u2014 large runway ahead, Established company (founded ~1991). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9166cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1991)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

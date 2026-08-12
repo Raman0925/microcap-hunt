@@ -1,0 +1,112 @@
+{
+  "symbol": "AGI",
+  "name": "AGI Greenpac Ltd",
+  "sector": "",
+  "market_cap": "\u20b94,640Cr.",
+  "market_cap_cr": 4640.0,
+  "description": "AboutIncorporated in 1960, AGI Greenpac Ltd manufactures and sells Container Glassbottles, PET bottles and Security Capsand Closures under Packaging Products segment[1]Key PointsBusiness Segments - FY26[1]A) Packaging Products (99%):[2]The company offers packaging solutions across3brands:i) AGI Glaspac:The company manufactures containers, bottles, jars, and cosmetic packaging, catering to the beverages, liquor, beer, wine, pharmaceutical, food, and personal care industries.ii) AGI Closures:It specialises in the production of counterfeit-resistant caps and closures, primarily serving the alco-bev segment.iii) AGI Plastek:The company manufactures PET bottles, High Density Polyethylene (HDPE) bottles, and Polypropylene (PP) products for FMCG, dairy, agrochemicals, and other industries.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AGI/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "AGI Greenpac Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "AGI Greenpac Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 19.6% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 AGI Greenpac Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.51,
+    "normalised_score": -0.558
+  },
+  "laxmi": {
+    "symbol": "AGI",
+    "name": "AGI Greenpac Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "AGI Greenpac Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 19.6% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 19.6,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 2.56,
+    "forensic_flags": [],
+    "owner_earnings": 104.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AGI",
+    "name": "AGI Greenpac Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "AGI Greenpac Ltd \u2014 weak technical setup (score 1.0/6): Revenue -7.2% YoY \u2014 declining; Net profit declined -10.3% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 12.6,
+    "from_high_pct": 25.9,
+    "revenue_growth_pct": -7.2,
+    "profit_growth_pct": -10.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 25.9% of 52w high \u2014 moderate momentum; Revenue -7.2% YoY \u2014 declining; Net profit declined -10.3% YoY",
+    "price_position": {
+      "current_price": 717.0,
+      "52w_high": 967.0,
+      "52w_low": 444.0,
+      "position_pct": 52.2,
+      "from_high_pct": 25.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AGI",
+    "name": "AGI Greenpac Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "AGI Greenpac Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1960), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1960)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

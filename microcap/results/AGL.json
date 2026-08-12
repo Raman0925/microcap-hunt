@@ -1,0 +1,110 @@
+{
+  "symbol": "AGL",
+  "name": "Allcargo Global Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,335Cr.",
+  "market_cap_cr": 1335.0,
+  "description": "AboutAllcargo Global Ltd is the international supply chain arm of the Mumbai-based Allcargo Group, promoted by Shashi Kiran Shetty. It is an asset-light, digital-first NVOCC offering LCL consolidation, neutral FCL and neutral air freight globally under the ECU Worldwide brand, and is the world's largest LCL consolidator with a ~14-15% global share.The company was demerged from Allcargo Logistics Ltd under an NCLT-approved Composite Scheme of Arrangement (effective 01-Nov-2025) and listed on NSE and BSE on 03-Jul-2026.Key PointsDemerger & Group Structure:[1]The International Supply Chain businessof Allcargo Logistics was demerged intothe company under a composite scheme\u2014 appointed date 01-Oct-2023, NCLTapproval 10-Oct-2025, effective 01-Nov-2025, record date 12-Nov-2025. Shareholders received 1 share of AGL for every1 share of Allcargo Logistics; 98.28 Croreshares of \u20b92 each were allotted. The same scheme merged ASCPL and GESCPL into Allcargo Gati and then Gati into Allcargo Logistics, ",
+  "screener_url": "https://www.screener.in/company/AGL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Allcargo Global Ltd \u2014 rejected (score 1.0/10): FCF data unavailable; ROCE not available",
+  "verdict_memo": "Allcargo Global Ltd \u2014 rejected (score 1.0/10): FCF data unavailable; ROCE not available",
+  "investment_thesis": "What to watch: FCF data unavailable; ROCE not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (93% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Allcargo Global Ltd \u2014 rejected (score 1.0/10): FCF data unavailable; ROCE not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.66,
+    "normalised_score": -0.591
+  },
+  "laxmi": {
+    "symbol": "AGL",
+    "name": "Allcargo Global Ltd",
+    "verdict": "reject",
+    "confidence": 0.93,
+    "report": "Allcargo Global Ltd \u2014 rejected (score 1.0/10): FCF data unavailable; ROCE not available",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF data unavailable",
+      "ROCE not available",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue data unavailable"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": null,
+    "roce_5yr_avg": null,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AGL",
+    "name": "Allcargo Global Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Allcargo Global Ltd \u2014 weak technical setup (score 0.0/6): Price 38.2% below 52w high \u2014 weak price action; Insufficient revenue data",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "flat",
+    "pe_ratio": null,
+    "from_high_pct": 38.2,
+    "revenue_growth_pct": null,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price 38.2% below 52w high \u2014 weak price action; Insufficient revenue data",
+    "price_position": {
+      "current_price": 13.6,
+      "52w_high": 22.0,
+      "52w_low": 12.0,
+      "position_pct": 16.0,
+      "from_high_pct": 38.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AGL",
+    "name": "Allcargo Global Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Allcargo Global Ltd has a mixed narrative (score 4.0/10). Positives: Growth ambition evident in description, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

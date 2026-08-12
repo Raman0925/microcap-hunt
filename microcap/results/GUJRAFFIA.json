@@ -1,0 +1,111 @@
+{
+  "symbol": "GUJRAFFIA",
+  "name": "Gujarat Raffia Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b921.1Cr.",
+  "market_cap_cr": 21.1,
+  "description": "AboutIncorporated in 1984, Gujarat Raffia Industries Ltd manufactures PE Tarpaulin, PP Bags & allied products[1]Key PointsBusiness Overview:[1][2]a) HDPE/PP Woven Products:Woven sacks, Woven bags (HDPE & PP)b) Protective Covers & Linings:Tarpaulins (PE Tarpaulin), Pond linings, Fumigation covers, Canal linings,Geomembranesc) Sheeting Solutions:Plastic sheeting, Ground sheetingd) Shelter & Utility Items:Tents, Shelterse) Other Products:Ropes, Vermises / VermibedRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/GUJRAFFIA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Gujarat Raffia Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Gujarat Raffia Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 6.4% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.5/6 \u2014 reject (72% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Gujarat Raffia Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.4% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.572,
+    "normalised_score": -0.794
+  },
+  "laxmi": {
+    "symbol": "GUJRAFFIA",
+    "name": "Gujarat Raffia Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Gujarat Raffia Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.4% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 6.36,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 4.97,
+    "forensic_flags": [],
+    "owner_earnings": 0.8,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "GUJRAFFIA",
+    "name": "Gujarat Raffia Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Gujarat Raffia Industries Ltd \u2014 weak technical setup (score 1.5/6): Price 56.7% below 52w high \u2014 weak price action; Profit grew +1.3% but margin compressed Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 1.5,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 20.1,
+    "from_high_pct": 56.7,
+    "revenue_growth_pct": 4.6,
+    "profit_growth_pct": 1.3,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +4.6% YoY \u2014 growing; Price 56.7% below 52w high \u2014 weak price action; Profit grew +1.3% but margin compressed",
+    "price_position": {
+      "current_price": 39.0,
+      "52w_high": 90.0,
+      "52w_low": 35.1,
+      "position_pct": 7.1,
+      "from_high_pct": 56.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "GUJRAFFIA",
+    "name": "Gujarat Raffia Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Gujarat Raffia Industries Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b921cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1984)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

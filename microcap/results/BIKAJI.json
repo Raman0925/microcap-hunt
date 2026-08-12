@@ -1,0 +1,110 @@
+{
+  "symbol": "BIKAJI",
+  "name": "Bikaji Foods International Ltd",
+  "sector": "",
+  "market_cap": "\u20b915,542Cr.",
+  "market_cap_cr": 15542.0,
+  "description": "AboutBikaji Foods International Limited is one of India's largest fast-moving consumer goods (\"FMCG\") brands. The company's product range includes six principal categories: bhujia, namkeen, packaged sweets, papad, western snacks as well as other snacks which primarily include gift packs (assortment), frozen food, mathri range, and cookies.[1]Key PointsLeadership[1]a)3rd largest ethnic snacks company in India.b) Largest manufacturer of Bikaneri Bhujia producing 35,588 tonnes annually.c)2nd largest manufacturer of handmade papad in India.d)Market leader in family pack segment which represented ~63%of food products sale (9MFY26)Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BIKAJI/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bikaji Foods International Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "Bikaji Foods International Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 22.0% > 20% \u2014 exceptional capital efficiency. What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bikaji Foods International Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.597,
+    "normalised_score": -0.799
+  },
+  "laxmi": {
+    "symbol": "BIKAJI",
+    "name": "Bikaji Foods International Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Bikaji Foods International Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "ROCE 22.0% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 22.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.69,
+    "forensic_flags": [],
+    "owner_earnings": 32.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BIKAJI",
+    "name": "Bikaji Foods International Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Bikaji Foods International Ltd \u2014 weak technical setup (score 1.0/6): Revenue -14.9% YoY \u2014 declining; Net profit declined -22.0% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 56.0,
+    "from_high_pct": 24.5,
+    "revenue_growth_pct": -14.9,
+    "profit_growth_pct": -22.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 24.5% of 52w high \u2014 moderate momentum; Revenue -14.9% YoY \u2014 declining; Net profit declined -22.0% YoY",
+    "price_position": {
+      "current_price": 620.0,
+      "52w_high": 821.0,
+      "52w_low": 592.0,
+      "position_pct": 12.2,
+      "from_high_pct": 24.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BIKAJI",
+    "name": "Bikaji Foods International Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Bikaji Foods International Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "company": "A2Z Infra Engineering Ltd",
+  "symbol": "A2ZINFRA",
+  "market_cap_cr": 281,
+  "price": 15.8,
+  "analysis_date": "2026-08-12",
+  "analyst_verdicts": {
+    "laxmi": {
+      "verdict": "FAIL",
+      "score": 1,
+      "fraud_veto": true,
+      "fraud_veto_triggers": [
+        "Contingent liabilities ₹306 Cr EXCEED market cap ₹281 Cr",
+        "99.7% promoter pledging — control can transfer to lenders at any time",
+        "Revenue debtor days ranged 400–1,597 days for a decade — receivables for 2-4 years suggest disputed/uncollectable/fictitious billings"
+      ],
+      "key_finding": "₹904 Cr of shareholder value destroyed in 11 years. Revenue collapsed 95% from peak. Profitable only 1 of 12 years. ROCE 5yr avg -8.6%. Debt/equity ~22.5x. FRAUD VETO ACTIVE."
+    },
+    "meera": {
+      "verdict": "FAIL",
+      "score": 2,
+      "key_finding": "Reserves +₹732 Cr → -₹172 Cr = ₹904 Cr destroyed. EV/Revenue 3.2x for negative EBITDA. 71% retail holders, BSE flagged for surveillance Aug 4. Operator pump suspected. Live grenade: margin call on pledged shares.",
+      "veto_triggered": false
+    },
+    "tara": {
+      "verdict": "FAIL",
+      "score": 1,
+      "key_finding": "Textbook FRAGILE. Debtor days peaked 1,592 (FY21). Every stress event made company weaker. Promoter already extracted value via pledging — playing with OPM. Black swan (₹306 Cr guarantee call) = equity wipeout.",
+      "veto_triggered": false
+    }
+  },
+  "debate_protocol": {
+    "result": "AUTO_REJECTED",
+    "reasoning": "Laxmi FRAUD VETO activated on three independent triggers: (1) contingent liabilities exceeding market cap, (2) 99.7% promoter pledging with possible control transfer to lenders, (3) debtor days of 400-1,597 spanning a decade indicating revenue may not be real. Auto-reject regardless of other analysts. All three analysts FAIL anyway.",
+    "auto_reject_triggered": true,
+    "fraud_veto": true,
+    "fraud_veto_analyst": "Laxmi",
+    "one_line": "FRAUD VETO: ₹904 Cr value destruction, contingent liabilities exceeding market cap, 99.7% promoter pledging, and decade of uncollectable receivables — avoid at all costs."
+  },
+  "business_summary": {
+    "sector": "Engineering and maintenance services",
+    "founded": 2002,
+    "revenue_peak_cr": 955,
+    "revenue_fy26_cr": 114,
+    "revenue_decline_pct": 88,
+    "book_value": 0.26,
+    "net_equity_cr": 4,
+    "promoter_holding_pct": 27.9,
+    "promoter_pledging_pct": 99.7,
+    "contingent_liabilities_cr": 306,
+    "market_cap_cr": 281,
+    "warning": "BSE surveillance flag issued Aug 4, 2026. Do not trade."
+  }
+}

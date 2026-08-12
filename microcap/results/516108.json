@@ -1,0 +1,112 @@
+{
+  "symbol": "516108",
+  "name": "South India Paper Mills Ltd",
+  "sector": "",
+  "market_cap": "\u20b9191Cr.",
+  "market_cap_cr": 191.0,
+  "description": "AboutIncorporated in 1959, The South India PaperMills Ltd manufactures Paper, Paperboards, Cartons and Power Generation[1]Key PointsProduct Profile:a)Paper Division:[1]Company deals in corrugating case raw materials viz. Kraft Liner Substitutes, Test Liners, White Kraft Liners, Fluting Grades, high-performance fluting and Test Liner,s and some Special Application Grades for packaging. Paper substance ranges between 70GSM to 400 GSM with strength ranging between 14 BF and 35 BF.b)Printing & Packaging Division:[2]Plain brown boxes with single-colour flexographic printing and glued or stapled closures; boxes and shelf-ready packaging with four color flexographic process printing in die cut or Regular Slotted designs; small and micro-fluted boxes with high-quality multi-color graphics; wraparound boxesRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/516108/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "South India Paper Mills Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.1% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "South India Paper Mills Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.1% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 9.1% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 South India Paper Mills Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.1% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "516108",
+    "name": "South India Paper Mills Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "South India Paper Mills Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.1% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 9.1% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 9.06,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 1.07,
+    "forensic_flags": [],
+    "owner_earnings": 14.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "516108",
+    "name": "South India Paper Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "South India Paper Mills Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 15.0% of 52w high \u2014 strong momentum. Concerns: Revenue -10.2% YoY \u2014 declining, Net profit declined -41.7% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 13.0,
+    "from_high_pct": 15.0,
+    "revenue_growth_pct": -10.2,
+    "profit_growth_pct": -41.7,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 15.0% of 52w high \u2014 strong momentum; Revenue -10.2% YoY \u2014 declining; Net profit declined -41.7% YoY",
+    "price_position": {
+      "current_price": 102.0,
+      "52w_high": 120.0,
+      "52w_low": 65.1,
+      "position_pct": 67.2,
+      "from_high_pct": 15.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "516108",
+    "name": "South India Paper Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "South India Paper Mills Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b9191cr mcap) \u2014 large runway ahead, Established company (founded ~1959). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9191cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1959)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

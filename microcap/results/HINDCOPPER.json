@@ -1,0 +1,111 @@
+{
+  "symbol": "HINDCOPPER",
+  "name": "Hindustan Copper Ltd",
+  "sector": "",
+  "market_cap": "\u20b951,571Cr.",
+  "market_cap_cr": 51571.0,
+  "description": "AboutIncorporated in the year 1967, Hindustan Copper Limited (HCL) was formed to take over from National Mineral Development Corporation Ltd. It is the first Indian PSU and only vertically integrated copper producing company. HCL is engaged in various processes right from copper mining to the final stage of converting copper into saleable products.[1]Key PointsOnly Indian Company mining Copper[1]HCL is the Sole vertically integrated producer of refined copper in India having facilities of mining, ore beneficiation, smelting, refining and extruding of copper rods.It owns all the operating mining leases of copper ore in India. It has access to about 45% of India\u2019s copper ore reserves and resources as of FY25.Resources & Reserves: 755.32 Million tonnes (estimated balance as on 01.04.2024)Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/HINDCOPPER/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Hindustan Copper Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "Hindustan Copper Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 42.4% > 20% \u2014 exceptional capital efficiency. What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Hindustan Copper Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "HINDCOPPER",
+    "name": "Hindustan Copper Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Hindustan Copper Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "ROCE 42.4% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 42.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 3.49,
+    "forensic_flags": [],
+    "owner_earnings": 68.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "HINDCOPPER",
+    "name": "Hindustan Copper Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Hindustan Copper Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 29.9% of 52w high \u2014 moderate momentum, Profit +78.9% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -5.2% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 42.6,
+    "from_high_pct": 29.9,
+    "revenue_growth_pct": -5.2,
+    "profit_growth_pct": 78.9,
+    "optionality_signals": [],
+    "technical_notes": "Price within 29.9% of 52w high \u2014 moderate momentum; Profit +78.9% YoY with margin expansion \u2014 quality growth; Revenue -5.2% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 533.0,
+      "52w_high": 760.0,
+      "52w_low": 226.0,
+      "position_pct": 57.5,
+      "from_high_pct": 29.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "HINDCOPPER",
+    "name": "Hindustan Copper Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Hindustan Copper Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~1967), Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1967)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,117 @@
+{
+  "symbol": "BANKA",
+  "name": "Banka Bioloo Ltd",
+  "sector": "",
+  "market_cap": "\u20b988.1Cr.",
+  "market_cap_cr": 88.1,
+  "description": "AboutIncorporated in 2012, Banka Bioloo Ltd does manufacturing, supply, installation and O&Mof Bio toilets and Controlled discharge toilet system[1]Key PointsBusiness Overview:[1][2]Company develops water, sanitation, and hygiene infrastructure and services in India. It provides sanitation infrastructure and turnkey, human waste management solutions and services. Company partners with governments, non-profit organizations, businesses, and communities to implement sustainable WaSH projects in unserved and underserved areas. It constructs waste water treatment and conservation plants, installing sanitation facilities for bio waste management, and develops reliable water supply systemsRead MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/BANKA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Banka Bioloo Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Banka Bioloo Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 4.5% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Banka Bioloo Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.65,
+    "normalised_score": -0.589
+  },
+  "laxmi": {
+    "symbol": "BANKA",
+    "name": "Banka Bioloo Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Banka Bioloo Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 4.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 4.53,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -17.62,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BANKA",
+    "name": "Banka Bioloo Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Banka Bioloo Ltd \u2014 weak technical setup (score 1.0/6): Revenue -42.6% YoY \u2014 declining; Net profit declined -75.0% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 130.0,
+    "from_high_pct": 17.7,
+    "revenue_growth_pct": -42.6,
+    "profit_growth_pct": -75.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 17.7% of 52w high \u2014 moderate momentum; Revenue -42.6% YoY \u2014 declining; Net profit declined -75.0% YoY",
+    "price_position": {
+      "current_price": 80.6,
+      "52w_high": 97.9,
+      "52w_low": 41.0,
+      "position_pct": 69.6,
+      "from_high_pct": 17.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BANKA",
+    "name": "Banka Bioloo Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Banka Bioloo Ltd has a mixed narrative (score 3.5/10). Positives: Small size (\u20b988cr mcap) \u2014 large runway ahead, Established company (founded ~2012). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b988cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2012)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

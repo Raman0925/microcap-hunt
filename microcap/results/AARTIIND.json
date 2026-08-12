@@ -1,0 +1,112 @@
+{
+  "symbol": "AARTIIND",
+  "name": "Aarti Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b918,329Cr.",
+  "market_cap_cr": 18329.0,
+  "description": "AboutAarti Industries Ltd, the flagship company of the Aarti group, manufacturing organic and inorganic chemicals at its major facilities in Vapi, Jhagadia, Dahej and Kutch, in Gujarat and in Tarapur in Maharashtra. The company has a strong market position in the NCB-based specialty chemicals segment.[1]Key PointsProduct Portfolio[1]The company\u2019s key product value chains include Nitro Chloro Benzenes (NCB), Di-Chloro Benzenes (DCB), Phenylenediamines (PDA), Nitro Toluene derivatives, and Sulphuric Acid & downstream products, with a portfolio of over100products.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AARTIIND/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aarti Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Aarti Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aarti Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "AARTIIND",
+    "name": "Aarti Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Aarti Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 6.83,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.9,
+    "forensic_flags": [],
+    "owner_earnings": 188.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AARTIIND",
+    "name": "Aarti Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Aarti Industries Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 3.4% of 52w high \u2014 strong momentum. Concerns: Revenue -2.8% YoY \u2014 declining, Net profit declined -25.4% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 35.4,
+    "from_high_pct": 3.4,
+    "revenue_growth_pct": -2.8,
+    "profit_growth_pct": -25.4,
+    "optionality_signals": [],
+    "technical_notes": "Price within 3.4% of 52w high \u2014 strong momentum; Revenue -2.8% YoY \u2014 declining; Net profit declined -25.4% YoY",
+    "price_position": {
+      "current_price": 505.0,
+      "52w_high": 523.0,
+      "52w_low": 338.0,
+      "position_pct": 90.3,
+      "from_high_pct": 3.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AARTIIND",
+    "name": "Aarti Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Aarti Industries Ltd has a mixed narrative (score 4.5/10). Positives: Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

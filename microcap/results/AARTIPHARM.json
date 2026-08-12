@@ -1,0 +1,115 @@
+{
+  "symbol": "AARTIPHARM",
+  "name": "Aarti Pharmalabs Ltd",
+  "sector": "",
+  "market_cap": "\u20b98,013Cr.",
+  "market_cap_cr": 8013.0,
+  "description": "AboutIncorporated in 2019, Aarti Pharmalabs Ltd is a manufacturer of Pharmaceuticals and Nutraceuticals[1]Key PointsBusiness Overview:[1]Aarti Pharmalabs Ltd, formerlyknown as Aarti Organics, was a WhollyOwned Subsidiary of Aarti IndustriesLimited. It got demerged in Oct'22 intoa separately listed entity. Currently, the company is an internationally recognized manufacturer of generic API & Intermediates, Xanthine derivatives, and offers CDMO /CMO services. The company has 6 manufacturing plants and 3 R&D centres.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AARTIPHARM/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aarti Pharmalabs Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 11.4% \u2014 poor capital efficiency",
+  "verdict_memo": "Aarti Pharmalabs Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 11.4% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 11.4% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aarti Pharmalabs Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 11.4% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.84,
+    "normalised_score": -0.409
+  },
+  "laxmi": {
+    "symbol": "AARTIPHARM",
+    "name": "Aarti Pharmalabs Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Aarti Pharmalabs Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 11.4% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 11.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/2 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 11.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -0.61,
+    "forensic_flags": [],
+    "owner_earnings": -0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AARTIPHARM",
+    "name": "Aarti Pharmalabs Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Aarti Pharmalabs Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 6.6% of 52w high \u2014 strong momentum. Concerns: Insufficient revenue data. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "flat",
+    "pe_ratio": 38.1,
+    "from_high_pct": 6.6,
+    "revenue_growth_pct": null,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 6.6% of 52w high \u2014 strong momentum; Insufficient revenue data",
+    "price_position": {
+      "current_price": 884.0,
+      "52w_high": 946.0,
+      "52w_low": 584.0,
+      "position_pct": 82.9,
+      "from_high_pct": 6.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AARTIPHARM",
+    "name": "Aarti Pharmalabs Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Aarti Pharmalabs Ltd has a mixed narrative (score 5.0/10). Positives: Established company (founded ~2019), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2019)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

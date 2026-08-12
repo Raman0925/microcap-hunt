@@ -1,0 +1,108 @@
+{
+  "symbol": "543285",
+  "name": "Rajeshwari Cans Ltd",
+  "sector": "",
+  "market_cap": "\u20b917.0Cr.",
+  "market_cap_cr": 17.0,
+  "description": "AboutIncorporated in 2018, Rajeshwari Cans Ltd manufactures round printed tin containersof various sizes.[1]Key PointsBusiness Overview:[1]RCL manufactures packaging productsin Gujarat and is also engaged in job printingover an aluminium sheet for the manufacturersof PP Cap and advertising boards over the Tin Plates.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/543285/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Rajeshwari Cans Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "Rajeshwari Cans Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 17.5% (adequate). What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Rajeshwari Cans Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.688,
+    "normalised_score": -0.819
+  },
+  "laxmi": {
+    "symbol": "543285",
+    "name": "Rajeshwari Cans Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Rajeshwari Cans Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 17.5% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 17.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 11.36,
+    "forensic_flags": [],
+    "owner_earnings": 0.1,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "543285",
+    "name": "Rajeshwari Cans Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Rajeshwari Cans Ltd \u2014 weak technical setup (score 0.0/6): Price 87.3% below 52w high \u2014 weak price action; Revenue -13.3% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 7.61,
+    "from_high_pct": 87.3,
+    "revenue_growth_pct": -13.3,
+    "profit_growth_pct": -31.2,
+    "optionality_signals": [],
+    "technical_notes": "Price 87.3% below 52w high \u2014 weak price action; Revenue -13.3% YoY \u2014 declining; Net profit declined -31.2% YoY",
+    "price_position": {
+      "current_price": 16.2,
+      "52w_high": 128.0,
+      "52w_low": 14.6,
+      "position_pct": 1.4,
+      "from_high_pct": 87.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "543285",
+    "name": "Rajeshwari Cans Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Rajeshwari Cans Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b917cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2018)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

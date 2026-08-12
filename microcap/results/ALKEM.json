@@ -1,0 +1,113 @@
+{
+  "symbol": "ALKEM",
+  "name": "Alkem Laboratories Ltd",
+  "sector": "",
+  "market_cap": "\u20b966,090Cr.",
+  "market_cap_cr": 66090.0,
+  "description": "AboutAlkem Laboratories is engaged in pharmaceutical business with global operations. The Company is engaged in the development, manufacture and sale of pharmaceutical and nutraceutical products.(Source : 202003-01 Annual Report Page No:107)Key PointsLeading Pharmaceutical company[1]Alkem Laboratories holds a4.1% market sharein the Indian domestic formulation market as of 9M FY25, making it the 5th largest pharmaceutical company in India. The company maintains its#1 positionin anti-infectives and has a strong presence in gastrointestinal, pain management, vitamins, minerals, and nutrients segments while also expanding in chronic therapies like neurology, cardiology, and diabetology.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ALKEM/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Alkem Laboratories Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Alkem Laboratories Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 6.7/10",
+  "investment_thesis": "Alkem Laboratories Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 19.9% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "ALKEM",
+    "name": "Alkem Laboratories Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Alkem Laboratories Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 19.9% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 19.9% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 19.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.66,
+    "forensic_flags": [],
+    "owner_earnings": 368.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ALKEM",
+    "name": "Alkem Laboratories Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Alkem Laboratories Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 6.8% of 52w high \u2014 strong momentum. Concerns: Revenue -21.5% YoY \u2014 declining, Net profit declined -47.4% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 27.5,
+    "from_high_pct": 6.8,
+    "revenue_growth_pct": -21.5,
+    "profit_growth_pct": -47.4,
+    "optionality_signals": [],
+    "technical_notes": "Price within 6.8% of 52w high \u2014 strong momentum; Revenue -21.5% YoY \u2014 declining; Net profit declined -47.4% YoY",
+    "price_position": {
+      "current_price": 5528.0,
+      "52w_high": 5934.0,
+      "52w_low": 5075.0,
+      "position_pct": 52.7,
+      "from_high_pct": 6.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ALKEM",
+    "name": "Alkem Laboratories Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Alkem Laboratories Ltd has a mixed narrative (score 5.5/10). Positives: Growth ambition evident in description, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,115 @@
+{
+  "symbol": "AEGISLOG",
+  "name": "Aegis Logistics Ltd",
+  "sector": "",
+  "market_cap": "\u20b945,546Cr.",
+  "market_cap_cr": 45546.0,
+  "description": "AboutAegis Logistics (Formely known as Aegis Chemical Industries Ltd.), incorporated in 1956 provide logistic solutions for oil, gas, chemicals, and petrochemical industries.[1]Key PointsLeading Logistics player:[1]Aegis Logistics Limited is India\u2019s leading oil, gas, and chemical logistics co. It operates a network of bulk liquid handling terminals, liquefied petroleum gas (LPG) terminals, filling plants, pipelines, and LPG gas stations to deliver products and services.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AEGISLOG/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Aegis Logistics Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Aegis Logistics Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Aegis Logistics Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 33.4% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "AEGISLOG",
+    "name": "Aegis Logistics Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Aegis Logistics Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 33.4% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 33.4% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 33.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.32,
+    "forensic_flags": [],
+    "owner_earnings": 108.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AEGISLOG",
+    "name": "Aegis Logistics Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Aegis Logistics Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 13.4% of 52w high \u2014 strong momentum, Profit +100.0% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -3.4% YoY \u2014 declining. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 35.9,
+    "from_high_pct": 13.4,
+    "revenue_growth_pct": -3.4,
+    "profit_growth_pct": 100.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 13.4% of 52w high \u2014 strong momentum; Profit +100.0% YoY with margin expansion \u2014 quality growth; Revenue -3.4% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 1298.0,
+      "52w_high": 1498.0,
+      "52w_low": 576.0,
+      "position_pct": 78.3,
+      "from_high_pct": 13.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AEGISLOG",
+    "name": "Aegis Logistics Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Aegis Logistics Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1956), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1956)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

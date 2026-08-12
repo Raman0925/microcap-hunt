@@ -1,0 +1,112 @@
+{
+  "symbol": "AUTOAXLES",
+  "name": "Automotive Axles Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,726Cr.",
+  "market_cap_cr": 2726.0,
+  "description": "AboutAutomotive Axles was established in 1981 as a JV of Kalyani Group (35.5% ownership) and Meritor Inc, USA (35.5% ownership).[1]The Company is engaged in the business of manufacturing and supplying Automotive Parts to the major domestic and global manufacturers of Trucks & Buses (LCV, MCV, HCV, Military & Off-highway Vehicle Segment).[2]Key PointsBrand & CustomerCo. is the largest independent axle manufacturer and 2nd-largest brake manufacturer in India.[1]They have a strong customer base which includes companies like Ashok Leyland, Daimler India, Mahindra & Mahindra, Tata Motors, Volvo Eicher, and many more.[2]Ashok Leyland accounted for ~50-60% of co.\u2019s revenues historically.[3]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AUTOAXLES/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Automotive Axles Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Automotive Axles Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 21.6% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "AUTOAXLES",
+    "name": "Automotive Axles Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Automotive Axles Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 21.6% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 21.6% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 21.6,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 8.36,
+    "forensic_flags": [],
+    "owner_earnings": 11.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AUTOAXLES",
+    "name": "Automotive Axles Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Automotive Axles Ltd \u2014 weak technical setup (score 1.0/6): Revenue -57.7% YoY \u2014 declining; Net profit declined -68.6% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 14.9,
+    "from_high_pct": 15.1,
+    "revenue_growth_pct": -57.7,
+    "profit_growth_pct": -68.6,
+    "optionality_signals": [],
+    "technical_notes": "Price within 15.1% of 52w high \u2014 moderate momentum; Revenue -57.7% YoY \u2014 declining; Net profit declined -68.6% YoY",
+    "price_position": {
+      "current_price": 1804.0,
+      "52w_high": 2126.0,
+      "52w_low": 1536.0,
+      "position_pct": 45.4,
+      "from_high_pct": 15.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AUTOAXLES",
+    "name": "Automotive Axles Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Automotive Axles Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~1981), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1981)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

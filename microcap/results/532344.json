@@ -1,0 +1,112 @@
+{
+  "symbol": "532344",
+  "name": "Madala Holdings Ltd",
+  "sector": "",
+  "market_cap": "\u20b9279Cr.",
+  "market_cap_cr": 279.0,
+  "description": "AboutIncorporated in 1990, Softsol India is in the business of information and technology services and Infrastructural facilities including leasingof properties or spaces[1]Key PointsBusiness Overview:[1][2]SSL is a CMMi Level 3, IS0 9001, and ISO 27001 certified organization and AWS and Microsoft Gold Certified Partner. It is a specialized IT services provider that offers solutions to its customers in transforming their data, business processes and enterprise applications by using cutting-edge technologies such as cloud, artificial intelligence, machine learning and providing data analytics solutions with intuitive UX/UI designRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/532344/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Madala Holdings Ltd \u2014 rejected (score 3.5/10): Low ROCE: 4.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Madala Holdings Ltd \u2014 rejected (score 3.5/10): Low ROCE: 4.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 4.4% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.5/6 \u2014 borderline (45% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Madala Holdings Ltd \u2014 rejected (score 3.5/10): Low ROCE: 4.4% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "532344",
+    "name": "Madala Holdings Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Madala Holdings Ltd \u2014 rejected (score 3.5/10): Low ROCE: 4.4% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 4.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 4.37,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 1.43,
+    "forensic_flags": [],
+    "owner_earnings": 1.2,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "532344",
+    "name": "Madala Holdings Ltd",
+    "verdict": "borderline",
+    "confidence": 0.45,
+    "report": "Madala Holdings Ltd \u2014 mixed technical signals (score 2.5/6). Positives: Revenue +35.3% YoY \u2014 strong momentum. Concerns: Price 40.2% below 52w high \u2014 weak price action, Profit grew +27.4% but margin compressed. Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 2.5,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "strong",
+    "pe_ratio": 103.0,
+    "from_high_pct": 40.2,
+    "revenue_growth_pct": 35.3,
+    "profit_growth_pct": 27.4,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +35.3% YoY \u2014 strong momentum; Price 40.2% below 52w high \u2014 weak price action; Profit grew +27.4% but margin compressed",
+    "price_position": {
+      "current_price": 189.0,
+      "52w_high": 316.0,
+      "52w_low": 158.0,
+      "position_pct": 19.6,
+      "from_high_pct": 40.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "532344",
+    "name": "Madala Holdings Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Madala Holdings Ltd has a mixed narrative (score 3.5/10). Positives: Small size (\u20b9279cr mcap) \u2014 large runway ahead, Established company (founded ~1990). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9279cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1990)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

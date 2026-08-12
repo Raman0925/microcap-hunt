@@ -1,0 +1,109 @@
+{
+  "symbol": "APOLLOTYRE",
+  "name": "Apollo Tyres Ltd",
+  "sector": "",
+  "market_cap": "\u20b928,135Cr.",
+  "market_cap_cr": 28135.0,
+  "description": "AboutApollo, established in 1972, manufactures automatic bias and radial tyres, and tubes. It has plants in Kochi, Vadodara, Pune, and Chennai. The product profile includes prominent tyre brands in the T&B, light truck, passenger car, and farm vehicle segments in India, catering to both original equipment manufacturers, and the replacement market.[1]Key PointsMarket Position[1]The company is one of India'slargesttyre manufacturers by revenue, holding a prominent position in the domestic truck and bus radial, truck and bus bias, and passenger car radial tyre segments, and is among thetop 3players in PCR and the2nd-largestin TBR by market share.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/APOLLOTYRE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Apollo Tyres Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "Apollo Tyres Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 15.7% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Apollo Tyres Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "APOLLOTYRE",
+    "name": "Apollo Tyres Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Apollo Tyres Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 15.7% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 15.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 1.49,
+    "forensic_flags": [],
+    "owner_earnings": 645.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "APOLLOTYRE",
+    "name": "Apollo Tyres Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Apollo Tyres Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 18.0% of 52w high \u2014 moderate momentum, Revenue +2.4% YoY \u2014 growing. Concerns: Net profit declined -35.6% YoY.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 14.5,
+    "from_high_pct": 18.0,
+    "revenue_growth_pct": 2.4,
+    "profit_growth_pct": -35.6,
+    "optionality_signals": [],
+    "technical_notes": "Price within 18.0% of 52w high \u2014 moderate momentum; Revenue +2.4% YoY \u2014 growing; Net profit declined -35.6% YoY",
+    "price_position": {
+      "current_price": 443.0,
+      "52w_high": 540.0,
+      "52w_low": 365.0,
+      "position_pct": 44.6,
+      "from_high_pct": 18.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "APOLLOTYRE",
+    "name": "Apollo Tyres Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Apollo Tyres Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~1972), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1972)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

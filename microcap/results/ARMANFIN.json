@@ -1,0 +1,115 @@
+{
+  "symbol": "ARMANFIN",
+  "name": "Arman Financial Services Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,106Cr.",
+  "market_cap_cr": 2106.0,
+  "description": "AboutArman Financial Service Ltd is an RBI-registered category \u2018A\u2019 Non-Banking Finance Company. They provide loans to the unorganized sector residing in rural and semi-rural locales across six states with around 400 branches that cater to about 7.6 lakh customers.Headquartered in Ahmedabad, Gujarat. Arman and its subsidiary provide three financial services, Two-Wheeler Finance, Group-Based Microfinance, and Micro-Enterprise (MSME) Loans.[1]Key PointsProduct Offerings1) Microfinance:The company\u2019s WOS, Namra Finance Ltd, offers women small-ticket loans under the JLG model for income-generating activities like livestock, dairy, agriculture-related businesses, and Kirana stores. It operates through 392 MFI branches, serving 6.56 lakh active customers across 11 states.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ARMANFIN/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Arman Financial Services Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Arman Financial Services Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 9.4% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Arman Financial Services Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.987,
+    "normalised_score": -0.664
+  },
+  "laxmi": {
+    "symbol": "ARMANFIN",
+    "name": "Arman Financial Services Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Arman Financial Services Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 9.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 9.45,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -0.67,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ARMANFIN",
+    "name": "Arman Financial Services Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Arman Financial Services Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 4.2% of 52w high \u2014 strong momentum, Profit +50.0% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -6.2% YoY \u2014 declining.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 51.9,
+    "from_high_pct": 4.2,
+    "revenue_growth_pct": -6.2,
+    "profit_growth_pct": 50.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 4.2% of 52w high \u2014 strong momentum; Profit +50.0% YoY with margin expansion \u2014 quality growth; Revenue -6.2% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 2003.0,
+      "52w_high": 2090.0,
+      "52w_low": 1256.0,
+      "position_pct": 89.6,
+      "from_high_pct": 4.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ARMANFIN",
+    "name": "Arman Financial Services Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Arman Financial Services Ltd \u2014 rejected (score 2.5/10): operates in high-risk sector: microfinance",
+    "score": 2.5,
+    "red_flags": [
+      "operates in high-risk sector: microfinance"
+    ],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "negative",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

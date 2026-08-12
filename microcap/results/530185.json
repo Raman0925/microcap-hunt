@@ -1,0 +1,109 @@
+{
+  "symbol": "530185",
+  "name": "Surat Trade & Merchantile Ltd",
+  "sector": "",
+  "market_cap": "\u20b9105Cr.",
+  "market_cap_cr": 105.0,
+  "description": "AboutIncorporated in\u202f1945, Surat Textile Mills Ltd is engaged in the business of trading in commodities and commodities relatedactivities.[1]Key PointsBusiness Overview:[1]STML's core operations center on commodity trading, focusing on metals like silver and copper, alongside energy and agricultural goods. In FY25, the company expanded its trading volume and deployed additional funds into this segment in a phased manner.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/530185/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Surat Trade & Merchantile Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.3% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Surat Trade & Merchantile Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.3% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 6.3% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Surat Trade & Merchantile Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.3% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.56,
+    "normalised_score": -0.569
+  },
+  "laxmi": {
+    "symbol": "530185",
+    "name": "Surat Trade & Merchantile Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Surat Trade & Merchantile Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.3% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.3% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 6.32,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.67,
+    "forensic_flags": [],
+    "owner_earnings": 3.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "530185",
+    "name": "Surat Trade & Merchantile Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Surat Trade & Merchantile Ltd \u2014 weak technical setup (score 0.0/6): Price 30.9% below 52w high \u2014 weak price action; Revenue -3.8% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 9.59,
+    "from_high_pct": 30.9,
+    "revenue_growth_pct": -3.8,
+    "profit_growth_pct": -50.0,
+    "optionality_signals": [],
+    "technical_notes": "Price 30.9% below 52w high \u2014 weak price action; Revenue -3.8% YoY \u2014 declining; Net profit declined -50.0% YoY",
+    "price_position": {
+      "current_price": 4.74,
+      "52w_high": 6.86,
+      "52w_low": 3.16,
+      "position_pct": 42.7,
+      "from_high_pct": 30.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "530185",
+    "name": "Surat Trade & Merchantile Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Surat Trade & Merchantile Ltd has a mixed narrative (score 3.5/10). Positives: Small size (\u20b9105cr mcap) \u2014 large runway ahead, Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9105cr mcap) \u2014 large runway ahead",
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

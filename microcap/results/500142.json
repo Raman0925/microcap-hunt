@@ -1,0 +1,110 @@
+{
+  "symbol": "500142",
+  "name": "FGP Ltd",
+  "sector": "",
+  "market_cap": "\u20b913.2Cr.",
+  "market_cap_cr": 13.2,
+  "description": "AboutIncorporated in 1962, FGP Ltd is engaged in business centre and letting out of property.[1]Key PointsBusiness Overview:[1][2]FGPL used to be in the business of manufacturing fibreglass products for various applications. It then started running its Business Centre activities near Fort in South Bombay, and developed the Business Centre in two phases. The company provided office space in the form of business centres to the corporate sectors. Currently, the company is entering into the new line of business of trading in commoditiesRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/500142/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "FGP Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 2.1% \u2014 poor capital efficiency",
+  "verdict_memo": "FGP Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 2.1% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 2.1% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 FGP Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 2.1% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.677,
+    "normalised_score": -0.817
+  },
+  "laxmi": {
+    "symbol": "500142",
+    "name": "FGP Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "FGP Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 2.1% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 2.1% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 2.07,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.31,
+    "forensic_flags": [],
+    "owner_earnings": -0.3,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "500142",
+    "name": "FGP Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "FGP Ltd \u2014 weak technical setup (score 1.0/6): Revenue -23.1% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 330.0,
+    "from_high_pct": 15.9,
+    "revenue_growth_pct": -23.1,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 15.9% of 52w high \u2014 moderate momentum; Revenue -23.1% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 11.1,
+      "52w_high": 13.2,
+      "52w_low": 7.46,
+      "position_pct": 63.4,
+      "from_high_pct": 15.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "500142",
+    "name": "FGP Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "FGP Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b913cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1962)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

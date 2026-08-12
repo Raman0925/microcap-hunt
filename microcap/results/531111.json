@@ -1,0 +1,119 @@
+{
+  "symbol": "531111",
+  "name": "Gothi Plascon (India) Ltd",
+  "sector": "",
+  "market_cap": "\u20b938.9Cr.",
+  "market_cap_cr": 38.9,
+  "description": "AboutIncorporated in 1994, Gothi Plascon Ltd is in the business of real estate and other related services[1]Key PointsBusiness Overview:[1][2]a)GPL offers an array of professional services in the realty business.b)The company is engaged in the business of renting of Immovable Properties and interest on loan granted.c)The company started as a producer of plastic disposable products and currently it deals in the real estate development in Puducherry and has built facilities for lease to offer to ITES.d)The company caters to only MNC\u2019s for leasing the property for leaseRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/531111/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Gothi Plascon (India) Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Gothi Plascon (India) Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 21.1% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Gothi Plascon (India) Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.65,
+    "normalised_score": -0.589
+  },
+  "laxmi": {
+    "symbol": "531111",
+    "name": "Gothi Plascon (India) Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Gothi Plascon (India) Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 4.0,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 21.1% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 21.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 2.34,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "531111",
+    "name": "Gothi Plascon (India) Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Gothi Plascon (India) Ltd \u2014 weak technical setup (score 1.0/6): Revenue -2.6% YoY \u2014 declining; Net profit declined -7.9% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 18.2,
+    "from_high_pct": 26.0,
+    "revenue_growth_pct": -2.6,
+    "profit_growth_pct": -7.9,
+    "optionality_signals": [],
+    "technical_notes": "Price within 26.0% of 52w high \u2014 moderate momentum; Revenue -2.6% YoY \u2014 declining; Net profit declined -7.9% YoY",
+    "price_position": {
+      "current_price": 38.2,
+      "52w_high": 51.6,
+      "52w_low": 33.2,
+      "position_pct": 27.2,
+      "from_high_pct": 26.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "531111",
+    "name": "Gothi Plascon (India) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Gothi Plascon (India) Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b939cr mcap) \u2014 large runway ahead, Established company (founded ~1994). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b939cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1994)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

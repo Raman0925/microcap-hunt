@@ -1,0 +1,113 @@
+{
+  "symbol": "IFBIND",
+  "name": "IFB Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b95,574Cr.",
+  "market_cap_cr": 5574.0,
+  "description": "AboutIFB Industries Limited originally known as Indian Fine Blanks Limited started its operations in India in 1974 in collaboration with Heinrich Schmid AG of Switzerland.[1]The company operates two businesses--manufacturing of consumer durables and producing fine blank components (part of engineering segment) and goods. It manufactures fine blanking components for two wheelers, four wheelers, heavy vehicles and electrical OEMs. The company has a diversified product portfolio, comprising front- and top-load washing machines, dryers, ACs, microwave ovens, dishwashers, modular kitchens and chimneys.[2]Key PointsMaterial Linked Global Cos.[1]Global Automotive and Appliances Pte Ltd (100% subsidiary), Thai Automotive and Appliances Ltd (subsidiary of GAAL) and IFB Refrigeration Ltd (associate), have significant managerial, operational and financial linkages.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/IFBIND/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "IFB Industries Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "IFB Industries Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 18.2% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "IFBIND",
+    "name": "IFB Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "IFB Industries Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 18.2% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 18.2% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 18.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.64,
+    "forensic_flags": [],
+    "owner_earnings": 50.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "IFBIND",
+    "name": "IFB Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "IFB Industries Ltd \u2014 weak technical setup (score 1.0/6): Price 32.0% below 52w high \u2014 weak price action; Revenue -15.9% YoY \u2014 declining",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 35.7,
+    "from_high_pct": 32.0,
+    "revenue_growth_pct": -15.9,
+    "profit_growth_pct": 61.3,
+    "optionality_signals": [],
+    "technical_notes": "Profit +61.3% YoY with margin expansion \u2014 quality growth; Price 32.0% below 52w high \u2014 weak price action; Revenue -15.9% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 1376.0,
+      "52w_high": 2025.0,
+      "52w_low": 883.0,
+      "position_pct": 43.2,
+      "from_high_pct": 32.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "IFBIND",
+    "name": "IFB Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "IFB Industries Ltd has a mixed narrative (score 5.0/10). Positives: Established company (founded ~1974), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1974)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

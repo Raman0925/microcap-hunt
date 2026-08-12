@@ -1,0 +1,111 @@
+{
+  "symbol": "523550",
+  "name": "Krypton Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b953.2Cr.",
+  "market_cap_cr": 53.2,
+  "description": "AboutIncorporated in 1990, Krypton Industries Ltd deals in Tyre, Rim & Wheels, and Hospital Equipments.[1]Key PointsBusiness Overview:[1][2]KIL is engaged in Manufacture and Sale of Tubeless PU Tyres, Wheels, Commode Chairs, P.U. Shoe Soles, P.U. Sandals/Chappals and trading in Tubeless Tyres, Wheelchairs and its accessories, Walker, Cycle Accessories, Plastic Rims, Crutches, Rollators, etc.  and other components for rehabilitation care under the brandiCare.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/523550/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Krypton Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Krypton Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 11.2% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Krypton Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.2% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.647,
+    "normalised_score": -0.811
+  },
+  "laxmi": {
+    "symbol": "523550",
+    "name": "Krypton Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Krypton Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.2% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.2% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 11.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -5.35,
+    "forensic_flags": [],
+    "owner_earnings": 0.2,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "523550",
+    "name": "Krypton Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Krypton Industries Ltd \u2014 weak technical setup (score 0.0/6): Price 35.9% below 52w high \u2014 weak price action; Revenue -5.0% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 20.1,
+    "from_high_pct": 35.9,
+    "revenue_growth_pct": -5.0,
+    "profit_growth_pct": -41.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 35.9% below 52w high \u2014 weak price action; Revenue -5.0% YoY \u2014 declining; Net profit declined -41.0% YoY",
+    "price_position": {
+      "current_price": 36.2,
+      "52w_high": 56.5,
+      "52w_low": 26.5,
+      "position_pct": 32.3,
+      "from_high_pct": 35.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "523550",
+    "name": "Krypton Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Krypton Industries Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b953cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1990)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

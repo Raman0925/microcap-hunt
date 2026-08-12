@@ -1,0 +1,112 @@
+{
+  "symbol": "SPORTKING",
+  "name": "Sportking India Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,646Cr.",
+  "market_cap_cr": 2646.0,
+  "description": "AboutSportking India Limited, a part of the Sportking Group, is a textile manufacturing company engaged in the production of Yarns (Cotton Yarn, Synthetic Yarn, Blended Yarn), fabrics and garments.[1][2]Key PointsBusiness Profile[1][2]Sportking India is a vertically focused yarn manufacturer with a strong export orientation. The company primarily manufactures cotton, blended, acrylic, polyester-cotton and fancy yarns, supplying to domestic and global textile and garment brands.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/SPORTKING/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Sportking India Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Sportking India Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "Sportking India Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 13.0% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "SPORTKING",
+    "name": "Sportking India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Sportking India Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 13.0% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 13.0% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 13.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 30.38,
+    "forensic_flags": [],
+    "owner_earnings": 8.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "SPORTKING",
+    "name": "Sportking India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Sportking India Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 14.0% of 52w high \u2014 strong momentum, Revenue +8.9% YoY \u2014 growing. Concerns: Net profit declined -27.3% YoY.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 16.4,
+    "from_high_pct": 14.0,
+    "revenue_growth_pct": 8.9,
+    "profit_growth_pct": -27.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 14.0% of 52w high \u2014 strong momentum; Revenue +8.9% YoY \u2014 growing; Net profit declined -27.3% YoY",
+    "price_position": {
+      "current_price": 208.0,
+      "52w_high": 242.0,
+      "52w_low": 78.2,
+      "position_pct": 79.2,
+      "from_high_pct": 14.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "SPORTKING",
+    "name": "Sportking India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Sportking India Ltd has a mixed narrative (score 4.5/10). Positives: Growth ambition evident in description, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

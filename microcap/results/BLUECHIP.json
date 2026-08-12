@@ -1,0 +1,111 @@
+{
+  "symbol": "BLUECHIP",
+  "name": "Blue Chip India Ltd",
+  "sector": "",
+  "market_cap": "\u20b99.51Cr.",
+  "market_cap_cr": 9.51,
+  "description": "AboutIncorporated in 1993, Blue Chip India Ltd is in the business of fund-based activities.[1]Key PointsBusiness Overview:[1][2][3]BCIL used to be a Non-Banking Financial Company and was mainly engaged in grantingof Loans and Advances and Investment in Shares & Securities. The company's NBFC licence was cancelled in FY19, and currently, it is engaged in investments and fund-based activities.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BLUECHIP/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Blue Chip India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; ROCE not available",
+  "verdict_memo": "Blue Chip India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; ROCE not available",
+  "investment_thesis": "What makes it interesting: Revenue grew 3/4 years consistently. What to watch: FCF inconsistent \u2014 only 1/5 years positive; ROCE not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Blue Chip India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; ROCE not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.888,
+    "normalised_score": -0.642
+  },
+  "laxmi": {
+    "symbol": "BLUECHIP",
+    "name": "Blue Chip India Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Blue Chip India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; ROCE not available",
+    "score": 2.5,
+    "key_strengths": [
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "ROCE not available",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": null,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": -3.5,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BLUECHIP",
+    "name": "Blue Chip India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Blue Chip India Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Revenue +228.7% YoY \u2014 strong momentum. Concerns: Price 62.9% below 52w high \u2014 weak price action, Net profit declined -60.0% YoY. Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 2.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "strong",
+    "pe_ratio": null,
+    "from_high_pct": 62.9,
+    "revenue_growth_pct": 228.7,
+    "profit_growth_pct": -60.0,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +228.7% YoY \u2014 strong momentum; Price 62.9% below 52w high \u2014 weak price action; Net profit declined -60.0% YoY",
+    "price_position": {
+      "current_price": 1.72,
+      "52w_high": 4.63,
+      "52w_low": 1.65,
+      "position_pct": 2.3,
+      "from_high_pct": 62.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BLUECHIP",
+    "name": "Blue Chip India Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Blue Chip India Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b910cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1993)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

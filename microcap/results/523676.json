@@ -1,0 +1,116 @@
+{
+  "symbol": "523676",
+  "name": "Golkunda Diamonds & Jewellery Ltd",
+  "sector": "",
+  "market_cap": "\u20b9205Cr.",
+  "market_cap_cr": 205.0,
+  "description": "AboutIncorporated in 1990, Golkunda Diamonds & Jewellery Ltd manufactures and exports diamond-studded gold jewellery.[1]Key PointsHolding Company[1]Neverloose Properties & Investment Private Limited is the holding company, with a 53.74% stake in the Company.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/523676/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Golkunda Diamonds & Jewellery Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Golkunda Diamonds & Jewellery Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "Golkunda Diamonds & Jewellery Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 20.1% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "523676",
+    "name": "Golkunda Diamonds & Jewellery Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Golkunda Diamonds & Jewellery Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 20.1% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 20.1% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 20.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -1.5,
+    "forensic_flags": [],
+    "owner_earnings": 2.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "523676",
+    "name": "Golkunda Diamonds & Jewellery Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Golkunda Diamonds & Jewellery Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 6.7% of 52w high \u2014 strong momentum. Concerns: Revenue -5.1% YoY \u2014 declining, Net profit declined -33.3% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 13.0,
+    "from_high_pct": 6.7,
+    "revenue_growth_pct": -5.1,
+    "profit_growth_pct": -33.3,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 6.7% of 52w high \u2014 strong momentum; Revenue -5.1% YoY \u2014 declining; Net profit declined -33.3% YoY",
+    "price_position": {
+      "current_price": 294.0,
+      "52w_high": 315.0,
+      "52w_low": 156.0,
+      "position_pct": 86.8,
+      "from_high_pct": 6.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "523676",
+    "name": "Golkunda Diamonds & Jewellery Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Golkunda Diamonds & Jewellery Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b9205cr mcap) \u2014 large runway ahead, Established company (founded ~1990). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9205cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1990)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

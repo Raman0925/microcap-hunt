@@ -1,0 +1,109 @@
+{
+  "symbol": "BFINVEST",
+  "name": "BF Investment Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,764Cr.",
+  "market_cap_cr": 1764.0,
+  "description": "AboutBF Investment Ltd is a Non-Deposit taking Core Investment Company. It is primarily engaged in the business of making investments in Kalyani Group companies.[1][2]Key PointsBusiness Overview[1]The Company primarily makes strategic long-term investments in Kalyani Group companies and operates as a Non-Deposit Taking Core Investment Company (CIC). Its investments are intended to be held for the long term and are not held for sale.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BFINVEST/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "BF Investment Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "BF Investment Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 5.9% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 BF Investment Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.9% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.712,
+    "normalised_score": -0.825
+  },
+  "laxmi": {
+    "symbol": "BFINVEST",
+    "name": "BF Investment Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "BF Investment Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.9% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 5.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 5.87,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -0.47,
+    "forensic_flags": [],
+    "owner_earnings": 19.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BFINVEST",
+    "name": "BF Investment Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "BF Investment Ltd \u2014 weak technical setup (score 1.0/6): Revenue -16.0% YoY \u2014 declining; Net profit declined -13.6% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 12.0,
+    "from_high_pct": 20.3,
+    "revenue_growth_pct": -16.0,
+    "profit_growth_pct": -13.6,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 20.3% of 52w high \u2014 moderate momentum; Revenue -16.0% YoY \u2014 declining; Net profit declined -13.6% YoY",
+    "price_position": {
+      "current_price": 468.0,
+      "52w_high": 587.0,
+      "52w_low": 315.0,
+      "position_pct": 56.2,
+      "from_high_pct": 20.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BFINVEST",
+    "name": "BF Investment Ltd",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "BF Investment Ltd \u2014 rejected (score 1.5/10): failed qualitative checks",
+    "score": 1.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

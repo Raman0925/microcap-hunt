@@ -1,0 +1,113 @@
+{
+  "symbol": "KANPRPLA",
+  "name": "Kanpur Plastipack Ltd",
+  "sector": "",
+  "market_cap": "\u20b9529Cr.",
+  "market_cap_cr": 529.0,
+  "description": "AboutIncorporated in 1971, Kanpur Plastipack Ltd manufactures HDPE /PP Woven Sacks, PP Box Bags, FIBC, Fabrics and High Tenacity PP MFY[1]Key PointsBusiness Overview:[1]Kanpur Plastipack is an integrated industrial packaging & technical textile company and a custom-engineered industrial packaging solutions company with a core focus on FIBCs and technical textiles. It manufactures and exports FIBC-led packaging solutions, PP Multifilament Yarn, UV Master Batches, Fabrics (CPP films discontinued).Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/KANPRPLA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Kanpur Plastipack Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "Kanpur Plastipack Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 17.2% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Kanpur Plastipack Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "KANPRPLA",
+    "name": "Kanpur Plastipack Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Kanpur Plastipack Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 17.2% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 17.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 3.18,
+    "forensic_flags": [],
+    "owner_earnings": 11.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "KANPRPLA",
+    "name": "Kanpur Plastipack Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Kanpur Plastipack Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 12.6% of 52w high \u2014 strong momentum. Concerns: Revenue -1.2% YoY \u2014 declining, Net profit declined -31.2% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 12.2,
+    "from_high_pct": 12.6,
+    "revenue_growth_pct": -1.2,
+    "profit_growth_pct": -31.2,
+    "optionality_signals": [],
+    "technical_notes": "Price within 12.6% of 52w high \u2014 strong momentum; Revenue -1.2% YoY \u2014 declining; Net profit declined -31.2% YoY",
+    "price_position": {
+      "current_price": 216.0,
+      "52w_high": 247.0,
+      "52w_low": 151.0,
+      "position_pct": 67.7,
+      "from_high_pct": 12.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "KANPRPLA",
+    "name": "Kanpur Plastipack Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Kanpur Plastipack Ltd has a mixed narrative (score 5.0/10). Positives: Established company (founded ~1971), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1971)",
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

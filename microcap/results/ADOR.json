@@ -1,0 +1,111 @@
+{
+  "symbol": "ADOR",
+  "name": "Ador Welding Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,620Cr.",
+  "market_cap_cr": 2620.0,
+  "description": "AboutAdor Welding Ltd is a  leading player in the field of Welding Products, Technologies and Services. It is also engaged in providing customized solutions for multi-disciplinary projects and contracts related to refineries, oil and gas, petrochemicals and other sectors.[1]Key PointsBusiness SegmentsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ADOR/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Ador Welding Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Ador Welding Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Ador Welding Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 22.7% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "ADOR",
+    "name": "Ador Welding Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Ador Welding Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 2/5 years \u2014 adequate, ROCE 22.7% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 22.7% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 22.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.03,
+    "forensic_flags": [],
+    "owner_earnings": 32.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ADOR",
+    "name": "Ador Welding Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Ador Welding Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 5.9% of 52w high \u2014 strong momentum, Profit +39.1% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -4.9% YoY \u2014 declining.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 21.9,
+    "from_high_pct": 5.9,
+    "revenue_growth_pct": -4.9,
+    "profit_growth_pct": 39.1,
+    "optionality_signals": [],
+    "technical_notes": "Price within 5.9% of 52w high \u2014 strong momentum; Profit +39.1% YoY with margin expansion \u2014 quality growth; Revenue -4.9% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 1506.0,
+      "52w_high": 1600.0,
+      "52w_low": 848.0,
+      "position_pct": 87.5,
+      "from_high_pct": 5.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ADOR",
+    "name": "Ador Welding Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Ador Welding Ltd has a mixed narrative (score 3.5/10). Positives: Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,114 @@
+{
+  "symbol": "3BBLACKBIO",
+  "name": "3B Blackbio DX Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,037Cr.",
+  "market_cap_cr": 1037.0,
+  "description": "AboutIncorporated in 2011, 3B BlackBio Dx Ltd manufactures and exports PCR based Molecular Diagnostic kits, PCR  Enzymes & PCR Reagents, and agrochemical-based products[1]Key PointsBusiness Segments[1][2]A) Diagnostics Business (81% of FY23 revenue)3BDL is part of an Indo-Spanish JV and was formed by amalgamation with its parent company Kilpest India Limited. Company is an ISO 13485:2016 certified,  GMP-compliant biotech R&D organization  and is engaged in the design, development, manufacturing, and commercialization of  Rapid tests, PCR-based Molecular Diagnostic kits, PCR Enzymes & PCR Reagents, NGS-based Molecular Diagnostic KitRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/3BBLACKBIO/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "3B Blackbio DX Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: reject | Tara: pass. Worth watching but not a buy yet.",
+  "verdict_memo": "3B Blackbio DX Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: reject | Tara: pass. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "3B Blackbio DX Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: ROCE 22.4% > 20% \u2014 exceptional capital efficiency; Revenue grew 3/4 years consistently. What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "3BBLACKBIO",
+    "name": "3B Blackbio DX Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "3B Blackbio DX Ltd scores 4.5/10 on fundamentals. Strengths: ROCE 22.4% > 20% \u2014 exceptional capital efficiency, Revenue grew 3/4 years consistently. Concerns: FCF inconsistent \u2014 only 1/5 years positive, D/E ratio not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "ROCE 22.4% > 20% \u2014 exceptional capital efficiency",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 22.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": -1.0,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "3BBLACKBIO",
+    "name": "3B Blackbio DX Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "3B Blackbio DX Ltd \u2014 weak technical setup (score 1.0/6): Price 31.0% below 52w high \u2014 weak price action",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "growing",
+    "pe_ratio": 21.0,
+    "from_high_pct": 31.0,
+    "revenue_growth_pct": 12.5,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +12.5% YoY \u2014 growing; Price 31.0% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 1208.0,
+      "52w_high": 1750.0,
+      "52w_low": 1084.0,
+      "position_pct": 18.6,
+      "from_high_pct": 31.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "3BBLACKBIO",
+    "name": "3B Blackbio DX Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "3B Blackbio DX Ltd has a strong story (score 6.0/10). Catalysts: Established company (founded ~2011), Growth ambition evident in description, Operating in large / growing sector. Taleb signals: Optionality: capability expansion signals detected, Antifragility: geographic diversification. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2011)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "symbol": "BALKRISIND",
+  "name": "Balkrishna Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b948,308Cr.",
+  "market_cap_cr": 48308.0,
+  "description": "AboutBalkrishna Industries Limited (BKT) started its Off-Highway tyre business in 1987. For over 30 years, BKT has successfully focused on specialist segments such as agricultural, construction and industrial as well as earthmoving, port and mining, ATV, and gardening applications.[1]Key PointsProduct PortfolioThe company is one of the world\u2019s leading manufacturers of \u201cOff-Highway Tires\u201d catering to specialty segments like Agricultural, Mining, Construction, Industrial, Earthmover, Port, ATV, and Turf care applications in both cross-ply and radial construction. It has a product range with more than 3,600 SKUs.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BALKRISIND/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Balkrishna Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Balkrishna Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 11.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 3.5/6 \u2014 borderline (49% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Balkrishna Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.0% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.885,
+    "normalised_score": -0.641
+  },
+  "laxmi": {
+    "symbol": "BALKRISIND",
+    "name": "Balkrishna Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Balkrishna Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.0% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 11.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 2.0,
+    "forensic_flags": [],
+    "owner_earnings": 489.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BALKRISIND",
+    "name": "Balkrishna Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.49,
+    "report": "Balkrishna Industries Ltd \u2014 mixed technical signals (score 3.5/6). Positives: Price within 9.9% of 52w high \u2014 strong momentum, Revenue +17.3% YoY \u2014 growing. Concerns: Profit grew +11.4% but margin compressed.",
+    "score": 3.5,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 35.3,
+    "from_high_pct": 9.9,
+    "revenue_growth_pct": 17.3,
+    "profit_growth_pct": 11.4,
+    "optionality_signals": [],
+    "technical_notes": "Price within 9.9% of 52w high \u2014 strong momentum; Revenue +17.3% YoY \u2014 growing; Profit grew +11.4% but margin compressed",
+    "price_position": {
+      "current_price": 2499.0,
+      "52w_high": 2775.0,
+      "52w_low": 1970.0,
+      "position_pct": 65.7,
+      "from_high_pct": 9.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BALKRISIND",
+    "name": "Balkrishna Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Balkrishna Industries Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1987)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

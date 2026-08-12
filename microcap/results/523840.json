@@ -1,0 +1,116 @@
+{
+  "symbol": "523840",
+  "name": "Innovative Tech Pack Ltd",
+  "sector": "",
+  "market_cap": "\u20b932.2Cr.",
+  "market_cap_cr": 32.2,
+  "description": "AboutIncorporated in 1989, Innovative Tech Pack Ltd is a manufacturer of packaging productsof plastics.[1]Key PointsBusiness Overview:[1]ITPL manufactures polyethyleneterephthalate (PET) bottles, jars,containers, and pre-forms and its caps, etc. for the fast-movingconsumer goods, food and beverages and pharmaceutical industries.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/523840/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Innovative Tech Pack Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Innovative Tech Pack Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Convexity: both B2B and B2C revenue streams",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Innovative Tech Pack Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "523840",
+    "name": "Innovative Tech Pack Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Innovative Tech Pack Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 11.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 4.33,
+    "forensic_flags": [],
+    "owner_earnings": 3.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "523840",
+    "name": "Innovative Tech Pack Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Innovative Tech Pack Ltd \u2014 weak technical setup (score 0.0/6): Price 48.9% below 52w high \u2014 weak price action; Revenue -16.7% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 17.2,
+    "from_high_pct": 48.9,
+    "revenue_growth_pct": -16.7,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 48.9% below 52w high \u2014 weak price action; Revenue -16.7% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 14.3,
+      "52w_high": 28.0,
+      "52w_low": 12.8,
+      "position_pct": 9.9,
+      "from_high_pct": 48.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "523840",
+    "name": "Innovative Tech Pack Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Innovative Tech Pack Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b932cr mcap) \u2014 large runway ahead, Established company (founded ~1989). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b932cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1989)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

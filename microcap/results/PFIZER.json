@@ -1,0 +1,112 @@
+{
+  "symbol": "PFIZER",
+  "name": "Pfizer Ltd",
+  "sector": "",
+  "market_cap": "\u20b922,410Cr.",
+  "market_cap_cr": 22410.0,
+  "description": "AboutPfizer Ltd is engaged in manufacturing, marketing, trading and export of pharmaceutical products. It manufactures products through its own facility and also has various independent contract/ third party manufacturers based across the country and sells its products through independent distributors primarily in India.[1]It is the 3rd largest multinational pharmaceutical company in India.[2]Key PointsParentageThe company is a subsidiary of Pfizer Inc. one of the world\u2019s leading biopharma companies with a presence in over 125 countries. Pfizer develops and produces medicines and vaccines for immunology, oncology, cardiology, endocrinology, and neurology.[1][2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/PFIZER/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Pfizer Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Pfizer Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 24.1% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "PFIZER",
+    "name": "Pfizer Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Pfizer Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 24.1% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 24.1% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 24.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 1.61,
+    "forensic_flags": [],
+    "owner_earnings": 70.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "PFIZER",
+    "name": "Pfizer Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Pfizer Ltd \u2014 weak technical setup (score 1.0/6): Revenue -7.9% YoY \u2014 declining; Net profit declined -77.0% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 29.1,
+    "from_high_pct": 16.7,
+    "revenue_growth_pct": -7.9,
+    "profit_growth_pct": -77.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 16.7% of 52w high \u2014 moderate momentum; Revenue -7.9% YoY \u2014 declining; Net profit declined -77.0% YoY",
+    "price_position": {
+      "current_price": 4898.0,
+      "52w_high": 5879.0,
+      "52w_low": 4360.0,
+      "position_pct": 35.4,
+      "from_high_pct": 16.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "PFIZER",
+    "name": "Pfizer Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Pfizer Ltd has a mixed narrative (score 5.0/10). Positives: Growth ambition evident in description, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

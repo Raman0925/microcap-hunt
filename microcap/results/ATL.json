@@ -1,0 +1,111 @@
+{
+  "symbol": "ATL",
+  "name": "Allcargo Terminals Ltd",
+  "sector": "",
+  "market_cap": "\u20b9655Cr.",
+  "market_cap_cr": 655.0,
+  "description": "AboutIncorporated in 2019, Allcargo TerminalsLtd is in the business of Container Freight Stations and Inland Container Depots[1]Key PointsBusiness Overview:[1][2]a)ATL is a part of the All Cargo Group. It is the largest Container Freight Station Operator in Indiab)Company provides Inland Container Depots (ICD) and warehousing services.c)It has 7 CFS at JNPT, Chennai, Mundra and Kolkata & 1 ICD at Dadrid)Its operations include import / export cargo stuffing and unstuffing, customs clearance, and other services.e)Company operates in all major ports in India, namely, Jawaharlal Nehru Port Authority, Mundra (Gujarat), Kolkata, and Chennai.f)JNPA is the largest Indian port handling over 50% of the overall container traffic, and ATL has around 15% non-DPD addressable market share.g)Company's operating subsidiary, SML, is the sole player in \u2018Cluster 1\u2019, which is closest to the port, thereby having locational advantage.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ATL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Allcargo Terminals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Allcargo Terminals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Allcargo Terminals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "ATL",
+    "name": "Allcargo Terminals Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Allcargo Terminals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 11.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.79,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ATL",
+    "name": "Allcargo Terminals Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Allcargo Terminals Ltd \u2014 weak technical setup (score 0.0/6): Price 35.3% below 52w high \u2014 weak price action; Insufficient revenue data",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "flat",
+    "pe_ratio": 13.5,
+    "from_high_pct": 35.3,
+    "revenue_growth_pct": null,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price 35.3% below 52w high \u2014 weak price action; Insufficient revenue data",
+    "price_position": {
+      "current_price": 24.6,
+      "52w_high": 38.0,
+      "52w_low": 18.2,
+      "position_pct": 32.3,
+      "from_high_pct": 35.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ATL",
+    "name": "Allcargo Terminals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Allcargo Terminals Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~2019), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2019)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

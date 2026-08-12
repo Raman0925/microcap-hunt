@@ -1,0 +1,111 @@
+{
+  "symbol": "511764",
+  "name": "Aastamangalam Finance Ltd",
+  "sector": "",
+  "market_cap": "\u20b951.8Cr.",
+  "market_cap_cr": 51.8,
+  "description": "AboutIncorporated in 1985, Aastamangalam Finance Ltd (formerly Upasana Finance Ltd) is engaged in the business of Lending.Key PointsBusiness Overview:[1][2]The Company is registered with RBI as Non-Deposittaking Non-Banking Financial Company (NBFC-ND) and holds a valid certificate of Registration. It is classified as NBFC - Loan Company.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/511764/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "Aastamangalam Finance Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Low PE 5.5 with positive revenue growth \u2014 potentially overlooked. Laxmi: borderline | Meera: pass | Tara: reject. High-risk contrarian watch.",
+  "verdict_memo": "Aastamangalam Finance Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Low PE 5.5 with positive revenue growth \u2014 potentially overlooked. Laxmi: borderline | Meera: pass | Tara: reject. High-risk contrarian watch.",
+  "investment_thesis": "Aastamangalam Finance Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 13.2% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Low PE 5.5 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.13"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -0.587,
+    "normalised_score": -0.131
+  },
+  "laxmi": {
+    "symbol": "511764",
+    "name": "Aastamangalam Finance Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Aastamangalam Finance Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 13.2% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 13.2% (adequate)",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 13.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 1.13,
+    "forensic_flags": [],
+    "owner_earnings": 0.8,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "511764",
+    "name": "Aastamangalam Finance Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Aastamangalam Finance Ltd \u2014 solid technical setup (score 4.0/6). Signals: Revenue +37.8% YoY \u2014 strong momentum, Profit +75.6% YoY with margin expansion \u2014 quality growth, PE 5.5 < revenue growth 37.8% \u2014 undervalued vs growth. Notes: Price 34.5% below 52w high \u2014 weak price action. Optionality: Low PE 5.5 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 4.0,
+    "price_signal": "optionality",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 5.49,
+    "from_high_pct": 34.5,
+    "revenue_growth_pct": 37.8,
+    "profit_growth_pct": 75.6,
+    "optionality_signals": [
+      "Low PE 5.5 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Revenue +37.8% YoY \u2014 strong momentum; Profit +75.6% YoY with margin expansion \u2014 quality growth; PE 5.5 < revenue growth 37.8% \u2014 undervalued vs growth; Price 34.5% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 33.4,
+      "52w_high": 51.0,
+      "52w_low": 27.8,
+      "position_pct": 24.1,
+      "from_high_pct": 34.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "511764",
+    "name": "Aastamangalam Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Aastamangalam Finance Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b952cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1985)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

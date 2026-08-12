@@ -1,0 +1,108 @@
+{
+  "symbol": "AVROIND",
+  "name": "Avro India Ltd",
+  "sector": "",
+  "market_cap": "\u20b9111Cr.",
+  "market_cap_cr": 111.0,
+  "description": "AboutIncorporated in 1996, Avro India Ltd manufactures and sells plastic moulded furniture and granules[1]Key PointsBusiness Profile[1]AVRO India Limited specializes in transforming plastic waste into plastic granules and furniture, leveraging advanced recycling technologies. The company has a fully integrated model, processing plastic scrap in-house to produce granules, which are then used for manufacturing furniture.Avro is among the top three manufacturers of plastic furniture in India.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AVROIND/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Avro India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Avro India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 6.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Avro India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.688,
+    "normalised_score": -0.819
+  },
+  "laxmi": {
+    "symbol": "AVROIND",
+    "name": "Avro India Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Avro India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 6.67,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 4.0,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AVROIND",
+    "name": "Avro India Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Avro India Ltd \u2014 weak technical setup (score 0.0/6): Price 49.9% below 52w high \u2014 weak price action; Revenue -19.1% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 26.4,
+    "from_high_pct": 49.9,
+    "revenue_growth_pct": -19.1,
+    "profit_growth_pct": -33.3,
+    "optionality_signals": [],
+    "technical_notes": "Price 49.9% below 52w high \u2014 weak price action; Revenue -19.1% YoY \u2014 declining; Net profit declined -33.3% YoY",
+    "price_position": {
+      "current_price": 8.27,
+      "52w_high": 16.5,
+      "52w_low": 8.0,
+      "position_pct": 3.2,
+      "from_high_pct": 49.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AVROIND",
+    "name": "Avro India Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Avro India Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9111cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1996)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

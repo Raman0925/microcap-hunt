@@ -1,0 +1,110 @@
+{
+  "symbol": "BUTTERFLY",
+  "name": "Butterfly Gandhimathi Appliances Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,198Cr.",
+  "market_cap_cr": 1198.0,
+  "description": "AboutIncorporated in 1986, Butterfly Gandhimathi Appliances Ltd manufactures and trades arange of domestic kitchen and electrical appliances.[1]Key PointsBusiness Overview:[1]BGAL is a part of Crompton Greaves Consumer Electricals Ltd which holds a ~75% stake in BGAL and provides operational and managerial support. The company sells home appliances and kitchen appliances under the brand name'' Butterfly''Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BUTTERFLY/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Butterfly Gandhimathi Appliances Ltd \u2014 rejected (score -0.41). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "verdict_memo": "Butterfly Gandhimathi Appliances Ltd \u2014 rejected (score -0.41). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 16.8% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Convexity: both B2B and B2C revenue streams",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.41"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -1.837,
+    "normalised_score": -0.408
+  },
+  "laxmi": {
+    "symbol": "BUTTERFLY",
+    "name": "Butterfly Gandhimathi Appliances Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Butterfly Gandhimathi Appliances Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 16.8% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 16.8% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 16.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 15.0,
+    "forensic_flags": [],
+    "owner_earnings": 3.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BUTTERFLY",
+    "name": "Butterfly Gandhimathi Appliances Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Butterfly Gandhimathi Appliances Ltd \u2014 weak technical setup (score 1.0/6): Revenue -41.4% YoY \u2014 declining; Net profit declined -75.0% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 24.3,
+    "from_high_pct": 20.6,
+    "revenue_growth_pct": -41.4,
+    "profit_growth_pct": -75.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 20.6% of 52w high \u2014 moderate momentum; Revenue -41.4% YoY \u2014 declining; Net profit declined -75.0% YoY",
+    "price_position": {
+      "current_price": 670.0,
+      "52w_high": 844.0,
+      "52w_low": 566.0,
+      "position_pct": 37.4,
+      "from_high_pct": 20.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BUTTERFLY",
+    "name": "Butterfly Gandhimathi Appliances Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Butterfly Gandhimathi Appliances Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1986)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

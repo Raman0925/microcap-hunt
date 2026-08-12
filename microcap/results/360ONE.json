@@ -1,0 +1,112 @@
+{
+  "symbol": "360ONE",
+  "name": "360 ONE WAM Ltd",
+  "sector": "",
+  "market_cap": "\u20b947,525Cr.",
+  "market_cap_cr": 47525.0,
+  "description": "AboutIIFL Wealth Management Limited, founded in 2008, is one of the largest private wealth management firms in India. The company mainly acts as wealth manager and provides services relating to financial products distribution, advisory, portfolio management services by mobilizing funds and assets of various classes of investors including High Networth Individuals.[1][2]Key PointsBusiness Verticals:a) Wealth Management:[1][2][3]The company is one of India\u2019s largestwealth managers. The platform offers discretionary and non-discretionary portfolio management, product distribution across mutual funds, AIFs, PMS and global investments, along with lending, corporate treasury and estate planning services. It provides advice-oriented wealth management solutions for UHNIs, with a primary focus on clients withRs. 50+ Crof investable assets. The platform also serves600+corporate treasuries and is expanding its footprint to serve the growing HNI segment withRs. 10-50 Crin assets.Read MoreWebsiteBS",
+  "screener_url": "https://www.screener.in/company/360ONE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "360 ONE WAM Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "360 ONE WAM Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 6.9% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 360 ONE WAM Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.9% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "360ONE",
+    "name": "360 ONE WAM Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "360 ONE WAM Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.9% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 6.91,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -0.14,
+    "forensic_flags": [],
+    "owner_earnings": 99.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "360ONE",
+    "name": "360 ONE WAM Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "360 ONE WAM Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 5.5% of 52w high \u2014 strong momentum. Concerns: Revenue -8.6% YoY \u2014 declining, Net profit declined -3.9% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 130.0,
+    "from_high_pct": 5.5,
+    "revenue_growth_pct": -8.6,
+    "profit_growth_pct": -3.9,
+    "optionality_signals": [],
+    "technical_notes": "Price within 5.5% of 52w high \u2014 strong momentum; Revenue -8.6% YoY \u2014 declining; Net profit declined -3.9% YoY",
+    "price_position": {
+      "current_price": 1168.0,
+      "52w_high": 1236.0,
+      "52w_low": 906.0,
+      "position_pct": 79.4,
+      "from_high_pct": 5.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "360ONE",
+    "name": "360 ONE WAM Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "360 ONE WAM Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~2008), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2008)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

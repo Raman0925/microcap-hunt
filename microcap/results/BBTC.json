@@ -1,0 +1,114 @@
+{
+  "symbol": "BBTC",
+  "name": "The Bombay Burmah Trading Corporation Ltd",
+  "sector": "",
+  "market_cap": "\u20b910,399Cr.",
+  "market_cap_cr": 10399.0,
+  "description": "AboutFounded in the year 1863, Bombay Burmah Trading Corporation Limited (BBTCL) is a flagship Company of Wadia Group.Originally BBTCL was formed as a public company to carry out Teak business of William Wallace and was catering to domestic demands. Later in 1913 BBTCL turned to tea plantations by investing in Tea estates in South India.Currently BBTCL has its presence in diversified business of Tea, Coffee, other plantation products, Biscuits, Dairy products, Auto electric and White goods, weighing products, horticulture, Healthcare products, Dental, orthopedic and ophthalmic products.[1]Key PointsPart of the Wadia Group:[1][2]The company is one of the flagship entities of theWadia Groupand has been in existence for over 150 years. The Wadia Group is one of the oldest conglomerates in India, with a diversified presence in consumer goods, healthcare, real estate, aviation, chemicals, and auto-electrical components.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BBTC/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "The Bombay Burmah Trading Corporation Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "The Bombay Burmah Trading Corporation Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 19.6% (adequate). What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 The Bombay Burmah Trading Corporation Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "BBTC",
+    "name": "The Bombay Burmah Trading Corporation Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "The Bombay Burmah Trading Corporation Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 19.6% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 19.6,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -2.14,
+    "forensic_flags": [],
+    "owner_earnings": 7.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BBTC",
+    "name": "The Bombay Burmah Trading Corporation Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "The Bombay Burmah Trading Corporation Ltd \u2014 weak technical setup (score 0.0/6): Price 30.2% below 52w high \u2014 weak price action; Revenue 0.0% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 143.0,
+    "from_high_pct": 30.2,
+    "revenue_growth_pct": 0.0,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 30.2% below 52w high \u2014 weak price action; Revenue 0.0% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 1490.0,
+      "52w_high": 2135.0,
+      "52w_low": 1301.0,
+      "position_pct": 22.7,
+      "from_high_pct": 30.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BBTC",
+    "name": "The Bombay Burmah Trading Corporation Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "The Bombay Burmah Trading Corporation Ltd has a mixed narrative (score 3.5/10). Positives: Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

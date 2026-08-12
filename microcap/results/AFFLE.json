@@ -1,0 +1,115 @@
+{
+  "symbol": "AFFLE",
+  "name": "Affle 3i Ltd",
+  "sector": "",
+  "market_cap": "\u20b923,630Cr.",
+  "market_cap_cr": 23630.0,
+  "description": "AboutIncorporated in 1994, Affle is a global technology company with a proprietary consumer intelligence platform that transforms ads into recommendations helping marketers to effectively identify, engage, acquire and drive transactions with their potential and existing users[1]Key PointsService OfferingThe company operates a proprietary consumer intelligence platform that delivers consumer recommendations and conversions through relevant mobile advertising. The platform aims to enhance returns on marketing investment through contextual mobile ads and reduce digital ad fraud. It has a reach across 3.4+ Bn connected devices.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AFFLE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Affle 3i Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Affle 3i Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 9.2% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: geographic diversification; Convexity: both B2B and B2C revenue streams",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Affle 3i Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.2% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.51,
+    "normalised_score": -0.558
+  },
+  "laxmi": {
+    "symbol": "AFFLE",
+    "name": "Affle 3i Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Affle 3i Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.2% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 9.2% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 9.17,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.0,
+    "forensic_flags": [],
+    "owner_earnings": 2.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AFFLE",
+    "name": "Affle 3i Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Affle 3i Ltd \u2014 weak technical setup (score 1.0/6): Revenue -45.8% YoY \u2014 declining; Net profit declined -60.0% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 163.0,
+    "from_high_pct": 23.3,
+    "revenue_growth_pct": -45.8,
+    "profit_growth_pct": -60.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 23.3% of 52w high \u2014 moderate momentum; Revenue -45.8% YoY \u2014 declining; Net profit declined -60.0% YoY",
+    "price_position": {
+      "current_price": 1677.0,
+      "52w_high": 2187.0,
+      "52w_low": 1251.0,
+      "position_pct": 45.5,
+      "from_high_pct": 23.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AFFLE",
+    "name": "Affle 3i Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Affle 3i Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1994), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1994)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: geographic diversification",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

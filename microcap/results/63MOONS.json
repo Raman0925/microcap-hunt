@@ -1,0 +1,111 @@
+{
+  "symbol": "63MOONS",
+  "name": "63 Moons Technologies Ltd",
+  "sector": "",
+  "market_cap": "\u20b93,957Cr.",
+  "market_cap_cr": 3957.0,
+  "description": "About63 Moons Techs is engaged in Computer Programming, Consultancy and related services.Key PointsServices Offered1.Brokerage Trading solutions:The Co. provides end-to-end solutions for Brokers. Its solutions cater to Equity, Forex, Commodity, and Derivatives Markets, covering all stages of a Trade Life Cycle, i.e. Pre-Trade, and Post-Trade. The company provides its service under its brand ODIN and its clients include Nirmal Bang, Kotak Securities, Angel Securities, PCS Securities, and others.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/63MOONS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "63 Moons Technologies Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "63 Moons Technologies Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 2.5% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 63 Moons Technologies Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -3.062,
+    "normalised_score": -0.681
+  },
+  "laxmi": {
+    "symbol": "63MOONS",
+    "name": "63 Moons Technologies Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "63 Moons Technologies Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "Low ROCE: 2.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 2.55,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -0.08,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "63MOONS",
+    "name": "63 Moons Technologies Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "63 Moons Technologies Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 16.6% of 52w high \u2014 moderate momentum, Revenue +14.2% YoY \u2014 growing, Profit +526.8% YoY with margin expansion \u2014 quality growth. Concerns: none.",
+    "score": 3.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 58.1,
+    "from_high_pct": 16.6,
+    "revenue_growth_pct": 14.2,
+    "profit_growth_pct": 526.8,
+    "optionality_signals": [],
+    "technical_notes": "Price within 16.6% of 52w high \u2014 moderate momentum; Revenue +14.2% YoY \u2014 growing; Profit +526.8% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 859.0,
+      "52w_high": 1030.0,
+      "52w_low": 466.0,
+      "position_pct": 69.7,
+      "from_high_pct": 16.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "63MOONS",
+    "name": "63 Moons Technologies Ltd",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "63 Moons Technologies Ltd \u2014 rejected (score 1.5/10): failed qualitative checks",
+    "score": 1.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

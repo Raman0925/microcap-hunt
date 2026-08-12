@@ -1,0 +1,108 @@
+{
+  "symbol": "ADVENTHTL",
+  "name": "Advent Hotels International Ltd",
+  "sector": "",
+  "market_cap": "\u20b9775Cr.",
+  "market_cap_cr": 775.0,
+  "description": "AboutAdvent Hotels International Limited is an Indian hospitality company that creates, owns, and manages luxury and upper\u2011upscale hotels in prime micro\u2011markets.[1]Key PointsDemerger[1]Advent Hotels International was demerged from Valor Estate Limited (formerly DB Realty Ltd). The demerger involved the separation of Valor Estate's hospitality business, which was transferred to Advent Hotels International, allowing it to operate independently with its own board and management team.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ADVENTHTL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Advent Hotels International Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/4 years positive; Low ROCE: -0.2% \u2014 poor capital efficiency",
+  "verdict_memo": "Advent Hotels International Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/4 years positive; Low ROCE: -0.2% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/4 years positive; Low ROCE: -0.2% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Advent Hotels International Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/4 years positive; Low ROCE: -0.2% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.765,
+    "normalised_score": -0.837
+  },
+  "laxmi": {
+    "symbol": "ADVENTHTL",
+    "name": "Advent Hotels International Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Advent Hotels International Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/4 years positive; Low ROCE: -0.2% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/4 years positive",
+      "Low ROCE: -0.2% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": -0.25,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ADVENTHTL",
+    "name": "Advent Hotels International Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Advent Hotels International Ltd \u2014 weak technical setup (score 0.0/6): Price 58.3% below 52w high \u2014 weak price action; Insufficient revenue data",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "flat",
+    "pe_ratio": 8.14,
+    "from_high_pct": 58.3,
+    "revenue_growth_pct": null,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price 58.3% below 52w high \u2014 weak price action; Insufficient revenue data",
+    "price_position": {
+      "current_price": 144.0,
+      "52w_high": 345.0,
+      "52w_low": 118.0,
+      "position_pct": 11.5,
+      "from_high_pct": 58.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ADVENTHTL",
+    "name": "Advent Hotels International Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Advent Hotels International Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

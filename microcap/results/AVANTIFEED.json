@@ -1,0 +1,111 @@
+{
+  "symbol": "AVANTIFEED",
+  "name": "Avanti Feeds Ltd",
+  "sector": "",
+  "market_cap": "\u20b911,714Cr.",
+  "market_cap_cr": 11714.0,
+  "description": "AboutAvanti Feeds Ltd. manufactures and sells shrimp feed, and exports processed shrimp.[1]Key PointsBusiness Portfolio[1][2]Avanti Feeds is a leading aquaculture company, specializing in:a) Shrimp Feed Manufacturing:Supplying high-quality feed to shrimp farmers.b) Shrimp Processing & Export:Exporting frozen shrimp to global markets.c) Hatchery Operations:Producing high-quality shrimp larvae.d) Pet Care:Incorporated in 2023, Avanti Feeds Limited expanded into the pet care industry by establishing Avanti Pet Care Private Limited (APCPL) as a subsidiary. APCPL focuses on manufacturing high-quality pet care products, leveraging Avanti Feeds\u2019 expertise in animal nutrition and feed formulation.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AVANTIFEED/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Avanti Feeds Ltd \u2014 rejected (score -0.18). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Avanti Feeds Ltd \u2014 rejected (score -0.18). Laxmi: borderline | Meera: reject | Tara: borderline.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 26.1% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.18"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.8,
+    "normalised_score": -0.178
+  },
+  "laxmi": {
+    "symbol": "AVANTIFEED",
+    "name": "Avanti Feeds Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Avanti Feeds Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 26.1% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 26.1% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 26.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.77,
+    "forensic_flags": [],
+    "owner_earnings": 117.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AVANTIFEED",
+    "name": "Avanti Feeds Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Avanti Feeds Ltd \u2014 weak technical setup (score 0.0/6): Price 46.0% below 52w high \u2014 weak price action; Revenue -11.7% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 24.0,
+    "from_high_pct": 46.0,
+    "revenue_growth_pct": -11.7,
+    "profit_growth_pct": -24.5,
+    "optionality_signals": [],
+    "technical_notes": "Price 46.0% below 52w high \u2014 weak price action; Revenue -11.7% YoY \u2014 declining; Net profit declined -24.5% YoY",
+    "price_position": {
+      "current_price": 860.0,
+      "52w_high": 1594.0,
+      "52w_low": 614.0,
+      "position_pct": 25.1,
+      "from_high_pct": 46.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AVANTIFEED",
+    "name": "Avanti Feeds Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Avanti Feeds Ltd has a mixed narrative (score 4.0/10). Positives: Growth ambition evident in description, No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

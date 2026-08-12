@@ -1,0 +1,109 @@
+{
+  "symbol": "AWHCL",
+  "name": "Antony Waste Handling Cell Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,105Cr.",
+  "market_cap_cr": 1105.0,
+  "description": "AboutAntony Waste Handling Cell Ltd is engaged in the business of mechanical power sweeping of roads, collection and transportation of waste, waste to energy project and undertake the designing, construction, operation and maintenance of the integrated waste management facility in Kanjurmarg, Mumbai.[1]It is one of the top five players in the Indian municipal waste management industry with a track record of ~20 years.[2]Key PointsBusiness ProfileThe company is a leader in India\u2019s Municipal Solid Waste (MSW) management sector. It offers a range of MSW services, including the collection & transportation (C&T), processing, and disposal of solid waste, to Indian municipal corporations.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AWHCL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Antony Waste Handling Cell Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/1 years positive; Low ROCE: 7.1% \u2014 poor capital efficiency",
+  "verdict_memo": "Antony Waste Handling Cell Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/1 years positive; Low ROCE: 7.1% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/1 years positive; Low ROCE: 7.1% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Antony Waste Handling Cell Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/1 years positive; Low ROCE: 7.1% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.765,
+    "normalised_score": -0.837
+  },
+  "laxmi": {
+    "symbol": "AWHCL",
+    "name": "Antony Waste Handling Cell Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Antony Waste Handling Cell Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/1 years positive; Low ROCE: 7.1% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/1 years positive",
+      "Low ROCE: 7.1% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 7.13,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": -1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AWHCL",
+    "name": "Antony Waste Handling Cell Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Antony Waste Handling Cell Ltd \u2014 weak technical setup (score 0.0/6): Price 38.8% below 52w high \u2014 weak price action; Revenue -20.0% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 98.8,
+    "from_high_pct": 38.8,
+    "revenue_growth_pct": -20.0,
+    "profit_growth_pct": -107.7,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 38.8% below 52w high \u2014 weak price action; Revenue -20.0% YoY \u2014 declining; Net profit declined -107.7% YoY",
+    "price_position": {
+      "current_price": 389.0,
+      "52w_high": 636.0,
+      "52w_low": 372.0,
+      "position_pct": 6.4,
+      "from_high_pct": 38.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AWHCL",
+    "name": "Antony Waste Handling Cell Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Antony Waste Handling Cell Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

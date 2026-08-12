@@ -1,0 +1,109 @@
+{
+  "symbol": "514280",
+  "name": "Sanrhea Technical Textile Ltd",
+  "sector": "",
+  "market_cap": "\u20b979.4Cr.",
+  "market_cap_cr": 79.4,
+  "description": "AboutIncorporated in 1983, Sanrhea TechnicalTextiles Ltd manufactures Industrial Fabricslike Conveyor Belting fabrics, Chafer fabrics,etc.[1]Key PointsBusiness Overview:[1]STTL is an IS0 9001:14001 certified manufacturer of RFL Dipped Fabrics and Nylon & Polyester-based Heavy Industrial Fabrics. It offers product solutions for India\u2019s leading Tyre, Conveyor-Belt and Rubber Component& products manufacturing industriesRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/514280/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Sanrhea Technical Textile Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Sanrhea Technical Textile Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Sanrhea Technical Textile Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 23.2% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.11"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.5,
+    "normalised_score": 0.111
+  },
+  "laxmi": {
+    "symbol": "514280",
+    "name": "Sanrhea Technical Textile Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Sanrhea Technical Textile Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 23.2% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 23.2% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 23.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 9.31,
+    "forensic_flags": [],
+    "owner_earnings": 0.3,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "514280",
+    "name": "Sanrhea Technical Textile Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Sanrhea Technical Textile Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 21.8% of 52w high \u2014 moderate momentum, Revenue +64.3% YoY \u2014 strong momentum, PE 14.0 < revenue growth 64.3% \u2014 undervalued vs growth. Notes: none.",
+    "score": 4.0,
+    "price_signal": "neutral",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 14.0,
+    "from_high_pct": 21.8,
+    "revenue_growth_pct": 64.3,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 21.8% of 52w high \u2014 moderate momentum; Revenue +64.3% YoY \u2014 strong momentum; PE 14.0 < revenue growth 64.3% \u2014 undervalued vs growth",
+    "price_position": {
+      "current_price": 140.0,
+      "52w_high": 179.0,
+      "52w_low": 98.2,
+      "position_pct": 51.7,
+      "from_high_pct": 21.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "514280",
+    "name": "Sanrhea Technical Textile Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Sanrhea Technical Textile Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b979cr mcap) \u2014 large runway ahead, Established company (founded ~1983). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b979cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1983)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "symbol": "BBOX",
+  "name": "Black Box Ltd",
+  "sector": "",
+  "market_cap": "\u20b913,202Cr.",
+  "market_cap_cr": 13202.0,
+  "description": "AboutAGC Networks Ltd. (AGC), incorporated in 1986 by Tata Telecom Pvt. Ltd. to manufacture telecommunication equipment. It is currently held by Essar Telecom Ltd. Over the years, AGC evolved into an information and communication (ICT) solutions provider and integrator with a differentiated vertical approach in business communication systems, applications and services mainly within India.The company is present at multiple geographies such as Middle East, Africa, North America, Australia, New Zealand, Singapore, Philippines and UK servicing over 8000+ customers.[1][2]Key PointsHistory[1][2]The company was incorporated in 1986 by Tata Telecom Pvt. Ltd. to manufacture telecommunication equipment. It was subsequently acquired by US-based Avaya Inc. in 2004, before being taken over by theEssar Groupin Aug 2010, which holds a70%stake in the company as of Mar 2026.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BBOX/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Black Box Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Black Box Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 4.4% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Black Box Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.4% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.675,
+    "normalised_score": -0.817
+  },
+  "laxmi": {
+    "symbol": "BBOX",
+    "name": "Black Box Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Black Box Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.4% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 4.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 4.38,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 1.03,
+    "forensic_flags": [],
+    "owner_earnings": -0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BBOX",
+    "name": "Black Box Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Black Box Ltd \u2014 weak technical setup (score 1.0/6): Price 32.7% below 52w high \u2014 weak price action",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "growing",
+    "pe_ratio": 602.0,
+    "from_high_pct": 32.7,
+    "revenue_growth_pct": 8.6,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +8.6% YoY \u2014 growing; Price 32.7% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 743.0,
+      "52w_high": 1104.0,
+      "52w_low": 435.0,
+      "position_pct": 46.0,
+      "from_high_pct": 32.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BBOX",
+    "name": "Black Box Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Black Box Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1986)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

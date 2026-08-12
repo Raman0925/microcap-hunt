@@ -1,0 +1,112 @@
+{
+  "symbol": "530253",
+  "name": "Rajasthan Tube Manufacturing Co Ltd",
+  "sector": "",
+  "market_cap": "\u20b948.1Cr.",
+  "market_cap_cr": 48.1,
+  "description": "AboutIncorporated in 1985, Rajasthan Tubes Mfg.Co. Ltd is in the business of manufacturingof ERW steel tubes.[1]Key PointsBusiness Overview:[1][2]RTMCL is engaged in the manufacturing and trading of black and galvanized ERW (Electric resistance welding) steel tubes and pipes, with size ranging from 15mm to 250mm. The pipes manufactured by the company have varied applications in water, gas and sewage pipes, structural purposes, idlers / conveyors, water wells (casing pipes) etc.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/530253/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Rajasthan Tube Manufacturing Co Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Rajasthan Tube Manufacturing Co Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 15.0% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "530253",
+    "name": "Rajasthan Tube Manufacturing Co Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Rajasthan Tube Manufacturing Co Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 15.0% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 15.0% (adequate)",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 15.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 7.65,
+    "forensic_flags": [],
+    "owner_earnings": -2.3,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "530253",
+    "name": "Rajasthan Tube Manufacturing Co Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Rajasthan Tube Manufacturing Co Ltd \u2014 weak technical setup (score 1.0/6): Price 76.7% below 52w high \u2014 weak price action; Net profit declined -1082.6% YoY Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 1.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 38.8,
+    "from_high_pct": 76.7,
+    "revenue_growth_pct": 14.1,
+    "profit_growth_pct": -1082.6,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +14.1% YoY \u2014 growing; Price 76.7% below 52w high \u2014 weak price action; Net profit declined -1082.6% YoY",
+    "price_position": {
+      "current_price": 10.7,
+      "52w_high": 46.0,
+      "52w_low": 10.5,
+      "position_pct": 0.6,
+      "from_high_pct": 76.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "530253",
+    "name": "Rajasthan Tube Manufacturing Co Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Rajasthan Tube Manufacturing Co Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b948cr mcap) \u2014 large runway ahead, Established company (founded ~1985). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b948cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1985)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

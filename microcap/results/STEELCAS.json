@@ -1,0 +1,110 @@
+{
+  "symbol": "STEELCAS",
+  "name": "Steelcast Ltd",
+  "sector": "",
+  "market_cap": "\u20b93,323Cr.",
+  "market_cap_cr": 3323.0,
+  "description": "AboutSteelcast Limited (SCL) is engaged in the business of manufacturing Steel and Alloy Steel Castings catering to a host of OEMs for diverse industrial sectors.[1]Key PointsProductsThe company offers casting products like Carbon Steel, Low Alloy Steel, High Alloy Steel, Manganese Steel, and other Superior Grades of Wear and abrasive resistant Steel Castings produced by Bake and Shell Moulding Processes.[1]It is one of few casting companies to manufacture steel castings through the sand and shell molding process to produce 300+ parts ranging from 2.5 kg to 2,500 kgs.[2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/STEELCAS/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Steelcast Ltd \u2014 rejected (score -0.25). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "Steelcast Ltd \u2014 rejected (score -0.25). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 3/4 years \u2014 adequate; ROCE 32.3% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.25"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.125,
+    "normalised_score": -0.25
+  },
+  "laxmi": {
+    "symbol": "STEELCAS",
+    "name": "Steelcast Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Steelcast Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/4 years \u2014 adequate, ROCE 32.3% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/4 years \u2014 adequate",
+      "ROCE 32.3% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 32.3,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.62,
+    "forensic_flags": [],
+    "owner_earnings": -18.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "STEELCAS",
+    "name": "Steelcast Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Steelcast Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 5.2% of 52w high \u2014 strong momentum. Concerns: Revenue -42.3% YoY \u2014 declining. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 36.6,
+    "from_high_pct": 5.2,
+    "revenue_growth_pct": -42.3,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 5.2% of 52w high \u2014 strong momentum; Revenue -42.3% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 328.0,
+      "52w_high": 346.0,
+      "52w_low": 172.0,
+      "position_pct": 89.7,
+      "from_high_pct": 5.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "STEELCAS",
+    "name": "Steelcast Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Steelcast Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

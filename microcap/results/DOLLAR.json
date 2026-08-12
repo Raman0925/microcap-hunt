@@ -1,0 +1,113 @@
+{
+  "symbol": "DOLLAR",
+  "name": "Dollar Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,637Cr.",
+  "market_cap_cr": 1637.0,
+  "description": "AboutDollar Industries Limited is engaged in manufacture and sale of hosiery products in knitted inner wears, casual wears and thermal wears.[1]Key PointsMarket Leadership[1]Dollar Industries is a leading manufacturer of branded innerwear and outerwear, holding a15% share in the Indian hosiery market.  The company aims to expand its offerings in the premium and super-premium segments while maintaining its leadership in the hosiery industry.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/DOLLAR/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Dollar Industries Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Dollar Industries Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: ROCE 13.6% (adequate). What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Dollar Industries Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.737,
+    "normalised_score": -0.831
+  },
+  "laxmi": {
+    "symbol": "DOLLAR",
+    "name": "Dollar Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Dollar Industries Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "ROCE 13.6% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 13.6,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.16,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "DOLLAR",
+    "name": "Dollar Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Dollar Industries Ltd \u2014 weak technical setup (score 1.0/6): Revenue -4.5% YoY \u2014 declining; Net profit declined -26.9% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 14.8,
+    "from_high_pct": 27.0,
+    "revenue_growth_pct": -4.5,
+    "profit_growth_pct": -26.9,
+    "optionality_signals": [],
+    "technical_notes": "Price within 27.0% of 52w high \u2014 moderate momentum; Revenue -4.5% YoY \u2014 declining; Net profit declined -26.9% YoY",
+    "price_position": {
+      "current_price": 289.0,
+      "52w_high": 396.0,
+      "52w_low": 220.0,
+      "position_pct": 39.2,
+      "from_high_pct": 27.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "DOLLAR",
+    "name": "Dollar Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Dollar Industries Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

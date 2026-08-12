@@ -1,0 +1,115 @@
+{
+  "symbol": "ZENITHEXPO",
+  "name": "Zenith Exports Ltd",
+  "sector": "",
+  "market_cap": "\u20b9136Cr.",
+  "market_cap_cr": 136.0,
+  "description": "AboutIncorporated in 1969, Zenith Exports Ltd is in the business of Leather Goods & Textile Fabrics[1]Key PointsBusiness Overview:[1][2]Zenith Exports Ltd. manufactures silk, velvet fabrics, and leather products through three divisions: Zenith Main, Zenith Textiles, and Zenith Spinners. While spinning production ceased in FY16, the company maintains limited yarn trading and retail operations.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ZENITHEXPO/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Zenith Exports Ltd \u2014 borderline (score 0.17). Laxmi: borderline | Meera: borderline | Tara: pass. Worth watching but not a buy yet.",
+  "verdict_memo": "Zenith Exports Ltd \u2014 borderline (score 0.17). Laxmi: borderline | Meera: borderline | Tara: pass. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 6.7/10",
+  "investment_thesis": "Zenith Exports Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; Revenue grew 4/4 years consistently. What to watch: Low ROCE: 4.5% \u2014 poor capital efficiency; D/E ratio not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.17"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.75,
+    "normalised_score": 0.167
+  },
+  "laxmi": {
+    "symbol": "ZENITHEXPO",
+    "name": "Zenith Exports Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Zenith Exports Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, Revenue grew 4/4 years consistently. Concerns: Low ROCE: 4.5% \u2014 poor capital efficiency, D/E ratio not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "Revenue grew 4/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 4.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 4.47,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 4,
+    "cfo_to_ebitda": 85.38,
+    "forensic_flags": [],
+    "owner_earnings": 0.1,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ZENITHEXPO",
+    "name": "Zenith Exports Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Zenith Exports Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 28.7% of 52w high \u2014 moderate momentum, Revenue +9.9% YoY \u2014 growing. Concerns: Net profit declined -50.0% YoY.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 59.2,
+    "from_high_pct": 28.7,
+    "revenue_growth_pct": 9.9,
+    "profit_growth_pct": -50.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 28.7% of 52w high \u2014 moderate momentum; Revenue +9.9% YoY \u2014 growing; Net profit declined -50.0% YoY",
+    "price_position": {
+      "current_price": 251.0,
+      "52w_high": 352.0,
+      "52w_low": 174.0,
+      "position_pct": 43.3,
+      "from_high_pct": 28.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ZENITHEXPO",
+    "name": "Zenith Exports Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Zenith Exports Ltd has a strong story (score 6.0/10). Catalysts: Small size (\u20b9136cr mcap) \u2014 large runway ahead, Established company (founded ~1969), Growth ambition evident in description. Taleb signals: Optionality: capability expansion signals detected, Antifragility: geographic diversification. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9136cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1969)",
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,118 @@
+{
+  "symbol": "531352",
+  "name": "Peeti Securities Ltd",
+  "sector": "",
+  "market_cap": "\u20b97.20Cr.",
+  "market_cap_cr": 7.2,
+  "description": "AboutIncorporated in 1994, Peeti Securities Ltd is in the business of trading textiles and garments.[1]Key PointsBusiness Overview:[1]PSL was engaged in finance, securities trading, and textile trading. Currently, its core operations involve purchasing grey cloth from weaving contractors in Bhiwandi, Maharashtra, and processing it into finished fabric through textileprocessors in Surat, Bhiwandi, Tarapur,and Hyderabad. The final product wasmarketed across India under the brandnamePride Textiles.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/531352/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Peeti Securities Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Peeti Securities Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 0.9% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Peeti Securities Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.65,
+    "normalised_score": -0.589
+  },
+  "laxmi": {
+    "symbol": "531352",
+    "name": "Peeti Securities Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Peeti Securities Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 0.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 0.95,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.88,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "531352",
+    "name": "Peeti Securities Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Peeti Securities Ltd \u2014 weak technical setup (score 1.0/6): Revenue -35.1% YoY \u2014 declining; Net profit declined -22.7% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 90.0,
+    "from_high_pct": 23.2,
+    "revenue_growth_pct": -35.1,
+    "profit_growth_pct": -22.7,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 23.2% of 52w high \u2014 moderate momentum; Revenue -35.1% YoY \u2014 declining; Net profit declined -22.7% YoY",
+    "price_position": {
+      "current_price": 19.2,
+      "52w_high": 25.0,
+      "52w_low": 17.0,
+      "position_pct": 27.5,
+      "from_high_pct": 23.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "531352",
+    "name": "Peeti Securities Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Peeti Securities Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b97cr mcap) \u2014 large runway ahead, Established company (founded ~1994). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b97cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1994)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

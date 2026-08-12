@@ -1,0 +1,110 @@
+{
+  "symbol": "AXISBANK",
+  "name": "Axis Bank Ltd",
+  "sector": "",
+  "market_cap": "\u20b93,82,671Cr.",
+  "market_cap_cr": 382671.0,
+  "description": "AboutIncorporated  in  December  1993,  Axis  Bank  Limited  is  a  private  sector  bank.It  has  the  third-largest network of branches among private sector banks and an international presence through branches in DIFC (Dubai) and Singapore along with representative offices in Abu Dhabi, Sharjah, Dhaka and Dubai and an offshore banking unit in GIFT City.[1]Key PointsMarket Leadership[1][2]- 3rd largest private sector bank in India- 4th largest issuer of credit cards- 5% market share in deposits, 5.5% market share in advances.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AXISBANK/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Axis Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.1% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Axis Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.1% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 6.1% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Axis Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.1% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.888,
+    "normalised_score": -0.642
+  },
+  "laxmi": {
+    "symbol": "AXISBANK",
+    "name": "Axis Bank Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Axis Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.1% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.1% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 6.07,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -2.27,
+    "forensic_flags": [],
+    "owner_earnings": 7358.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AXISBANK",
+    "name": "Axis Bank Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Axis Bank Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 13.3% of 52w high \u2014 strong momentum. Concerns: Revenue -13.4% YoY \u2014 declining, Net profit declined -10.5% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 14.8,
+    "from_high_pct": 13.3,
+    "revenue_growth_pct": -13.4,
+    "profit_growth_pct": -10.5,
+    "optionality_signals": [],
+    "technical_notes": "Price within 13.3% of 52w high \u2014 strong momentum; Revenue -13.4% YoY \u2014 declining; Net profit declined -10.5% YoY",
+    "price_position": {
+      "current_price": 1230.0,
+      "52w_high": 1418.0,
+      "52w_low": 1041.0,
+      "position_pct": 50.1,
+      "from_high_pct": 13.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AXISBANK",
+    "name": "Axis Bank Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Axis Bank Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1993)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "symbol": "531502",
+  "name": "Esaar (India) Ltd",
+  "sector": "",
+  "market_cap": "\u20b922.5Cr.",
+  "market_cap_cr": 22.5,
+  "description": "AboutIncorporated in 1951, Esaar Ltd is engaged in providing Asset Finance.[1]Key PointsBusiness Overview:[1]EL is registered as a non-systematic important non-deposit-taking non-banking financial company that is in the business of offering the financing of assets.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/531502/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Esaar (India) Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "Esaar (India) Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 30.9% > 20% \u2014 exceptional capital efficiency. What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality; Low PE 2.0 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Esaar (India) Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.848,
+    "normalised_score": -0.633
+  },
+  "laxmi": {
+    "symbol": "531502",
+    "name": "Esaar (India) Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Esaar (India) Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "ROCE 30.9% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/3 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 30.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": -4.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "531502",
+    "name": "Esaar (India) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Esaar (India) Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Revenue +125.0% YoY \u2014 strong momentum, PE 2.0 < revenue growth 125.0% \u2014 undervalued vs growth. Concerns: Price 45.3% below 52w high \u2014 weak price action. Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality; Low PE 2.0 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 3.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "strong",
+    "pe_ratio": 2.02,
+    "from_high_pct": 45.3,
+    "revenue_growth_pct": 125.0,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+      "Low PE 2.0 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Revenue +125.0% YoY \u2014 strong momentum; PE 2.0 < revenue growth 125.0% \u2014 undervalued vs growth; Price 45.3% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 11.0,
+      "52w_high": 20.1,
+      "52w_low": 7.66,
+      "position_pct": 26.8,
+      "from_high_pct": 45.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "531502",
+    "name": "Esaar (India) Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Esaar (India) Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b922cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1951)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

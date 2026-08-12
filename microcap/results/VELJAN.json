@@ -1,0 +1,112 @@
+{
+  "symbol": "VELJAN",
+  "name": "Veljan Denison Ltd",
+  "sector": "",
+  "market_cap": "\u20b9765Cr.",
+  "market_cap_cr": 765.0,
+  "description": "AboutIncorporated in 1973, Veljan Denison Ltd manufactures Hydraulic Pumps, Motors, Valves and Custom Built Power Packs[1]Key PointsBusiness Overview:[1][2]VDL used to be a part of Hagglunds of Sweden but is now working as a Veljan's group company. It is in the business of manufacturing Pumps, Motors, Valves and custom-built Power systems / Manifold blocks. Company manufactures precision engineering components and has its own research and development wing in Hyderabad.Read MoreWebsiteBSENSE\n                - BE",
+  "screener_url": "https://www.screener.in/company/VELJAN/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Veljan Denison Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Veljan Denison Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Veljan Denison Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 14.9% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "VELJAN",
+    "name": "Veljan Denison Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Veljan Denison Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 14.9% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 14.9% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 14.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.0,
+    "forensic_flags": [],
+    "owner_earnings": 13.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "VELJAN",
+    "name": "Veljan Denison Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Veljan Denison Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 14.1% of 52w high \u2014 strong momentum. Concerns: Revenue 0.0% YoY \u2014 declining, Net profit declined 0.0% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 30.2,
+    "from_high_pct": 14.1,
+    "revenue_growth_pct": 0.0,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 14.1% of 52w high \u2014 strong momentum; Revenue 0.0% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 1700.0,
+      "52w_high": 1980.0,
+      "52w_low": 752.0,
+      "position_pct": 77.2,
+      "from_high_pct": 14.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "VELJAN",
+    "name": "Veljan Denison Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Veljan Denison Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~1973), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1973)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

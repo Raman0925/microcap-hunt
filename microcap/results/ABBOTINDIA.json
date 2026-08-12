@@ -1,0 +1,110 @@
+{
+  "symbol": "ABBOTINDIA",
+  "name": "Abbott India Ltd",
+  "sector": "",
+  "market_cap": "\u20b959,542Cr.",
+  "market_cap_cr": 59542.0,
+  "description": "AboutAbbott India Ltd is one of the leading multinational pharmaceutical companies in India and sells its products through independent distributors primarily within India.[1]It was established in 1944.[2]Key PointsAbbott Group:[1]The company is a part of Abbott Laboratories, USA which has a presence in 160 countries with leading medical devices, diagnostics, nutrition products, and branded generic medicines.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ABBOTINDIA/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Abbott India Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Abbott India Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 44.8% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "ABBOTINDIA",
+    "name": "Abbott India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Abbott India Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 44.8% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 44.8% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 44.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.94,
+    "forensic_flags": [],
+    "owner_earnings": 229.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ABBOTINDIA",
+    "name": "Abbott India Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Abbott India Ltd \u2014 weak technical setup (score 1.0/6): Revenue -12.4% YoY \u2014 declining; Net profit declined -10.2% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 38.5,
+    "from_high_pct": 17.7,
+    "revenue_growth_pct": -12.4,
+    "profit_growth_pct": -10.2,
+    "optionality_signals": [],
+    "technical_notes": "Price within 17.7% of 52w high \u2014 moderate momentum; Revenue -12.4% YoY \u2014 declining; Net profit declined -10.2% YoY",
+    "price_position": {
+      "current_price": 28020.0,
+      "52w_high": 34060.0,
+      "52w_low": 25150.0,
+      "position_pct": 32.2,
+      "from_high_pct": 17.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ABBOTINDIA",
+    "name": "Abbott India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Abbott India Ltd has a mixed narrative (score 3.0/10). Positives: Operating in large / growing sector, No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

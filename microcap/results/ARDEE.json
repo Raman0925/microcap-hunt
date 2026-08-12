@@ -1,0 +1,109 @@
+{
+  "symbol": "ARDEE",
+  "name": "Ardee Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,776Cr.",
+  "market_cap_cr": 1776.0,
+  "description": "AboutIncorporated in 1993, Ardee IndustriesLimited focusses on the sustainablerecovery and recycling of end-of-life energy storage products andnon-ferrous scrap.[1]Key PointsBusiness Profile:[1]Ardee Industries Ltd. is engagedin the environmentally responsiblerecovery and recycling of end-of-life lead-acid batteries and non-ferrous metal scrap. The companymanufactures high purity refinedlead and customized lead alloysused across energy storage,automotive, e-mobility, cable,chemical, telecom, and industrialapplications.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ARDEE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ardee Industries Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/4 years positive; D/E ratio not available",
+  "verdict_memo": "Ardee Industries Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/4 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 49.1% > 20% \u2014 exceptional capital efficiency. What to watch: FCF inconsistent \u2014 only 1/4 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ardee Industries Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/4 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.56,
+    "normalised_score": -0.569
+  },
+  "laxmi": {
+    "symbol": "ARDEE",
+    "name": "Ardee Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Ardee Industries Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/4 years positive; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "ROCE 49.1% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/4 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 49.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -1.56,
+    "forensic_flags": [],
+    "owner_earnings": 9.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ARDEE",
+    "name": "Ardee Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Ardee Industries Ltd \u2014 weak technical setup (score 0.0/6): 52w high/low data unavailable; Revenue -11.0% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 20.9,
+    "from_high_pct": null,
+    "revenue_growth_pct": -11.0,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "52w high/low data unavailable; Revenue -11.0% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": null,
+      "52w_high": null,
+      "52w_low": null,
+      "position_pct": null,
+      "from_high_pct": null
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ARDEE",
+    "name": "Ardee Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Ardee Industries Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~1993), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1993)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

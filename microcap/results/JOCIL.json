@@ -1,0 +1,113 @@
+{
+  "symbol": "JOCIL",
+  "name": "Jocil Ltd",
+  "sector": "",
+  "market_cap": "\u20b9134Cr.",
+  "market_cap_cr": 134.0,
+  "description": "AboutIncorporated in 1981, Jocil Ltd manufactures Fatty Acids and Toilet Soap and generation of power from renewable sources \u2013 Biomass and Wind[1]Key PointsBusiness Overview:[1]Company manufactures Stearic Acid, Fatty Acids, Refined Glycerine, Soap Noodles, Toilet Soap, Industrial Oxygen and in the generation of Power from biomass and wind. Non edible vegetable oils and Fat distillates are used as raw materials to manufacture finished products. The products manufactured are marketed directly from the factory and through Depots and C&F Agents. Company also manufactures Soap  Noodles and Toilet Soap on contract basis for reputed customersRead MoreWebsiteNSE\n                - BE",
+  "screener_url": "https://www.screener.in/company/JOCIL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Jocil Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Jocil Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Convexity: both B2B and B2C revenue streams",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Jocil Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "JOCIL",
+    "name": "Jocil Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Jocil Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 5.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 5.62,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 0.85,
+    "forensic_flags": [],
+    "owner_earnings": 13.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "JOCIL",
+    "name": "Jocil Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Jocil Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 13.7% of 52w high \u2014 strong momentum. Concerns: Revenue -15.8% YoY \u2014 declining, Net profit declined -27.8% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 16.3,
+    "from_high_pct": 13.7,
+    "revenue_growth_pct": -15.8,
+    "profit_growth_pct": -27.8,
+    "optionality_signals": [],
+    "technical_notes": "Price within 13.7% of 52w high \u2014 strong momentum; Revenue -15.8% YoY \u2014 declining; Net profit declined -27.8% YoY",
+    "price_position": {
+      "current_price": 151.0,
+      "52w_high": 175.0,
+      "52w_low": 91.2,
+      "position_pct": 71.4,
+      "from_high_pct": 13.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "JOCIL",
+    "name": "Jocil Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Jocil Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b9134cr mcap) \u2014 large runway ahead, Established company (founded ~1981). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9134cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1981)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

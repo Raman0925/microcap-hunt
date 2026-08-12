@@ -1,0 +1,113 @@
+{
+  "symbol": "HINDZINC",
+  "name": "Hindustan Zinc Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,47,878Cr.",
+  "market_cap_cr": 247878.0,
+  "description": "AboutIncorporated in 1966, Hindustan Zinc in Zinc-Lead and Silver business is world\u2019s 2nd largest integrated Zinc producer and Hindustan Zinc is the 3rd largest silver producer globally with an annual capacity of 800MT . The company has a market share of ~75% of the growing Zinc market in India with its headquarters at Zinc City, Udaipur along with Zinc-Lead mines and smelting complexes spread across the state of Rajasthan.[1]Key PointsBusiness Segments[1]a) Zinc, Lead and Silver (94% in Q1 FY27 vs 97% in Q1 FY26):[2][3]The company is the world\u2019slargestintegrated zinc producer and is amongst thetop 10silver producers globally. It supplies to more than40countries and holds a market share of about74%of the primary zinc market in India. Its portfolio supports key sectors like infrastructure, railways, mobility, power, renewable energy and digital technologies, with applications ranging from construction, automotive and batteries to solar PV, semiconductors, jewellery and emerging solution",
+  "screener_url": "https://www.screener.in/company/HINDZINC/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Hindustan Zinc Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Hindustan Zinc Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Hindustan Zinc Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 69.2% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.5/6 \u2014 borderline (45% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "HINDZINC",
+    "name": "Hindustan Zinc Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Hindustan Zinc Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 69.2% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 69.2% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 69.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 0.68,
+    "forensic_flags": [],
+    "owner_earnings": 8178.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "HINDZINC",
+    "name": "Hindustan Zinc Ltd",
+    "verdict": "borderline",
+    "confidence": 0.45,
+    "report": "Hindustan Zinc Ltd \u2014 mixed technical signals (score 2.5/6). Positives: Price within 19.9% of 52w high \u2014 moderate momentum, Revenue +4.3% YoY \u2014 growing. Concerns: Profit grew +0.0% but margin compressed.",
+    "score": 2.5,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 14.6,
+    "from_high_pct": 19.9,
+    "revenue_growth_pct": 4.3,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 19.9% of 52w high \u2014 moderate momentum; Revenue +4.3% YoY \u2014 growing; Profit grew +0.0% but margin compressed",
+    "price_position": {
+      "current_price": 587.0,
+      "52w_high": 733.0,
+      "52w_low": 418.0,
+      "position_pct": 53.7,
+      "from_high_pct": 19.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "HINDZINC",
+    "name": "Hindustan Zinc Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Hindustan Zinc Ltd has a mixed narrative (score 5.0/10). Positives: Established company (founded ~1966), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1966)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,114 @@
+{
+  "symbol": "ABB",
+  "name": "ABB India Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,61,294Cr.",
+  "market_cap_cr": 161294.0,
+  "description": "AboutABB India Limited is an integrated power equipment manufacturer supplying the complete range of engineering, products, solutions and services in areas of Automation and Power technology.[1]Key PointsSynergies with Parent:[1][2]The company is a subsidiary of ABB Ltd which is aglobal leader in electrification and automationwith operations in100+ countries. The company receives inputs from its parent company, including access to ABB\u2019s centralized R&D facilities, for which it pays royalties. Additionally, ABB offers management support by appointing delegates to the board of ABB India.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ABB/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "ABB India Ltd \u2014 borderline (score 0.17). Laxmi: borderline | Meera: borderline | Tara: pass. Worth watching but not a buy yet.",
+  "verdict_memo": "ABB India Ltd \u2014 borderline (score 0.17). Laxmi: borderline | Meera: borderline | Tara: pass. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 6.7/10",
+  "investment_thesis": "ABB India Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 29.9% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.17"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.75,
+    "normalised_score": 0.167
+  },
+  "laxmi": {
+    "symbol": "ABB",
+    "name": "ABB India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "ABB India Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 29.9% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 29.9% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 29.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 2.09,
+    "forensic_flags": [],
+    "owner_earnings": 229.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ABB",
+    "name": "ABB India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "ABB India Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 3.9% of 52w high \u2014 strong momentum. Concerns: Revenue -5.0% YoY \u2014 declining, Net profit declined -23.7% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 105.0,
+    "from_high_pct": 3.9,
+    "revenue_growth_pct": -5.0,
+    "profit_growth_pct": -23.7,
+    "optionality_signals": [],
+    "technical_notes": "Price within 3.9% of 52w high \u2014 strong momentum; Revenue -5.0% YoY \u2014 declining; Net profit declined -23.7% YoY",
+    "price_position": {
+      "current_price": 7612.0,
+      "52w_high": 7924.0,
+      "52w_low": 4638.0,
+      "position_pct": 90.5,
+      "from_high_pct": 3.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ABB",
+    "name": "ABB India Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "ABB India Ltd has a strong story (score 6.0/10). Catalysts: Growth ambition evident in description, Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Taleb signals: Optionality: capability expansion signals detected, Antifragility: multiple segments / diversified revenue. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

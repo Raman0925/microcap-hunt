@@ -1,0 +1,46 @@
+{
+  "company": "Aartech Solonics Ltd",
+  "symbol": "AARTECH",
+  "market_cap_cr": 154,
+  "price": 48.5,
+  "analysis_date": "2026-08-12",
+  "analyst_verdicts": {
+    "laxmi": {
+      "verdict": "FAIL",
+      "score": 2,
+      "key_finding": "FCF positive 2/5 years. ROCE 5yr avg 6.97%. Working capital exploded 64→201 days. Debtor days 60→148 in one year. 48% of FY26 PAT is 'other income' — core earnings near zero. Not investable.",
+      "veto_triggered": false
+    },
+    "meera": {
+      "verdict": "FAIL",
+      "score": 3,
+      "key_finding": "44x P/E at 7% avg ROCE = expensive for quality. Revenue lumpy (4x intra-year swing in FY26). FY26 margin 'breakout' is single-quarter anomaly. Stock down 25% in 1 year. Market already skeptical.",
+      "veto_triggered": false
+    },
+    "tara": {
+      "verdict": "FAIL",
+      "score": 2,
+      "key_finding": "44 years old at ₹50 Cr revenue = stagnation not discipline. FRAGILE not antifragile. 201-day working capital = one delayed payment from liquidity crisis. Zero R&D, no new products. Promoter flat for 3 years, no buying.",
+      "veto_triggered": false
+    }
+  },
+  "debate_protocol": {
+    "result": "REJECTED",
+    "reasoning": "All three analysts FAIL. Unanimous rejection. Primary reasons: structurally uncompetitive (44yr company at ₹50 Cr revenue), working capital destruction, near-zero core earnings, and expensive valuation at 44x P/E.",
+    "auto_reject_triggered": true,
+    "fraud_veto": false,
+    "one_line": "44-year-old business at ₹50 Cr revenue with near-zero core earnings, 201-day working capital, and 44x P/E — unanimous FAIL."
+  },
+  "business_summary": {
+    "sector": "Electrical Machinery and Apparatus",
+    "founded": 1982,
+    "revenue_fy26_cr": 40,
+    "opm_pct_range": "-25% to +31% (erratic)",
+    "roce_5yr_avg_pct": 6.97,
+    "debt_equity": 0.16,
+    "promoter_holding_pct": 52.75,
+    "promoter_pledging_pct": 0,
+    "pe": 44.0,
+    "fatal_flaw": "48% of PAT is other income; receivable days spiked 60→148; working capital 64→201 days; 44 years old and still cannot scale"
+  }
+}

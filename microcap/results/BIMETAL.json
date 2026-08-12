@@ -1,0 +1,114 @@
+{
+  "symbol": "BIMETAL",
+  "name": "Bimetal Bearings Ltd",
+  "sector": "",
+  "market_cap": "\u20b9249Cr.",
+  "market_cap_cr": 249.0,
+  "description": "AboutIncorporated in 1961, Bimetal Bearings Ltd manufactures Engine Bearings, Bushings, Thrust Washers, Alloy Powder and Bimetallic Strips.[1]Key PointsBusiness Overview:[1]Bimetal Bearings Limited is a manufacturer of engine bearings, bushings, thrust washers, alloy powders, and bimetallic strips, operating three integrated plants across Chennai, Coimbatore, and Hosur. Backed by the Amalgamations Group, the Company serves leading automotive OEMs, defence, railway, and export markets.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BIMETAL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bimetal Bearings Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Bimetal Bearings Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 6.9% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bimetal Bearings Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.9% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 2,
+    "borderlines": 0,
+    "weighted_score": -0.55,
+    "normalised_score": -0.122
+  },
+  "laxmi": {
+    "symbol": "BIMETAL",
+    "name": "Bimetal Bearings Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Bimetal Bearings Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.9% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 6.89,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -1.17,
+    "forensic_flags": [],
+    "owner_earnings": 6.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BIMETAL",
+    "name": "Bimetal Bearings Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Bimetal Bearings Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 13.6% of 52w high \u2014 strong momentum, Revenue +10.6% YoY \u2014 growing, Profit +20.0% YoY with margin expansion \u2014 quality growth. Notes: none.",
+    "score": 4.0,
+    "price_signal": "bullish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "growing",
+    "pe_ratio": 22.1,
+    "from_high_pct": 13.6,
+    "revenue_growth_pct": 10.6,
+    "profit_growth_pct": 20.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 13.6% of 52w high \u2014 strong momentum; Revenue +10.6% YoY \u2014 growing; Profit +20.0% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 649.0,
+      "52w_high": 751.0,
+      "52w_low": 491.0,
+      "position_pct": 60.8,
+      "from_high_pct": 13.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BIMETAL",
+    "name": "Bimetal Bearings Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Bimetal Bearings Ltd has a strong story (score 6.0/10). Catalysts: Small size (\u20b9249cr mcap) \u2014 large runway ahead, Established company (founded ~1961), Growth ambition evident in description. Taleb signals: Optionality: capability expansion signals detected. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9249cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1961)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 3.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

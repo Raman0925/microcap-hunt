@@ -1,0 +1,108 @@
+{
+  "symbol": "531199",
+  "name": "Glance Finance Ltd",
+  "sector": "",
+  "market_cap": "\u20b934.6Cr.",
+  "market_cap_cr": 34.6,
+  "description": "AboutIncorporated in 1995, Glance Finance Ltd isin the business of investments and lending.[1]Key PointsBusiness Overview:[1]GFL is registered as a non-systematically important non-deposit-taking non-banking financial company. It deals in investmentsand giving loans. Currently, the companyhas increased investments in the private andmutual fund markets and continues to explore further investment opportunities in this area.The company also continued to steadily growits asset leasing business.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/531199/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Glance Finance Ltd \u2014 rejected (score -0.13). Laxmi: borderline | Meera: pass | Tara: reject.",
+  "verdict_memo": "Glance Finance Ltd \u2014 rejected (score -0.13). Laxmi: borderline | Meera: pass | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 13.2% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.13"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -0.587,
+    "normalised_score": -0.131
+  },
+  "laxmi": {
+    "symbol": "531199",
+    "name": "Glance Finance Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Glance Finance Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 13.2% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 13.2% (adequate)",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 13.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 0.62,
+    "forensic_flags": [],
+    "owner_earnings": 1.5,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "531199",
+    "name": "Glance Finance Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Glance Finance Ltd \u2014 solid technical setup (score 4.0/6). Signals: Revenue +47.4% YoY \u2014 strong momentum, Profit +406.7% YoY with margin expansion \u2014 quality growth, PE 12.4 < revenue growth 47.4% \u2014 undervalued vs growth. Notes: Price 39.3% below 52w high \u2014 weak price action.",
+    "score": 4.0,
+    "price_signal": "bearish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 12.4,
+    "from_high_pct": 39.3,
+    "revenue_growth_pct": 47.4,
+    "profit_growth_pct": 406.7,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +47.4% YoY \u2014 strong momentum; Profit +406.7% YoY with margin expansion \u2014 quality growth; PE 12.4 < revenue growth 47.4% \u2014 undervalued vs growth; Price 39.3% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 153.0,
+      "52w_high": 252.0,
+      "52w_low": 141.0,
+      "position_pct": 10.8,
+      "from_high_pct": 39.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "531199",
+    "name": "Glance Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Glance Finance Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b935cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1995)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,110 @@
+{
+  "symbol": "APEX",
+  "name": "Apex Frozen Foods Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,180Cr.",
+  "market_cap_cr": 1180.0,
+  "description": "AboutIncorporated in 1995, Apex Frozen Foods Ltd is in the business of processing and exporting of Shrimps[1]Key PointsBusiness Overview:[1][2]AFFL is engaged in processing and preserving fish, crustaceans, and molluscs, primarily dealing in processed frozen shrimp on a B2B basis. Its distributors supply these products to HORECA (Hotels, Restaurants, Caf\u00e9s) and departmental stores in the USA, European Union, and China. Additionally, AFFL sells shrimp seeds to farmers.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/APEX/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Apex Frozen Foods Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 10.4% \u2014 poor capital efficiency",
+  "verdict_memo": "Apex Frozen Foods Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 10.4% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 10.4% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Apex Frozen Foods Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 10.4% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.59,
+    "normalised_score": -0.576
+  },
+  "laxmi": {
+    "symbol": "APEX",
+    "name": "Apex Frozen Foods Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Apex Frozen Foods Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 10.4% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 10.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 10.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.67,
+    "forensic_flags": [],
+    "owner_earnings": 18.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "APEX",
+    "name": "Apex Frozen Foods Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Apex Frozen Foods Ltd \u2014 weak technical setup (score 1.0/6): Revenue -0.8% YoY \u2014 declining; Net profit declined -5.3% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 30.4,
+    "from_high_pct": 26.5,
+    "revenue_growth_pct": -0.8,
+    "profit_growth_pct": -5.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 26.5% of 52w high \u2014 moderate momentum; Revenue -0.8% YoY \u2014 declining; Net profit declined -5.3% YoY",
+    "price_position": {
+      "current_price": 378.0,
+      "52w_high": 514.0,
+      "52w_low": 203.0,
+      "position_pct": 56.3,
+      "from_high_pct": 26.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "APEX",
+    "name": "Apex Frozen Foods Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Apex Frozen Foods Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1995), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1995)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

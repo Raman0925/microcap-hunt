@@ -1,0 +1,113 @@
+{
+  "symbol": "BALAJITELE",
+  "name": "Balaji Telefilms Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,106Cr.",
+  "market_cap_cr": 1106.0,
+  "description": "AboutIncorporated in 1994, Balaji Telefilms Ltd is in the business of production of TV content, Films, event business, B2C and B2B digital content business and operates a SVOD, OTT platform, etc.[1]Key PointsBusiness Overview:[1][2]BTL is one of India\u2019s leading entertainment companies operating across television, movie and digital content production. It is amongst the largest content production houses in Asia and Middle Easta)TV:Company has produced some very popular television serials in the country including the famous K Series of daily soaps such as Kyunki Saas Bhi Kabhi Bahu Thi, Kahaani Ghar Ghar Ki, Kasauti Zindagi Kay, Naagin 1 to Naagin 6, etc. Amongst current slate, Kundali Bhagya, Kumkum Bhagya, Bhagya Lakshmi and Yeh Hai Chahatein are very famous in India todayb)Films & Production:Company has done production of different cinematic content across different genres.It was involved in creating a number of commercial and critically acclaimed movies such as The Dirty Picture, LSD,",
+  "screener_url": "https://www.screener.in/company/BALAJITELE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Balaji Telefilms Ltd \u2014 rejected (score 2.5/10): Low ROCE: -8.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Balaji Telefilms Ltd \u2014 rejected (score 2.5/10): Low ROCE: -8.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: -8.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Convexity: both B2B and B2C revenue streams",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Balaji Telefilms Ltd \u2014 rejected (score 2.5/10): Low ROCE: -8.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.688,
+    "normalised_score": -0.819
+  },
+  "laxmi": {
+    "symbol": "BALAJITELE",
+    "name": "Balaji Telefilms Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Balaji Telefilms Ltd \u2014 rejected (score 2.5/10): Low ROCE: -8.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: -8.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": -8.66,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -0.08,
+    "forensic_flags": [],
+    "owner_earnings": 12.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BALAJITELE",
+    "name": "Balaji Telefilms Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Balaji Telefilms Ltd \u2014 weak technical setup (score 0.0/6): Price 35.6% below 52w high \u2014 weak price action; Revenue -18.3% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": null,
+    "from_high_pct": 35.6,
+    "revenue_growth_pct": -18.3,
+    "profit_growth_pct": -67.6,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 35.6% below 52w high \u2014 weak price action; Revenue -18.3% YoY \u2014 declining; Net profit declined -67.6% YoY",
+    "price_position": {
+      "current_price": 90.8,
+      "52w_high": 141.0,
+      "52w_low": 69.5,
+      "position_pct": 29.8,
+      "from_high_pct": 35.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BALAJITELE",
+    "name": "Balaji Telefilms Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Balaji Telefilms Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1994)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,113 @@
+{
+  "symbol": "ANNAPURNA",
+  "name": "Annapurna Swadisht Ltd",
+  "sector": "",
+  "market_cap": "\u20b9351Cr.",
+  "market_cap_cr": 351.0,
+  "description": "AboutIncorporated in 2016, Annapurna SwadishtLtd is in the business of manufacturing Food Products[1]Key PointsProduct Profile:[1]Company has about11 product categorieswith109 SKUsincluding:a)Fryums[2]b)Namkeen[3]c)Extruded Snacks[4]d)Noodles[5]e)Cake[6]f)Biscuits[7]g)Candy[8]h)Sweets[9]i)Drinks[10]Read MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/ANNAPURNA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Annapurna Swadisht Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Annapurna Swadisht Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/3 years positive; Low ROCE: 10.4% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Annapurna Swadisht Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.788,
+    "normalised_score": -0.842
+  },
+  "laxmi": {
+    "symbol": "ANNAPURNA",
+    "name": "Annapurna Swadisht Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Annapurna Swadisht Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/3 years positive",
+      "Low ROCE: 10.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 10.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.0,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ANNAPURNA",
+    "name": "Annapurna Swadisht Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Annapurna Swadisht Ltd \u2014 weak technical setup (score 0.0/6): Price 43.9% below 52w high \u2014 weak price action; Revenue -30.0% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 15.2,
+    "from_high_pct": 43.9,
+    "revenue_growth_pct": -30.0,
+    "profit_growth_pct": -100.0,
+    "optionality_signals": [],
+    "technical_notes": "Price 43.9% below 52w high \u2014 weak price action; Revenue -30.0% YoY \u2014 declining; Net profit declined -100.0% YoY",
+    "price_position": {
+      "current_price": 161.0,
+      "52w_high": 287.0,
+      "52w_low": 121.0,
+      "position_pct": 24.1,
+      "from_high_pct": 43.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ANNAPURNA",
+    "name": "Annapurna Swadisht Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Annapurna Swadisht Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9351cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2016)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

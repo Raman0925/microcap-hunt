@@ -1,0 +1,112 @@
+{
+  "symbol": "SHIVATEX",
+  "name": "Shiva Texyarn Ltd",
+  "sector": "",
+  "market_cap": "\u20b9212Cr.",
+  "market_cap_cr": 212.0,
+  "description": "AboutIncorporated in 1980, Shiva Texyarn Ltd does manufacturing of cotton yarn and technical textile products like coated and laminated fabrics, home textile and other value added products[1]Key PointsMSME Registration:[1]During FY26, the Company obtained an Udyam Registration Certificate and was registered as a Medium Enterprise under the Micro, Small and Medium Enterprises Development Act, 2006.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/SHIVATEX/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Shiva Texyarn Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Shiva Texyarn Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Shiva Texyarn Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 12.7% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "SHIVATEX",
+    "name": "Shiva Texyarn Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Shiva Texyarn Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 12.7% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 12.7% (adequate)",
+      "Revenue grew 4/4 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 12.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 4,
+    "cfo_to_ebitda": 10.33,
+    "forensic_flags": [],
+    "owner_earnings": 9.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "SHIVATEX",
+    "name": "Shiva Texyarn Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Shiva Texyarn Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 28.1% of 52w high \u2014 moderate momentum, Revenue +3.6% YoY \u2014 growing. Concerns: Net profit declined -18.2% YoY.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 23.2,
+    "from_high_pct": 28.1,
+    "revenue_growth_pct": 3.6,
+    "profit_growth_pct": -18.2,
+    "optionality_signals": [],
+    "technical_notes": "Price within 28.1% of 52w high \u2014 moderate momentum; Revenue +3.6% YoY \u2014 growing; Net profit declined -18.2% YoY",
+    "price_position": {
+      "current_price": 164.0,
+      "52w_high": 228.0,
+      "52w_low": 120.0,
+      "position_pct": 40.7,
+      "from_high_pct": 28.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "SHIVATEX",
+    "name": "Shiva Texyarn Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Shiva Texyarn Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b9212cr mcap) \u2014 large runway ahead, Established company (founded ~1980). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9212cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1980)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

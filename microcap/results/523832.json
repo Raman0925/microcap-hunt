@@ -1,0 +1,111 @@
+{
+  "symbol": "523832",
+  "name": "Mukat Pipes Ltd",
+  "sector": "",
+  "market_cap": "\u20b920.3Cr.",
+  "market_cap_cr": 20.3,
+  "description": "AboutIncorporated in 1987, Mukat Pipes Ltd manufactures and sells Longitudinal & Helical Pipes[1]Key PointsBusiness Overview:[1]MPL is a part of the Mukat Group. It is an ISO- 9001-2015 certified company manufactures Large Diameter Submerged Arc Welded (SAW) M.S. Pipes both Longitudinal & Spiral process in the Diameter range of 12 inches to 100 inches and wall thickness up to 20 mm conforming to IS-3589-2001.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/523832/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Mukat Pipes Ltd \u2014 rejected (score 2.5/10): ROCE not available; D/E ratio not available",
+  "verdict_memo": "Mukat Pipes Ltd \u2014 rejected (score 2.5/10): ROCE not available; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: ROCE not available; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Mukat Pipes Ltd \u2014 rejected (score 2.5/10): ROCE not available; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.637,
+    "normalised_score": -0.808
+  },
+  "laxmi": {
+    "symbol": "523832",
+    "name": "Mukat Pipes Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Mukat Pipes Ltd \u2014 rejected (score 2.5/10): ROCE not available; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "ROCE not available",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": null,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 9.1,
+    "forensic_flags": [],
+    "owner_earnings": -1.9,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "523832",
+    "name": "Mukat Pipes Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Mukat Pipes Ltd \u2014 weak technical setup (score 1.0/6): Price 49.1% below 52w high \u2014 weak price action; Net profit declined -1950.0% YoY Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 1.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 405.0,
+    "from_high_pct": 49.1,
+    "revenue_growth_pct": 0.2,
+    "profit_growth_pct": -1950.0,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +0.2% YoY \u2014 growing; Price 49.1% below 52w high \u2014 weak price action; Net profit declined -1950.0% YoY",
+    "price_position": {
+      "current_price": 17.1,
+      "52w_high": 33.6,
+      "52w_low": 11.8,
+      "position_pct": 24.3,
+      "from_high_pct": 49.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "523832",
+    "name": "Mukat Pipes Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Mukat Pipes Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b920cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1987)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

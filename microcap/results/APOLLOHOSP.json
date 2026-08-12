@@ -1,0 +1,113 @@
+{
+  "symbol": "APOLLOHOSP",
+  "name": "Apollo Hospitals Enterprise Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,25,819Cr.",
+  "market_cap_cr": 125819.0,
+  "description": "AboutApollo Hospitals was established in 1983 by Dr. Prathap C Reddy, renowned architect of modern healthcare in India. As the nation\u2019s first corporate hospital, Apollo Hospitals is acclaimed for pioneering the private healthcare revolution in the country.Apollo Hospitals has emerged as Asia\u2019s foremost integrated healthcare services provider and has a robust presence across the healthcare ecosystem, including Hospitals, Pharmacies,Primary Care & Diagnostic Clinics and several Retail Health models.[1]Key PointsBusiness Segments:a) Healthcare Services (50% in FY26 vs 55% in FY22):[1][2][3]The company has a capacity of 10,970 beds in 78 hospitals located in India and overseas, out of which 9,481 beds are located in 49 owned hospitals, 699 beds in Day Surgery & Cradles and 790 beds are in 6 managed hospitals.b) Digital Health & Pharmacy Distribution (43% in FY26 vs 37% in FY22):[4]The WOS Apollo HealthCo (AHL) managesIndia\u2019s largest organized pharmacy network, operating across 22 states an",
+  "screener_url": "https://www.screener.in/company/APOLLOHOSP/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Apollo Hospitals Enterprise Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "Apollo Hospitals Enterprise Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 17.0% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Apollo Hospitals Enterprise Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Apollo Hospitals Enterprise Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 17.0% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 17.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.12,
+    "forensic_flags": [],
+    "owner_earnings": 347.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Apollo Hospitals Enterprise Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 6.2% of 52w high \u2014 strong momentum, Profit +3.9% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -17.7% YoY \u2014 declining.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 89.4,
+    "from_high_pct": 6.2,
+    "revenue_growth_pct": -17.7,
+    "profit_growth_pct": 3.9,
+    "optionality_signals": [],
+    "technical_notes": "Price within 6.2% of 52w high \u2014 strong momentum; Profit +3.9% YoY with margin expansion \u2014 quality growth; Revenue -17.7% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 8750.0,
+      "52w_high": 9327.0,
+      "52w_low": 6680.0,
+      "position_pct": 78.2,
+      "from_high_pct": 6.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Apollo Hospitals Enterprise Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~1983), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1983)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,111 @@
+{
+  "symbol": "BHEL",
+  "name": "Bharat Heavy Electricals Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,40,327Cr.",
+  "market_cap_cr": 140327.0,
+  "description": "AboutBharat Heavy Electricals Ltd is an integrated power plant equipment manufacturer engaged in design, engineering, manufacture, erection, testing, commissioning and servicing of a wide range of products and services for the core sectors of the economy, viz. Power, transmission, Industry, transportation, renewable energy, Oil & Gas and defence.[1]It is the flagship engineering and manufacturing company of India owned and controlled by the Govt. of India.[2]Key PointsBusiness SegmentsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BHEL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bharat Heavy Electricals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Bharat Heavy Electricals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 9.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bharat Heavy Electricals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.0% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.3,
+    "normalised_score": -0.289
+  },
+  "laxmi": {
+    "symbol": "BHEL",
+    "name": "Bharat Heavy Electricals Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Bharat Heavy Electricals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.0% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 9.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 8.98,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.55,
+    "forensic_flags": [],
+    "owner_earnings": 1419.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BHEL",
+    "name": "Bharat Heavy Electricals Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Bharat Heavy Electricals Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 9.8% of 52w high \u2014 strong momentum, Revenue +20.6% YoY \u2014 strong momentum. Notes: none.",
+    "score": 4.0,
+    "price_signal": "bullish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 58.1,
+    "from_high_pct": 9.8,
+    "revenue_growth_pct": 20.6,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 9.8% of 52w high \u2014 strong momentum; Revenue +20.6% YoY \u2014 strong momentum",
+    "price_position": {
+      "current_price": 403.0,
+      "52w_high": 447.0,
+      "52w_low": 205.0,
+      "position_pct": 81.8,
+      "from_high_pct": 9.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BHEL",
+    "name": "Bharat Heavy Electricals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Bharat Heavy Electricals Ltd has a mixed narrative (score 3.5/10). Positives: Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "analyst": "Meera",
+  "company": "Aartech Solonics",
+  "symbol": "AARTECH",
+  "verdict": "FAIL",
+  "score": 3,
+  "price_from_52w_high_pct": -26,
+  "price_from_52w_low_pct": 45,
+  "revenue_growth_yoy_pct": 12.5,
+  "pe_ratio": 44.0,
+  "peg_ratio": 1.16,
+  "is_cheap_or_ignored": "expensive — business is growing but quality is poor; market pricing in optimism that isn't yet earned",
+  "promoter_buying": false,
+  "data": {
+    "revenue_annual_cr": {
+      "FY15": 9.23, "FY16": 9.73, "FY17": 12.73, "FY18": 11.21,
+      "FY19": 14.54, "FY20": 10.04, "FY21": 10.93, "FY22": 16.36,
+      "FY23": 21.65, "FY24": 32.69, "FY25": 35.70, "FY26": 40.18
+    },
+    "net_profit_annual_cr": {
+      "FY22": 1.42, "FY23": 1.38, "FY24": 1.44, "FY25": 2.04, "FY26": 3.50
+    },
+    "opm_pct": {
+      "FY22": 1.83, "FY23": 4.48, "FY24": 1.22, "FY25": 2.46, "FY26": 12.44
+    },
+    "roce_pct": {
+      "FY22": 2.02, "FY23": 7.05, "FY24": 5.35, "FY25": 4.57, "FY26": 15.86
+    },
+    "debtor_days": {
+      "FY22": 157.96, "FY23": 178.71, "FY24": 105.29, "FY25": 59.71, "FY26": 148.16
+    },
+    "working_capital_days": {
+      "FY22": 118.02, "FY23": 172.81, "FY24": 71.01, "FY25": 63.80, "FY26": 200.67
+    },
+    "free_cash_flow_cr": {
+      "FY22": 0.74, "FY23": -7.31, "FY24": 1.99, "FY25": -2.32, "FY26": -3.18
+    },
+    "revenue_cagr": {
+      "10yr": "15%", "5yr": "30%", "3yr": "23%", "ttm": "13%"
+    },
+    "profit_cagr": {
+      "10yr": "33%", "5yr": "46%", "3yr": "38%", "ttm": "97%"
+    },
+    "promoter_holding_pct": {
+      "Sep23": 52.68, "Mar24": 52.68, "Sep24": 52.68, "Mar25": 52.72, "Jun26": 52.75
+    },
+    "price_to_book": 4.34,
+    "roe_3yr_avg_pct": 6.12,
+    "stock_cagr_1yr": "-25%"
+  },
+  "reasoning": "AARTECH is a 40-year-old maker of electrical machinery and apparatus — a niche project-based business with revenue growing from ~₹10 Cr (FY15) to ₹40 Cr (FY26), a genuine 10-year 15% revenue CAGR. However, nearly every quality metric argues against the 44x P/E valuation. (1) Revenue growth is LUMPY, not structural: Q4 FY26 alone was ₹17.46 Cr vs Q1 FY26 of ₹4.33 Cr — a 4x intra-year swing. This is classic order-book project revenue, not scalable recurring revenue. (2) Operating margins have been atrocious for a decade: 0.24%–4.48% from FY17–FY25. FY26 margin of 12.44% is the best ever by a wide margin — entirely due to a monster Q4 (17.46 Cr quarter). Sustainability is highly questionable. (3) FY26 appears to be an inflection year driving TTM profit growth of 97% and ROCE jumping to 15.86% — but this masks that 10-year avg ROCE was ~5% and 3-year avg ROE was only 6.12%. One good year does not a quality business make. (4) Free cash flow is NEGATIVE in FY26 (-3.18 Cr) despite ₹3.50 Cr reported net profit — earnings quality is poor. CFO/OP ratio swings wildly from -640% to +695%, indicating working capital is consuming all profits. (5) Working capital days have blown out from 63 (FY25) to 201 (FY26), and debtor days from 60 to 148. This is deeply alarming — the company is booking revenue but not collecting cash. Massive channel stuffing or long collection cycles on project work. (6) At 4.34x book value and 44x P/E, the stock is priced for a high-quality, consistently profitable business. AARTECH is neither. PEG of 1.16 (using 3-yr 38% profit CAGR) seems reasonable but is built on volatile project revenues. (7) Promoter holding flat at ~52.7% with zero meaningful buying — no insider conviction signal. No FII/DII interest. (8) Technical: stock is 26% below 52-week high (₹65.9) and declined 25% in the past year. The market already saw through the hype. (9) The company is barely ₹154 Cr market cap on ₹40 Cr revenue — tiny, illiquid, prone to price manipulation. CONCLUSION: Classic microcap with genuine but lumpy project revenue, one exceptional year inflating all metrics, severe working capital deterioration masking poor cash conversion, and a valuation that assumes the breakout is permanent. This is a FAIL — not because the business is dying, but because the risk/reward is terrible at 44x P/E with negative FCF, historically poor ROCE, and collapsing collection efficiency. Watch for 2-3 years of consistent margins and FCF positivity before considering."
+}

@@ -1,0 +1,116 @@
+{
+  "symbol": "BALAJEE",
+  "name": "Shree Tirupati Balajee Agro Trading Co. Ltd",
+  "sector": "",
+  "market_cap": "\u20b9222Cr.",
+  "market_cap_cr": 222.0,
+  "description": "AboutEstablished in 2001, Shree Tirupati Balajee Agro Trading Company Limited manufactures and sells Flexible Intermediate Bulk Containers (FIBCs) and other industrial packaging products, including woven sacks, woven fabric, narrow fabric, and tapes.[1]Key PointsProduct Portfolio[1]Their product portfolio includes industrial and consumer packaging solutions, lifestyle products, automotive components, healthcare products, and construction-related items.Its product range features UN-certified bulk bags, thermal insulation bags, Type C bags, patented Aero-polymesh bags, fire retardant bags, shape-lock bags, rodent repellent bags, multi-layer liner bags, drum bags, container liner bags, recycled PP bags, BOPP printed bags, asbestos bags, sift-proof bags, Type D bags, and specialized PP woven bags.[2][3]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BALAJEE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Shree Tirupati Balajee Agro Trading Co. Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Shree Tirupati Balajee Agro Trading Co. Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 6.5% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Convexity: both B2B and B2C revenue streams",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Shree Tirupati Balajee Agro Trading Co. Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.5% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.55,
+    "normalised_score": -0.567
+  },
+  "laxmi": {
+    "symbol": "BALAJEE",
+    "name": "Shree Tirupati Balajee Agro Trading Co. Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Shree Tirupati Balajee Agro Trading Co. Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.5% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 6.55,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 2.25,
+    "forensic_flags": [],
+    "owner_earnings": 4.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BALAJEE",
+    "name": "Shree Tirupati Balajee Agro Trading Co. Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Shree Tirupati Balajee Agro Trading Co. Ltd \u2014 weak technical setup (score 1.0/6): Price 54.6% below 52w high \u2014 weak price action; Net profit declined 0.0% YoY Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 1.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 25.1,
+    "from_high_pct": 54.6,
+    "revenue_growth_pct": 3.3,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +3.3% YoY \u2014 growing; Price 54.6% below 52w high \u2014 weak price action; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 27.2,
+      "52w_high": 59.9,
+      "52w_low": 21.0,
+      "position_pct": 15.9,
+      "from_high_pct": 54.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BALAJEE",
+    "name": "Shree Tirupati Balajee Agro Trading Co. Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Shree Tirupati Balajee Agro Trading Co. Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b9222cr mcap) \u2014 large runway ahead, Established company (founded ~2001). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9222cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2001)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

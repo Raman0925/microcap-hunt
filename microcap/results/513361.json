@@ -1,0 +1,108 @@
+{
+  "symbol": "513361",
+  "name": "India Homes Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,005Cr.",
+  "market_cap_cr": 1005.0,
+  "description": "AboutIncorporated in 1990, India Steel Works Ltd manufactures and trades steel products[1]Key PointsBusiness Overview:[1]Company is in the business of steel manufacturing and trading Cobalt derivatives, Bismuth & Tungsten derivatives, and organic intermediates including Tartaric acid derivatives and other intermediates.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/513361/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "India Homes Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "India Homes Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 17.5% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.24"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.087,
+    "normalised_score": -0.242
+  },
+  "laxmi": {
+    "symbol": "513361",
+    "name": "India Homes Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "India Homes Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 17.5% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 17.5% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 17.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 11.5,
+    "forensic_flags": [],
+    "owner_earnings": 2.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "513361",
+    "name": "India Homes Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "India Homes Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 8.4% of 52w high \u2014 strong momentum. Concerns: Revenue -12.0% YoY \u2014 declining, Net profit declined -50.0% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 59.4,
+    "from_high_pct": 8.4,
+    "revenue_growth_pct": -12.0,
+    "profit_growth_pct": -50.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 8.4% of 52w high \u2014 strong momentum; Revenue -12.0% YoY \u2014 declining; Net profit declined -50.0% YoY",
+    "price_position": {
+      "current_price": 25.2,
+      "52w_high": 27.5,
+      "52w_low": 9.04,
+      "position_pct": 87.5,
+      "from_high_pct": 8.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "513361",
+    "name": "India Homes Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "India Homes Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1990)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

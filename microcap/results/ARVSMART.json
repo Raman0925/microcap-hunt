@@ -1,0 +1,112 @@
+{
+  "symbol": "ARVSMART",
+  "name": "Arvind SmartSpaces Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,919Cr.",
+  "market_cap_cr": 2919.0,
+  "description": "AboutArvind Smarspaces Ltd was incorporated as \"Arvind Infrastructure Limited\" in 2008 in Ahmedabad as a wholly-owned subsidiary of Arvind Limited. The company was incorporated with the objective of doing a real estate/infrastructure development business.Arvind Smartspaces is the real estate arm of the Lalbhai Group, a $2 billion dollar conglomerate. ASL is currently executing 9 projects through its own land, JVs and Joint Development model. ASL has also successfully executed 9 projects to date.[1]Key PointsProduct Offerings[1]Horizontal (Plotting, Villas) and Vertical (Luxury, MIG residential housing)Portfolio-\u25aa Delivered 4.9 msf\u25aa Ongoing projects of 26.9 msf\u25aa Planned projects of 43.5 msfRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ARVSMART/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Arvind SmartSpaces Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Arvind SmartSpaces Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 8.9% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Arvind SmartSpaces Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.9% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "ARVSMART",
+    "name": "Arvind SmartSpaces Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Arvind SmartSpaces Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.9% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 8.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 8.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 5.0,
+    "forensic_flags": [],
+    "owner_earnings": 11.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ARVSMART",
+    "name": "Arvind SmartSpaces Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Arvind SmartSpaces Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 8.4% of 52w high \u2014 strong momentum. Concerns: Revenue -45.0% YoY \u2014 declining, Net profit declined -35.3% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 42.9,
+    "from_high_pct": 8.4,
+    "revenue_growth_pct": -45.0,
+    "profit_growth_pct": -35.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 8.4% of 52w high \u2014 strong momentum; Revenue -45.0% YoY \u2014 declining; Net profit declined -35.3% YoY",
+    "price_position": {
+      "current_price": 636.0,
+      "52w_high": 694.0,
+      "52w_low": 487.0,
+      "position_pct": 72.0,
+      "from_high_pct": 8.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ARVSMART",
+    "name": "Arvind SmartSpaces Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Arvind SmartSpaces Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~2008), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2008)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

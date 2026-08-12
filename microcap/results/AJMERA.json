@@ -1,0 +1,118 @@
+{
+  "symbol": "AJMERA",
+  "name": "Ajmera Realty & Infra India Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,398Cr.",
+  "market_cap_cr": 2398.0,
+  "description": "AboutIncorporated in 1985, Ajmera Realty and Infra Limited (ARIIL) is in the business of providing residential and rented commercial properties. The company has a presence in the cities like Mumbai, Bengaluru, Ahmedabad in India as well as in foreign countries such as Bahrain and UK[1]Key PointsBusiness Profile[1]Ajmera Realty is a real estate developer and builder specializing in township development with a presence in MMR & Bangalore.It has delivered 46,000+ homesand is currently developing 1.3 MSF, with 1.7 MSF in the pipeline and an 11.1 MSF land bank for future projects.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AJMERA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ajmera Realty & Infra India Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Ajmera Realty & Infra India Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 14.2% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ajmera Realty & Infra India Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.7,
+    "normalised_score": -0.6
+  },
+  "laxmi": {
+    "symbol": "AJMERA",
+    "name": "Ajmera Realty & Infra India Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Ajmera Realty & Infra India Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 3.0,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 14.2% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 14.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -0.68,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AJMERA",
+    "name": "Ajmera Realty & Infra India Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Ajmera Realty & Infra India Ltd \u2014 weak technical setup (score 0.0/6): Price 44.8% below 52w high \u2014 weak price action; Revenue -36.2% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 20.6,
+    "from_high_pct": 44.8,
+    "revenue_growth_pct": -36.2,
+    "profit_growth_pct": -35.3,
+    "optionality_signals": [],
+    "technical_notes": "Price 44.8% below 52w high \u2014 weak price action; Revenue -36.2% YoY \u2014 declining; Net profit declined -35.3% YoY",
+    "price_position": {
+      "current_price": 122.0,
+      "52w_high": 221.0,
+      "52w_low": 98.0,
+      "position_pct": 19.5,
+      "from_high_pct": 44.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AJMERA",
+    "name": "Ajmera Realty & Infra India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Ajmera Realty & Infra India Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~1985), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1985)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

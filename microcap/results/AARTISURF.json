@@ -1,0 +1,111 @@
+{
+  "symbol": "AARTISURF",
+  "name": "Aarti Surfactants Ltd",
+  "sector": "",
+  "market_cap": "\u20b9485Cr.",
+  "market_cap_cr": 485.0,
+  "description": "AboutIncorporated in 2018, Aarti SurfactantsLtd is in the business of Home and personal care ingredients[1]Key PointsBusiness Overview:[1][2]ASL is a part of the Aarti group. It was formed as a result of the demerger of the home and personal care division of Aarti Industries Limited. ASL is a producer of ionic and non-ionic surfactants and specialty products, serving Home & Personal Care, Industrial Applications, Agro, and Oil industries. It also manufactures formulated blendsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AARTISURF/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aarti Surfactants Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Aarti Surfactants Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 8.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aarti Surfactants Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.888,
+    "normalised_score": -0.642
+  },
+  "laxmi": {
+    "symbol": "AARTISURF",
+    "name": "Aarti Surfactants Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Aarti Surfactants Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 8.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 8.58,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 9.0,
+    "forensic_flags": [],
+    "owner_earnings": -6.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AARTISURF",
+    "name": "Aarti Surfactants Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Aarti Surfactants Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 0.0% of 52w high \u2014 strong momentum. Concerns: Revenue -19.0% YoY \u2014 declining, Net profit declined -400.0% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 25.9,
+    "from_high_pct": 0.0,
+    "revenue_growth_pct": -19.0,
+    "profit_growth_pct": -400.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 0.0% of 52w high \u2014 strong momentum; Revenue -19.0% YoY \u2014 declining; Net profit declined -400.0% YoY",
+    "price_position": {
+      "current_price": 572.0,
+      "52w_high": 572.0,
+      "52w_low": 316.0,
+      "position_pct": 100.0,
+      "from_high_pct": 0.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AARTISURF",
+    "name": "Aarti Surfactants Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Aarti Surfactants Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9485cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2018)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

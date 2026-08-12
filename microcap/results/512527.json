@@ -1,0 +1,113 @@
+{
+  "symbol": "512527",
+  "name": "Super Sales India Ltd",
+  "sector": "",
+  "market_cap": "\u20b9344Cr.",
+  "market_cap_cr": 344.0,
+  "description": "AboutIncorporated in 1981, Super Sales IndiaLtd manufactures yarn, gears and provides agency services[1]Key PointsBusiness OverviewSuper Sales India Limited (SSIL) is a diversified company operating primarily in three divisions: Engineering, Textile, and Marketing.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/512527/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Super Sales India Ltd \u2014 rejected (score 3.5/10): Low ROCE: 2.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Super Sales India Ltd \u2014 rejected (score 3.5/10): Low ROCE: 2.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 2.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Super Sales India Ltd \u2014 rejected (score 3.5/10): Low ROCE: 2.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "512527",
+    "name": "Super Sales India Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Super Sales India Ltd \u2014 rejected (score 3.5/10): Low ROCE: 2.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 2.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 2.73,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 2.69,
+    "forensic_flags": [],
+    "owner_earnings": 16.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "512527",
+    "name": "Super Sales India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Super Sales India Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 3.9% of 52w high \u2014 strong momentum. Concerns: Revenue -3.5% YoY \u2014 declining, Net profit declined -5.9% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 31.0,
+    "from_high_pct": 3.9,
+    "revenue_growth_pct": -3.5,
+    "profit_growth_pct": -5.9,
+    "optionality_signals": [],
+    "technical_notes": "Price within 3.9% of 52w high \u2014 strong momentum; Revenue -3.5% YoY \u2014 declining; Net profit declined -5.9% YoY",
+    "price_position": {
+      "current_price": 1120.0,
+      "52w_high": 1165.0,
+      "52w_low": 530.0,
+      "position_pct": 92.9,
+      "from_high_pct": 3.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "512527",
+    "name": "Super Sales India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Super Sales India Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b9344cr mcap) \u2014 large runway ahead, Established company (founded ~1981). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9344cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1981)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

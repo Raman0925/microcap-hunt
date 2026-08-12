@@ -1,0 +1,88 @@
+{
+  "analyst": "Laxmi",
+  "company": "Aaron Industries",
+  "symbol": "AARON",
+  "verdict": "BORDERLINE",
+  "score": 5,
+  "fcf_positive_years": 2,
+  "roce_5yr_avg": 21.93,
+  "debt_equity": 0.57,
+  "promoter_holding_pct": 73.07,
+  "promoter_pledging_pct": 0,
+  "inventory_days": 157.67,
+  "receivable_days": 27.81,
+  "cash_conversion_cycle": 135.96,
+  "moat": "Narrow, possibly none. Small-cap elevator component manufacturer with some customer stickiness in a niche (SS press plates + elevator parts). Operating margin expansion from 13% to 19% over 5 years suggests scale benefits and some pricing power, but entry barriers are low-medium in manufacturing. No clear sustainable competitive advantage.",
+  "red_flags": [
+    "FCF positive only 2 of last 5 years — heavy capex phase (FY24: -₹33.26 Cr capex, funded via equity/debt raise)",
+    "Net profit declined YoY: FY26 PAT ₹6.80 Cr vs FY25 ₹8.24 Cr despite 18% revenue growth",
+    "Tax rate spiked to 40.54% in FY26 vs 30.52% in FY25 — likely deferred tax hit from new plant capitalization",
+    "Depreciation nearly doubled: ₹1.81 Cr (FY25) to ₹3.88 Cr (FY26) — new factory commissioned",
+    "Interest costs almost doubled: ₹1.36 Cr (FY25) to ₹2.59 Cr (FY26) despite borrowings falling slightly",
+    "Inventory days very high and worsening: 120 days (FY25) to 157 days (FY26)",
+    "Cash Conversion Cycle at 136 days — capital-intensive working capital model",
+    "CFO/Operating Profit only 58% in FY26 — significant working capital absorption, earnings quality moderate",
+    "Valuation rich: P/E 42.3x and P/B 6x with no margin of safety on Graham metrics",
+    "Stock down 33% from 52-week high — market has repriced but fundamentals need to improve"
+  ],
+  "framework_analysis": {
+    "buffett": {
+      "fcf_real": "Partially. FY25 FCF ₹0.64 Cr and FY26 FCF ₹5.76 Cr are positive but modest. Prior 3 years all negative. Working capital consumes significant cash — CFO/OP at 58% means ₹7.5 Cr of ₹17.8 Cr operating profit was absorbed by WC. Owner earnings (PAT + Depn - Maintenance Capex ~₹1.94 Cr) ≈ ₹8.74 Cr vs Market Cap ₹290 Cr = ~3% owner earnings yield. Expensive.",
+      "economic_moat": "FAIL — no clear durable moat identified. Revenue growth driven by capacity expansion and market growth rather than pricing power or switching costs.",
+      "verdict": "FAIL at current price"
+    },
+    "graham": {
+      "margin_of_safety": "FAIL — Price ₹139 vs Book Value ₹23.2 → P/B of 6x. Graham net-net deeply negative. No asset backing for current price.",
+      "asset_quality": "Fixed assets jumped from ₹24.88 Cr (FY25) to ₹55.33 Cr (FY26) — new factory, likely productive. But no margin of safety.",
+      "verdict": "FAIL — no asset backing"
+    },
+    "greenblatt": {
+      "roce": "PASS — 5yr avg ROCE 21.93%, current 18.7%. Decent capital returns.",
+      "earnings_yield": "FAIL — EPS ₹3.25 / Price ₹139 = 2.34% earnings yield (P/E 42.3x). Very low earnings yield.",
+      "verdict": "MIXED — good ROCE, poor earnings yield"
+    }
+  },
+  "positives": [
+    "Exceptional 10-year revenue CAGR of 39% (₹3.3 Cr to ₹92 Cr)",
+    "Operating margin consistently expanding: 13% (FY21) → 19% (FY26)",
+    "Very strong promoter holding at 73.07% with zero pledging",
+    "Receivable days excellent at 27.81 days — low customer credit risk",
+    "Major capex phase complete: CWIP went from ₹32.52 Cr (FY25) to ₹0 (FY26)",
+    "FCF turned positive in FY25 and FY26 — capex normalization underway",
+    "Regular dividend paying (15% payout ratio)",
+    "Business in structural growth sector (India urbanization + vertical construction boom)",
+    "Small base with potentially large addressable market for elevator components",
+    "Zero promoter pledging is a strong governance signal"
+  ],
+  "cash_flow_detail": {
+    "FY22_CFO": 1.17, "FY22_CAPEX": -3.08, "FY22_FCF": -1.92,
+    "FY23_CFO": 4.07, "FY23_CAPEX": -4.84, "FY23_FCF": -0.80,
+    "FY24_CFO": 5.60, "FY24_CAPEX": -33.26, "FY24_FCF": -27.74,
+    "FY25_CFO": 8.63, "FY25_CAPEX": -7.87, "FY25_FCF": 0.64,
+    "FY26_CFO": 7.67, "FY26_CAPEX": -1.72, "FY26_FCF": 5.76,
+    "note": "FY24 massive capex (₹33.26 Cr) was a deliberate factory expansion funded via ₹27.69 Cr financing inflows (equity + debt). Now that plant is commissioned, capex should normalize to maintenance levels."
+  },
+  "balance_sheet_FY26": {
+    "equity_capital": 20.95,
+    "reserves": 27.67,
+    "net_worth": 48.62,
+    "borrowings": 27.74,
+    "total_liabilities": 91.18,
+    "fixed_assets": 55.33,
+    "cwip": 0.00,
+    "current_assets": 35.85,
+    "note": "Equity capital doubled from ₹10.47 to ₹20.95 Cr while reserves fell from ₹32.56 to ₹27.67 Cr — likely bonus issue from reserves. Net worth still grew, shareholder-friendly."
+  },
+  "roce_history": {
+    "FY21": 22.81, "FY22": 29.71, "FY23": 19.83, "FY24": 18.62, "FY25": 18.66, "FY26_est": 18.7,
+    "5yr_avg_FY21_FY25": 21.93
+  },
+  "key_risk": "Expanded capacity (2x fixed assets) must translate to revenue growth in FY27+. If revenue growth decelerates below ~20% CAGR, the high depreciation and interest burden will compress margins and earnings further. Valuation at 42x P/E leaves no room for error.",
+  "investment_thesis_bear": "Company spent ₹33 Cr building a new plant in FY24. FY26 shows the first full year with this plant — yet PAT fell 17% due to depreciation+interest+tax surge. If FY27 does not show strong revenue recovery (>20% growth) and PAT recovery (>₹10 Cr), the stock at ₹139 is expensive at 42x trailing earnings.",
+  "investment_thesis_bull": "Post-capex normalization play. FY27 should see: depreciation stable (no new capex), interest falling (debt being repaid — borrowings down ₹4 Cr in FY26), tax normalization, and revenue continuing at 18-20% CAGR. If PAT recovers to ₹10-12 Cr on ₹108 Cr revenue, P/E would be 24-29x — reasonable for a 20%+ grower.",
+  "entry_price_watch": "Attractive below ₹100 (25x FY27E earnings of ₹4/share). Current ₹139 is fairly priced only if FY27 delivers strong PAT recovery.",
+  "reasoning": "Aaron Industries is a genuine growth story in elevator components with exceptional 10-year revenue CAGR of 39% and improving operating margins. The business is in a structurally growing sector with urbanization tailwinds. Promoter holding at 73% with zero pledging is a strong positive. However, 3 critical concerns: (1) FCF has only been positive in 2 of the last 5 years, with the cash flows largely consumed by a massive factory expansion in FY24; (2) The expanded capacity has hurt FY26 earnings due to higher depreciation, interest, and a tax spike, so the P/E of 42x is on depressed earnings; (3) Inventory days at 157 and CCC at 136 days show high working capital intensity, meaning profits don't fully convert to cash quickly. The key question is whether FY27 delivers the PAT recovery that justifies the valuation. On current numbers, this fails Buffett's owner earnings test and Graham's asset backing test, but passes on ROCE. At ₹139, risk/reward is not compelling — a 20-30% price correction to ₹100-110 range would make this a PASS with attractive margin of safety. BORDERLINE at current levels with a watch for FY27 Q1 results (earnings call scheduled Aug 17, 2026).",
+  "analyst_notes": "Q1 FY27 earnings call scheduled August 17, 2026 at 3:00 PM IST. Also noteworthy: Aaron appointed as all-India distributor for EVOQ360 components and executed 25+ projects — potential new revenue stream. 13th AGM on August 19, 2026 with ₹0.50 dividend (record date August 14, 2026).",
+  "analysis_date": "2026-08-12",
+  "data_source": "Screener.in, NSE filings"
+}

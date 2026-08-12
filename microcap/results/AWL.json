@@ -1,0 +1,110 @@
+{
+  "symbol": "AWL",
+  "name": "AWL Agri Business Ltd",
+  "sector": "",
+  "market_cap": "\u20b925,066Cr.",
+  "market_cap_cr": 25066.0,
+  "description": "AboutIncorporated in 1999, Adani Wilmar Ltd deals in edible oil and food and other FMCG products. Adani has exited the joint venture in FY24 to focus on other segments. AWL Agri Business is the new name decided in online voting.[1]Key PointsBusiness Segments1) Edible Oil[1]The company offers sunflower oil, groundnut oil, mustard oil, rice bran oil, soybean oil, cottonseed oil, and more under its brands''Fortune and Kings''Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AWL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "AWL Agri Business Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "AWL Agri Business Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/4 years \u2014 adequate; ROCE 17.7% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 AWL Agri Business Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.685,
+    "normalised_score": -0.819
+  },
+  "laxmi": {
+    "symbol": "AWL",
+    "name": "AWL Agri Business Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "AWL Agri Business Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 3/4 years \u2014 adequate",
+      "ROCE 17.7% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 17.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -0.28,
+    "forensic_flags": [],
+    "owner_earnings": 4.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AWL",
+    "name": "AWL Agri Business Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "AWL Agri Business Ltd \u2014 weak technical setup (score 0.0/6): Price 31.8% below 52w high \u2014 weak price action; Revenue -35.7% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 22.6,
+    "from_high_pct": 31.8,
+    "revenue_growth_pct": -35.7,
+    "profit_growth_pct": -98.3,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 31.8% below 52w high \u2014 weak price action; Revenue -35.7% YoY \u2014 declining; Net profit declined -98.3% YoY",
+    "price_position": {
+      "current_price": 193.0,
+      "52w_high": 283.0,
+      "52w_low": 171.0,
+      "position_pct": 19.6,
+      "from_high_pct": 31.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AWL",
+    "name": "AWL Agri Business Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "AWL Agri Business Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1999)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

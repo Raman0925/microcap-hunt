@@ -1,0 +1,112 @@
+{
+  "symbol": "AMBALALSA",
+  "name": "Ambalal Sarabhai Enterprises Ltd",
+  "sector": "",
+  "market_cap": "\u20b9352Cr.",
+  "market_cap_cr": 352.0,
+  "description": "AboutIncorporated in 1977, Ambalal Sarabhai Enterprises Ltd is in the business of manufacturing Pharmaceuticals and Electronics[1]Key PointsBusiness Overview:[1]ASE is a pharmaceutical health care companies, which through its group companies, manufactures and markets pharmaceutical, molecular diagnostics, and electronics products in India and abroadRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AMBALALSA/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Ambalal Sarabhai Enterprises Ltd \u2014 borderline (score 0.13). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Ambalal Sarabhai Enterprises Ltd \u2014 borderline (score 0.13). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Ambalal Sarabhai Enterprises Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 16.4% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 5.0/6 \u2014 pass (60% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.13"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.6,
+    "normalised_score": 0.133
+  },
+  "laxmi": {
+    "symbol": "AMBALALSA",
+    "name": "Ambalal Sarabhai Enterprises Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Ambalal Sarabhai Enterprises Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 2/5 years \u2014 adequate, ROCE 16.4% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 16.4% (adequate)",
+      "Revenue grew 3/3 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 16.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": -1.5,
+    "forensic_flags": [],
+    "owner_earnings": -9.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AMBALALSA",
+    "name": "Ambalal Sarabhai Enterprises Ltd",
+    "verdict": "pass",
+    "confidence": 0.6,
+    "report": "Ambalal Sarabhai Enterprises Ltd \u2014 solid technical setup (score 5.0/6). Signals: Price within 8.2% of 52w high \u2014 strong momentum, Revenue +114.3% YoY \u2014 strong momentum, PE 32.0 < revenue growth 114.3% \u2014 undervalued vs growth. Notes: Net profit declined -119.6% YoY.",
+    "score": 5.0,
+    "price_signal": "bullish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 32.0,
+    "from_high_pct": 8.2,
+    "revenue_growth_pct": 114.3,
+    "profit_growth_pct": -119.6,
+    "optionality_signals": [],
+    "technical_notes": "Price within 8.2% of 52w high \u2014 strong momentum; Revenue +114.3% YoY \u2014 strong momentum; PE 32.0 < revenue growth 114.3% \u2014 undervalued vs growth; Net profit declined -119.6% YoY",
+    "price_position": {
+      "current_price": 45.9,
+      "52w_high": 50.0,
+      "52w_low": 23.1,
+      "position_pct": 84.8,
+      "from_high_pct": 8.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AMBALALSA",
+    "name": "Ambalal Sarabhai Enterprises Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Ambalal Sarabhai Enterprises Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b9352cr mcap) \u2014 large runway ahead, Established company (founded ~1977). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9352cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1977)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

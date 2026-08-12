@@ -1,0 +1,112 @@
+{
+  "symbol": "AKI",
+  "name": "AKI India Ltd",
+  "sector": "",
+  "market_cap": "\u20b944.5Cr.",
+  "market_cap_cr": 44.5,
+  "description": "AboutIncorporated in 1994, AKI India Ltd designs, manufactures and exports leather products[1]Key PointsBusiness Overview:[1][2]AKIIL processes hides into finished leather and upholstery, and manufactures leather products such as footwear, horse bridles, browbands, crown pieces, pony articles and saddle girths, etc. It also designs and manufactures leather products for equestrian sports, horse covers, leather bags, belts and finished leather. Company takes technical assistance from Horse Riding Group from Germany for making of Leather Saddlery & Harness GoodsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AKI/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "AKI India Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/4 years positive; Low ROCE: 4.4% \u2014 poor capital efficiency",
+  "verdict_memo": "AKI India Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/4 years positive; Low ROCE: 4.4% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/4 years positive; Low ROCE: 4.4% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 AKI India Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/4 years positive; Low ROCE: 4.4% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.64,
+    "normalised_score": -0.587
+  },
+  "laxmi": {
+    "symbol": "AKI",
+    "name": "AKI India Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "AKI India Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/4 years positive; Low ROCE: 4.4% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/4 years positive",
+      "Low ROCE: 4.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 4.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 7.43,
+    "forensic_flags": [],
+    "owner_earnings": -0.6,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AKI",
+    "name": "AKI India Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "AKI India Ltd \u2014 weak technical setup (score 0.0/6): Price 59.3% below 52w high \u2014 weak price action; Revenue -22.4% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 31.3,
+    "from_high_pct": 59.3,
+    "revenue_growth_pct": -22.4,
+    "profit_growth_pct": -550.0,
+    "optionality_signals": [],
+    "technical_notes": "Price 59.3% below 52w high \u2014 weak price action; Revenue -22.4% YoY \u2014 declining; Net profit declined -550.0% YoY",
+    "price_position": {
+      "current_price": 4.31,
+      "52w_high": 10.6,
+      "52w_low": 3.72,
+      "position_pct": 8.6,
+      "from_high_pct": 59.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AKI",
+    "name": "AKI India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "AKI India Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b944cr mcap) \u2014 large runway ahead, Established company (founded ~1994). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b944cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1994)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

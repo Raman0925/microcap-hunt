@@ -1,0 +1,109 @@
+{
+  "symbol": "BLIL",
+  "name": "Balmer Lawrie Investment Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,573Cr.",
+  "market_cap_cr": 1573.0,
+  "description": "AboutBalmer Lawrie Investments Ltd is a Government Enterprise. It\u2019s a major stakeholder of Balmer Lawrie & Co. Ltd. The company along with its subsidiaries is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, etc.[1]Key PointsFormation of Company[1]As part of oil sector deregulation, the Government of India disinvested~33.6% fromIBP (Indo Burma Petrol) Co (from ~60% holding) and demerged IBP\u2019s stake in Balmer Lawrie & Company Ltd to Balmer Lawrie Investments Ltd (incorporated in 2001). The President of India currently holds ~60% equity in the company, which operates under the Ministry of Petroleum & Natural Gas.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BLIL/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Balmer Lawrie Investment Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Balmer Lawrie Investment Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 75.0% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "BLIL",
+    "name": "Balmer Lawrie Investment Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Balmer Lawrie Investment Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 75.0% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 75.0% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 75.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.97,
+    "forensic_flags": [],
+    "owner_earnings": 36.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BLIL",
+    "name": "Balmer Lawrie Investment Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Balmer Lawrie Investment Ltd \u2014 weak technical setup (score 1.0/6): Revenue 0.0% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 11.1,
+    "from_high_pct": 26.0,
+    "revenue_growth_pct": 0.0,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 26.0% of 52w high \u2014 moderate momentum; Revenue 0.0% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 70.9,
+      "52w_high": 95.8,
+      "52w_low": 63.8,
+      "position_pct": 22.2,
+      "from_high_pct": 26.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BLIL",
+    "name": "Balmer Lawrie Investment Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Balmer Lawrie Investment Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~2001), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2001)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

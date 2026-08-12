@@ -1,0 +1,110 @@
+{
+  "symbol": "AJOONI",
+  "name": "Ajooni Biotech Ltd",
+  "sector": "",
+  "market_cap": "\u20b965.6Cr.",
+  "market_cap_cr": 65.6,
+  "description": "AboutIncorporated in 2010, Ajooni Biotech Ltd is avegetarian based animal health care solutions company.[1]Key PointsBusiness Overview:[1]ABL is an animal health care solutions company which helps in improving the productivity of Dairy farmers and sustainably increase livestock yields. It deals in the Compounded Animal Feed and feed supplements in India and its portfolio offers a wide range of Quality Cattle feed, Cattle feed Chips, Camel Feed, Cotton Oil Cake, Mustard Oil Cake and a wide range of Feed supplements to cover the entire life-cycle of an animal.Read MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/AJOONI/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ajooni Biotech Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 6.5% \u2014 poor capital efficiency",
+  "verdict_memo": "Ajooni Biotech Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 6.5% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 6.5% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ajooni Biotech Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 6.5% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.728,
+    "normalised_score": -0.828
+  },
+  "laxmi": {
+    "symbol": "AJOONI",
+    "name": "Ajooni Biotech Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Ajooni Biotech Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 6.5% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "Low ROCE: 6.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 6.49,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AJOONI",
+    "name": "Ajooni Biotech Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Ajooni Biotech Ltd \u2014 weak technical setup (score 0.0/6): Price 35.9% below 52w high \u2014 weak price action; Revenue -46.2% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 15.2,
+    "from_high_pct": 35.9,
+    "revenue_growth_pct": -46.2,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 35.9% below 52w high \u2014 weak price action; Revenue -46.2% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 3.81,
+      "52w_high": 5.94,
+      "52w_low": 3.4,
+      "position_pct": 16.1,
+      "from_high_pct": 35.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AJOONI",
+    "name": "Ajooni Biotech Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Ajooni Biotech Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b966cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2010)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

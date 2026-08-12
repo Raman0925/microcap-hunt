@@ -1,0 +1,114 @@
+{
+  "symbol": "524080",
+  "name": "Haryana Leather Chemicals Ltd",
+  "sector": "",
+  "market_cap": "\u20b930.2Cr.",
+  "market_cap_cr": 30.2,
+  "description": "AboutIncorporated in 1985, Haryana Leather Chemicals Ltd is in the business of manufacturing specialty chemical products.[1]Key PointsBusiness Overview:[1]HLCL is an ISO certified company which specializes in the development and productionof high-quality chemicals for leather processing, footwear finishing, textile printing, pressure-sensitive adhesives, and PVC additives. It has a diverse portfolio of250+ productsRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/524080/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Haryana Leather Chemicals Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Haryana Leather Chemicals Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; Revenue grew 3/4 years consistently. What to watch: Low ROCE: 8.2% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "524080",
+    "name": "Haryana Leather Chemicals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Haryana Leather Chemicals Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, Revenue grew 3/4 years consistently. Concerns: Low ROCE: 8.2% \u2014 poor capital efficiency, D/E ratio not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 8.2% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 8.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 0.84,
+    "forensic_flags": [],
+    "owner_earnings": 1.4,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "524080",
+    "name": "Haryana Leather Chemicals Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Haryana Leather Chemicals Ltd \u2014 weak technical setup (score 1.0/6): Price 30.6% below 52w high \u2014 weak price action; Net profit declined -33.0% YoY",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "growing",
+    "pe_ratio": 22.7,
+    "from_high_pct": 30.6,
+    "revenue_growth_pct": 6.7,
+    "profit_growth_pct": -33.0,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +6.7% YoY \u2014 growing; Price 30.6% below 52w high \u2014 weak price action; Net profit declined -33.0% YoY",
+    "price_position": {
+      "current_price": 61.6,
+      "52w_high": 88.8,
+      "52w_low": 50.2,
+      "position_pct": 29.5,
+      "from_high_pct": 30.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "524080",
+    "name": "Haryana Leather Chemicals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Haryana Leather Chemicals Ltd has a mixed narrative (score 5.5/10). Positives: Small size (\u20b930cr mcap) \u2014 large runway ahead, Established company (founded ~1985). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b930cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1985)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

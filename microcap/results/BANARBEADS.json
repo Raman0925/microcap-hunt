@@ -1,0 +1,114 @@
+{
+  "symbol": "BANARBEADS",
+  "name": "Banaras Beads Ltd",
+  "sector": "",
+  "market_cap": "\u20b976.6Cr.",
+  "market_cap_cr": 76.6,
+  "description": "AboutIncorporated in 1980, Banaras Beads Ltd is in the business of Manufacturing and export of Handicraft items like Glass Beads; Necklaces, Imitation Jewelry, etc.[1]Key PointsBusiness Overview:[1]The company is a leading exporter of glassbeads and handicrafts with its largest market in the US. Orders are sourced through international trade fairs, direct meetings with foreign buyers, and online interactions showcasing newly developed products.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BANARBEADS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Banaras Beads Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Banaras Beads Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 5.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Banaras Beads Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "BANARBEADS",
+    "name": "Banaras Beads Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Banaras Beads Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 5.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 5.71,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 0.62,
+    "forensic_flags": [],
+    "owner_earnings": 1.6,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BANARBEADS",
+    "name": "Banaras Beads Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Banaras Beads Ltd \u2014 weak technical setup (score 0.0/6): Price 33.1% below 52w high \u2014 weak price action; Revenue -4.7% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 40.5,
+    "from_high_pct": 33.1,
+    "revenue_growth_pct": -4.7,
+    "profit_growth_pct": -62.7,
+    "optionality_signals": [],
+    "technical_notes": "Price 33.1% below 52w high \u2014 weak price action; Revenue -4.7% YoY \u2014 declining; Net profit declined -62.7% YoY",
+    "price_position": {
+      "current_price": 115.0,
+      "52w_high": 172.0,
+      "52w_low": 96.0,
+      "position_pct": 25.0,
+      "from_high_pct": 33.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BANARBEADS",
+    "name": "Banaras Beads Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Banaras Beads Ltd has a mixed narrative (score 5.5/10). Positives: Small size (\u20b977cr mcap) \u2014 large runway ahead, Established company (founded ~1980). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b977cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1980)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

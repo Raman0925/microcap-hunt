@@ -1,0 +1,111 @@
+{
+  "symbol": "AGARWALEYE",
+  "name": "Dr Agarwals Health Care Ltd",
+  "sector": "",
+  "market_cap": "\u20b917,183Cr.",
+  "market_cap_cr": 17183.0,
+  "description": "AboutIncorporated in 2010,[1]Dr. Agarwal\u2019s Health Care offers a wide array of eye care services, which include cataract and refractive surgeries, consultations, diagnoses, and non-surgical treatments. Additionally, they provide optical products, contact lenses, accessories, and pharmaceutical items related to eye care.[2]Key PointsLargest Eyecare Service Provider:[1][2]Dr. Agarwal is India's largest eye careservice chain with a26-27% market share.It is the largest company by revenue in FY25, witnessed faster growth than other organized eye care service market.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AGARWALEYE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Dr Agarwals Health Care Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Dr Agarwals Health Care Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/4 years \u2014 adequate. What to watch: Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Dr Agarwals Health Care Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "AGARWALEYE",
+    "name": "Dr Agarwals Health Care Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Dr Agarwals Health Care Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/4 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 5.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 5.58,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 4.78,
+    "forensic_flags": [],
+    "owner_earnings": -20.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AGARWALEYE",
+    "name": "Dr Agarwals Health Care Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Dr Agarwals Health Care Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 4.6% of 52w high \u2014 strong momentum. Concerns: Revenue -18.5% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 353.0,
+    "from_high_pct": 4.6,
+    "revenue_growth_pct": -18.5,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 4.6% of 52w high \u2014 strong momentum; Revenue -18.5% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 542.0,
+      "52w_high": 568.0,
+      "52w_low": 401.0,
+      "position_pct": 84.4,
+      "from_high_pct": 4.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AGARWALEYE",
+    "name": "Dr Agarwals Health Care Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Dr Agarwals Health Care Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~2010), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2010)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

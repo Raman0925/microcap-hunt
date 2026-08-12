@@ -1,0 +1,115 @@
+{
+  "symbol": "ASHIMASYN",
+  "name": "Ashima Ltd",
+  "sector": "",
+  "market_cap": "\u20b9343Cr.",
+  "market_cap_cr": 343.0,
+  "description": "AboutIncorporated in 1982, Ashima Ltd is in the business of Textiles, Real Estate and Treasury business[1]Key PointsBusienss Overview:[1][2][3]AL manufactures Denim fabrics and readymade garments and processes textile fabrics including Interlining fabrics and garment washing activities (laundry). It owns the entire value chain from yarn to fabric to garments. AL has adesign studio, which caters to requirements of their high end customers. Company is also present in segments like Real Estate and Treasury (Investment)Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ASHIMASYN/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ashima Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Ashima Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 0.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ashima Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.9,
+    "normalised_score": -0.422
+  },
+  "laxmi": {
+    "symbol": "ASHIMASYN",
+    "name": "Ashima Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Ashima Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 3.0,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 0.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 0.02,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -0.44,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASHIMASYN",
+    "name": "Ashima Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Ashima Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Revenue +27.2% YoY \u2014 strong momentum. Concerns: Price 35.6% below 52w high \u2014 weak price action.",
+    "score": 2.0,
+    "price_signal": "bearish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "strong",
+    "pe_ratio": null,
+    "from_high_pct": 35.6,
+    "revenue_growth_pct": 27.2,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +27.2% YoY \u2014 strong momentum; Price 35.6% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 17.9,
+      "52w_high": 27.8,
+      "52w_low": 11.3,
+      "position_pct": 40.0,
+      "from_high_pct": 35.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASHIMASYN",
+    "name": "Ashima Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Ashima Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b9343cr mcap) \u2014 large runway ahead, Established company (founded ~1982). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9343cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1982)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,114 @@
+{
+  "symbol": "AVANTEL",
+  "name": "Avantel Ltd",
+  "sector": "",
+  "market_cap": "\u20b94,259Cr.",
+  "market_cap_cr": 4259.0,
+  "description": "AboutAvantel Limited is engaged in the business of designing, developing and maintaining wireless and satellite  communication products, defence electronics, radar systems and development of network management software applications for its customers majorly from the aerospace and defence sectors.[1]Key PointsBusiness Overview[1]The company is engaged in the design, development and manufacturing of wireless front-end systems, satellite communication solutions, embedded systems, signal processing and network management products, along with software development and related customer support services.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AVANTEL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Avantel Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Avantel Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Avantel Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.51,
+    "normalised_score": -0.558
+  },
+  "laxmi": {
+    "symbol": "AVANTEL",
+    "name": "Avantel Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Avantel Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 11.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 4.0,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AVANTEL",
+    "name": "Avantel Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Avantel Ltd \u2014 weak technical setup (score 1.0/6): Revenue 0.0% YoY \u2014 declining; Net profit declined 0.0% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 167.0,
+    "from_high_pct": 25.6,
+    "revenue_growth_pct": 0.0,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 25.6% of 52w high \u2014 moderate momentum; Revenue 0.0% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 160.0,
+      "52w_high": 215.0,
+      "52w_low": 117.0,
+      "position_pct": 43.9,
+      "from_high_pct": 25.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AVANTEL",
+    "name": "Avantel Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Avantel Ltd has a mixed narrative (score 4.0/10). Positives: Operating in large / growing sector, No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

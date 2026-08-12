@@ -1,0 +1,111 @@
+{
+  "symbol": "ADVANCE",
+  "name": "Advance Agrolife Ltd",
+  "sector": "",
+  "market_cap": "\u20b9786Cr.",
+  "market_cap_cr": 786.0,
+  "description": "AboutAdvance Agrolife is engaged in the business of manufacturing and distributor of broad spectrum of technical and formulated grade of agrochemicals.(Source : 202503 Annual Report Page No:33)Key PointsBusiness Overview[1]Advance Agrolife Ltd is a leading agrochemical manufacturer producing both technical-grade and formulation-grade agrochemical products. The company\u2019s product range supports the entire crop lifecycle and caters to the cultivation of key cereals, vegetables, and horticultural crops across both Kharif and Rabi seasons.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ADVANCE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Advance Agrolife Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "Advance Agrolife Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 19.3% (adequate). What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Advance Agrolife Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.55,
+    "normalised_score": -0.567
+  },
+  "laxmi": {
+    "symbol": "ADVANCE",
+    "name": "Advance Agrolife Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Advance Agrolife Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 19.3% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 19.3,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.89,
+    "forensic_flags": [],
+    "owner_earnings": 9.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ADVANCE",
+    "name": "Advance Agrolife Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Advance Agrolife Ltd \u2014 weak technical setup (score 1.0/6): Revenue -18.4% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 16.1,
+    "from_high_pct": 20.8,
+    "revenue_growth_pct": -18.4,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 20.8% of 52w high \u2014 moderate momentum; Revenue -18.4% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 122.0,
+      "52w_high": 154.0,
+      "52w_low": 84.1,
+      "position_pct": 54.2,
+      "from_high_pct": 20.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ADVANCE",
+    "name": "Advance Agrolife Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Advance Agrolife Ltd has a mixed narrative (score 3.5/10). Positives: Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

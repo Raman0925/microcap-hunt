@@ -1,0 +1,113 @@
+{
+  "symbol": "BIOCON",
+  "name": "Biocon Ltd",
+  "sector": "",
+  "market_cap": "\u20b969,425Cr.",
+  "market_cap_cr": 69425.0,
+  "description": "AboutBiocon is engaged in the business of manufacture of biotechnology products and research services.(Source : 202003-01 Annual Report Page No:195)Key PointsBusiness Segments:[1]a) Biosimilars (60% in FY26 vs 58% in FY25):[2]Biocon Biologics Ltd develops and marketsa range of 20 biosimilars including insulins, monoclonal antibodies, and conjugated recombinant proteins across diabetology, oncology, immunology, ophthalmology,and other non-communicable diseases.It isone of the top 5 global playersin biosimilars and among thetop 3in insulins. It ranks in thetop 15companies worldwide for biomanufacturing capacity and has a presence in ~120+countries, including the U.S., Europe, and emerging markets. Its product portfolioincludes 10 approved biosimilars and10 under development.[3]b) Research Services (22% in FY26 vs 23% in FY25):[4]Syngene is a global CRDMO (Contract Research, Development, and Manufacturing Organization) offering integrated services across pharma, biotech, nutrition, and an",
+  "screener_url": "https://www.screener.in/company/BIOCON/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Biocon Ltd \u2014 rejected (score 2.5/10): Low ROCE: 1.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Biocon Ltd \u2014 rejected (score 2.5/10): Low ROCE: 1.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 1.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Biocon Ltd \u2014 rejected (score 2.5/10): Low ROCE: 1.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "BIOCON",
+    "name": "Biocon Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Biocon Ltd \u2014 rejected (score 2.5/10): Low ROCE: 1.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 1.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 1.62,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 0.35,
+    "forensic_flags": [],
+    "owner_earnings": 361.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BIOCON",
+    "name": "Biocon Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Biocon Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 4.7% of 52w high \u2014 strong momentum. Concerns: Revenue -2.6% YoY \u2014 declining, Net profit declined -2.2% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 230.0,
+    "from_high_pct": 4.7,
+    "revenue_growth_pct": -2.6,
+    "profit_growth_pct": -2.2,
+    "optionality_signals": [],
+    "technical_notes": "Price within 4.7% of 52w high \u2014 strong momentum; Revenue -2.6% YoY \u2014 declining; Net profit declined -2.2% YoY",
+    "price_position": {
+      "current_price": 426.0,
+      "52w_high": 447.0,
+      "52w_low": 337.0,
+      "position_pct": 80.9,
+      "from_high_pct": 4.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BIOCON",
+    "name": "Biocon Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Biocon Ltd has a mixed narrative (score 5.5/10). Positives: Growth ambition evident in description, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

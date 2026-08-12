@@ -1,0 +1,111 @@
+{
+  "symbol": "MANUGRAPH",
+  "name": "Manugraph India Ltd",
+  "sector": "",
+  "market_cap": "\u20b948.6Cr.",
+  "market_cap_cr": 48.6,
+  "description": "AboutIncorporated in 1971, Manugraph India Ltd isthe largest manufacturer of web offset presses.[1]Key PointsBusiness Overview:[1]a)MGL has been recognized as an R&D house by the Departmentof Scientific and Industrial Research.b)It manufactures single- and double-width web offset printing machines like the Smartline 4X1 machine (double-width) with a speed of 70,000 copies per hour (cph), Dreamline 4X1 machine (double-width) with a speed of 50,000 cph, and Ecoline 2X1 machine (single-width) with a speed of 25,000 cph.c)The company partnered with Carraro Srl, Italy, and entered the plastic packing industry by manufacturing flexo-machines, used for printing food packaging.Read MoreWebsiteBSENSE\n                - BE",
+  "screener_url": "https://www.screener.in/company/MANUGRAPH/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Manugraph India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Manugraph India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 10.8% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Manugraph India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.8% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "MANUGRAPH",
+    "name": "Manugraph India Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Manugraph India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.8% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 10.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 10.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 2.89,
+    "forensic_flags": [],
+    "owner_earnings": -10.7,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "MANUGRAPH",
+    "name": "Manugraph India Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Manugraph India Ltd \u2014 weak technical setup (score 0.0/6): Price 33.6% below 52w high \u2014 weak price action; Revenue -20.6% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": null,
+    "from_high_pct": 33.6,
+    "revenue_growth_pct": -20.6,
+    "profit_growth_pct": -279.6,
+    "optionality_signals": [],
+    "technical_notes": "Price 33.6% below 52w high \u2014 weak price action; Revenue -20.6% YoY \u2014 declining; Net profit declined -279.6% YoY",
+    "price_position": {
+      "current_price": 16.0,
+      "52w_high": 24.1,
+      "52w_low": 9.25,
+      "position_pct": 45.5,
+      "from_high_pct": 33.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "MANUGRAPH",
+    "name": "Manugraph India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Manugraph India Ltd has a mixed narrative (score 3.5/10). Positives: Small size (\u20b949cr mcap) \u2014 large runway ahead, Established company (founded ~1971). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b949cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1971)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

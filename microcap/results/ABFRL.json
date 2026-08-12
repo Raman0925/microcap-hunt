@@ -1,0 +1,108 @@
+{
+  "symbol": "ABFRL",
+  "name": "Aditya Birla Fashion & Retail Ltd",
+  "sector": "",
+  "market_cap": "\u20b97,156Cr.",
+  "market_cap_cr": 7156.0,
+  "description": "AboutAditya Birla Fashion and Retail Ltd. (ABFRL) emerged after the consolidation of the branded apparel businesses of Aditya Birla Group comprising ABNL's Madura Fashion division and ABNL's subsidiaries Pantaloons Fashion and Retail (PFRL) and Madura Fashion & Lifestyle (MFL) in 2015.ABFRL is a part of the Aditya Birla Group, a US$ 48.3 billion Indian multinational, in the league of Fortune 500. Anchored by an extraordinary force of over 120,000 employees, belonging to 42 nationalities, the Aditya Birla Group operates in 34 countries across the globe.[1]Key PointsBusiness Overview[1]The company isone of India\u2019s leading fashion powerhousesand is a part of the Aditya Birla Group, headquartered in Mumbai, India. Its portfolio features30+brands.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ABFRL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aditya Birla Fashion & Retail Ltd \u2014 rejected (score 2.5/10): Low ROCE: -1.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Aditya Birla Fashion & Retail Ltd \u2014 rejected (score 2.5/10): Low ROCE: -1.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: -1.4% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aditya Birla Fashion & Retail Ltd \u2014 rejected (score 2.5/10): Low ROCE: -1.4% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.688,
+    "normalised_score": -0.819
+  },
+  "laxmi": {
+    "symbol": "ABFRL",
+    "name": "Aditya Birla Fashion & Retail Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Aditya Birla Fashion & Retail Ltd \u2014 rejected (score 2.5/10): Low ROCE: -1.4% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: -1.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": -1.42,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 7.87,
+    "forensic_flags": [],
+    "owner_earnings": -228.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ABFRL",
+    "name": "Aditya Birla Fashion & Retail Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Aditya Birla Fashion & Retail Ltd \u2014 weak technical setup (score 0.0/6): Price 38.3% below 52w high \u2014 weak price action; Revenue -69.3% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": null,
+    "from_high_pct": 38.3,
+    "revenue_growth_pct": -69.3,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price 38.3% below 52w high \u2014 weak price action; Revenue -69.3% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 58.6,
+      "52w_high": 95.0,
+      "52w_low": 53.5,
+      "position_pct": 12.3,
+      "from_high_pct": 38.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ABFRL",
+    "name": "Aditya Birla Fashion & Retail Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Aditya Birla Fashion & Retail Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2015)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

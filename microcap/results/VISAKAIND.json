@@ -1,0 +1,108 @@
+{
+  "symbol": "VISAKAIND",
+  "name": "Visaka Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b9866Cr.",
+  "market_cap_cr": 866.0,
+  "description": "AboutIncorporated in 1981, Visaka Industries Ltd manufactures cement fibre sheets, fibre cement boards & panels, solarpanels and synthetic yarn[1]Key PointsBusiness Overview:[1][2]VIL is  engaged into the business of manufacture, trading and construction activity of cement fibre sheets, fibre cement boards & panels, solar panels, synthetic yarn and trading of green products, eco-friendly products, sustainable products, organic products.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/VISAKAIND/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Visaka Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Visaka Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 7.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Visaka Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.0% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.888,
+    "normalised_score": -0.642
+  },
+  "laxmi": {
+    "symbol": "VISAKAIND",
+    "name": "Visaka Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Visaka Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.0% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 7.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 7.03,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 0.38,
+    "forensic_flags": [],
+    "owner_earnings": 21.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "VISAKAIND",
+    "name": "Visaka Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Visaka Industries Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 3.8% of 52w high \u2014 strong momentum, Revenue +1.6% YoY \u2014 growing. Concerns: Net profit declined -12.5% YoY.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 12.8,
+    "from_high_pct": 3.8,
+    "revenue_growth_pct": 1.6,
+    "profit_growth_pct": -12.5,
+    "optionality_signals": [],
+    "technical_notes": "Price within 3.8% of 52w high \u2014 strong momentum; Revenue +1.6% YoY \u2014 growing; Net profit declined -12.5% YoY",
+    "price_position": {
+      "current_price": 100.0,
+      "52w_high": 104.0,
+      "52w_low": 50.2,
+      "position_pct": 92.6,
+      "from_high_pct": 3.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "VISAKAIND",
+    "name": "Visaka Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Visaka Industries Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1981)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

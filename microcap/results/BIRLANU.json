@@ -1,0 +1,113 @@
+{
+  "symbol": "BIRLANU",
+  "name": "BirlaNu Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,270Cr.",
+  "market_cap_cr": 1270.0,
+  "description": "AboutFounded in 1946, BirlaNu Limited is a global home and building solutions company offering products across pipes, construction chemicals, putty, roofs, walls, and flooring.[1]Key PointsCompany Overview[1]BirlaNu Limited (formerlyHIL Limited), part of theCKA Birla Group, is a home and building products company offering solutions acrosspipes, construction chemicals, putty, roofs, walls, and floors. Its portfolio includes brands such asBirlaNu Leakproof Pipes, BirlaNu Construction Chemicals, BirlaNu TruColour Putty, Charminar, BirlaNu Aerocon, Clean Coats, and Parador, serving homeowners, builders, and designers with sustainable and innovative building solutions.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BIRLANU/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "BirlaNu Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "BirlaNu Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 3.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 BirlaNu Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.0% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "BIRLANU",
+    "name": "BirlaNu Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "BirlaNu Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.0% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 3.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 3.04,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.85,
+    "forensic_flags": [],
+    "owner_earnings": 67.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BIRLANU",
+    "name": "BirlaNu Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "BirlaNu Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 19.3% of 52w high \u2014 moderate momentum, Revenue +1.1% YoY \u2014 growing, Profit +67.5% YoY with margin expansion \u2014 quality growth. Concerns: none.",
+    "score": 3.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 28.7,
+    "from_high_pct": 19.3,
+    "revenue_growth_pct": 1.1,
+    "profit_growth_pct": 67.5,
+    "optionality_signals": [],
+    "technical_notes": "Price within 19.3% of 52w high \u2014 moderate momentum; Revenue +1.1% YoY \u2014 growing; Profit +67.5% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 1685.0,
+      "52w_high": 2087.0,
+      "52w_low": 1190.0,
+      "position_pct": 55.2,
+      "from_high_pct": 19.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BIRLANU",
+    "name": "BirlaNu Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "BirlaNu Ltd has a mixed narrative (score 5.0/10). Positives: Growth ambition evident in description, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

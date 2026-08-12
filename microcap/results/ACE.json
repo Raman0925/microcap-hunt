@@ -1,0 +1,108 @@
+{
+  "symbol": "ACE",
+  "name": "Action Construction Equipment Ltd",
+  "sector": "",
+  "market_cap": "\u20b912,781Cr.",
+  "market_cap_cr": 12781.0,
+  "description": "AboutAction Construction Equipment Ltd is engaged in the business of manufacturing and marketing of hydraulic mobile cranes, mobile tower cranes, material handling equipment like forklifts, road construction equipment like backhoe loaders, compactors, motor graders and agriculture equipment like tractors, harvesters, rotavators, etc.It was incorporated in 1995 and concluded its IPO in 2006.[1]Key PointsMarket Leadership[1][2]The company is theworld\u2019s largest Pick & Carry crane manufacturerwith a63%+market share in the Mobile cranes segment in India and a60%+market share in the Tower Cranes segment domestically. It is also among thetop 3players in the forklift segment in India.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ACE/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Action Construction Equipment Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Action Construction Equipment Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Action Construction Equipment Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 32.5% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "ACE",
+    "name": "Action Construction Equipment Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Action Construction Equipment Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 32.5% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 32.5% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 32.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 5.57,
+    "forensic_flags": [],
+    "owner_earnings": 7.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ACE",
+    "name": "Action Construction Equipment Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Action Construction Equipment Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 8.3% of 52w high \u2014 strong momentum. Concerns: Revenue -6.1% YoY \u2014 declining, Net profit declined -22.2% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 28.6,
+    "from_high_pct": 8.3,
+    "revenue_growth_pct": -6.1,
+    "profit_growth_pct": -22.2,
+    "optionality_signals": [],
+    "technical_notes": "Price within 8.3% of 52w high \u2014 strong momentum; Revenue -6.1% YoY \u2014 declining; Net profit declined -22.2% YoY",
+    "price_position": {
+      "current_price": 1073.0,
+      "52w_high": 1170.0,
+      "52w_low": 745.0,
+      "position_pct": 77.2,
+      "from_high_pct": 8.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ACE",
+    "name": "Action Construction Equipment Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Action Construction Equipment Ltd has a mixed narrative (score 3.0/10). Positives: Established company (founded ~1995), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1995)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

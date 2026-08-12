@@ -1,0 +1,108 @@
+{
+  "symbol": "AAATECH",
+  "name": "AAA Technologies Ltd",
+  "sector": "",
+  "market_cap": "\u20b9126Cr.",
+  "market_cap_cr": 126.0,
+  "description": "AboutIncorporated in 2000, AAA Technologies Ltd is an Information Technology and Information Security Auditing & Consulting firm.[1]Key PointsBusiness Overview:[1]AAATL is an ISO 9001:2015 and ISO 27001:2022 certified company. It enables enterprises, service providers, and government entities to secure users, applications, data, networks, and devices with visibility and context across all locations. The company is also an CERT\u2011In empanelled auditor.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AAATECH/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "AAA Technologies Ltd \u2014 rejected (score 3.5/10): Low ROCE: 8.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "AAA Technologies Ltd \u2014 rejected (score 3.5/10): Low ROCE: 8.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; Revenue grew 3/4 years consistently. What to watch: Low ROCE: 8.9% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 AAA Technologies Ltd \u2014 rejected (score 3.5/10): Low ROCE: 8.9% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.848,
+    "normalised_score": -0.633
+  },
+  "laxmi": {
+    "symbol": "AAATECH",
+    "name": "AAA Technologies Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "AAA Technologies Ltd \u2014 rejected (score 3.5/10): Low ROCE: 8.9% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 8.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 8.93,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 0.0,
+    "forensic_flags": [],
+    "owner_earnings": 0.1,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AAATECH",
+    "name": "AAA Technologies Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "AAA Technologies Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 28.5% of 52w high \u2014 moderate momentum, Revenue +6.6% YoY \u2014 growing. Concerns: Net profit declined 0.0% YoY.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 61.0,
+    "from_high_pct": 28.5,
+    "revenue_growth_pct": 6.6,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 28.5% of 52w high \u2014 moderate momentum; Revenue +6.6% YoY \u2014 growing; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 98.0,
+      "52w_high": 137.0,
+      "52w_low": 75.0,
+      "position_pct": 37.1,
+      "from_high_pct": 28.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AAATECH",
+    "name": "AAA Technologies Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "AAA Technologies Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9126cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2000)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

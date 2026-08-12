@@ -1,0 +1,115 @@
+{
+  "symbol": "BANCOINDIA",
+  "name": "Banco Products (India) Ltd",
+  "sector": "",
+  "market_cap": "\u20b99,066Cr.",
+  "market_cap_cr": 9066.0,
+  "description": "AboutBanco Products (India) Ltd manufactures and supplies engine cooling modules and systems for automotive and industrial applications in both the domestic and international markets. It was Incorporated in 1961, promoted by Mr. Mehul K. Patel who has more than 40 years of experience in the automotive industry[1]Key PointsProduct PortfolioThe company\u2019s product portfolio comprises engine cooling modules such as radiators, charged air coolers, fuel coolers, oil coolers, AC condensers, deaeration plastic tanks, metal-layered gaskets, and hybrid elastomeric molded gaskets.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BANCOINDIA/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "Banco Products (India) Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "verdict_memo": "Banco Products (India) Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "investment_thesis": "Banco Products (India) Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 49.2% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "BANCOINDIA",
+    "name": "Banco Products (India) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Banco Products (India) Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 49.2% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 49.2% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 49.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.45,
+    "forensic_flags": [],
+    "owner_earnings": 42.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BANCOINDIA",
+    "name": "Banco Products (India) Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Banco Products (India) Ltd \u2014 weak technical setup (score 1.0/6): Revenue -14.8% YoY \u2014 declining; Net profit declined -48.8% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 21.8,
+    "from_high_pct": 28.0,
+    "revenue_growth_pct": -14.8,
+    "profit_growth_pct": -48.8,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 28.0% of 52w high \u2014 moderate momentum; Revenue -14.8% YoY \u2014 declining; Net profit declined -48.8% YoY",
+    "price_position": {
+      "current_price": 634.0,
+      "52w_high": 880.0,
+      "52w_low": 502.0,
+      "position_pct": 34.9,
+      "from_high_pct": 28.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BANCOINDIA",
+    "name": "Banco Products (India) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Banco Products (India) Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1961), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1961)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

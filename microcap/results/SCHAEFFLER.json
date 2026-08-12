@@ -1,0 +1,109 @@
+{
+  "symbol": "SCHAEFFLER",
+  "name": "Schaeffler India Ltd",
+  "sector": "",
+  "market_cap": "\u20b964,886Cr.",
+  "market_cap_cr": 64886.0,
+  "description": "AboutSchaeffler India Ltd is engaged in the development,  manufacturing and distribution of high-precision roller and ball bearings, engine systems and transmission components, chassis applications, clutch systems and related machine building manufacturing activities.[1]Key PointsBusiness SegmentsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/SCHAEFFLER/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Schaeffler India Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "Schaeffler India Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 27.9% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.24"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.087,
+    "normalised_score": -0.242
+  },
+  "laxmi": {
+    "symbol": "SCHAEFFLER",
+    "name": "Schaeffler India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Schaeffler India Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 27.9% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 27.9% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 27.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.76,
+    "forensic_flags": [],
+    "owner_earnings": 153.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "SCHAEFFLER",
+    "name": "Schaeffler India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Schaeffler India Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 7.1% of 52w high \u2014 strong momentum. Concerns: Revenue -5.4% YoY \u2014 declining, Net profit declined -22.3% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 50.3,
+    "from_high_pct": 7.1,
+    "revenue_growth_pct": -5.4,
+    "profit_growth_pct": -22.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 7.1% of 52w high \u2014 strong momentum; Revenue -5.4% YoY \u2014 declining; Net profit declined -22.3% YoY",
+    "price_position": {
+      "current_price": 4151.0,
+      "52w_high": 4468.0,
+      "52w_low": 3518.0,
+      "position_pct": 66.6,
+      "from_high_pct": 7.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "SCHAEFFLER",
+    "name": "Schaeffler India Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Schaeffler India Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

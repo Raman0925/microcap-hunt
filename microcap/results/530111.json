@@ -1,0 +1,108 @@
+{
+  "symbol": "530111",
+  "name": "Raj Packaging Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b913.7Cr.",
+  "market_cap_cr": 13.7,
+  "description": "AboutIncorporated in 1987, Raj Packaging Industries Ltd is in the business of plastic films and packaging materials.[1]Key PointsBusiness Overview:[1]RPIL is engaged in the manufacture of multilayer co-extruded plastic film and flexible packaging materialRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/530111/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Raj Packaging Industries Ltd \u2014 rejected (score -0.41). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "verdict_memo": "Raj Packaging Industries Ltd \u2014 rejected (score -0.41). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; Revenue grew 4/4 years consistently. What to watch: Low ROCE: 5.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.41"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -1.837,
+    "normalised_score": -0.408
+  },
+  "laxmi": {
+    "symbol": "530111",
+    "name": "Raj Packaging Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Raj Packaging Industries Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, Revenue grew 4/4 years consistently. Concerns: Low ROCE: 5.0% \u2014 poor capital efficiency, D/E ratio not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "Revenue grew 4/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 5.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 4.96,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 4,
+    "cfo_to_ebitda": 2.8,
+    "forensic_flags": [],
+    "owner_earnings": 0.8,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "530111",
+    "name": "Raj Packaging Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Raj Packaging Industries Ltd \u2014 weak technical setup (score 1.0/6): Price 34.5% below 52w high \u2014 weak price action; Net profit declined -15.2% YoY",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "growing",
+    "pe_ratio": 39.1,
+    "from_high_pct": 34.5,
+    "revenue_growth_pct": 15.6,
+    "profit_growth_pct": -15.2,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +15.6% YoY \u2014 growing; Price 34.5% below 52w high \u2014 weak price action; Net profit declined -15.2% YoY",
+    "price_position": {
+      "current_price": 30.0,
+      "52w_high": 45.8,
+      "52w_low": 24.0,
+      "position_pct": 27.5,
+      "from_high_pct": 34.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "530111",
+    "name": "Raj Packaging Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Raj Packaging Industries Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b914cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1987)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

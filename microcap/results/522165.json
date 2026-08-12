@@ -1,0 +1,111 @@
+{
+  "symbol": "522165",
+  "name": "Indsil Hydro Power & Manganese Ltd",
+  "sector": "",
+  "market_cap": "\u20b9109Cr.",
+  "market_cap_cr": 109.0,
+  "description": "AboutIncorporated in 1990, Indsil Hydro Power and Manganese Ltd does manufacturing of Low /Medium /High Carbon Silico Manganese[1]Key PointsBusiness Overview:[1]IHPML is engaged in manufacturing Low/Medium /High Carbon Silico Manganesewhich are used in Steel and Stainless-steel Industry.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/522165/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Indsil Hydro Power & Manganese Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 8.0% \u2014 poor capital efficiency",
+  "verdict_memo": "Indsil Hydro Power & Manganese Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 8.0% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 8.0% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 5.0/6 \u2014 pass (60% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Low PE 7.3 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Indsil Hydro Power & Manganese Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 8.0% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.24,
+    "normalised_score": -0.276
+  },
+  "laxmi": {
+    "symbol": "522165",
+    "name": "Indsil Hydro Power & Manganese Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Indsil Hydro Power & Manganese Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 8.0% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 8.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 7.97,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -0.08,
+    "forensic_flags": [],
+    "owner_earnings": 12.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "522165",
+    "name": "Indsil Hydro Power & Manganese Ltd",
+    "verdict": "pass",
+    "confidence": 0.6,
+    "report": "Indsil Hydro Power & Manganese Ltd \u2014 solid technical setup (score 5.0/6). Signals: Price within 27.4% of 52w high \u2014 moderate momentum, Revenue +70.8% YoY \u2014 strong momentum, Profit +200.0% YoY with margin expansion \u2014 quality growth, PE 7.3 < revenue growth 70.8% \u2014 undervalued vs growth. Notes: none. Optionality: Low PE 7.3 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 5.0,
+    "price_signal": "neutral",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 7.27,
+    "from_high_pct": 27.4,
+    "revenue_growth_pct": 70.8,
+    "profit_growth_pct": 200.0,
+    "optionality_signals": [
+      "Low PE 7.3 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Price within 27.4% of 52w high \u2014 moderate momentum; Revenue +70.8% YoY \u2014 strong momentum; Profit +200.0% YoY with margin expansion \u2014 quality growth; PE 7.3 < revenue growth 70.8% \u2014 undervalued vs growth",
+    "price_position": {
+      "current_price": 39.2,
+      "52w_high": 54.0,
+      "52w_low": 29.5,
+      "position_pct": 39.6,
+      "from_high_pct": 27.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "522165",
+    "name": "Indsil Hydro Power & Manganese Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Indsil Hydro Power & Manganese Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b9109cr mcap) \u2014 large runway ahead, Established company (founded ~1990). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9109cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1990)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

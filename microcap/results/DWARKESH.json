@@ -1,0 +1,107 @@
+{
+  "symbol": "DWARKESH",
+  "name": "Dwarikesh Sugar Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b9772Cr.",
+  "market_cap_cr": 772.0,
+  "description": "AboutDwarikesh Sugar Industries Ltd is primarily engaged in manufacturing of sugar and allied products. It has strong presence in fields such as sugar manufacturing, power and ethanol/ industrial alcohol production.[1]It is also a bio-energy company with supportingbusinesses of sugar manufacture and power co-generation.Key PointsBusiness SegmentsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/DWARKESH/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Dwarikesh Sugar Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Dwarikesh Sugar Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 4.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Dwarikesh Sugar Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.925,
+    "normalised_score": -0.65
+  },
+  "laxmi": {
+    "symbol": "DWARKESH",
+    "name": "Dwarikesh Sugar Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Dwarikesh Sugar Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 4.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 4.62,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 0.95,
+    "forensic_flags": [],
+    "owner_earnings": -17.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "DWARKESH",
+    "name": "Dwarikesh Sugar Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Dwarikesh Sugar Industries Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 21.5% of 52w high \u2014 moderate momentum, Revenue +42.1% YoY \u2014 strong momentum. Concerns: Net profit declined -143.6% YoY.",
+    "score": 3.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "strong",
+    "pe_ratio": 53.3,
+    "from_high_pct": 21.5,
+    "revenue_growth_pct": 42.1,
+    "profit_growth_pct": -143.6,
+    "optionality_signals": [],
+    "technical_notes": "Price within 21.5% of 52w high \u2014 moderate momentum; Revenue +42.1% YoY \u2014 strong momentum; Net profit declined -143.6% YoY",
+    "price_position": {
+      "current_price": 41.7,
+      "52w_high": 53.1,
+      "52w_low": 32.1,
+      "position_pct": 45.7,
+      "from_high_pct": 21.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "DWARKESH",
+    "name": "Dwarikesh Sugar Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Dwarikesh Sugar Industries Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

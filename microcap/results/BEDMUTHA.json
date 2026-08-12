@@ -1,0 +1,113 @@
+{
+  "symbol": "BEDMUTHA",
+  "name": "Bedmutha Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b9377Cr.",
+  "market_cap_cr": 377.0,
+  "description": "AboutIncorporated in 1990, Bedmutha IndustriesLtd is a manufacturer & exporter of steel and copper wires[1]Key PointsBusiness Overview:[1][2][3]BIL is an ISO 9001: 2008 certified  manufacturer and exporter of G I Wire, ACSR Wire, Stay/Guy/Earth Wire 7,19,37  Wire Strands, Spring steel wire, Tyre bead wire, Wire for ropes, etc, and various types of wire and wire products.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BEDMUTHA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bedmutha Industries Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "Bedmutha Industries Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 14.0% (adequate). What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bedmutha Industries Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.55,
+    "normalised_score": -0.567
+  },
+  "laxmi": {
+    "symbol": "BEDMUTHA",
+    "name": "Bedmutha Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Bedmutha Industries Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 14.0% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 14.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": -9.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BEDMUTHA",
+    "name": "Bedmutha Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Bedmutha Industries Ltd \u2014 weak technical setup (score 1.0/6): Revenue -35.8% YoY \u2014 declining",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 53.5,
+    "from_high_pct": 24.5,
+    "revenue_growth_pct": -35.8,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 24.5% of 52w high \u2014 moderate momentum; Revenue -35.8% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 117.0,
+      "52w_high": 155.0,
+      "52w_low": 94.6,
+      "position_pct": 37.1,
+      "from_high_pct": 24.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BEDMUTHA",
+    "name": "Bedmutha Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Bedmutha Industries Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b9377cr mcap) \u2014 large runway ahead, Established company (founded ~1990). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9377cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1990)",
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

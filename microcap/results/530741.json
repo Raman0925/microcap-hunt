@@ -1,0 +1,118 @@
+{
+  "symbol": "530741",
+  "name": "Ovobel Foods Ltd",
+  "sector": "",
+  "market_cap": "\u20b9175Cr.",
+  "market_cap_cr": 175.0,
+  "description": "AboutIncorporated in 1996, Ovobel Foods Ltd is in the business of manufacturing and distribution of Eggs powders & other egg related product[1]Key PointsBusiness Overview:[1]OFL is a FCCS Certified manufacturer of Egg Products. In collaboration with Ovobel NV, Belgium, company manufactures and exports Whole Egg, Yolk, Albumen Powders and Frozen. It's products are a replacement for fresh eggs in Industrial Food Processing Applications viz. in Baking, Pasta, Doughnut Premixes, Mayonnaise, Baby Food, Fish & Meat and Food ServicesRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/530741/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Ovobel Foods Ltd \u2014 borderline (score 0.17). Laxmi: borderline | Meera: borderline | Tara: pass. Worth watching but not a buy yet.",
+  "verdict_memo": "Ovobel Foods Ltd \u2014 borderline (score 0.17). Laxmi: borderline | Meera: borderline | Tara: pass. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 6.7/10",
+  "investment_thesis": "Ovobel Foods Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 28.2% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.17"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.75,
+    "normalised_score": 0.167
+  },
+  "laxmi": {
+    "symbol": "530741",
+    "name": "Ovobel Foods Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Ovobel Foods Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 28.2% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 28.2% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 28.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.89,
+    "forensic_flags": [],
+    "owner_earnings": 9.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "530741",
+    "name": "Ovobel Foods Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Ovobel Foods Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 12.7% of 52w high \u2014 strong momentum, Profit +125.0% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -7.5% YoY \u2014 declining. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 4.52,
+    "from_high_pct": 12.7,
+    "revenue_growth_pct": -7.5,
+    "profit_growth_pct": 125.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 12.7% of 52w high \u2014 strong momentum; Profit +125.0% YoY with margin expansion \u2014 quality growth; Revenue -7.5% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 185.0,
+      "52w_high": 212.0,
+      "52w_low": 106.0,
+      "position_pct": 74.5,
+      "from_high_pct": 12.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "530741",
+    "name": "Ovobel Foods Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Ovobel Foods Ltd has a strong story (score 6.0/10). Catalysts: Small size (\u20b9175cr mcap) \u2014 large runway ahead, Established company (founded ~1996), Growth ambition evident in description. Taleb signals: Optionality: capability expansion signals detected, Antifragility: multiple segments / diversified revenue. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9175cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1996)",
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "symbol": "521054",
+  "name": "Kakatiya Textiles Ltd",
+  "sector": "",
+  "market_cap": "\u20b94.80Cr.",
+  "market_cap_cr": 4.8,
+  "description": "AboutIncorporated in 1981, Kakatiya Textiles Ltd manufactures and sells cotton yarn[1]Key PointsBusiness Overview:[1]KKL is in the cotton yarn spinning yarn dyeing and cotton ginning business. It has a productionunit in Andhra Pradesh with an installedcapacity of25,000 spindles. Companyis using its manufacturing unit for job conversion work of other textile unitsRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/521054/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Kakatiya Textiles Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "Kakatiya Textiles Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 19.0% (adequate). What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Kakatiya Textiles Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "521054",
+    "name": "Kakatiya Textiles Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Kakatiya Textiles Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 19.0% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 19.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -88.23,
+    "forensic_flags": [],
+    "owner_earnings": -0.5,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "521054",
+    "name": "Kakatiya Textiles Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Kakatiya Textiles Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Revenue +124.2% YoY \u2014 strong momentum. Concerns: Price 61.0% below 52w high \u2014 weak price action. Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 2.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "strong",
+    "pe_ratio": null,
+    "from_high_pct": 61.0,
+    "revenue_growth_pct": 124.2,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +124.2% YoY \u2014 strong momentum; Price 61.0% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 8.26,
+      "52w_high": 21.2,
+      "52w_low": 8.01,
+      "position_pct": 1.9,
+      "from_high_pct": 61.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "521054",
+    "name": "Kakatiya Textiles Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Kakatiya Textiles Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b95cr mcap) \u2014 large runway ahead, Established company (founded ~1981). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b95cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1981)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,106 @@
+{
+  "symbol": "TASTYBITE",
+  "name": "Tasty Bite Eatables Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,401Cr.",
+  "market_cap_cr": 2401.0,
+  "description": "AboutTasty Bite Eatables is a manufacturer of ethnic and natural vegetarian packaged and ready to eat/serve (RTE) and Read-to-cook (RTC) food products, which is sold under the \u201cTasty Bite\u201d brand in the United States of America, Australia, the United Kingdom, Germany and Canada.[1]It is one of the fastest growing Asian food brands in the United States.[2]Key PointsProductsRetail:Co has a vast selection of entrees, ready-to-cook sauces, and organic rice and whole-grain preparations. Its  products are available in the US, Canada, Australia, New Zealand, Japan, Germany, and the UK.Foodservice:Tasty Bite Food Service (TFS) is a partner of leading QSR, Cloud-Kitchen & HORECA brands in the foodservice industry for a range of unique products such as sauces, meals and frozen food in the domestic market.[1]Food Service (TFS).Xclusive:Co offers snacks made of grains and vegetables with a myriad of spices from around the world[2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/TASTYBITE/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Tasty Bite Eatables Ltd \u2014 rejected (score -0.26). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "Tasty Bite Eatables Ltd \u2014 rejected (score -0.26). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 14.0% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.26"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.163,
+    "normalised_score": -0.258
+  },
+  "laxmi": {
+    "symbol": "TASTYBITE",
+    "name": "Tasty Bite Eatables Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Tasty Bite Eatables Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 14.0% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 14.0% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 14.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.91,
+    "forensic_flags": [],
+    "owner_earnings": 11.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "TASTYBITE",
+    "name": "Tasty Bite Eatables Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Tasty Bite Eatables Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 11.8% of 52w high \u2014 strong momentum. Concerns: Revenue -14.8% YoY \u2014 declining, Net profit declined -31.2% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 67.3,
+    "from_high_pct": 11.8,
+    "revenue_growth_pct": -14.8,
+    "profit_growth_pct": -31.2,
+    "optionality_signals": [],
+    "technical_notes": "Price within 11.8% of 52w high \u2014 strong momentum; Revenue -14.8% YoY \u2014 declining; Net profit declined -31.2% YoY",
+    "price_position": {
+      "current_price": 9357.0,
+      "52w_high": 10604.0,
+      "52w_low": 6430.0,
+      "position_pct": 70.1,
+      "from_high_pct": 11.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "TASTYBITE",
+    "name": "Tasty Bite Eatables Ltd",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "Tasty Bite Eatables Ltd \u2014 rejected (score 1.5/10): failed qualitative checks",
+    "score": 1.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

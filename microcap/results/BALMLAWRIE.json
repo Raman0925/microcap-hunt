@@ -1,0 +1,112 @@
+{
+  "symbol": "BALMLAWRIE",
+  "name": "Balmer Lawrie & Company Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,956Cr.",
+  "market_cap_cr": 2956.0,
+  "description": "AboutBalmer Lawrie & Company Ltd is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, Logistic Services and Infrastructure, Refinery & Oil Field and Travel & Vacation Services in India.[1]It is a central public-sector undertaking under the administrative control of Ministry of Petroleum and Natural Gas, GoI, since 1972.[2]Key PointsBrief History[1]BLCL has a longstanding operational history of over 150 years, evolving from a trading business into manufacturing with the establishment of its first grease plant in 1937. Over time, the Company diversified into multiple segments, including industrial packaging, greases and lubricants, travel and vacation, and logistics infrastructure, among others, operating through six strategic business units.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BALMLAWRIE/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Balmer Lawrie & Company Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Balmer Lawrie & Company Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Balmer Lawrie & Company Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 21.9% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.11"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.5,
+    "normalised_score": 0.111
+  },
+  "laxmi": {
+    "symbol": "BALMLAWRIE",
+    "name": "Balmer Lawrie & Company Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Balmer Lawrie & Company Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 21.9% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 21.9% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 21.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.73,
+    "forensic_flags": [],
+    "owner_earnings": 147.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BALMLAWRIE",
+    "name": "Balmer Lawrie & Company Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Balmer Lawrie & Company Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 27.3% of 52w high \u2014 moderate momentum, Revenue +72.0% YoY \u2014 strong momentum, PE 12.0 < revenue growth 72.0% \u2014 undervalued vs growth. Notes: Net profit declined -10.4% YoY.",
+    "score": 4.0,
+    "price_signal": "neutral",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 12.0,
+    "from_high_pct": 27.3,
+    "revenue_growth_pct": 72.0,
+    "profit_growth_pct": -10.4,
+    "optionality_signals": [],
+    "technical_notes": "Price within 27.3% of 52w high \u2014 moderate momentum; Revenue +72.0% YoY \u2014 strong momentum; PE 12.0 < revenue growth 72.0% \u2014 undervalued vs growth; Net profit declined -10.4% YoY",
+    "price_position": {
+      "current_price": 173.0,
+      "52w_high": 238.0,
+      "52w_low": 148.0,
+      "position_pct": 27.8,
+      "from_high_pct": 27.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BALMLAWRIE",
+    "name": "Balmer Lawrie & Company Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Balmer Lawrie & Company Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1972), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1972)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

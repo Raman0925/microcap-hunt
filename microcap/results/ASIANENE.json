@@ -1,0 +1,112 @@
+{
+  "symbol": "ASIANENE",
+  "name": "Asian Energy Services Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,955Cr.",
+  "market_cap_cr": 1955.0,
+  "description": "AboutAsian Energy Services Ltd is an oilfield service and reservoir imaging company, offering a suite of geophysical services specializing in land and well seismic services and operation and maintenance services for oilfields.[1]It is one of the few companies providing end-to-end services in the upstream oil segment.[2]Key PointsBusiness Portfolio:[1]The company is a leading and trusted service provider in the oil & gas industry, with a strong presence in the hydrocarbon and mineral sectors.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ASIANENE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Asian Energy Services Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Asian Energy Services Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: ROCE 15.0% (adequate). What to watch: FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Asian Energy Services Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -3.062,
+    "normalised_score": -0.681
+  },
+  "laxmi": {
+    "symbol": "ASIANENE",
+    "name": "Asian Energy Services Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Asian Energy Services Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "ROCE 15.0% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 15.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -29.0,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASIANENE",
+    "name": "Asian Energy Services Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Asian Energy Services Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 5.2% of 52w high \u2014 strong momentum. Concerns: Revenue -88.9% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 41.8,
+    "from_high_pct": 5.2,
+    "revenue_growth_pct": -88.9,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 5.2% of 52w high \u2014 strong momentum; Revenue -88.9% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 402.0,
+      "52w_high": 424.0,
+      "52w_low": 230.0,
+      "position_pct": 88.7,
+      "from_high_pct": 5.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASIANENE",
+    "name": "Asian Energy Services Ltd",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "Asian Energy Services Ltd \u2014 rejected (score 1.5/10): failed qualitative checks",
+    "score": 1.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

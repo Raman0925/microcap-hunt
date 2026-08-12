@@ -1,0 +1,109 @@
+{
+  "symbol": "BERGEPAINT",
+  "name": "Berger Paints India Ltd",
+  "sector": "",
+  "market_cap": "\u20b962,375Cr.",
+  "market_cap_cr": 62375.0,
+  "description": "AboutBerger Paints India is engaged in the Manufacturing and selling of Paints.(Source : 201903 Annual Report Page No: 117)Key PointsMarket PositionBerger Paints is the2nd Largest paint companyin India, the 4th Largest paint company in Asia, and the 7th Largest decorative paint company in the world.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BERGEPAINT/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "Berger Paints India Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround. Laxmi: borderline | Meera: borderline | Tara: reject. High-risk contrarian watch.",
+  "verdict_memo": "Berger Paints India Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround. Laxmi: borderline | Meera: borderline | Tara: reject. High-risk contrarian watch.",
+  "investment_thesis": "Berger Paints India Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 22.9% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.26"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.163,
+    "normalised_score": -0.258
+  },
+  "laxmi": {
+    "symbol": "BERGEPAINT",
+    "name": "Berger Paints India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Berger Paints India Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 22.9% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 22.9% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 22.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.45,
+    "forensic_flags": [],
+    "owner_earnings": 266.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BERGEPAINT",
+    "name": "Berger Paints India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Berger Paints India Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 10.1% of 52w high \u2014 strong momentum. Concerns: Revenue -5.3% YoY \u2014 declining, Net profit declined -25.3% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 52.8,
+    "from_high_pct": 10.1,
+    "revenue_growth_pct": -5.3,
+    "profit_growth_pct": -25.3,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 10.1% of 52w high \u2014 strong momentum; Revenue -5.3% YoY \u2014 declining; Net profit declined -25.3% YoY",
+    "price_position": {
+      "current_price": 535.0,
+      "52w_high": 595.0,
+      "52w_low": 391.0,
+      "position_pct": 70.6,
+      "from_high_pct": 10.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BERGEPAINT",
+    "name": "Berger Paints India Ltd",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "Berger Paints India Ltd \u2014 rejected (score 1.5/10): failed qualitative checks",
+    "score": 1.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

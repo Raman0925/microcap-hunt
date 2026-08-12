@@ -1,0 +1,117 @@
+{
+  "symbol": "BALPHARMA",
+  "name": "Bal Pharma Ltd",
+  "sector": "",
+  "market_cap": "\u20b9138Cr.",
+  "market_cap_cr": 138.0,
+  "description": "AboutIncorporated in 1987, Bal Pharma Ltd does manufacturing and selling of pharmaceutical products and related services[1]Key PointsBusiness Overview:[1]BALPL is a fully integrated pharmaceuticals company specialising in Bulk Drugs, Prescription Drugs, Generics, Pharma intermediates, and Ayurvedic products. Company focuses on therapeutic areas viz. Anti-diabetes, Anti-histamine, Anti-inflammatory, Acne Treatment, Gastroenterology, Cardiology, and dermatology. Company is one of Gliclazide's largest producers and exporters, a medicine to treat type-2 diabetes.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BALPHARMA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bal Pharma Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Bal Pharma Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 9.2% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bal Pharma Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.2% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.05,
+    "normalised_score": -0.233
+  },
+  "laxmi": {
+    "symbol": "BALPHARMA",
+    "name": "Bal Pharma Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Bal Pharma Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.2% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 9.2% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 9.24,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 3.5,
+    "forensic_flags": [],
+    "owner_earnings": 4.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BALPHARMA",
+    "name": "Bal Pharma Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Bal Pharma Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 12.1% of 52w high \u2014 strong momentum, Profit +33.3% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -5.6% YoY \u2014 declining. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 20.5,
+    "from_high_pct": 12.1,
+    "revenue_growth_pct": -5.6,
+    "profit_growth_pct": 33.3,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 12.1% of 52w high \u2014 strong momentum; Profit +33.3% YoY with margin expansion \u2014 quality growth; Revenue -5.6% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 87.0,
+      "52w_high": 99.0,
+      "52w_low": 59.7,
+      "position_pct": 69.5,
+      "from_high_pct": 12.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BALPHARMA",
+    "name": "Bal Pharma Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Bal Pharma Ltd has a strong story (score 6.0/10). Catalysts: Small size (\u20b9138cr mcap) \u2014 large runway ahead, Established company (founded ~1987), Growth ambition evident in description. Taleb signals: Optionality: capability expansion signals detected, Antifragility: multiple segments / diversified revenue. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9138cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1987)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 3.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

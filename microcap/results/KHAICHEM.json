@@ -1,0 +1,110 @@
+{
+  "symbol": "KHAICHEM",
+  "name": "Khaitan Chemicals & Fertilizers Ltd",
+  "sector": "",
+  "market_cap": "\u20b9496Cr.",
+  "market_cap_cr": 496.0,
+  "description": "AboutIncorporated in 1982, Khaitan Chemicals& Fertilizers Ltd is a manufacture of Single Super Phosphate (Fertilizer), Sulphuric Acidand other chemicals[1]Key PointsBusiness Overview:[1][2]KCFL is the largest manufacturer of Single Super Phosphate (SSP) in India. It sells fertilizers under the brand  ofKhaitan SSP & Utsav SSP. Company is a brand leader in Western Madhya Pradesh, and caters to several states with over 3,000 distributors and dealers.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/KHAICHEM/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Khaitan Chemicals & Fertilizers Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Khaitan Chemicals & Fertilizers Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 18.5% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "KHAICHEM",
+    "name": "Khaitan Chemicals & Fertilizers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Khaitan Chemicals & Fertilizers Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 18.5% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 18.5% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 18.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 5.25,
+    "forensic_flags": [],
+    "owner_earnings": 4.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "KHAICHEM",
+    "name": "Khaitan Chemicals & Fertilizers Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Khaitan Chemicals & Fertilizers Ltd \u2014 weak technical setup (score 1.0/6): Price 62.4% below 52w high \u2014 weak price action; Revenue -16.1% YoY \u2014 declining",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 8.52,
+    "from_high_pct": 62.4,
+    "revenue_growth_pct": -16.1,
+    "profit_growth_pct": 100.0,
+    "optionality_signals": [],
+    "technical_notes": "Profit +100.0% YoY with margin expansion \u2014 quality growth; Price 62.4% below 52w high \u2014 weak price action; Revenue -16.1% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 51.2,
+      "52w_high": 136.0,
+      "52w_low": 42.8,
+      "position_pct": 9.0,
+      "from_high_pct": 62.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "KHAICHEM",
+    "name": "Khaitan Chemicals & Fertilizers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Khaitan Chemicals & Fertilizers Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b9496cr mcap) \u2014 large runway ahead, Established company (founded ~1982). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9496cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1982)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,108 @@
+{
+  "symbol": "APTUS",
+  "name": "Aptus Value Housing Finance India Ltd",
+  "sector": "",
+  "market_cap": "\u20b912,856Cr.",
+  "market_cap_cr": 12856.0,
+  "description": "AboutAptus Value Housing Finance India Ltd is a Home Loan Company. Aptus has been formed to primarily address the housing finance needs of self-employed, low and middle income families primarily from semi-urban and rural areas. Company targets first-time home buyers where collateral is self- occupied residential property.Key PointsProducts Profile:[1]a) Housing Loan:It provides loan for constructing an independent house or an apartment on the customer\u2019s owned land or purchasing new or second-hand houses, and for house renovations.b) Business Loans:These are offered to individuals who require financial support for their business by providing self-occupied property as collateral with a maximum limit of 60% of the property value.c) Quasi Home Loans:For refinancing customers\u2019 investments in construction or for purchasing a house uptoRs. 25 lakh.d) Insurance Support:The company has collaborated with insurance companies to offer Credit Shield Insurance and Property Insurance.Read MoreWebsite",
+  "screener_url": "https://www.screener.in/company/APTUS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aptus Value Housing Finance India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/1 years positive; D/E ratio not available",
+  "verdict_memo": "Aptus Value Housing Finance India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/1 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 14.4% (adequate). What to watch: FCF inconsistent \u2014 only 0/1 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aptus Value Housing Finance India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/1 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.712,
+    "normalised_score": -0.825
+  },
+  "laxmi": {
+    "symbol": "APTUS",
+    "name": "Aptus Value Housing Finance India Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Aptus Value Housing Finance India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/1 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 14.4% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/1 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 14.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -2.94,
+    "forensic_flags": [],
+    "owner_earnings": 18.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "APTUS",
+    "name": "Aptus Value Housing Finance India Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Aptus Value Housing Finance India Ltd \u2014 weak technical setup (score 1.0/6): Revenue -38.1% YoY \u2014 declining; Net profit declined -51.4% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 17.6,
+    "from_high_pct": 29.6,
+    "revenue_growth_pct": -38.1,
+    "profit_growth_pct": -51.4,
+    "optionality_signals": [],
+    "technical_notes": "Price within 29.6% of 52w high \u2014 moderate momentum; Revenue -38.1% YoY \u2014 declining; Net profit declined -51.4% YoY",
+    "price_position": {
+      "current_price": 257.0,
+      "52w_high": 365.0,
+      "52w_low": 193.0,
+      "position_pct": 37.2,
+      "from_high_pct": 29.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "APTUS",
+    "name": "Aptus Value Housing Finance India Ltd",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "Aptus Value Housing Finance India Ltd \u2014 rejected (score 1.5/10): operates in high-risk sector: housing finance",
+    "score": 1.5,
+    "red_flags": [
+      "operates in high-risk sector: housing finance"
+    ],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "negative",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

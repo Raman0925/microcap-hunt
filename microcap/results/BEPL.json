@@ -1,0 +1,107 @@
+{
+  "symbol": "BEPL",
+  "name": "Bhansali Engineering Polymers Ltd",
+  "sector": "",
+  "market_cap": "\u20b93,049Cr.",
+  "market_cap_cr": 3049.0,
+  "description": "AboutBhansali Engineering Polymers Ltd is engaged in manufacturing and sale of ABS Resins, AES Resins, ASA resins, SAN resins and their alloys with other plastics in the Indian market.Its customers include leading companies dealing in Automobiles, Home Appliances, Electronics, Healthcare and Kitchenware.[1]Key PointsCompany Overview:[1]The company is a manufacturer of Acrylonitrile Butadiene Styrene (ABS) resins and has a diversified portfolio of high-performance engineering polymers. It supplies80+ variantsof ABS and specialty polymers.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BEPL/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Bhansali Engineering Polymers Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "Bhansali Engineering Polymers Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 23.8% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.24"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.087,
+    "normalised_score": -0.242
+  },
+  "laxmi": {
+    "symbol": "BEPL",
+    "name": "Bhansali Engineering Polymers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Bhansali Engineering Polymers Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 23.8% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 23.8% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 23.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 7.2,
+    "forensic_flags": [],
+    "owner_earnings": 5.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BEPL",
+    "name": "Bhansali Engineering Polymers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Bhansali Engineering Polymers Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 10.9% of 52w high \u2014 strong momentum, Revenue +13.2% YoY \u2014 growing. Concerns: Net profit declined -70.6% YoY.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 15.3,
+    "from_high_pct": 10.9,
+    "revenue_growth_pct": 13.2,
+    "profit_growth_pct": -70.6,
+    "optionality_signals": [],
+    "technical_notes": "Price within 10.9% of 52w high \u2014 strong momentum; Revenue +13.2% YoY \u2014 growing; Net profit declined -70.6% YoY",
+    "price_position": {
+      "current_price": 123.0,
+      "52w_high": 138.0,
+      "52w_low": 74.2,
+      "position_pct": 76.5,
+      "from_high_pct": 10.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BEPL",
+    "name": "Bhansali Engineering Polymers Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Bhansali Engineering Polymers Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "symbol": "ASIANTILES",
+  "name": "Asian Granito India Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,567Cr.",
+  "market_cap_cr": 1567.0,
+  "description": "AboutIncorporated in 1995, Asian Granito manufactures and trades Tiles, Marble and allied products[1]Key PointsProduct Portfolio[1][2]a) Ceramic and Vitrified Tiles:Floor tiles, wall tiles, parking tiles, glazed vitrified tiles (GVT), polished vitrified tiles (PVT), double charge tiles, tuff guard floor, digital wall tiles, large format slabs (including 1200x1800 mm, 1200x2400 mm), specialty/niche tiles (full body, solar reflective, step & riser, hardstone, Grestek, Slimgres).b) Marble and Quartz Surfaces:[2]Engineered marble, multi-colored and imported marbles, onyx, multi-colored quartz, EStone quartz; strong presence in premium scratch-resistant, low porosity surfaces\u2014used in residential, institutional, and hospitality applications.c) Sanitaryware & Bathware:[1]Water closets, basins, urinals, cisterns, seat covers, faucets, bathroom accessories, showers, CP fittings, all produced in-house since Oct 2023.d) Other Offerings:[2]Countertops, construction chemicals.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ASIANTILES/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Asian Granito India Ltd \u2014 rejected (score 3.5/10): Low ROCE: 1.1% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Asian Granito India Ltd \u2014 rejected (score 3.5/10): Low ROCE: 1.1% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 1.1% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Asian Granito India Ltd \u2014 rejected (score 3.5/10): Low ROCE: 1.1% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.56,
+    "normalised_score": -0.569
+  },
+  "laxmi": {
+    "symbol": "ASIANTILES",
+    "name": "Asian Granito India Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Asian Granito India Ltd \u2014 rejected (score 3.5/10): Low ROCE: 1.1% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 1.1% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 1.08,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 7.57,
+    "forensic_flags": [],
+    "owner_earnings": 14.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASIANTILES",
+    "name": "Asian Granito India Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Asian Granito India Ltd \u2014 weak technical setup (score 0.0/6): Price 33.2% below 52w high \u2014 weak price action; Revenue -5.7% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 7122.0,
+    "from_high_pct": 33.2,
+    "revenue_growth_pct": -5.7,
+    "profit_growth_pct": -26.3,
+    "optionality_signals": [],
+    "technical_notes": "Price 33.2% below 52w high \u2014 weak price action; Revenue -5.7% YoY \u2014 declining; Net profit declined -26.3% YoY",
+    "price_position": {
+      "current_price": 52.8,
+      "52w_high": 79.1,
+      "52w_low": 42.5,
+      "position_pct": 28.1,
+      "from_high_pct": 33.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASIANTILES",
+    "name": "Asian Granito India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Asian Granito India Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1995), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1995)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

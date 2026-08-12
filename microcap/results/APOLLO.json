@@ -1,0 +1,116 @@
+{
+  "symbol": "APOLLO",
+  "name": "Apollo Micro Systems Ltd",
+  "sector": "",
+  "market_cap": "\u20b914,444Cr.",
+  "market_cap_cr": 14444.0,
+  "description": "AboutApollo Micro Systems Ltd is a pioneer in design, development, assembly and testing of electronic and electro mechanical solutions.[1]Key PointsService Offerings[1]AMS is a leading technology provider of high-performance, mission-critical solutions for the defence sector. The company specializes in electronic, electromechanical, and engineering design, along with the manufacturing and supply of advanced systems. It provides wide range of strategic domains, including Missile Systems, Satellite and Space Systems, Naval Systems, Avionics, and Homeland Security.It has 700+ onboard technologies and is actively involved in 150+ indigenous programs and 60 DcPP programs as a sub-system partner. It has presence in all Missile and Naval warfare programs.[2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/APOLLO/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Apollo Micro Systems Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Apollo Micro Systems Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: ROCE 15.6% (adequate). What to watch: FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Apollo Micro Systems Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.65,
+    "normalised_score": -0.589
+  },
+  "laxmi": {
+    "symbol": "APOLLO",
+    "name": "Apollo Micro Systems Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Apollo Micro Systems Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "ROCE 15.6% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 15.6,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -0.57,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "APOLLO",
+    "name": "Apollo Micro Systems Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Apollo Micro Systems Ltd \u2014 weak technical setup (score 1.0/6): Revenue -31.8% YoY \u2014 declining; Net profit declined -30.0% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 112.0,
+    "from_high_pct": 16.7,
+    "revenue_growth_pct": -31.8,
+    "profit_growth_pct": -30.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 16.7% of 52w high \u2014 moderate momentum; Revenue -31.8% YoY \u2014 declining; Net profit declined -30.0% YoY",
+    "price_position": {
+      "current_price": 389.0,
+      "52w_high": 467.0,
+      "52w_low": 180.0,
+      "position_pct": 72.8,
+      "from_high_pct": 16.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "APOLLO",
+    "name": "Apollo Micro Systems Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Apollo Micro Systems Ltd has a mixed narrative (score 3.5/10). Positives: Operating in large / growing sector, No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

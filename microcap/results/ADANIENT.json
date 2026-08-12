@@ -1,0 +1,109 @@
+{
+  "symbol": "ADANIENT",
+  "name": "Adani Enterprises Ltd",
+  "sector": "",
+  "market_cap": "\u20b94,05,420Cr.",
+  "market_cap_cr": 405420.0,
+  "description": "AboutAdani Enterprises Ltd has business interests in various economic areas such as mining, integrated resources management (IRM), infrastructure such as airports, roads, rail/ metro, water, data centres, solar manufacturing, agro and defence.[1]Key PointsPart of the Adani Group[1][2]Incorporated in 1993, the company is the flagship entity of theAdani Group,one of India\u2019s largest business organisations, promoted by Gautam Adani. It serves as an incubator for building emerging infrastructure businesses, contributing to nation-building and divesting them into separate listed entities. It has successfully built sizeable and scalable businesses like Adani Ports & SEZ, Adani Energy Solutions, Adani Power, Adani Green Energy, Adani Total Gas and Adani Wilmar.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ADANIENT/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Adani Enterprises Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Adani Enterprises Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 7.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Adani Enterprises Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.3,
+    "normalised_score": -0.289
+  },
+  "laxmi": {
+    "symbol": "ADANIENT",
+    "name": "Adani Enterprises Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Adani Enterprises Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 7.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 7.59,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 0.54,
+    "forensic_flags": [],
+    "owner_earnings": 407.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ADANIENT",
+    "name": "Adani Enterprises Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Adani Enterprises Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 7.7% of 52w high \u2014 strong momentum, Revenue +83.9% YoY \u2014 strong momentum. Notes: Net profit declined -21.7% YoY.",
+    "score": 4.0,
+    "price_signal": "bullish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 122.0,
+    "from_high_pct": 7.7,
+    "revenue_growth_pct": 83.9,
+    "profit_growth_pct": -21.7,
+    "optionality_signals": [],
+    "technical_notes": "Price within 7.7% of 52w high \u2014 strong momentum; Revenue +83.9% YoY \u2014 strong momentum; Net profit declined -21.7% YoY",
+    "price_position": {
+      "current_price": 2996.0,
+      "52w_high": 3245.0,
+      "52w_low": 1753.0,
+      "position_pct": 83.3,
+      "from_high_pct": 7.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ADANIENT",
+    "name": "Adani Enterprises Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Adani Enterprises Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~1993), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1993)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

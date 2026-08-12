@@ -1,0 +1,112 @@
+{
+  "symbol": "VARDHACRLC",
+  "name": "Vardhman Acrylics Ltd",
+  "sector": "",
+  "market_cap": "\u20b9354Cr.",
+  "market_cap_cr": 354.0,
+  "description": "AboutIncorporated in 1990, Vardhman Acrylics Ltd is a manufacturer and supplier of Acrylic Fibre and Tow[1]Key PointsBusiness Overview:[1]VAL is among the top three players in the acrylic fiber segment in India. It holds around 90% of the total operational capacity in the domestic acrylic fiber industry. It is a part of Vardhman Textiles  Ltd which holds70.74% stakein VAL  and provides managerial and operational support. Company markets acrylic fibre under the Varlan brand. Acrylic fiber is  used to manufacture hand-knitted yarn, blankets, jerseys, sweaters, saris, upholstery, and carpetsRead MoreWebsiteNSE\n                - BE",
+  "screener_url": "https://www.screener.in/company/VARDHACRLC/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Vardhman Acrylics Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Vardhman Acrylics Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Vardhman Acrylics Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; Revenue grew 3/4 years consistently. What to watch: Low ROCE: 11.8% \u2014 poor capital efficiency; D/E ratio not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Low PE 8.5 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.11"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.5,
+    "normalised_score": 0.111
+  },
+  "laxmi": {
+    "symbol": "VARDHACRLC",
+    "name": "Vardhman Acrylics Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Vardhman Acrylics Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, Revenue grew 3/4 years consistently. Concerns: Low ROCE: 11.8% \u2014 poor capital efficiency, D/E ratio not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 11.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 1.67,
+    "forensic_flags": [],
+    "owner_earnings": 33.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "VARDHACRLC",
+    "name": "Vardhman Acrylics Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Vardhman Acrylics Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 9.6% of 52w high \u2014 strong momentum, Revenue +11.2% YoY \u2014 growing, PE 8.5 < revenue growth 11.2% \u2014 undervalued vs growth. Notes: Net profit declined -19.5% YoY. Optionality: Low PE 8.5 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 4.0,
+    "price_signal": "bullish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "growing",
+    "pe_ratio": 8.5,
+    "from_high_pct": 9.6,
+    "revenue_growth_pct": 11.2,
+    "profit_growth_pct": -19.5,
+    "optionality_signals": [
+      "Low PE 8.5 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Price within 9.6% of 52w high \u2014 strong momentum; Revenue +11.2% YoY \u2014 growing; PE 8.5 < revenue growth 11.2% \u2014 undervalued vs growth; Net profit declined -19.5% YoY",
+    "price_position": {
+      "current_price": 44.1,
+      "52w_high": 48.8,
+      "52w_low": 27.0,
+      "position_pct": 78.4,
+      "from_high_pct": 9.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "VARDHACRLC",
+    "name": "Vardhman Acrylics Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Vardhman Acrylics Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b9354cr mcap) \u2014 large runway ahead, Established company (founded ~1990). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9354cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1990)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

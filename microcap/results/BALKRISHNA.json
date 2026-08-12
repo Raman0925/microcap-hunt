@@ -1,0 +1,111 @@
+{
+  "symbol": "BALKRISHNA",
+  "name": "Balkrishna Paper Mills Ltd",
+  "sector": "",
+  "market_cap": "\u20b956.1Cr.",
+  "market_cap_cr": 56.1,
+  "description": "AboutIncorporated in 1975, Balkrishna Paper MillsLtd is in the Paper & Paper Boards businessand trading of plastic & packaging materials.[1]Key PointsBusiness Overview:[1][2]BPML used to manufacture coated duplex /triplex paper boards out of recycled wastepaper and pulp, at its facilities in Ambivili, Maharashtra. Currently, it is doing trading activities in sustainable plastic and packaging materials, and paper & paper board. The company is looking towardspossibility of entering into new areas of business to put to use the existing resources of thecompany to the optimum level.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BALKRISHNA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Balkrishna Paper Mills Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; ROCE not available",
+  "verdict_memo": "Balkrishna Paper Mills Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; ROCE not available",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; ROCE not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Balkrishna Paper Mills Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; ROCE not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.64,
+    "normalised_score": -0.587
+  },
+  "laxmi": {
+    "symbol": "BALKRISHNA",
+    "name": "Balkrishna Paper Mills Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Balkrishna Paper Mills Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; ROCE not available",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "ROCE not available",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": null,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -0.12,
+    "forensic_flags": [],
+    "owner_earnings": -3.1,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BALKRISHNA",
+    "name": "Balkrishna Paper Mills Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Balkrishna Paper Mills Ltd \u2014 weak technical setup (score 0.0/6): Price 35.6% below 52w high \u2014 weak price action; Revenue -87.5% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": null,
+    "from_high_pct": 35.6,
+    "revenue_growth_pct": -87.5,
+    "profit_growth_pct": -118.8,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 35.6% below 52w high \u2014 weak price action; Revenue -87.5% YoY \u2014 declining; Net profit declined -118.8% YoY",
+    "price_position": {
+      "current_price": 17.4,
+      "52w_high": 27.0,
+      "52w_low": 11.3,
+      "position_pct": 38.9,
+      "from_high_pct": 35.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BALKRISHNA",
+    "name": "Balkrishna Paper Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Balkrishna Paper Mills Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b956cr mcap) \u2014 large runway ahead, Established company (founded ~1975). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b956cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1975)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

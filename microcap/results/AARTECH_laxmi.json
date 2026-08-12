@@ -1,0 +1,77 @@
+{
+  "analyst": "Laxmi",
+  "company": "Aartech Solonics",
+  "symbol": "AARTECH",
+  "verdict": "FAIL",
+  "score": 2,
+  "fcf_positive_years": 2,
+  "roce_5yr_avg": 6.97,
+  "debt_equity": 0.16,
+  "promoter_holding_pct": 52.75,
+  "promoter_pledging_pct": 0.0,
+  "inventory_days": 150,
+  "receivable_days": 148,
+  "cash_conversion_cycle": 193,
+  "moat": "None identifiable. Manufactures 'Electrical Machinery and Apparatus NEC' — a residual/catch-all category with no pricing power. Wildly volatile margins (-25% to +31% quarterly) confirm zero competitive moat. Revenue lumpiness is classic project-based B2B dependency with no recurring stream. No brand, no IP, no switching costs, no network effects.",
+  "red_flags": [
+    "FCF negative in 3 of last 5 years: FY23 (-7.31 Cr), FY25 (-2.32 Cr), FY26 (-3.18 Cr). Only FY22 (+0.74 Cr) and FY24 (+1.99 Cr) positive.",
+    "FCF is NOT real: CFO/OP wildly erratic (-640% in FY23, +695% in FY24, -194% in FY25, -48% in FY26). Operating profit does not convert to cash.",
+    "Earnings quality severely compromised: Other income ₹1.68 Cr = ~48% of reported PAT ₹3.50 Cr in FY26. Strip it out and earnings collapse.",
+    "Working capital days exploded from 63.80 (FY25) to 200.67 (FY26) in a single year — a capital trap, not business growth.",
+    "Debtor days spiked: 59.71 (FY25) → 148.16 (FY26). Receivables growing faster than revenue — classic revenue recognition risk or customer stress.",
+    "Quarterly OPM violently erratic: Mar 2023 -25.2%, Dec 2025 +31.3%, Mar 2025 -25.5%. No business with a real moat behaves this way.",
+    "5yr average ROCE of ~7% — consistently below cost of capital. Only FY26 shows 15.86%, likely a statistical spike, not structural improvement.",
+    "Valuation absurd: P/E 44x at 4.34x book for a business with 10yr avg ROE of only 4% and near-zero FCF generation.",
+    "Revenue base tiny at ₹40-50 Cr — too small for institutional interest and subject to single-order concentration risk.",
+    "Inventory days erratic (84 to 198 over 5 years), suggesting no stable production cycle or demand visibility."
+  ],
+  "data_sources": {
+    "screener_url": "https://www.screener.in/company/AARTECH/",
+    "fetch_date": "2026-08-12",
+    "fcf_series_cr": {
+      "FY22": 0.74,
+      "FY23": -7.31,
+      "FY24": 1.99,
+      "FY25": -2.32,
+      "FY26": -3.18
+    },
+    "roce_series_pct": {
+      "FY22": 2.02,
+      "FY23": 7.05,
+      "FY24": 5.35,
+      "FY25": 4.57,
+      "FY26": 15.86
+    },
+    "balance_sheet_FY26_cr": {
+      "equity_capital": 15.89,
+      "reserves": 19.64,
+      "total_equity": 35.53,
+      "borrowings": 5.62
+    },
+    "cfo_to_op_pct": {
+      "FY22": 380,
+      "FY23": -640,
+      "FY24": 695,
+      "FY25": -194,
+      "FY26": -48
+    }
+  },
+  "framework_verdicts": {
+    "buffett": {
+      "fcf_real": false,
+      "moat": "none",
+      "verdict": "REJECT — FCF negative 3/5 years, cash quality poor (CFO/OP wildly negative), no identifiable moat. Other income inflating reported earnings. Buffett would not touch a lumpy project business with zero pricing power at 44x P/E."
+    },
+    "graham": {
+      "margin_of_safety": false,
+      "asset_backing": false,
+      "verdict": "REJECT — Trading at 4.34x book with 10yr ROE of 4%. Graham's net-net test fails comprehensively. No margin of safety at current price. Working capital deterioration suggests book value itself is optimistic given receivables quality."
+    },
+    "greenblatt": {
+      "roce_quality": "poor",
+      "earnings_yield": 2.27,
+      "verdict": "REJECT — 5yr ROCE avg of ~7% is well below 15% threshold. Earnings yield of 2.27% (P/E 44x) is terrible. FY26 ROCE spike to 15.86% needs 2-3 more years to confirm structural shift vs one-off project-mix benefit."
+    }
+  },
+  "reasoning": "Aartech Solonics fails on every fundamental framework. The core problem is that this is a tiny project-based electrical equipment manufacturer (₹40 Cr revenue) with no competitive moat, no pricing power, and no reliable cash generation. The FCF track record is damning: negative in 3 of 5 years, and the two positive years produced modest amounts that were quickly overwhelmed by working capital destruction. The CFO/OP ratio being wildly erratic (-640% to +695%) is the clearest signal that reported operating profits are accounting artifacts, not real cash earnings.\n\nThe FY26 'improvement' narrative is fragile. The ROCE of 15.86% and OPM of 12.44% look good in isolation, but (1) the quarterly OPM swung to -25.5% just one year prior in Mar 2025, (2) working capital days have simultaneously exploded from 64 to 201 — meaning the improved P&L is being funded by not collecting cash, and (3) other income of ₹1.68 Cr accounts for 48% of FY26 PAT. Strip out non-operating income and the earnings are mediocre.\n\nThe debtor days jumping from 59 to 148 in a single year while revenue grew only ~12.6% is a serious red flag — either aggressive revenue booking, customer payment stress, or project milestones being recognized before cash is due. Combined with inventory days of 150 and CCC of 193, the business is a working capital sponge.\n\nValuation is entirely unjustifiable: 44x P/E, 4.34x book, for a business with 10yr ROE of 4%, 5yr ROCE of ~7%, and near-zero FCF. There is no margin of safety anywhere in the price. The stock is down 25% in 1 year and the fundamentals suggest further downside risk.\n\nPromoter holding at 52.75% is stable with no pledging — the one positive. But stability of holding doesn't create business value.\n\nVerdict: FAIL. Score 2/10. The only points awarded are for (1) no promoter pledging, (2) low absolute debt (D/E 0.16), and (3) long operating history since 1982. Everything else is a red flag. This is a speculative small-cap with lottery-ticket characteristics masquerading as a value opportunity."
+}

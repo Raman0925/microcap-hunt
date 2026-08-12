@@ -1,0 +1,115 @@
+{
+  "symbol": "ATALREAL",
+  "name": "Atal Realtech Ltd",
+  "sector": "",
+  "market_cap": "\u20b9431Cr.",
+  "market_cap_cr": 431.0,
+  "description": "AboutIncorporated in 2012, Atal Realtech Limited is in the business of civil construction and government contractingKey PointsBusiness Overview:[1][2]Company provides integrated contracting and sub-contracting services for civil and industrial construction, engineering and complete infrastructure project management. Company is a registered contractor with Government of Maharashtra Public Works Department in Class I-A and provides services for governmental projects such as Water Supply and Drainage Projects, Road and Bridges Projects, Major and Minor Irrigation Projects and civil construction projects like Sport Stadiums (Indoor and Outdoor), Multi-purpose Hall, Commercial structures, Industrial structures, Hospitals, Cold Storages, Educational Institutions, Mass-Housing projects. Company got listed on NSE Emerge (SME platform of National Stock Exchange of India) on 15th October, 2020Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ATALREAL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Atal Realtech Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Atal Realtech Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 10.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Atal Realtech Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "ATALREAL",
+    "name": "Atal Realtech Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Atal Realtech Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 10.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 10.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.0,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ATALREAL",
+    "name": "Atal Realtech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Atal Realtech Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 2.5% of 52w high \u2014 strong momentum. Concerns: Revenue -33.3% YoY \u2014 declining, Net profit declined 0.0% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 66.4,
+    "from_high_pct": 2.5,
+    "revenue_growth_pct": -33.3,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 2.5% of 52w high \u2014 strong momentum; Revenue -33.3% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 35.0,
+      "52w_high": 35.9,
+      "52w_low": 17.8,
+      "position_pct": 95.0,
+      "from_high_pct": 2.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ATALREAL",
+    "name": "Atal Realtech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Atal Realtech Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b9431cr mcap) \u2014 large runway ahead, Established company (founded ~2012). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9431cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2012)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

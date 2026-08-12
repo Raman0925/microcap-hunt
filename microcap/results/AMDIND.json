@@ -1,0 +1,109 @@
+{
+  "symbol": "AMDIND",
+  "name": "AMD Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b999.6Cr.",
+  "market_cap_cr": 99.6,
+  "description": "AboutIncorporated in 1958, AMD Industries Ltd manufactures Crown Caps, CSD Closures, Pet Preforms, Jars, and Bottles, etc. for various edible items packed in glass & Plastic bottles[1]Key PointsBusiness Overview:[1]Company manufactures Crown Caps, Carbonated Soft drinks, closures, Polyethylene terephthalate (PET) Preforms, PET bottle and PET 20L Jars. Company supplies finished packaging goods to soft drinks, beverages, water, liquor and pharma industriesRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AMDIND/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "AMD Industries Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "AMD Industries Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "AMD Industries Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; Revenue grew 3/4 years consistently. What to watch: Low ROCE: 1.4% \u2014 poor capital efficiency; D/E ratio not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "AMDIND",
+    "name": "AMD Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "AMD Industries Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, Revenue grew 3/4 years consistently. Concerns: Low ROCE: 1.4% \u2014 poor capital efficiency, D/E ratio not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 1.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 1.43,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 5.0,
+    "forensic_flags": [],
+    "owner_earnings": 5.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AMDIND",
+    "name": "AMD Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "AMD Industries Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 23.9% of 52w high \u2014 moderate momentum, Revenue +0.6% YoY \u2014 growing, Profit +66.7% YoY with margin expansion \u2014 quality growth. Concerns: none.",
+    "score": 3.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": null,
+    "from_high_pct": 23.9,
+    "revenue_growth_pct": 0.6,
+    "profit_growth_pct": 66.7,
+    "optionality_signals": [],
+    "technical_notes": "Price within 23.9% of 52w high \u2014 moderate momentum; Revenue +0.6% YoY \u2014 growing; Profit +66.7% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 51.9,
+      "52w_high": 68.2,
+      "52w_low": 32.0,
+      "position_pct": 55.0,
+      "from_high_pct": 23.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AMDIND",
+    "name": "AMD Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "AMD Industries Ltd has a mixed narrative (score 3.5/10). Positives: Small size (\u20b9100cr mcap) \u2014 large runway ahead, Established company (founded ~1958). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9100cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1958)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

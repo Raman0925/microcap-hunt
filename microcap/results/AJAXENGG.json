@@ -1,0 +1,112 @@
+{
+  "symbol": "AJAXENGG",
+  "name": "Ajax Engineering Ltd",
+  "sector": "",
+  "market_cap": "\u20b96,491Cr.",
+  "market_cap_cr": 6491.0,
+  "description": "AboutIncorporated in July 1992, Ajax Engineering Limited manufactures a wide range of concrete equipment and services across the value chain.[1]Key PointsLeading Concrete Equipment Manufacturer[1]Ajax Engineering is India\u2019s leading concrete equipment manufacturer. It operates across the entire concrete application value chainproduction, transportation, placement, paving and advanced solutionslike 3D concrete printing. It is the second-largest concrete equipment manufacturer in India by volume and has sold 32.9k+ units over the last 10 years.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AJAXENGG/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Ajax Engineering Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Ajax Engineering Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Ajax Engineering Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 23.9% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "AJAXENGG",
+    "name": "Ajax Engineering Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Ajax Engineering Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 23.9% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 23.9% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 23.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.31,
+    "forensic_flags": [],
+    "owner_earnings": 100.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AJAXENGG",
+    "name": "Ajax Engineering Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Ajax Engineering Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 22.3% of 52w high \u2014 moderate momentum, Profit +3.1% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -0.8% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 28.2,
+    "from_high_pct": 22.3,
+    "revenue_growth_pct": -0.8,
+    "profit_growth_pct": 3.1,
+    "optionality_signals": [],
+    "technical_notes": "Price within 22.3% of 52w high \u2014 moderate momentum; Profit +3.1% YoY with margin expansion \u2014 quality growth; Revenue -0.8% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 567.0,
+      "52w_high": 730.0,
+      "52w_low": 395.0,
+      "position_pct": 51.3,
+      "from_high_pct": 22.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AJAXENGG",
+    "name": "Ajax Engineering Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Ajax Engineering Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1992), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1992)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

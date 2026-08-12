@@ -1,0 +1,115 @@
+{
+  "symbol": "539527",
+  "name": "Creative Castings Ltd",
+  "sector": "",
+  "market_cap": "\u20b978.4Cr.",
+  "market_cap_cr": 78.4,
+  "description": "AboutIncorporated in 1980, Creative Castings Ltd deals in steel and alloy steel investment castings, and also generates power fromwind energy.[1]Key PointsBusiness Overview:[1][2]CCL manufactures and exports investment castings using the lost wax process and has diversified into windmill turbines. The company supplies over5,685 casting variantsin as-cast and fully machined forms, serving sectors such as pumps & valves, defense, oil & refinery, fire control equipment, and automobiles.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/539527/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Creative Castings Ltd \u2014 borderline (score 0.01). Laxmi: borderline | Meera: reject | Tara: pass. Worth watching but not a buy yet.",
+  "verdict_memo": "Creative Castings Ltd \u2014 borderline (score 0.01). Laxmi: borderline | Meera: reject | Tara: pass. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "Creative Castings Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 14.3% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 6.5/10 \u2014 pass (54% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.01"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": 0.06,
+    "normalised_score": 0.013
+  },
+  "laxmi": {
+    "symbol": "539527",
+    "name": "Creative Castings Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Creative Castings Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 14.3% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 14.3% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 14.3,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 1.16,
+    "forensic_flags": [],
+    "owner_earnings": 1.6,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "539527",
+    "name": "Creative Castings Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Creative Castings Ltd \u2014 weak technical setup (score 1.0/6): Revenue -16.0% YoY \u2014 declining; Net profit declined -38.3% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 15.0,
+    "from_high_pct": 16.7,
+    "revenue_growth_pct": -16.0,
+    "profit_growth_pct": -38.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 16.7% of 52w high \u2014 moderate momentum; Revenue -16.0% YoY \u2014 declining; Net profit declined -38.3% YoY",
+    "price_position": {
+      "current_price": 603.0,
+      "52w_high": 724.0,
+      "52w_low": 482.0,
+      "position_pct": 50.0,
+      "from_high_pct": 16.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "539527",
+    "name": "Creative Castings Ltd",
+    "verdict": "pass",
+    "confidence": 0.54,
+    "report": "Creative Castings Ltd has a strong story (score 6.5/10). Catalysts: Small size (\u20b978cr mcap) \u2014 large runway ahead, Established company (founded ~1980), Growth ambition evident in description. Taleb signals: Optionality: capability expansion signals detected, Antifragility: geographic diversification. Governance: clean.",
+    "score": 6.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b978cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1980)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 3.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

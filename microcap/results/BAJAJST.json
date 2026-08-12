@@ -1,0 +1,111 @@
+{
+  "symbol": "BAJAJST",
+  "name": "Bajaj Steel Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b9788Cr.",
+  "market_cap_cr": 788.0,
+  "description": "AboutIncorporated in 1961, Bajaj Steel IndustriesLtd manufactures Cotton ginning and Pressing Machineries, Pre fabricated building structure, components and allied products[1]Key PointsBusiness Overview:[1]BSIL is an ISO certified company, uniquely producing machinery for all cotton ginning technologies (Double Roller, Saw Gin, and Rotobar) and all pressing technologies, as well as seed cleaning, delinting, and decorticating. It also engages in general engineering fabrication, machining, intelligent electrical panel manufacturing, and various other engineering activities.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BAJAJST/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bajaj Steel Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 9.8% \u2014 poor capital efficiency",
+  "verdict_memo": "Bajaj Steel Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 9.8% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 9.8% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bajaj Steel Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 9.8% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.59,
+    "normalised_score": -0.576
+  },
+  "laxmi": {
+    "symbol": "BAJAJST",
+    "name": "Bajaj Steel Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Bajaj Steel Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 9.8% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 9.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 9.75,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -0.5,
+    "forensic_flags": [],
+    "owner_earnings": 2.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BAJAJST",
+    "name": "Bajaj Steel Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Bajaj Steel Industries Ltd \u2014 weak technical setup (score 1.0/6): Price 38.9% below 52w high \u2014 weak price action",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "growing",
+    "pe_ratio": 41.8,
+    "from_high_pct": 38.9,
+    "revenue_growth_pct": 17.7,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +17.7% YoY \u2014 growing; Price 38.9% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 379.0,
+      "52w_high": 620.0,
+      "52w_low": 302.0,
+      "position_pct": 24.2,
+      "from_high_pct": 38.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BAJAJST",
+    "name": "Bajaj Steel Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Bajaj Steel Industries Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1961), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1961)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

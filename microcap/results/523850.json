@@ -1,0 +1,108 @@
+{
+  "symbol": "523850",
+  "name": "Axtel Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b9680Cr.",
+  "market_cap_cr": 680.0,
+  "description": "AboutIncorporated in 1991, Axtel Industries Ltd manufactures custom-designed food processing plants and machinery as per client's requirements[1]Key PointsBusiness Overview:[1]AIL specializes in engineering process systems for the food industry, offering solutions for the entire food processing value chain, from raw ingredients to final processing stages.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/523850/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Axtel Industries Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Axtel Industries Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 30.0% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "523850",
+    "name": "Axtel Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Axtel Industries Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 30.0% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 30.0% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 30.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -0.2,
+    "forensic_flags": [],
+    "owner_earnings": -8.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "523850",
+    "name": "Axtel Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Axtel Industries Ltd \u2014 weak technical setup (score 1.0/6): Revenue -41.8% YoY \u2014 declining; Net profit declined -260.0% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 21.8,
+    "from_high_pct": 20.3,
+    "revenue_growth_pct": -41.8,
+    "profit_growth_pct": -260.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 20.3% of 52w high \u2014 moderate momentum; Revenue -41.8% YoY \u2014 declining; Net profit declined -260.0% YoY",
+    "price_position": {
+      "current_price": 421.0,
+      "52w_high": 528.0,
+      "52w_low": 335.0,
+      "position_pct": 44.6,
+      "from_high_pct": 20.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "523850",
+    "name": "Axtel Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Axtel Industries Ltd has a mixed narrative (score 3.0/10). Positives: Established company (founded ~1991), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1991)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

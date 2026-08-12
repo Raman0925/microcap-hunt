@@ -1,0 +1,114 @@
+{
+  "symbol": "ALLTIME",
+  "name": "All Time Plastics Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,424Cr.",
+  "market_cap_cr": 1424.0,
+  "description": "AboutIncorporated in 1971, All Time PlasticsLtd manufactures and exports plastichouseware products[1]Key PointsBusiness Overview:[1]ATPL specializes in production of plastic consumerware designed for everyday household use. It primarily operates on a B2B model, manufacturing consumerware for clients who market products under their own brands (white-label manufacturing). In addition to B2B operations, the company also engages in B2C sales through its brand,All Time Branded Products.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ALLTIME/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "All Time Plastics Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "All Time Plastics Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 11.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 All Time Plastics Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "ALLTIME",
+    "name": "All Time Plastics Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "All Time Plastics Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 11.6,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 2.27,
+    "forensic_flags": [],
+    "owner_earnings": 15.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ALLTIME",
+    "name": "All Time Plastics Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "All Time Plastics Ltd \u2014 weak technical setup (score 0.0/6): Price 35.2% below 52w high \u2014 weak price action; Revenue -14.5% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 37.4,
+    "from_high_pct": 35.2,
+    "revenue_growth_pct": -14.5,
+    "profit_growth_pct": -6.2,
+    "optionality_signals": [],
+    "technical_notes": "Price 35.2% below 52w high \u2014 weak price action; Revenue -14.5% YoY \u2014 declining; Net profit declined -6.2% YoY",
+    "price_position": {
+      "current_price": 217.0,
+      "52w_high": 335.0,
+      "52w_low": 185.0,
+      "position_pct": 21.3,
+      "from_high_pct": 35.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ALLTIME",
+    "name": "All Time Plastics Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "All Time Plastics Ltd has a mixed narrative (score 5.5/10). Positives: Established company (founded ~1971), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1971)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 8.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

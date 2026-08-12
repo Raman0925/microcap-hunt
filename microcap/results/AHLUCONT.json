@@ -1,0 +1,111 @@
+{
+  "symbol": "AHLUCONT",
+  "name": "Ahluwalia Contracts (India) Ltd",
+  "sector": "",
+  "market_cap": "\u20b95,586Cr.",
+  "market_cap_cr": 5586.0,
+  "description": "AboutCompany is engaged in engineering and contract construction, delivering state of-the-art infrastructure and buildings projects for clients in India.Company has experiences in working on residential, commercial, institutional, corporate offices, power plants, hospitals, hotels, IT parks, Metro stations and depots, and automated car parking lots for Government as well as private clients.[1]Key PointsOfferingsThe company specializes in engineering and constructing large-scale infrastructure projects, many of which hold national significance. It isone of India's oldest construction firmsand handles civil construction and turnkey project execution across various sectors, including residential and commercial buildings, hotels, institutional and hospital facilities, corporate offices, IT parks, and industrial complexes.[1][2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AHLUCONT/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "Ahluwalia Contracts (India) Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "verdict_memo": "Ahluwalia Contracts (India) Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "investment_thesis": "Ahluwalia Contracts (India) Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 20.4% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "AHLUCONT",
+    "name": "Ahluwalia Contracts (India) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Ahluwalia Contracts (India) Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 20.4% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 20.4% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 20.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.53,
+    "forensic_flags": [],
+    "owner_earnings": 64.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AHLUCONT",
+    "name": "Ahluwalia Contracts (India) Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Ahluwalia Contracts (India) Ltd \u2014 weak technical setup (score 1.0/6): Revenue -15.2% YoY \u2014 declining; Net profit declined -23.8% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 21.1,
+    "from_high_pct": 22.6,
+    "revenue_growth_pct": -15.2,
+    "profit_growth_pct": -23.8,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 22.6% of 52w high \u2014 moderate momentum; Revenue -15.2% YoY \u2014 declining; Net profit declined -23.8% YoY",
+    "price_position": {
+      "current_price": 834.0,
+      "52w_high": 1078.0,
+      "52w_low": 645.0,
+      "position_pct": 43.6,
+      "from_high_pct": 22.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AHLUCONT",
+    "name": "Ahluwalia Contracts (India) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Ahluwalia Contracts (India) Ltd has a mixed narrative (score 3.0/10). Positives: Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

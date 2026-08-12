@@ -1,0 +1,112 @@
+{
+  "symbol": "ASTERDM",
+  "name": "Aster DM Quality Care Ltd",
+  "sector": "",
+  "market_cap": "\u20b974,519Cr.",
+  "market_cap_cr": 74519.0,
+  "description": "AboutAster DM Healthcare Limited is one of the largest integrated private healthcare service providers operating in GCC (Gulf Cooperation Council) countries and an emerging player in India. With an inherent emphasis on clinical excellence, it is one of the few entities in the world with a strong presence across primary, secondary, tertiary and quaternary healthcare.[1]Key PointsChange of Name[1]The company name has changed from Aster DM Healthcare Ltd toAster DM Quality Care Ltdw.e.f. 03.07.26 after merger with Quality Care India Ltd.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ASTERDM/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aster DM Quality Care Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Aster DM Quality Care Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/3 years positive; Low ROCE: 10.8% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aster DM Quality Care Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.987,
+    "normalised_score": -0.664
+  },
+  "laxmi": {
+    "symbol": "ASTERDM",
+    "name": "Aster DM Quality Care Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Aster DM Quality Care Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/3 years positive",
+      "Low ROCE: 10.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 10.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -1.09,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASTERDM",
+    "name": "Aster DM Quality Care Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Aster DM Quality Care Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 4.0% of 52w high \u2014 strong momentum. Concerns: Revenue -72.0% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 241.0,
+    "from_high_pct": 4.0,
+    "revenue_growth_pct": -72.0,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 4.0% of 52w high \u2014 strong momentum; Revenue -72.0% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 855.0,
+      "52w_high": 891.0,
+      "52w_low": 519.0,
+      "position_pct": 90.3,
+      "from_high_pct": 4.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASTERDM",
+    "name": "Aster DM Quality Care Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Aster DM Quality Care Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

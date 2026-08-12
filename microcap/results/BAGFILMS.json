@@ -1,0 +1,111 @@
+{
+  "symbol": "BAGFILMS",
+  "name": "B A G Films & Media Ltd",
+  "sector": "",
+  "market_cap": "\u20b994.4Cr.",
+  "market_cap_cr": 94.4,
+  "description": "AboutIncorporated in 1993, B.A.G. Films and Media Ltd is in the business of content production, distribution and allied activities[1]Key PointsBusiness Overview:[1]BAGFML produces programmes for all genres. It creates wide range from movies, daily soaps, drama and comedy to OTT for different age groups, formats, media and news and non news platforms. Company pitched content production to various OTT platforms including MX player, Applause, etc.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BAGFILMS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "B A G Films & Media Ltd \u2014 rejected (score 3.5/10): Low ROCE: 2.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "B A G Films & Media Ltd \u2014 rejected (score 3.5/10): Low ROCE: 2.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 2.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 B A G Films & Media Ltd \u2014 rejected (score 3.5/10): Low ROCE: 2.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.848,
+    "normalised_score": -0.633
+  },
+  "laxmi": {
+    "symbol": "BAGFILMS",
+    "name": "B A G Films & Media Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "B A G Films & Media Ltd \u2014 rejected (score 3.5/10): Low ROCE: 2.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 2.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 2.72,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 5.79,
+    "forensic_flags": [],
+    "owner_earnings": -12.5,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BAGFILMS",
+    "name": "B A G Films & Media Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "B A G Films & Media Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Revenue +36.4% YoY \u2014 strong momentum, PE 24.8 < revenue growth 36.4% \u2014 undervalued vs growth. Concerns: Price 45.9% below 52w high \u2014 weak price action. Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 3.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "strong",
+    "pe_ratio": 24.8,
+    "from_high_pct": 45.9,
+    "revenue_growth_pct": 36.4,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +36.4% YoY \u2014 strong momentum; PE 24.8 < revenue growth 36.4% \u2014 undervalued vs growth; Price 45.9% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 4.33,
+      "52w_high": 8.0,
+      "52w_low": 3.58,
+      "position_pct": 17.0,
+      "from_high_pct": 45.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BAGFILMS",
+    "name": "B A G Films & Media Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "B A G Films & Media Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b994cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1993)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

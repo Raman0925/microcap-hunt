@@ -1,0 +1,122 @@
+{
+  "symbol": "IVP",
+  "name": "IVP Ltd",
+  "sector": "",
+  "market_cap": "\u20b9185Cr.",
+  "market_cap_cr": 185.0,
+  "description": "AboutIncorporated in 1929, IVP Ltd is in the business of Chemical Manufacturing and Distribution[1]Key PointsBusiness Overview:[1]IVPL is an ISO 9001:2015, ISO 14001:2015, and ISO 45001:2018 certified Company. It was originally part of the TATA Group but later got acquired by the Allanas Group. The company manufactures value-added chemicals for diverse industrial applications with a product portfolio of 150+ products.Read MoreWebsiteBSENSE\n                - BE",
+  "screener_url": "https://www.screener.in/company/IVP/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "IVP Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "IVP Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 14.1% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Optionality: Low PE 5.8 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 IVP Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.9,
+    "normalised_score": -0.422
+  },
+  "laxmi": {
+    "symbol": "IVP",
+    "name": "IVP Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "IVP Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 3.0,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 14.1% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 14.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.71,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "IVP",
+    "name": "IVP Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "IVP Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 8.2% of 52w high \u2014 strong momentum, Revenue +5.2% YoY \u2014 growing. Concerns: Net profit declined -30.0% YoY. Optionality: Low PE 5.8 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 5.82,
+    "from_high_pct": 8.2,
+    "revenue_growth_pct": 5.2,
+    "profit_growth_pct": -30.0,
+    "optionality_signals": [
+      "Low PE 5.8 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Price within 8.2% of 52w high \u2014 strong momentum; Revenue +5.2% YoY \u2014 growing; Net profit declined -30.0% YoY",
+    "price_position": {
+      "current_price": 179.0,
+      "52w_high": 195.0,
+      "52w_low": 110.0,
+      "position_pct": 81.2,
+      "from_high_pct": 8.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "IVP",
+    "name": "IVP Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "IVP Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b9185cr mcap) \u2014 large runway ahead, Established company (founded ~2015). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9185cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2015)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

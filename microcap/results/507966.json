@@ -1,0 +1,112 @@
+{
+  "symbol": "507966",
+  "name": "Ras Resorts & Apart Hotels Ltd",
+  "sector": "",
+  "market_cap": "\u20b921.8Cr.",
+  "market_cap_cr": 21.8,
+  "description": "AboutIncorporated in 1985, Ras Resorts & Apart Hotels Ltd is in the business of Hotelling & Real Estate[1]Key PointsBusiness Overview:[1][2]RRAHL is primarily engaged in the business of owning, operating hotel and resortviz. Ras Resort by Treat,which is spread over 10acres of woodlands in SilvassaRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/507966/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ras Resorts & Apart Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Ras Resorts & Apart Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 4.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ras Resorts & Apart Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.55,
+    "normalised_score": -0.567
+  },
+  "laxmi": {
+    "symbol": "507966",
+    "name": "Ras Resorts & Apart Hotels Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Ras Resorts & Apart Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 4.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 4.71,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 3.52,
+    "forensic_flags": [],
+    "owner_earnings": 0.2,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "507966",
+    "name": "Ras Resorts & Apart Hotels Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Ras Resorts & Apart Hotels Ltd \u2014 weak technical setup (score 1.0/6): Revenue -11.0% YoY \u2014 declining; Net profit declined -58.0% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 38.3,
+    "from_high_pct": 15.3,
+    "revenue_growth_pct": -11.0,
+    "profit_growth_pct": -58.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 15.3% of 52w high \u2014 moderate momentum; Revenue -11.0% YoY \u2014 declining; Net profit declined -58.0% YoY",
+    "price_position": {
+      "current_price": 55.0,
+      "52w_high": 64.9,
+      "52w_low": 33.3,
+      "position_pct": 68.7,
+      "from_high_pct": 15.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "507966",
+    "name": "Ras Resorts & Apart Hotels Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Ras Resorts & Apart Hotels Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b922cr mcap) \u2014 large runway ahead, Established company (founded ~1985). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b922cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1985)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

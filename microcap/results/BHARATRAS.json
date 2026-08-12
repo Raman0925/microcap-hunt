@@ -1,0 +1,121 @@
+{
+  "symbol": "BHARATRAS",
+  "name": "Bharat Rasayan Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,300Cr.",
+  "market_cap_cr": 2300.0,
+  "description": "AboutBharat Rasayan Ltd is engaged in manufacturing Technical Grade Pesticides and Intermediates used in the agro-chemical industry. It was incorporated in 1989.[1]Key PointsProduct PortfolioThe company has a leading market position in many technical and intermediate products, includingLambda Cyhalothrin Technical, Metaphenoxy Benzaldehyde, Metribuzine Technical, Thiamethoxam (Insecticides), Fipronil (Insecticides), etc.It has also added new products likeFluxametamide, Tolfenpyrad Technical, Diuron Technical, etc. Top 10 products account for 66% of total sales.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BHARATRAS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bharat Rasayan Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Bharat Rasayan Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 17.5% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bharat Rasayan Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.7,
+    "normalised_score": -0.6
+  },
+  "laxmi": {
+    "symbol": "BHARATRAS",
+    "name": "Bharat Rasayan Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Bharat Rasayan Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 3.0,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 17.5% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 17.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.88,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BHARATRAS",
+    "name": "Bharat Rasayan Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Bharat Rasayan Ltd \u2014 weak technical setup (score 0.0/6): Price 54.3% below 52w high \u2014 weak price action; Revenue -2.9% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 14.6,
+    "from_high_pct": 54.3,
+    "revenue_growth_pct": -2.9,
+    "profit_growth_pct": -5.9,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 54.3% below 52w high \u2014 weak price action; Revenue -2.9% YoY \u2014 declining; Net profit declined -5.9% YoY",
+    "price_position": {
+      "current_price": 1384.0,
+      "52w_high": 3030.0,
+      "52w_low": 1202.0,
+      "position_pct": 10.0,
+      "from_high_pct": 54.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BHARATRAS",
+    "name": "Bharat Rasayan Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Bharat Rasayan Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~1989), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1989)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

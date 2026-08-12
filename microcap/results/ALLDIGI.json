@@ -1,0 +1,111 @@
+{
+  "symbol": "ALLDIGI",
+  "name": "Alldigi Tech Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,234Cr.",
+  "market_cap_cr": 1234.0,
+  "description": "AboutIncorporated in 1998, Allsec Tech is a global leader in outsourcing solutions offering future-ready, resilient business transformation services to industry heavy-weights, Fortune 100 companies, and growth-focused organizations. The services provided by the Company include data verification, processing of orders received through telephone calls, telemarketing, monitoring quality of calls of other call centers, customer services and HR and payroll processing. The Company has delivery centers at Chennai, Bengaluru and NCR.With 4,000+ FTEs spread across 5 contact centers in the US, Philippines, and India, the company manages over 1 Million customer contacts per day, via multiple touchpoints.[1]Key PointsHolding Company[1]The company is a subsidiary of Quess Corp backed by Fairfax Holdings (Canada). Quess has 600+ Client engagements globally including Fortune 100 companies.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ALLDIGI/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Alldigi Tech Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Alldigi Tech Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 32.8% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "ALLDIGI",
+    "name": "Alldigi Tech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Alldigi Tech Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 32.8% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 32.8% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 32.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 2.11,
+    "forensic_flags": [],
+    "owner_earnings": -2.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ALLDIGI",
+    "name": "Alldigi Tech Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Alldigi Tech Ltd \u2014 weak technical setup (score 1.0/6): Revenue -10.2% YoY \u2014 declining; Net profit declined -122.2% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 13.9,
+    "from_high_pct": 22.1,
+    "revenue_growth_pct": -10.2,
+    "profit_growth_pct": -122.2,
+    "optionality_signals": [],
+    "technical_notes": "Price within 22.1% of 52w high \u2014 moderate momentum; Revenue -10.2% YoY \u2014 declining; Net profit declined -122.2% YoY",
+    "price_position": {
+      "current_price": 810.0,
+      "52w_high": 1040.0,
+      "52w_low": 680.0,
+      "position_pct": 36.1,
+      "from_high_pct": 22.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ALLDIGI",
+    "name": "Alldigi Tech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Alldigi Tech Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~1998), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1998)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

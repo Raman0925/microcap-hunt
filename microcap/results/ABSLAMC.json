@@ -1,0 +1,111 @@
+{
+  "symbol": "ABSLAMC",
+  "name": "Aditya Birla Sun Life AMC Ltd",
+  "sector": "",
+  "market_cap": "\u20b929,496Cr.",
+  "market_cap_cr": 29496.0,
+  "description": "AboutIncorporated in 1994, Aditya Birla Sun Life AMC is set up as a joint venture between Aditya Birla Capital Ltd and Sun Life AMC. The Co. offers Mutual Fund services, Portfolio Management services, offshore and real estate offerings.[1]Key PointsKey Metrics Q4FY26:[1]Overall QAAUM (includingAlternate assets):Rs 4,740 bnMutual Fund QAAUM:Rs 4,359 bnPMS/AIF QAAUM:Rs 326 bnOffshore Alternate Assets:Rs 48bn[2]Equity Mutual Fund QAAUM:Rs 1,974 bnPassive QAAUM:Rs 411 bnIndividual Monthly AAUM:Rs 1,994 bnB-30 Monthly AAUM:Rs 719 bnMonthly SIP book:Rs 12.04 bnFolios served:11mnIncluding SIP folios:4.05 mnRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ABSLAMC/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Aditya Birla Sun Life AMC Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Aditya Birla Sun Life AMC Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 32.7% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "ABSLAMC",
+    "name": "Aditya Birla Sun Life AMC Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Aditya Birla Sun Life AMC Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 32.7% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 32.7% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 32.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 1.25,
+    "forensic_flags": [],
+    "owner_earnings": 221.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ABSLAMC",
+    "name": "Aditya Birla Sun Life AMC Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Aditya Birla Sun Life AMC Ltd \u2014 weak technical setup (score 1.0/6): Revenue -23.7% YoY \u2014 declining; Net profit declined -35.2% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 28.8,
+    "from_high_pct": 16.7,
+    "revenue_growth_pct": -23.7,
+    "profit_growth_pct": -35.2,
+    "optionality_signals": [],
+    "technical_notes": "Price within 16.7% of 52w high \u2014 moderate momentum; Revenue -23.7% YoY \u2014 declining; Net profit declined -35.2% YoY",
+    "price_position": {
+      "current_price": 1020.0,
+      "52w_high": 1225.0,
+      "52w_low": 708.0,
+      "position_pct": 60.3,
+      "from_high_pct": 16.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ABSLAMC",
+    "name": "Aditya Birla Sun Life AMC Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Aditya Birla Sun Life AMC Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~1994), Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1994)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

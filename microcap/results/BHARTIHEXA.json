@@ -1,0 +1,111 @@
+{
+  "symbol": "BHARTIHEXA",
+  "name": "Bharti Hexacom Ltd",
+  "sector": "",
+  "market_cap": "\u20b975,750Cr.",
+  "market_cap_cr": 75750.0,
+  "description": "AboutIIncorporated in 1995, Bharti Hexacom Ltd provides consumer mobile services, fixed-line telephone and broadband services in Rajasthan and Northeast telecom circles[1]Key PointsBusiness Overview:[1][2]BHL provides mobile telephony services in Rajasthan and Northeast circles in terms of Unified License (with Access Service Authorization) granted by the Department of Telecommunications, and Government of India. Company also provides fixed line and broadband services in Rajasthan. BHL is the 2nd-largest wireless mobile operator in these two circles, with a market share of37.6%by subscribers in May 2024Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BHARTIHEXA/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Bharti Hexacom Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Bharti Hexacom Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 21.4% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Convexity: both B2B and B2C revenue streams",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "BHARTIHEXA",
+    "name": "Bharti Hexacom Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Bharti Hexacom Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 2/5 years \u2014 adequate, ROCE 21.4% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 21.4% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 21.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.75,
+    "forensic_flags": [],
+    "owner_earnings": -722.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BHARTIHEXA",
+    "name": "Bharti Hexacom Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Bharti Hexacom Ltd \u2014 weak technical setup (score 1.0/6): Revenue -6.7% YoY \u2014 declining",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 41.0,
+    "from_high_pct": 22.5,
+    "revenue_growth_pct": -6.7,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 22.5% of 52w high \u2014 moderate momentum; Revenue -6.7% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 1515.0,
+      "52w_high": 1956.0,
+      "52w_low": 1430.0,
+      "position_pct": 16.2,
+      "from_high_pct": 22.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BHARTIHEXA",
+    "name": "Bharti Hexacom Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Bharti Hexacom Ltd has a mixed narrative (score 3.0/10). Positives: Established company (founded ~1995), No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1995)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

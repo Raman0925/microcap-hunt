@@ -1,0 +1,110 @@
+{
+  "symbol": "BLS",
+  "name": "BLS International Services Ltd",
+  "sector": "",
+  "market_cap": "\u20b910,741Cr.",
+  "market_cap_cr": 10741.0,
+  "description": "AboutBLS International Services Limited (BLS), a part of the four-decades-old BLS Group with a global presence and diversified range of services, and is the biggest global players in visa application outsourcing.[1]Key PointsBusiness Segments[1]1) Visa and Consular Services (61% in FY26 vs 75% in FY25):[2][3]The company ranks among thetop 2global providers of visa, passport, consular, and citizen services, operating across80+countries and serving more than46government clients. In 2024, it held a17% market share by valueand10% by volumein the global visa outsourcing market (excluding the U.S.). It's service offerings include outsourced visa processing, document verification & attestation, biometrics, E-Visa, photocopy, courier & internet facility, insurance, translation services, passport renewal, authentication of travel documents, etc.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BLS/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "BLS International Services Ltd \u2014 rejected (score -0.18). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "BLS International Services Ltd \u2014 rejected (score -0.18). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 80.7% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.18"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.8,
+    "normalised_score": -0.178
+  },
+  "laxmi": {
+    "symbol": "BLS",
+    "name": "BLS International Services Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "BLS International Services Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 80.7% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 80.7% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 80.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 2.0,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BLS",
+    "name": "BLS International Services Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "BLS International Services Ltd \u2014 weak technical setup (score 0.0/6): Price 33.6% below 52w high \u2014 weak price action; Revenue -12.5% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 73.1,
+    "from_high_pct": 33.6,
+    "revenue_growth_pct": -12.5,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price 33.6% below 52w high \u2014 weak price action; Revenue -12.5% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 261.0,
+      "52w_high": 393.0,
+      "52w_low": 218.0,
+      "position_pct": 24.6,
+      "from_high_pct": 33.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BLS",
+    "name": "BLS International Services Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "BLS International Services Ltd has a mixed narrative (score 3.0/10). Positives: Growth ambition evident in description, No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

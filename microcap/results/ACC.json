@@ -1,0 +1,114 @@
+{
+  "symbol": "ACC",
+  "name": "ACC Ltd",
+  "sector": "",
+  "market_cap": "\u20b925,160Cr.",
+  "market_cap_cr": 25160.0,
+  "description": "AboutACC Limited (incorporated in 1936), a member of the Adani Group, is principally engaged in the business of manufacturing and selling of Cement and Ready Mix Concrete.  The Company has manufacturing facilities across India and caters mainly to the domestic market.[1][2]Key PointsParent Company[1][2][3]Ambuja Cements, the parent company, is amongIndia\u2019s leading cement manufacturers and ranks as the 9th largest cement producer globally. The board approved the amalgamation of the company with Ambuja Cements in Dec 2025, and the merger scheme is expected to be completed in FY27Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ACC/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "ACC Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "ACC Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 ACC Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.51,
+    "normalised_score": -0.558
+  },
+  "laxmi": {
+    "symbol": "ACC",
+    "name": "ACC Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "ACC Ltd \u2014 rejected (score 3.5/10): Low ROCE: 11.5% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 11.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 1.14,
+    "forensic_flags": [],
+    "owner_earnings": 1168.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ACC",
+    "name": "ACC Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "ACC Ltd \u2014 weak technical setup (score 1.0/6): Price 32.6% below 52w high \u2014 weak price action; Revenue -0.5% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 13.0,
+    "from_high_pct": 32.6,
+    "revenue_growth_pct": -0.5,
+    "profit_growth_pct": 97.3,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Profit +97.3% YoY with margin expansion \u2014 quality growth; Price 32.6% below 52w high \u2014 weak price action; Revenue -0.5% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 1340.0,
+      "52w_high": 1987.0,
+      "52w_low": 1250.0,
+      "position_pct": 12.2,
+      "from_high_pct": 32.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ACC",
+    "name": "ACC Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "ACC Ltd has a mixed narrative (score 3.5/10). Positives: Growth ambition evident in description, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,116 @@
+{
+  "symbol": "BDL",
+  "name": "Bharat Dynamics Ltd",
+  "sector": "",
+  "market_cap": "\u20b947,932Cr.",
+  "market_cap_cr": 47932.0,
+  "description": "AboutBharat Dynamics (BDL), is a Government of India Enterprise. It is engaged in the manufacturing of guided missiles and allied defence equipments[1][2].Key PointsProduct PortfolioThe company offers a comprehensive defence portfolio including Surface-to-Air Missiles, Air-to-Air Missiles, Anti-Tank Guided Missiles, torpedoes, and launchers. It also offers counter-measure systems and specialised test equipment for missile and underwater weapon platforms.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BDL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bharat Dynamics Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Bharat Dynamics Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: ROCE 13.8% (adequate). What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bharat Dynamics Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.737,
+    "normalised_score": -0.831
+  },
+  "laxmi": {
+    "symbol": "BDL",
+    "name": "Bharat Dynamics Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Bharat Dynamics Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "ROCE 13.8% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 13.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -1.72,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BDL",
+    "name": "Bharat Dynamics Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Bharat Dynamics Ltd \u2014 weak technical setup (score 1.0/6): Revenue -30.4% YoY \u2014 declining; Net profit declined -21.0% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 114.0,
+    "from_high_pct": 21.0,
+    "revenue_growth_pct": -30.4,
+    "profit_growth_pct": -21.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 21.0% of 52w high \u2014 moderate momentum; Revenue -30.4% YoY \u2014 declining; Net profit declined -21.0% YoY",
+    "price_position": {
+      "current_price": 1308.0,
+      "52w_high": 1655.0,
+      "52w_low": 1086.0,
+      "position_pct": 39.0,
+      "from_high_pct": 21.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BDL",
+    "name": "Bharat Dynamics Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Bharat Dynamics Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

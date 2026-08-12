@@ -1,0 +1,116 @@
+{
+  "symbol": "AYE",
+  "name": "Aye Finance Ltd",
+  "sector": "",
+  "market_cap": "\u20b94,412Cr.",
+  "market_cap_cr": 4412.0,
+  "description": "AboutIncorporated in 1993, Aye Finance Limited is an NBFC offers secured and unsecured small business loans for working capital, including mortgage loans, Property Loans, secured and unsecured hypothecation loans, primarily to micro-scale MSMEs.[1]Key PointsBusiness Profile[1]Aye Finance Limited is a Delhi-based NBFC\u2013Middle Layer (NBFC-ML) focused on lending to micro-scale MSMEs across India. The company provides small-ticket business loans with an average disbursement size of~\u20b91.8 lakh,catering to working capital and business expansion needs.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AYE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aye Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Aye Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 11.3% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aye Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.9,
+    "normalised_score": -0.422
+  },
+  "laxmi": {
+    "symbol": "AYE",
+    "name": "Aye Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Aye Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 11.3% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 11.3,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 7.35,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AYE",
+    "name": "Aye Finance Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Aye Finance Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 9.6% of 52w high \u2014 strong momentum, Revenue +14.6% YoY \u2014 growing. Concerns: none.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 18.6,
+    "from_high_pct": 9.6,
+    "revenue_growth_pct": 14.6,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 9.6% of 52w high \u2014 strong momentum; Revenue +14.6% YoY \u2014 growing",
+    "price_position": {
+      "current_price": 179.0,
+      "52w_high": 198.0,
+      "52w_low": 88.2,
+      "position_pct": 82.7,
+      "from_high_pct": 9.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AYE",
+    "name": "Aye Finance Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Aye Finance Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1993), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1993)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

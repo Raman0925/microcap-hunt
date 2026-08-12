@@ -1,0 +1,116 @@
+{
+  "symbol": "MILTON",
+  "name": "Milton Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b963.4Cr.",
+  "market_cap_cr": 63.4,
+  "description": "AboutIncorporated in 1985, Milton Industries Ltd primarily operates in laminate segments.[1]Key PointsBusiness Overview:[1]MIL is an ISO 9001:2008 certified co. engaged in manufacturing of Laminates,Artificial Leather Cloth and Glass Fibre Reinforced Epoxy (GFRE) Sheets.  Initially,the company was engaged in manufacturing of laminates and further diversified into the manufacturing and export of Artificial Leather cloth, GFRE Sheets, DGFRP, CCL and NAFTC.The products of the company are primarily used in real estate and artificial leather and polymers in Indian railways and roadways. In addition, the company also has a High-Pressure Hydraulic Press in which it manufactures 12 x 6 size of compact laminate which is mostly in demand in Europe, America, and Australia.Read MoreWebsiteNSE\n                - SM",
+  "screener_url": "https://www.screener.in/company/MILTON/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Milton Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Milton Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 6.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Milton Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.0% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.55,
+    "normalised_score": -0.567
+  },
+  "laxmi": {
+    "symbol": "MILTON",
+    "name": "Milton Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Milton Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.0% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 5.98,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 8.05,
+    "forensic_flags": [],
+    "owner_earnings": 0.6,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "MILTON",
+    "name": "Milton Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Milton Industries Ltd \u2014 weak technical setup (score 1.0/6): Price 30.3% below 52w high \u2014 weak price action; Revenue -0.9% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 35.2,
+    "from_high_pct": 30.3,
+    "revenue_growth_pct": -0.9,
+    "profit_growth_pct": 186.4,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Profit +186.4% YoY with margin expansion \u2014 quality growth; Price 30.3% below 52w high \u2014 weak price action; Revenue -0.9% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 37.3,
+      "52w_high": 53.5,
+      "52w_low": 24.8,
+      "position_pct": 43.6,
+      "from_high_pct": 30.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "MILTON",
+    "name": "Milton Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Milton Industries Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b963cr mcap) \u2014 large runway ahead, Established company (founded ~1985). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b963cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1985)",
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

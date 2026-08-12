@@ -1,0 +1,115 @@
+{
+  "symbol": "AURIONPRO",
+  "name": "Aurionpro Solutions Ltd",
+  "sector": "",
+  "market_cap": "\u20b94,018Cr.",
+  "market_cap_cr": 4018.0,
+  "description": "AboutEstablished in 1997, Aurionpro Solutions Limited works in providing business solutions in the fields of Transaction Banking Platform, Customer Experience (ACE Platform), Smart city and Smart Transportation experience and Cybersecurity solution. The company primarily offers software products and consulting services to banking industry in India and abroad.Key PointsBusiness Verticals1) Banking & Fintech (56% in 9M FY26 vs 60% in FY22):[1][2]The company provides advanced technology solutions for retail and wholesale banking, treasury, capital markets, and payments, aimed at enhancing processes and automating manual tasks.[3]Its offerings include Queue Management Systems, Self-Service Kiosks, Customer Feedback Systems, wholesale banking platforms- iCashpro+, SmartLender, Omnifin(R), FXConnect, and fintech solutions -AuroPay and AuroPaybiz, etc.[4]. The segment revenue grew by 25.5% YoY in 9M FY26.[5]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AURIONPRO/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aurionpro Solutions Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "Aurionpro Solutions Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 13.8% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aurionpro Solutions Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "AURIONPRO",
+    "name": "Aurionpro Solutions Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Aurionpro Solutions Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 13.8% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 13.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -1.9,
+    "forensic_flags": [],
+    "owner_earnings": 10.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AURIONPRO",
+    "name": "Aurionpro Solutions Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Aurionpro Solutions Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Revenue +63.1% YoY \u2014 strong momentum, PE 36.7 < revenue growth 63.1% \u2014 undervalued vs growth. Concerns: Price 51.8% below 52w high \u2014 weak price action, Net profit declined -16.7% YoY. Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 3.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "strong",
+    "pe_ratio": 36.7,
+    "from_high_pct": 51.8,
+    "revenue_growth_pct": 63.1,
+    "profit_growth_pct": -16.7,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +63.1% YoY \u2014 strong momentum; PE 36.7 < revenue growth 63.1% \u2014 undervalued vs growth; Price 51.8% below 52w high \u2014 weak price action; Net profit declined -16.7% YoY",
+    "price_position": {
+      "current_price": 727.0,
+      "52w_high": 1507.0,
+      "52w_low": 720.0,
+      "position_pct": 0.9,
+      "from_high_pct": 51.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AURIONPRO",
+    "name": "Aurionpro Solutions Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Aurionpro Solutions Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~1997), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1997)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

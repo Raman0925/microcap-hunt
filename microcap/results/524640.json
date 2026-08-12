@@ -1,0 +1,110 @@
+{
+  "symbol": "524640",
+  "name": "Archit Organosys Ltd",
+  "sector": "",
+  "market_cap": "\u20b9128Cr.",
+  "market_cap_cr": 128.0,
+  "description": "AboutIncorporated in 1989, Archit Organosys Ltddoes manufacturing and trading of chemicalsand organics[1]Key PointsBusiness Overview:[1][2]AOL manufactures a variety of Organic Chemicals, Pigments, Specialty Derivatives, Adhesives, and sealants viz. mono chloroacetic acid, sodium chloroacetate that is used in the synthesis of various agricultural chemicals, cosmetic surfactants, oil drilling chemicals, and plastic additives, etc.It also entered into the Adhesives & Sealants segment by the brand AOL which offers various range of SealantsRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/524640/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Archit Organosys Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "Archit Organosys Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 13.4% (adequate). What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Archit Organosys Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "524640",
+    "name": "Archit Organosys Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Archit Organosys Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 13.4% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 13.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 2.0,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "524640",
+    "name": "Archit Organosys Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Archit Organosys Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 3.6% of 52w high \u2014 strong momentum, Revenue +9.8% YoY \u2014 growing. Concerns: Net profit declined 0.0% YoY.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 15.9,
+    "from_high_pct": 3.6,
+    "revenue_growth_pct": 9.8,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 3.6% of 52w high \u2014 strong momentum; Revenue +9.8% YoY \u2014 growing; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 62.3,
+      "52w_high": 64.6,
+      "52w_low": 34.0,
+      "position_pct": 92.5,
+      "from_high_pct": 3.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "524640",
+    "name": "Archit Organosys Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Archit Organosys Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b9128cr mcap) \u2014 large runway ahead, Established company (founded ~1989). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9128cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1989)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

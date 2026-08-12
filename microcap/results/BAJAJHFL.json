@@ -1,0 +1,118 @@
+{
+  "symbol": "BAJAJHFL",
+  "name": "Bajaj Housing Finance Ltd",
+  "sector": "",
+  "market_cap": "\u20b970,975Cr.",
+  "market_cap_cr": 70975.0,
+  "description": "AboutFounded in 2008, Bajaj Housing Finance is a non-deposit-taking Housing Finance Company (HFC) registered with the National Housing Bank (NHB) since 2015 and has been offering mortgage loans.[1]It is a 100% subsidiary of Bajaj Finance Limited \u2014 one of the most diversified NBFCs in the Indian market. BHFL offers finance to individuals as well as corporate entities for the purchase and renovation of homes, or commercial spaces. It also provides loans against property for business or personal needs as well as working capital for business expansion purposes. BHFL also offers finance to developers engaged in the construction of residential and commercial properties as well as lease rental discounting to developers and HNIs.[2]Key PointsMarket Leadership[1]BHFL is the2nd largestHousing Finance Company (HFC) within just seven years of starting its mortgage operations. As of December 2025, the company has an AUM ofRs.1,33,412 Crs, reflecting 23% YoY growth.[2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BAJAJHFL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bajaj Housing Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Bajaj Housing Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 8.8% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bajaj Housing Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.65,
+    "normalised_score": -0.589
+  },
+  "laxmi": {
+    "symbol": "BAJAJHFL",
+    "name": "Bajaj Housing Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Bajaj Housing Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "Low ROCE: 8.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 8.85,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -24.38,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BAJAJHFL",
+    "name": "Bajaj Housing Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Bajaj Housing Finance Ltd \u2014 weak technical setup (score 1.0/6): Revenue -91.6% YoY \u2014 declining; Net profit declined -90.7% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 26.3,
+    "from_high_pct": 27.8,
+    "revenue_growth_pct": -91.6,
+    "profit_growth_pct": -90.7,
+    "optionality_signals": [],
+    "technical_notes": "Price within 27.8% of 52w high \u2014 moderate momentum; Revenue -91.6% YoY \u2014 declining; Net profit declined -90.7% YoY",
+    "price_position": {
+      "current_price": 85.2,
+      "52w_high": 118.0,
+      "52w_low": 72.6,
+      "position_pct": 27.8,
+      "from_high_pct": 27.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BAJAJHFL",
+    "name": "Bajaj Housing Finance Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Bajaj Housing Finance Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~2008), Growth ambition evident in description. Red flags: operates in high-risk sector: housing finance. Sector: operates in high-risk sector: housing finance.",
+    "score": 4.0,
+    "red_flags": [
+      "operates in high-risk sector: housing finance"
+    ],
+    "positive_catalysts": [
+      "Established company (founded ~2008)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "negative",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

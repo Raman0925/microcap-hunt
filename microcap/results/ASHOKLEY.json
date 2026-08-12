@@ -1,0 +1,113 @@
+{
+  "symbol": "ASHOKLEY",
+  "name": "Ashok Leyland Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,02,693Cr.",
+  "market_cap_cr": 102693.0,
+  "description": "AboutAshok Leyland is the flagship Company of the Hinduja group, having a long-standing presence in the domestic medium and heavy commercial vehicle (M&HCV) segment. The company has a strong brand and well-diversified distribution and service network across the country and has a presence in 50 countries, it is one of the most fully-integrated manufacturing companies. Its headquarter is in Chennai[1]They manage driver training institutes across India and have trained over 8,00,000 drivers since inception.[1]Key PointsMarket LeadershipThe company is India's 2nd largest manufacturer of commercial vehicles, the  4th largest manufacturer of buses globally, and the 9th largest manufacturer of trucks.[1]It had a market share of31% in the M&HCV bus and truck segmentand20% in the LCV segmentas of FY24.[2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ASHOKLEY/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "Ashok Leyland Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "verdict_memo": "Ashok Leyland Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "investment_thesis": "Ashok Leyland Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 38.1% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "ASHOKLEY",
+    "name": "Ashok Leyland Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Ashok Leyland Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 38.1% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 38.1% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 38.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 5.3,
+    "forensic_flags": [],
+    "owner_earnings": 335.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASHOKLEY",
+    "name": "Ashok Leyland Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Ashok Leyland Ltd \u2014 weak technical setup (score 1.0/6): Revenue -26.5% YoY \u2014 declining; Net profit declined -14.1% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 27.6,
+    "from_high_pct": 18.6,
+    "revenue_growth_pct": -26.5,
+    "profit_growth_pct": -14.1,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 18.6% of 52w high \u2014 moderate momentum; Revenue -26.5% YoY \u2014 declining; Net profit declined -14.1% YoY",
+    "price_position": {
+      "current_price": 175.0,
+      "52w_high": 215.0,
+      "52w_low": 119.0,
+      "position_pct": 58.3,
+      "from_high_pct": 18.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASHOKLEY",
+    "name": "Ashok Leyland Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Ashok Leyland Ltd has a mixed narrative (score 3.0/10). Positives: Growth ambition evident in description, No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

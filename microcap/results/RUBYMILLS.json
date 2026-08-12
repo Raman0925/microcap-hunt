@@ -1,0 +1,113 @@
+{
+  "symbol": "RUBYMILLS",
+  "name": "Ruby Mills Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,228Cr.",
+  "market_cap_cr": 1228.0,
+  "description": "AboutIncorporated in 1917, Ruby Mills Ltdis in the business of Textiles and Realestate[1]Key PointsBusiness Overview:[1][2]RML is a composite Textile Mill that manufactures Cotton /Blended Yarn and Fabric. It has a network covering10,000+ retail outletsthrough200dealers and19 agentsRead MoreWebsiteBSENSE\n                - BE",
+  "screener_url": "https://www.screener.in/company/RUBYMILLS/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Ruby Mills Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "Ruby Mills Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; Revenue grew 3/4 years consistently. What to watch: Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Convexity: both B2B and B2C revenue streams",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.24"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.087,
+    "normalised_score": -0.242
+  },
+  "laxmi": {
+    "symbol": "RUBYMILLS",
+    "name": "Ruby Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Ruby Mills Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, Revenue grew 3/4 years consistently. Concerns: Low ROCE: 6.8% \u2014 poor capital efficiency, D/E ratio not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 6.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 0.17,
+    "forensic_flags": [],
+    "owner_earnings": 54.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "RUBYMILLS",
+    "name": "Ruby Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Ruby Mills Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 13.6% of 52w high \u2014 strong momentum, Profit +31.7% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -6.6% YoY \u2014 declining. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 28.2,
+    "from_high_pct": 13.6,
+    "revenue_growth_pct": -6.6,
+    "profit_growth_pct": 31.7,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 13.6% of 52w high \u2014 strong momentum; Profit +31.7% YoY with margin expansion \u2014 quality growth; Revenue -6.6% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 367.0,
+      "52w_high": 425.0,
+      "52w_low": 169.0,
+      "position_pct": 77.3,
+      "from_high_pct": 13.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "RUBYMILLS",
+    "name": "Ruby Mills Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Ruby Mills Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 0.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

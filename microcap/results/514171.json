@@ -1,0 +1,114 @@
+{
+  "symbol": "514171",
+  "name": "Ceeta Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b962.9Cr.",
+  "market_cap_cr": 62.9,
+  "description": "AboutIncorporated in 1984, Ceeta IndustriesLtd is a manufacturer of food products[1]Key PointsBusiness Overview:[1][2]a)CIL is a part of the Poddar group. It used to be in manufacturing and trading of Granite products, PSC Poles, Essential Oilsb)It is now primarily engaged in manufacturing of packaged food products, i.e. ready to eat snacks.c)The company manufactures potato chips and other namkeen snacks. It has its own brand calledSKITOS.d)CIL is also engaged in job work doing contract manufacturing for a few leading brandse)Additionally, they generate revenue from \u2019 surplus funds by financing and investment activitiesRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/514171/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ceeta Industries Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Ceeta Industries Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 3.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ceeta Industries Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.987,
+    "normalised_score": -0.664
+  },
+  "laxmi": {
+    "symbol": "514171",
+    "name": "Ceeta Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Ceeta Industries Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 3.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 3.68,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.95,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "514171",
+    "name": "Ceeta Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Ceeta Industries Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 20.8% of 52w high \u2014 moderate momentum, Profit +105.5% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -12.1% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 107.0,
+    "from_high_pct": 20.8,
+    "revenue_growth_pct": -12.1,
+    "profit_growth_pct": 105.5,
+    "optionality_signals": [],
+    "technical_notes": "Price within 20.8% of 52w high \u2014 moderate momentum; Profit +105.5% YoY with margin expansion \u2014 quality growth; Revenue -12.1% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 43.4,
+      "52w_high": 54.8,
+      "52w_low": 30.4,
+      "position_pct": 53.3,
+      "from_high_pct": 20.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "514171",
+    "name": "Ceeta Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Ceeta Industries Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b963cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1984)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

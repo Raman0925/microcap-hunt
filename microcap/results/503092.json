@@ -1,0 +1,109 @@
+{
+  "symbol": "503092",
+  "name": "Pasupati Spinning & Weaving Mills Ltd",
+  "sector": "",
+  "market_cap": "\u20b931.5Cr.",
+  "market_cap_cr": 31.5,
+  "description": "AboutIncorporated in 1981, Pasupati Spinning & Weaving Mills Ltd is in the business of textiles and warehousing.[1]Key PointsBusiness Overview:[1][2][3]PSWML manufactures cotton yarn, synthetic yarn, blended yarn, knitted fabrics, readymade garments, polyester grey, dyed sewing thread, bed sheets, acrylic fiber, etc., and trades incommodities. Also, the company had amended its Memorandum of Association and includedLogistic and Warehousingas a new business segment. It has surplus land and buildings at its Dharuhera unit. A major portion of the surplus building has been developed as a Warehouse, and more area is being developed.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/503092/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Pasupati Spinning & Weaving Mills Ltd \u2014 rejected (score 3.5/10): Low ROCE: 8.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Pasupati Spinning & Weaving Mills Ltd \u2014 rejected (score 3.5/10): Low ROCE: 8.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; Revenue grew 4/4 years consistently. What to watch: Low ROCE: 8.8% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Pasupati Spinning & Weaving Mills Ltd \u2014 rejected (score 3.5/10): Low ROCE: 8.8% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "503092",
+    "name": "Pasupati Spinning & Weaving Mills Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Pasupati Spinning & Weaving Mills Ltd \u2014 rejected (score 3.5/10): Low ROCE: 8.8% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "Revenue grew 4/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 8.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 8.83,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 4,
+    "cfo_to_ebitda": 5.47,
+    "forensic_flags": [],
+    "owner_earnings": 0.2,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "503092",
+    "name": "Pasupati Spinning & Weaving Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Pasupati Spinning & Weaving Mills Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 17.8% of 52w high \u2014 moderate momentum, Revenue +8.2% YoY \u2014 growing, Profit +58.3% YoY with margin expansion \u2014 quality growth. Concerns: none.",
+    "score": 3.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 14.2,
+    "from_high_pct": 17.8,
+    "revenue_growth_pct": 8.2,
+    "profit_growth_pct": 58.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 17.8% of 52w high \u2014 moderate momentum; Revenue +8.2% YoY \u2014 growing; Profit +58.3% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 33.7,
+      "52w_high": 41.0,
+      "52w_low": 25.7,
+      "position_pct": 52.3,
+      "from_high_pct": 17.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "503092",
+    "name": "Pasupati Spinning & Weaving Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Pasupati Spinning & Weaving Mills Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b932cr mcap) \u2014 large runway ahead, Established company (founded ~1981). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b932cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1981)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

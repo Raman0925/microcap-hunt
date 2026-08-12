@@ -1,0 +1,112 @@
+{
+  "symbol": "531762",
+  "name": "Unjha Formulations Ltd",
+  "sector": "",
+  "market_cap": "\u20b912.1Cr.",
+  "market_cap_cr": 12.1,
+  "description": "AboutIncorporated in 1991, Unjha Formulations Ltd is a manufacturer and exporter of psyllium husk-based products.[1]Key PointsBusiness Overview:[1]UFL is a part of M/s Urvesh Ltd. It is a GMP-certified manufacturer and exporter of Isabgol (Psyllium) and Ayurvedic formulation products.The company also manufactures all kinds of small-volume Ayurvedic Isabgol (Psyllium) powder.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/531762/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Unjha Formulations Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Unjha Formulations Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Unjha Formulations Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 27.8% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "531762",
+    "name": "Unjha Formulations Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Unjha Formulations Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 27.8% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 27.8% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 27.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -4.12,
+    "forensic_flags": [],
+    "owner_earnings": 0.2,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "531762",
+    "name": "Unjha Formulations Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Unjha Formulations Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 8.1% of 52w high \u2014 strong momentum. Concerns: Revenue -14.7% YoY \u2014 declining, Net profit declined -34.6% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 25.3,
+    "from_high_pct": 8.1,
+    "revenue_growth_pct": -14.7,
+    "profit_growth_pct": -34.6,
+    "optionality_signals": [],
+    "technical_notes": "Price within 8.1% of 52w high \u2014 strong momentum; Revenue -14.7% YoY \u2014 declining; Net profit declined -34.6% YoY",
+    "price_position": {
+      "current_price": 27.1,
+      "52w_high": 29.5,
+      "52w_low": 17.5,
+      "position_pct": 80.0,
+      "from_high_pct": 8.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "531762",
+    "name": "Unjha Formulations Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Unjha Formulations Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b912cr mcap) \u2014 large runway ahead, Established company (founded ~1991). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b912cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1991)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

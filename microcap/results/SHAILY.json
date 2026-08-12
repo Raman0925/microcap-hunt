@@ -1,0 +1,111 @@
+{
+  "symbol": "SHAILY",
+  "name": "Shaily Engineering Plastics Ltd",
+  "sector": "",
+  "market_cap": "\u20b915,905Cr.",
+  "market_cap_cr": 15905.0,
+  "description": "AboutThe Company is engaged in the manufacture and sale of injection moulded precision plastic components, sub-assemblies for various requirements of Original Equipment Manufacturers (OEM).It also offers secondary operations in plastics like vacuum metalizing, hot stamping, and ultrasonic welding. Its manufacturing facilities are at Savli and Halol, Vadodara, Gujarat.[1]Key PointsBusiness Segments[1]a) Consumer:This segment includes home furnishings, FMCG packaging, LED lights, and toys(via partnership with Spin Master). The company has been awarded new business in the Home Furnishing segment from 2 global retail chains, with supplies expected to start from Q1/Q2 FY26.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/SHAILY/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Shaily Engineering Plastics Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Shaily Engineering Plastics Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Shaily Engineering Plastics Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 30.2% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "SHAILY",
+    "name": "Shaily Engineering Plastics Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Shaily Engineering Plastics Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 2/5 years \u2014 adequate, ROCE 30.2% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 30.2% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 30.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.31,
+    "forensic_flags": [],
+    "owner_earnings": 13.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "SHAILY",
+    "name": "Shaily Engineering Plastics Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Shaily Engineering Plastics Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 4.3% of 52w high \u2014 strong momentum. Concerns: Revenue -20.4% YoY \u2014 declining, Net profit declined -13.3% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 89.4,
+    "from_high_pct": 4.3,
+    "revenue_growth_pct": -20.4,
+    "profit_growth_pct": -13.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 4.3% of 52w high \u2014 strong momentum; Revenue -20.4% YoY \u2014 declining; Net profit declined -13.3% YoY",
+    "price_position": {
+      "current_price": 3458.0,
+      "52w_high": 3615.0,
+      "52w_low": 1660.0,
+      "position_pct": 92.0,
+      "from_high_pct": 4.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "SHAILY",
+    "name": "Shaily Engineering Plastics Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Shaily Engineering Plastics Ltd has a mixed narrative (score 3.5/10). Positives: Growth ambition evident in description, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "symbol": "504646",
+  "name": "Bhagwati Autocast Ltd",
+  "sector": "",
+  "market_cap": "\u20b9199Cr.",
+  "market_cap_cr": 199.0,
+  "description": "AboutIncorporated in 1984, Bhagwati Autocast Ltd manufactures and sells CI & SGI Castings[1]Key PointsBusiness Overview:[1][2]Company is a part of Bhagwati Group which has 2 foundry units viz. Bhagwati Spherocast Pvt. Ltd. and Bhagwati Autocast Ltd which works as a casting suppliers in the Transmission and Automotive segment. BAL has a wide range of castings from 40 kg. to 140 kg. for automobile and tractor OEMs in IndiaRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/504646/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Bhagwati Autocast Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Bhagwati Autocast Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Bhagwati Autocast Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 31.6% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "504646",
+    "name": "Bhagwati Autocast Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Bhagwati Autocast Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 31.6% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 31.6% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 31.6,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 2.0,
+    "forensic_flags": [],
+    "owner_earnings": -3.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "504646",
+    "name": "Bhagwati Autocast Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Bhagwati Autocast Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 6.0% of 52w high \u2014 strong momentum. Concerns: Revenue 0.0% YoY \u2014 declining, Net profit declined -400.0% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 13.7,
+    "from_high_pct": 6.0,
+    "revenue_growth_pct": 0.0,
+    "profit_growth_pct": -400.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 6.0% of 52w high \u2014 strong momentum; Revenue 0.0% YoY \u2014 declining; Net profit declined -400.0% YoY",
+    "price_position": {
+      "current_price": 690.0,
+      "52w_high": 734.0,
+      "52w_low": 330.0,
+      "position_pct": 89.1,
+      "from_high_pct": 6.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "504646",
+    "name": "Bhagwati Autocast Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Bhagwati Autocast Ltd has a mixed narrative (score 3.5/10). Positives: Small size (\u20b9199cr mcap) \u2014 large runway ahead, Established company (founded ~1984). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9199cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1984)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

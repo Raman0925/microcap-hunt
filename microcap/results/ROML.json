@@ -1,0 +1,107 @@
+{
+  "symbol": "ROML",
+  "name": "Raj Oil Mills Ltd",
+  "sector": "",
+  "market_cap": "\u20b970.8Cr.",
+  "market_cap_cr": 70.8,
+  "description": "AboutIncorporated in 1943, Raj Oil Mills Ltd does manufacturing and trading of edible oils[1]Key PointsBusiness Overview:[1]ROPL is in the business of buying, selling, manufacturing, and processing of edible oils, edible oil seeds and other related productsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ROML/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Raj Oil Mills Ltd \u2014 rejected (score -0.14). Laxmi: borderline | Meera: pass | Tara: reject.",
+  "verdict_memo": "Raj Oil Mills Ltd \u2014 rejected (score -0.14). Laxmi: borderline | Meera: pass | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 19.3% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.14"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -0.625,
+    "normalised_score": -0.139
+  },
+  "laxmi": {
+    "symbol": "ROML",
+    "name": "Raj Oil Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Raj Oil Mills Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 2/5 years \u2014 adequate, ROCE 19.3% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 19.3% (adequate)",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 19.3,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": -21.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ROML",
+    "name": "Raj Oil Mills Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Raj Oil Mills Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 28.8% of 52w high \u2014 moderate momentum, Revenue +86.8% YoY \u2014 strong momentum, PE 15.2 < revenue growth 86.8% \u2014 undervalued vs growth. Notes: none.",
+    "score": 4.0,
+    "price_signal": "neutral",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 15.2,
+    "from_high_pct": 28.8,
+    "revenue_growth_pct": 86.8,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 28.8% of 52w high \u2014 moderate momentum; Revenue +86.8% YoY \u2014 strong momentum; PE 15.2 < revenue growth 86.8% \u2014 undervalued vs growth",
+    "price_position": {
+      "current_price": 44.2,
+      "52w_high": 62.1,
+      "52w_low": 35.1,
+      "position_pct": 33.7,
+      "from_high_pct": 28.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ROML",
+    "name": "Raj Oil Mills Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Raj Oil Mills Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b971cr mcap) \u2014 large runway ahead",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

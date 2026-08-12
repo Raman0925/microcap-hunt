@@ -1,0 +1,108 @@
+{
+  "symbol": "PTL",
+  "name": "PTL Enterprises Ltd",
+  "sector": "",
+  "market_cap": "\u20b9515Cr.",
+  "market_cap_cr": 515.0,
+  "description": "AboutIncorporated in 1959, PTL EnterprisesLtd provides manufactuing facility onlease basis[1]Key PointsBusiness Overview:[1][2][3][4]PTL, a subsidiary of Apollo Tyres Ltd (ATL),and its holding company isSunrays Properties & Investment Co. Pvt Ltd. It leases its tire manufacturing facility to ATL under a fixed-income lease rental agreement. PTL produces truck-bus cross-ply tires, branded as Apollo, which are primarily distributed by ATL. ATL also markets products under the Apollo and Vredestein brands, with plans to expand into ASEAN and North America.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/PTL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "PTL Enterprises Ltd \u2014 rejected (score 3.5/10): Low ROCE: 7.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "PTL Enterprises Ltd \u2014 rejected (score 3.5/10): Low ROCE: 7.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 7.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 PTL Enterprises Ltd \u2014 rejected (score 3.5/10): Low ROCE: 7.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.51,
+    "normalised_score": -0.558
+  },
+  "laxmi": {
+    "symbol": "PTL",
+    "name": "PTL Enterprises Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "PTL Enterprises Ltd \u2014 rejected (score 3.5/10): Low ROCE: 7.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 7.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 7.72,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.73,
+    "forensic_flags": [],
+    "owner_earnings": 15.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "PTL",
+    "name": "PTL Enterprises Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "PTL Enterprises Ltd \u2014 weak technical setup (score 1.0/6): Revenue -13.0% YoY \u2014 declining; Net profit declined -37.5% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 11.3,
+    "from_high_pct": 18.6,
+    "revenue_growth_pct": -13.0,
+    "profit_growth_pct": -37.5,
+    "optionality_signals": [],
+    "technical_notes": "Price within 18.6% of 52w high \u2014 moderate momentum; Revenue -13.0% YoY \u2014 declining; Net profit declined -37.5% YoY",
+    "price_position": {
+      "current_price": 38.9,
+      "52w_high": 47.8,
+      "52w_low": 35.3,
+      "position_pct": 28.8,
+      "from_high_pct": 18.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "PTL",
+    "name": "PTL Enterprises Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "PTL Enterprises Ltd has a mixed narrative (score 3.0/10). Positives: Established company (founded ~1959), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1959)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

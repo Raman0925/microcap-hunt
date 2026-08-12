@@ -1,0 +1,112 @@
+{
+  "symbol": "ANTGRAPHIC",
+  "name": "Antarctica Ltd",
+  "sector": "",
+  "market_cap": "\u20b911.5Cr.",
+  "market_cap_cr": 11.5,
+  "description": "AboutIncorporated in 1994, Antarctica Ltd is a Paper-based Packaging & Publishing product manufacturer.[1]Key PointsBusiness Overview:[1]AL is mainly engaged in the manufacturing of carton boxes, label printing, tea bags, and other packaging itemsRead MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/ANTGRAPHIC/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Antarctica Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Antarctica Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.5% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; Revenue grew 3/4 years consistently. What to watch: Low ROCE: 6.5% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Antarctica Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.5% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.56,
+    "normalised_score": -0.569
+  },
+  "laxmi": {
+    "symbol": "ANTGRAPHIC",
+    "name": "Antarctica Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Antarctica Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.5% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 6.51,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": -2.39,
+    "forensic_flags": [],
+    "owner_earnings": -0.2,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ANTGRAPHIC",
+    "name": "Antarctica Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Antarctica Ltd \u2014 weak technical setup (score 0.0/6): Price 39.3% below 52w high \u2014 weak price action; Revenue -15.2% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 8.96,
+    "from_high_pct": 39.3,
+    "revenue_growth_pct": -15.2,
+    "profit_growth_pct": -227.8,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 39.3% below 52w high \u2014 weak price action; Revenue -15.2% YoY \u2014 declining; Net profit declined -227.8% YoY",
+    "price_position": {
+      "current_price": 0.74,
+      "52w_high": 1.22,
+      "52w_low": 0.64,
+      "position_pct": 17.2,
+      "from_high_pct": 39.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ANTGRAPHIC",
+    "name": "Antarctica Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Antarctica Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b912cr mcap) \u2014 large runway ahead, Established company (founded ~1994). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b912cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1994)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

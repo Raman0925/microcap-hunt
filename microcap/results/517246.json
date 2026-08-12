@@ -1,0 +1,111 @@
+{
+  "symbol": "517246",
+  "name": "B C C Fuba India Ltd",
+  "sector": "",
+  "market_cap": "\u20b9431Cr.",
+  "market_cap_cr": 431.0,
+  "description": "AboutIncorporated in 1985, BCC Fuba Ltd does manufacturing of Printing Circuit Board[1]Key PointsBusiness Overview:[1][2]Company was formed as a joint-venture collaboration with Fuba Hans Kolbe & Co., Germany, and DEG, Germany. The company was incorporated as a JV but does not have any JVs, subsidiaries at present. Its machinery was imported from Germany, Italy, France, UK and USA. Apart from PCBs, company also deals in cable manufacturing, AC coils manufacturing, and manufacturing and distribution of goods like switch gears, LED lights and switches. At present, technology imported from M/s Fuba Printed Circuits GMBH (Formerly Fuba Hans Kolbe & Co., the technical collaborator of company), has been fully absorbed and company is able to manufacture the products without any foreign technical assistance. The company has developed capacity to manufacture the multilayer boards and double sided boards with SMT padsRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/517246/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "B C C Fuba India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available",
+  "verdict_memo": "B C C Fuba India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 19.2% (adequate). What to watch: FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 B C C Fuba India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.888,
+    "normalised_score": -0.642
+  },
+  "laxmi": {
+    "symbol": "517246",
+    "name": "B C C Fuba India Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "B C C Fuba India Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 19.2% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 19.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.65,
+    "forensic_flags": [],
+    "owner_earnings": -1.1,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "517246",
+    "name": "B C C Fuba India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "B C C Fuba India Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 4.4% of 52w high \u2014 strong momentum. Concerns: Revenue -9.6% YoY \u2014 declining. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 51.1,
+    "from_high_pct": 4.4,
+    "revenue_growth_pct": -9.6,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 4.4% of 52w high \u2014 strong momentum; Revenue -9.6% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 218.0,
+      "52w_high": 228.0,
+      "52w_low": 96.2,
+      "position_pct": 92.4,
+      "from_high_pct": 4.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "517246",
+    "name": "B C C Fuba India Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "B C C Fuba India Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9431cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1985)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "company": "Aaron Industries Ltd",
+  "symbol": "AARON",
+  "market_cap_cr": 290,
+  "price": 139,
+  "analysis_date": "2026-08-12",
+  "analyst_verdicts": {
+    "laxmi": {
+      "verdict": "BORDERLINE",
+      "score": 5,
+      "key_finding": "FCF positive 2/5 years; ROCE 5yr avg 21.9%; FY24 capex of ₹33 Cr commissioned — FY27 should see PAT recovery. Inventory days deteriorating to 157. No pledging, promoter 73%.",
+      "watch_trigger": "Q1 FY27 results (concall Aug 17, 2026)"
+    },
+    "meera": {
+      "verdict": "BORDERLINE",
+      "score": 6,
+      "key_finding": "Down 46% from 52w high on capex drag optics — earnings quality is fine. Revenue CAGR 39% over 10 years. PEG 2.35x. Better below ₹110.",
+      "watch_trigger": "Q1 FY27 PAT ≥₹2 Cr confirms J-curve"
+    },
+    "tara": {
+      "verdict": "BORDERLINE",
+      "score": 6,
+      "key_finding": "Antifragile through COVID (grew 17% in FY21). EVOQ360 HomeLift distributor announced Aug 11 — new optionality not in numbers. No promoter buying = weakness. Via negativa strong (no acquisitions, no unrelated bets).",
+      "watch_trigger": "Promoter open-market buy or price below ₹110"
+    }
+  },
+  "debate_protocol": {
+    "result": "WATCH_LIST",
+    "reasoning": "All three analysts BORDERLINE. No PASS = not shortlisted. No Laxmi fraud veto. Majority verdict: BORDERLINE. Company placed on WATCH LIST pending Q1 FY27 results (Aug 17, 2026 concall). Entry more attractive at ₹100-110.",
+    "upgrade_conditions": [
+      "Q1 FY27 PAT ≥ ₹2 Cr and sequential improvement",
+      "Tax rate normalizes from 40% to ~25%",
+      "Inventory days stabilize below 130",
+      "Promoter open-market purchase"
+    ],
+    "auto_reject_triggered": false,
+    "fraud_veto": false
+  },
+  "business_summary": {
+    "sector": "Elevator manufacturing + SS press plates",
+    "founded": 2013,
+    "revenue_fy26_cr": 92,
+    "revenue_cagr_10yr_pct": 39,
+    "opm_pct": 19,
+    "roce_5yr_avg_pct": 21.9,
+    "debt_equity": 0.57,
+    "promoter_holding_pct": 73.07,
+    "promoter_pledging_pct": 0,
+    "pe": 42.3,
+    "interesting_fact": "Revenue grew 28x in 10 years. New EVOQ360 HomeLift distribution agreement announced Aug 11, 2026 — not yet in financials."
+  }
+}

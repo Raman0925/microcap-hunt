@@ -1,0 +1,110 @@
+{
+  "symbol": "PASUPTAC",
+  "name": "Pasupati Acrylon Ltd",
+  "sector": "",
+  "market_cap": "\u20b9570Cr.",
+  "market_cap_cr": 570.0,
+  "description": "AboutIncorporated in 1990, Pasupati AcrylonLtd is a manufacturer of Acrylic Fibre,Tow and Tops and Cast PolypropleneFilm[1]Key PointsBusiness Overview:[1]PAL was set up in technical collaboration with SNIA BPD of Italy. It is an ISO 9001:2015 and OKEO TEX Standard manufacturer ofAcrylic Staple Fiberwhich it sells under the brand nameACRYLON. Company is also in the business ofCPP Film(flexible packaging)Read MoreWebsiteBSENSE\n                - BE",
+  "screener_url": "https://www.screener.in/company/PASUPTAC/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "Pasupati Acrylon Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Low PE 5.9 with positive revenue growth \u2014 potentially overlooked. Laxmi: borderline | Meera: borderline | Tara: reject. High-risk contrarian watch.",
+  "verdict_memo": "Pasupati Acrylon Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Low PE 5.9 with positive revenue growth \u2014 potentially overlooked. Laxmi: borderline | Meera: borderline | Tara: reject. High-risk contrarian watch.",
+  "investment_thesis": "Pasupati Acrylon Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 21.2% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Optionality: Low PE 5.9 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.25"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.125,
+    "normalised_score": -0.25
+  },
+  "laxmi": {
+    "symbol": "PASUPTAC",
+    "name": "Pasupati Acrylon Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Pasupati Acrylon Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 21.2% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 21.2% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 21.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 2.4,
+    "forensic_flags": [],
+    "owner_earnings": 15.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "PASUPTAC",
+    "name": "Pasupati Acrylon Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Pasupati Acrylon Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 19.0% of 52w high \u2014 moderate momentum, Revenue +0.6% YoY \u2014 growing. Concerns: Net profit declined -50.0% YoY. Optionality: Low PE 5.9 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 5.94,
+    "from_high_pct": 19.0,
+    "revenue_growth_pct": 0.6,
+    "profit_growth_pct": -50.0,
+    "optionality_signals": [
+      "Low PE 5.9 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Price within 19.0% of 52w high \u2014 moderate momentum; Revenue +0.6% YoY \u2014 growing; Net profit declined -50.0% YoY",
+    "price_position": {
+      "current_price": 64.0,
+      "52w_high": 79.0,
+      "52w_low": 40.1,
+      "position_pct": 61.4,
+      "from_high_pct": 19.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "PASUPTAC",
+    "name": "Pasupati Acrylon Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Pasupati Acrylon Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1990)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

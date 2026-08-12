@@ -1,0 +1,112 @@
+{
+  "symbol": "ARIHANTCAP",
+  "name": "Arihant Capital Markets Ltd",
+  "sector": "",
+  "market_cap": "\u20b9819Cr.",
+  "market_cap_cr": 819.0,
+  "description": "AboutIncorporated in 1992, Arihant CapitalMarkets Ltd provides Stock & Commodities Broking, PMS, Financial Services, Real Estate, Insurance Broking and other related activities[1]Key PointsBusiness Overview:[1]ACML acts as a stock and commodities broker to execute proprietary trades on behalf of its clients which include retail customers (including high net worth individuals), mutual funds, financial institutions and corporate clients.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ARIHANTCAP/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Arihant Capital Markets Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Arihant Capital Markets Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 11.9% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Convexity: both B2B and B2C revenue streams",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Arihant Capital Markets Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.9% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "ARIHANTCAP",
+    "name": "Arihant Capital Markets Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Arihant Capital Markets Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.9% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 11.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 0.57,
+    "forensic_flags": [],
+    "owner_earnings": 7.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ARIHANTCAP",
+    "name": "Arihant Capital Markets Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Arihant Capital Markets Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Revenue +8.9% YoY \u2014 growing, Profit +16.7% YoY with margin expansion \u2014 quality growth. Concerns: Price 37.7% below 52w high \u2014 weak price action.",
+    "score": 2.0,
+    "price_signal": "bearish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 20.8,
+    "from_high_pct": 37.7,
+    "revenue_growth_pct": 8.9,
+    "profit_growth_pct": 16.7,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +8.9% YoY \u2014 growing; Profit +16.7% YoY with margin expansion \u2014 quality growth; Price 37.7% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 74.8,
+      "52w_high": 120.0,
+      "52w_low": 57.0,
+      "position_pct": 28.3,
+      "from_high_pct": 37.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ARIHANTCAP",
+    "name": "Arihant Capital Markets Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Arihant Capital Markets Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1992), Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1992)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

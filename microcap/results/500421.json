@@ -1,0 +1,108 @@
+{
+  "symbol": "500421",
+  "name": "TPI India Ltd",
+  "sector": "",
+  "market_cap": "\u20b975.0Cr.",
+  "market_cap_cr": 75.0,
+  "description": "AboutIncorporated in 1982, TPI India Ltd manufactures Polymer based packing products[1]Key PointsBusiness Overview:[1]TPI is a ISO 9001:2015 certified multi product company manufacturing bulk bags and speciality industrial and flexible packaging productsRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/500421/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "TPI India Ltd \u2014 rejected (score -0.41). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "verdict_memo": "TPI India Ltd \u2014 rejected (score -0.41). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 129.0% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.41"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -1.837,
+    "normalised_score": -0.408
+  },
+  "laxmi": {
+    "symbol": "500421",
+    "name": "TPI India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "TPI India Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 129.0% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 129.0% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 129.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -4.86,
+    "forensic_flags": [],
+    "owner_earnings": 0.3,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "500421",
+    "name": "TPI India Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "TPI India Ltd \u2014 weak technical setup (score 1.0/6): Revenue -8.5% YoY \u2014 declining",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 30.1,
+    "from_high_pct": 24.3,
+    "revenue_growth_pct": -8.5,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 24.3% of 52w high \u2014 moderate momentum; Revenue -8.5% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 17.4,
+      "52w_high": 23.0,
+      "52w_low": 13.1,
+      "position_pct": 43.4,
+      "from_high_pct": 24.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "500421",
+    "name": "TPI India Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "TPI India Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b975cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1982)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

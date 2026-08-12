@@ -1,0 +1,115 @@
+{
+  "symbol": "ASPINWALL",
+  "name": "Aspinwall & Company Ltd",
+  "sector": "",
+  "market_cap": "\u20b9189Cr.",
+  "market_cap_cr": 189.0,
+  "description": "AboutIncorporated in 1920, Aspinwall & Company Ltd is in diversified business activities including coffee processing and trading, logistics services[1]Key PointsBusiness Overview[1][2]Aspinwall and Company Limited has been under the control of the Erstwhile Royal Family of Travancore since the early 1970s. The Company operates diversified businesses across logistics, speciality coffee, natural fibre products and mattresses, natural rubber plantations, and commercial real estate leasing (Aspinwall House).Read MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/ASPINWALL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aspinwall & Company Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Aspinwall & Company Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 6.2% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aspinwall & Company Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.2% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.51,
+    "normalised_score": -0.558
+  },
+  "laxmi": {
+    "symbol": "ASPINWALL",
+    "name": "Aspinwall & Company Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Aspinwall & Company Ltd \u2014 rejected (score 3.5/10): Low ROCE: 6.2% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.2% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 6.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 1.5,
+    "forensic_flags": [],
+    "owner_earnings": 4.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASPINWALL",
+    "name": "Aspinwall & Company Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Aspinwall & Company Ltd \u2014 weak technical setup (score 1.0/6): Revenue -6.3% YoY \u2014 declining; Net profit declined -50.0% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 17.5,
+    "from_high_pct": 19.7,
+    "revenue_growth_pct": -6.3,
+    "profit_growth_pct": -50.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 19.7% of 52w high \u2014 moderate momentum; Revenue -6.3% YoY \u2014 declining; Net profit declined -50.0% YoY",
+    "price_position": {
+      "current_price": 241.0,
+      "52w_high": 300.0,
+      "52w_low": 200.0,
+      "position_pct": 41.0,
+      "from_high_pct": 19.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASPINWALL",
+    "name": "Aspinwall & Company Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Aspinwall & Company Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b9189cr mcap) \u2014 large runway ahead, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9189cr mcap) \u2014 large runway ahead",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

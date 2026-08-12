@@ -1,0 +1,114 @@
+{
+  "symbol": "509024",
+  "name": "Golden Legand Leasing & Finance Ltd",
+  "sector": "",
+  "market_cap": "\u20b911.8Cr.",
+  "market_cap_cr": 11.8,
+  "description": "AboutIncorporated in 1984, Golden Legand Leasing & Finance Ltd is in the business of digital lending and FinTech software development[1]Key PointsBusiness Overview:[1]GLLFL, a Mumbai-based RBI-affiliated Non-Systematically Important Non-Deposit Taking NBFC, specializes in digital lending and FinTech software development. It provides AI-based financial solutions, e-commerce and banking switching and routing solutions, cross-border payment routing, and global payment solutions. The company's cloud-based platforms are developed using advanced technologies like AI, Machine Learning, and Java.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/509024/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Golden Legand Leasing & Finance Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available",
+  "verdict_memo": "Golden Legand Leasing & Finance Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 91.6% > 20% \u2014 exceptional capital efficiency. What to watch: FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Golden Legand Leasing & Finance Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 1,
+    "borderlines": 0,
+    "weighted_score": -1.81,
+    "normalised_score": -0.402
+  },
+  "laxmi": {
+    "symbol": "509024",
+    "name": "Golden Legand Leasing & Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Golden Legand Leasing & Finance Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "ROCE 91.6% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 91.6,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": -0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "509024",
+    "name": "Golden Legand Leasing & Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Golden Legand Leasing & Finance Ltd \u2014 weak technical setup (score 0.0/6): Price 51.5% below 52w high \u2014 weak price action; Insufficient revenue data",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "flat",
+    "pe_ratio": 1.99,
+    "from_high_pct": 51.5,
+    "revenue_growth_pct": null,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price 51.5% below 52w high \u2014 weak price action; Insufficient revenue data",
+    "price_position": {
+      "current_price": 7.95,
+      "52w_high": 16.4,
+      "52w_low": 7.18,
+      "position_pct": 8.4,
+      "from_high_pct": 51.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "509024",
+    "name": "Golden Legand Leasing & Finance Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Golden Legand Leasing & Finance Ltd has a strong story (score 6.0/10). Catalysts: Small size (\u20b912cr mcap) \u2014 large runway ahead, Established company (founded ~1984), Growth ambition evident in description. Taleb signals: Optionality: capability expansion signals detected, Antifragility: geographic diversification. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b912cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1984)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 3.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

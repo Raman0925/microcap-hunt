@@ -1,0 +1,124 @@
+{
+  "symbol": "AHCL",
+  "name": "Anlon Healthcare Ltd",
+  "sector": "",
+  "market_cap": "\u20b9766Cr.",
+  "market_cap_cr": 766.0,
+  "description": "AboutIncorporated in 2013, Anlon Healthcare Limited is a chemical manufacturing company engaged in the manufacturing of Pharma Intermediates and active pharmaceutical ingredients (APIs).[1]Key PointsBusiness Profile:[1]Anlon Healthcare is a chemical manufacturing company engaged in:a) Pharmaceutical Intermediates:High-purity intermediates used asraw material/starting material in APIs.b) Active Pharmaceutical Ingredients::Raw material for finished dosage formulations (tablets, capsules, ointments, syrups, etc.), nutraceuticals, personal care, and veterinary products.c) \u2060Custom manufacturing/CDMO:Development and manufacturing of complexand novel chemical compounds, including high-purity chemicals.The company is working on three moleculesfor two global innovator companies underits CDMO/custom-manufacturing business:- One molecule had entered validation, with commercial supplies targeted from Q3 FY27.- The other 2 were expected to enter validation during Q2 FY27.- Their commercialisation w",
+  "screener_url": "https://www.screener.in/company/AHCL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Anlon Healthcare Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Anlon Healthcare Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: ROCE 22.4% > 20% \u2014 exceptional capital efficiency. What to watch: FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 6.5/10 \u2014 pass (54% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Anlon Healthcare Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 1,
+    "borderlines": 0,
+    "weighted_score": -1.84,
+    "normalised_score": -0.409
+  },
+  "laxmi": {
+    "symbol": "AHCL",
+    "name": "Anlon Healthcare Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Anlon Healthcare Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 3.0,
+    "key_strengths": [
+      "ROCE 22.4% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 22.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -0.5,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AHCL",
+    "name": "Anlon Healthcare Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Anlon Healthcare Ltd \u2014 weak technical setup (score 1.0/6): Revenue -71.9% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 26.4,
+    "from_high_pct": 16.8,
+    "revenue_growth_pct": -71.9,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 16.8% of 52w high \u2014 moderate momentum; Revenue -71.9% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 14.4,
+      "52w_high": 17.3,
+      "52w_low": 8.7,
+      "position_pct": 66.3,
+      "from_high_pct": 16.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AHCL",
+    "name": "Anlon Healthcare Ltd",
+    "verdict": "pass",
+    "confidence": 0.54,
+    "report": "Anlon Healthcare Ltd has a strong story (score 6.5/10). Catalysts: Established company (founded ~2013), Growth ambition evident in description, Operating in large / growing sector. Taleb signals: Optionality: capability expansion signals detected, Antifragility: multiple segments / diversified revenue. Governance: clean.",
+    "score": 6.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2013)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

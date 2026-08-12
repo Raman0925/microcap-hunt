@@ -1,0 +1,113 @@
+{
+  "symbol": "AKUMS",
+  "name": "Akums Drugs & Pharmaceuticals Ltd",
+  "sector": "",
+  "market_cap": "\u20b911,977Cr.",
+  "market_cap_cr": 11977.0,
+  "description": "AboutEstablished in 2004, Akums Drugs and Pharmaceuticals Limited is a pharmaceutical contract development and manufacturing organization (CDMO) offering a comprehensive range of pharmaceutical products and services.[1]Key PointsBusiness Profile[1]Akums Drugs is a Contract Development and Manufacturing Organization (CDMO) manufacturing tablets, capsules, liquid orals, vials, ampoules, blow-filled seals, topical preparations, eye drops, dry powder injections, and gummies.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AKUMS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Akums Drugs & Pharmaceuticals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Akums Drugs & Pharmaceuticals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/3 years \u2014 adequate. What to watch: Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Akums Drugs & Pharmaceuticals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "AKUMS",
+    "name": "Akums Drugs & Pharmaceuticals Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Akums Drugs & Pharmaceuticals Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.8% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/3 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 6.82,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -0.43,
+    "forensic_flags": [],
+    "owner_earnings": 68.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AKUMS",
+    "name": "Akums Drugs & Pharmaceuticals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Akums Drugs & Pharmaceuticals Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 1.0% of 52w high \u2014 strong momentum. Concerns: Revenue -12.7% YoY \u2014 declining, Net profit declined -9.3% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 103.0,
+    "from_high_pct": 1.0,
+    "revenue_growth_pct": -12.7,
+    "profit_growth_pct": -9.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 1.0% of 52w high \u2014 strong momentum; Revenue -12.7% YoY \u2014 declining; Net profit declined -9.3% YoY",
+    "price_position": {
+      "current_price": 761.0,
+      "52w_high": 769.0,
+      "52w_low": 409.0,
+      "position_pct": 97.8,
+      "from_high_pct": 1.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AKUMS",
+    "name": "Akums Drugs & Pharmaceuticals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Akums Drugs & Pharmaceuticals Ltd has a mixed narrative (score 5.0/10). Positives: Established company (founded ~2004), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2004)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

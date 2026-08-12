@@ -1,0 +1,116 @@
+{
+  "symbol": "507753",
+  "name": "TGV Sraac Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,164Cr.",
+  "market_cap_cr": 1164.0,
+  "description": "AboutIncorporated in 1981, TGV Sraac Ltd is a producer of Chlor-Alkali products, Chloromethane and also manufactures Castor Derivatives and Fatty Acids[1]Key PointsBusiness Overview:[1][2]TGVSL (formerly Sree Rayalaseema Alkalies and Allied Chemicals Ltd.) is the flagship company of the TGV Group. It is an ISO 9001, ISO 14001 and OSHAS 18001 certified manufacturer of Chlor-Alkali products and also manufactures Castor Derivatives and Fatty Acids. It also runs a commercial Power Project of 28MW. TGV does B2B marketing directly to its industrial customers and through traders for other customersRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/507753/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "TGV Sraac Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "TGV Sraac Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 12.7% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Convexity: both B2B and B2C revenue streams",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "507753",
+    "name": "TGV Sraac Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "TGV Sraac Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 12.7% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 12.7% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 12.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 2.95,
+    "forensic_flags": [],
+    "owner_earnings": 22.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "507753",
+    "name": "TGV Sraac Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "TGV Sraac Ltd \u2014 weak technical setup (score 1.0/6): Revenue -4.8% YoY \u2014 declining; Net profit declined -8.3% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 8.39,
+    "from_high_pct": 23.2,
+    "revenue_growth_pct": -4.8,
+    "profit_growth_pct": -8.3,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 23.2% of 52w high \u2014 moderate momentum; Revenue -4.8% YoY \u2014 declining; Net profit declined -8.3% YoY",
+    "price_position": {
+      "current_price": 109.0,
+      "52w_high": 142.0,
+      "52w_low": 78.1,
+      "position_pct": 48.4,
+      "from_high_pct": 23.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "507753",
+    "name": "TGV Sraac Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "TGV Sraac Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~1981), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1981)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

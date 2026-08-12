@@ -1,0 +1,111 @@
+{
+  "symbol": "ABINFRA",
+  "name": "A B Infrabuild Ltd",
+  "sector": "",
+  "market_cap": "\u20b9691Cr.",
+  "market_cap_cr": 691.0,
+  "description": "AboutIncorporated in 2011, A B Infrabuild Ltd construction of roads, railways, branches and sidings, bridges, etc.[1]Key PointsBusiness Overview:[1]Company is a grade \"AA\" contractor registered with Municipal Corporation of Greater Mumbai and Class 1(A) Contractor with Public Works Department, Maharashtra. It has an OHSAS 18001:2007, ISO 14001:2015 & ISO 9001:2015 accredition along with certification from KVQA for compliance of ISO & OHSAS certification. Company is in the business of Civil ConstructionRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ABINFRA/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "A B Infrabuild Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "verdict_memo": "A B Infrabuild Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "investment_thesis": "A B Infrabuild Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 16.1% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "ABINFRA",
+    "name": "A B Infrabuild Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "A B Infrabuild Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 16.1% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 16.1% (adequate)",
+      "Revenue grew 4/4 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 16.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 4,
+    "cfo_to_ebitda": 3.0,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ABINFRA",
+    "name": "A B Infrabuild Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "A B Infrabuild Ltd \u2014 weak technical setup (score 1.0/6): Price 54.2% below 52w high \u2014 weak price action Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 1.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 35.7,
+    "from_high_pct": 54.2,
+    "revenue_growth_pct": 19.7,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +19.7% YoY \u2014 growing; Price 54.2% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 10.8,
+      "52w_high": 23.6,
+      "52w_low": 8.82,
+      "position_pct": 13.4,
+      "from_high_pct": 54.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ABINFRA",
+    "name": "A B Infrabuild Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "A B Infrabuild Ltd has a mixed narrative (score 3.0/10). Positives: Established company (founded ~2011), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2011)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

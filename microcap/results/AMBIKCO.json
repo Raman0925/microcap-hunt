@@ -1,0 +1,118 @@
+{
+  "symbol": "AMBIKCO",
+  "name": "Ambika Cotton Mills Ltd",
+  "sector": "",
+  "market_cap": "\u20b9936Cr.",
+  "market_cap_cr": 936.0,
+  "description": "AboutIncorporated in 1988, Ambika Cotton Mills Ltd manufactures and sells speciality cotton yarn[1]Key PointsBusiness Overview:[1][2]ACML manufactures and exports premium quality Compact and Elitwist cotton yarn for hosiery and weaving. It manufactures premium quality compact yarn by optimal blending of imported and indigenous cotton, primarily used for finer shirting requirements. Company spins cotton yarn primarily in the finer count range of 60s-100sRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AMBIKCO/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ambika Cotton Mills Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Ambika Cotton Mills Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 11.4% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ambika Cotton Mills Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.9,
+    "normalised_score": -0.422
+  },
+  "laxmi": {
+    "symbol": "AMBIKCO",
+    "name": "Ambika Cotton Mills Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Ambika Cotton Mills Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 11.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.84,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AMBIKCO",
+    "name": "Ambika Cotton Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Ambika Cotton Mills Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 15.3% of 52w high \u2014 moderate momentum, Revenue +0.6% YoY \u2014 growing, Profit +15.9% YoY with margin expansion \u2014 quality growth. Concerns: none.",
+    "score": 3.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 11.5,
+    "from_high_pct": 15.3,
+    "revenue_growth_pct": 0.6,
+    "profit_growth_pct": 15.9,
+    "optionality_signals": [],
+    "technical_notes": "Price within 15.3% of 52w high \u2014 moderate momentum; Revenue +0.6% YoY \u2014 growing; Profit +15.9% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 1636.0,
+      "52w_high": 1931.0,
+      "52w_low": 1101.0,
+      "position_pct": 64.5,
+      "from_high_pct": 15.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AMBIKCO",
+    "name": "Ambika Cotton Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Ambika Cotton Mills Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~1988), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1988)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

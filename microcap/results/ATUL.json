@@ -1,0 +1,113 @@
+{
+  "symbol": "ATUL",
+  "name": "Atul Ltd",
+  "sector": "",
+  "market_cap": "\u20b920,168Cr.",
+  "market_cap_cr": 20168.0,
+  "description": "AboutAtul Ltd. is a diversified and integrated Indian chemical company (a part of Lalbhai Group, Gujarat). The products of the company are used in various Industries and come mainly under two segments, Life Science Chemicals and Performance and Other Chemicals under 9 Businesses.[1]Since its incorporation, the company has manufactured many products for the first time in India Dyes including Vat Dyes, crop care chemicals, Phosgene, Carbamite, 2,4-D Acid, para Cresol, tissue culture raised date palms.[2]Key PointsBusiness Segments[1]1) Life Science Chemicals (29% in FY26 vs 30% in FY25):a) Crop Protection - Bulk Actives:[1][2]The company offers36products and46formulations across herbicides, insecticides, fungicides, and other crop protection chemicals, serving224customers in the Agriculture and Crop Protection Chemicals industries. Key products include 2,4-D, Indoxacarb, and Sulfonylurea herbicides, with a global market share of13%in 2,4-D and14%in Indoxacarb as of FY26.Read MoreWebsiteB",
+  "screener_url": "https://www.screener.in/company/ATUL/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Atul Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Atul Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Atul Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 13.2% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "ATUL",
+    "name": "Atul Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Atul Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 13.2% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 13.2% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 13.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 1.46,
+    "forensic_flags": [],
+    "owner_earnings": 217.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ATUL",
+    "name": "Atul Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Atul Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 4.8% of 52w high \u2014 strong momentum, Revenue +3.3% YoY \u2014 growing. Concerns: Net profit declined -20.8% YoY.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 28.9,
+    "from_high_pct": 4.8,
+    "revenue_growth_pct": 3.3,
+    "profit_growth_pct": -20.8,
+    "optionality_signals": [],
+    "technical_notes": "Price within 4.8% of 52w high \u2014 strong momentum; Revenue +3.3% YoY \u2014 growing; Net profit declined -20.8% YoY",
+    "price_position": {
+      "current_price": 6850.0,
+      "52w_high": 7198.0,
+      "52w_low": 5560.0,
+      "position_pct": 78.8,
+      "from_high_pct": 4.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ATUL",
+    "name": "Atul Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Atul Ltd has a mixed narrative (score 5.0/10). Positives: Growth ambition evident in description, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

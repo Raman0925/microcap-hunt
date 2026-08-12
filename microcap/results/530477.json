@@ -1,0 +1,115 @@
+{
+  "symbol": "530477",
+  "name": "Vikram Thermo (India) Ltd",
+  "sector": "",
+  "market_cap": "\u20b9786Cr.",
+  "market_cap_cr": 786.0,
+  "description": "AboutIncorporated in 1985, Vikram ThermoLtd manufactures and sells basic pharmaco-polymers[1]Key PointsBusiness Overview:[1]VTL is an ISO 9001, DRCOAT, andEXCiPACT International is a GMP-certified, integrated, research-based pharmaceutical excipient company. It manufactures, markets, and exports pharmaceutical excipients and chemicals.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/530477/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Vikram Thermo (India) Ltd \u2014 borderline (score 0.18). Laxmi: borderline | Meera: borderline | Tara: pass. Worth watching but not a buy yet.",
+  "verdict_memo": "Vikram Thermo (India) Ltd \u2014 borderline (score 0.18). Laxmi: borderline | Meera: borderline | Tara: pass. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 6.7/10",
+  "investment_thesis": "Vikram Thermo (India) Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 36.4% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 6.5/10 \u2014 pass (54% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.18"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.81,
+    "normalised_score": 0.18
+  },
+  "laxmi": {
+    "symbol": "530477",
+    "name": "Vikram Thermo (India) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Vikram Thermo (India) Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 2/5 years \u2014 adequate, ROCE 36.4% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 36.4% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 36.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.67,
+    "forensic_flags": [],
+    "owner_earnings": 3.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "530477",
+    "name": "Vikram Thermo (India) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Vikram Thermo (India) Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 3.5% of 52w high \u2014 strong momentum. Concerns: Revenue -2.6% YoY \u2014 declining, Net profit declined -25.0% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 17.9,
+    "from_high_pct": 3.5,
+    "revenue_growth_pct": -2.6,
+    "profit_growth_pct": -25.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 3.5% of 52w high \u2014 strong momentum; Revenue -2.6% YoY \u2014 declining; Net profit declined -25.0% YoY",
+    "price_position": {
+      "current_price": 251.0,
+      "52w_high": 260.0,
+      "52w_low": 131.0,
+      "position_pct": 93.0,
+      "from_high_pct": 3.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "530477",
+    "name": "Vikram Thermo (India) Ltd",
+    "verdict": "pass",
+    "confidence": 0.54,
+    "report": "Vikram Thermo (India) Ltd has a strong story (score 6.5/10). Catalysts: Established company (founded ~1985), Growth ambition evident in description, Operating in large / growing sector. Taleb signals: Optionality: capability expansion signals detected, Antifragility: multiple segments / diversified revenue. Governance: clean.",
+    "score": 6.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1985)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

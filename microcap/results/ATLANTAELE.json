@@ -1,0 +1,109 @@
+{
+  "symbol": "ATLANTAELE",
+  "name": "Atlanta Electricals Ltd",
+  "sector": "",
+  "market_cap": "\u20b912,198Cr.",
+  "market_cap_cr": 12198.0,
+  "description": "AboutIncorporated in 1983, Atlanta Electricals Ltd is in the business of supplying a wide range of power transformers.[1]Key PointsBusiness Overview:[1]AEL is a manufacturer of power, auto, and inverter duty transformers in India. It is among the few companies in India that manufactures transformers up to and including500 MVA / 765 kV capacity. As of FY26, it has a customer base in 19 states and 3 union territories, with a supply of 4,858 transformers, aggregating to1,16,936 MVAto various state and national electricity grids, private sector players and renewable energy generation projects, and construction companies.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ATLANTAELE/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Atlanta Electricals Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Atlanta Electricals Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Atlanta Electricals Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 3/4 years \u2014 adequate; ROCE 47.2% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.11"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.5,
+    "normalised_score": 0.111
+  },
+  "laxmi": {
+    "symbol": "ATLANTAELE",
+    "name": "Atlanta Electricals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Atlanta Electricals Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/4 years \u2014 adequate, ROCE 47.2% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/4 years \u2014 adequate",
+      "ROCE 47.2% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 47.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 4.83,
+    "forensic_flags": [],
+    "owner_earnings": 13.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ATLANTAELE",
+    "name": "Atlanta Electricals Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Atlanta Electricals Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 27.9% of 52w high \u2014 moderate momentum, Revenue +34.3% YoY \u2014 strong momentum, Profit +116.7% YoY with margin expansion \u2014 quality growth. Notes: none.",
+    "score": 4.0,
+    "price_signal": "neutral",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 50.9,
+    "from_high_pct": 27.9,
+    "revenue_growth_pct": 34.3,
+    "profit_growth_pct": 116.7,
+    "optionality_signals": [],
+    "technical_notes": "Price within 27.9% of 52w high \u2014 moderate momentum; Revenue +34.3% YoY \u2014 strong momentum; Profit +116.7% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 1586.0,
+      "52w_high": 2200.0,
+      "52w_low": 708.0,
+      "position_pct": 58.8,
+      "from_high_pct": 27.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ATLANTAELE",
+    "name": "Atlanta Electricals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Atlanta Electricals Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~1983), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1983)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

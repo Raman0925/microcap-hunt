@@ -1,0 +1,109 @@
+{
+  "symbol": "BANKBARODA",
+  "name": "Bank of Baroda",
+  "sector": "",
+  "market_cap": "\u20b91,27,319Cr.",
+  "market_cap_cr": 127319.0,
+  "description": "AboutBank of Baroda is engaged in providing various services, such as personal banking, corporate banking, international banking, small and medium enterprise (SME) banking, rural banking, non-resident Indian (NRI) services and treasury services.(Source : Company Web-site)Key PointsMarket PositionThe bank is among India\u2019s top five banks by asset size and total deposits with a6% market shareas of FY24.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BANKBARODA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bank of Baroda \u2014 rejected (score 2.5/10): Low ROCE: 5.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Bank of Baroda \u2014 rejected (score 2.5/10): Low ROCE: 5.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 5.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bank of Baroda \u2014 rejected (score 2.5/10): Low ROCE: 5.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.675,
+    "normalised_score": -0.817
+  },
+  "laxmi": {
+    "symbol": "BANKBARODA",
+    "name": "Bank of Baroda",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Bank of Baroda \u2014 rejected (score 2.5/10): Low ROCE: 5.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 5.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 5.66,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 5.3,
+    "forensic_flags": [],
+    "owner_earnings": 3398.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BANKBARODA",
+    "name": "Bank of Baroda",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Bank of Baroda \u2014 weak technical setup (score 1.0/6): Revenue -2.5% YoY \u2014 declining",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 6.13,
+    "from_high_pct": 24.5,
+    "revenue_growth_pct": -2.5,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 24.5% of 52w high \u2014 moderate momentum; Revenue -2.5% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 246.0,
+      "52w_high": 326.0,
+      "52w_low": 231.0,
+      "position_pct": 15.8,
+      "from_high_pct": 24.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BANKBARODA",
+    "name": "Bank of Baroda",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Bank of Baroda \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "symbol": "AFSL",
+  "name": "Abans Financial Services Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,071Cr.",
+  "market_cap_cr": 1071.0,
+  "description": "AboutIncorporated in 2009, Abans Financial Services Ltd provides services such as Institutional Broking, Asset Management, Financial Lending, Treasury operations, and Remittance Services[1]Key PointsBusiness Overview:[1]AFSL used to be a commodities tradingcompany, but has diversified into a multi-asset and multinational financial services company mainly segmented under \u2013 Agency Business, Finance Business, and CapitalBusiness. It caters to financial businessesviz. Institutional Broking, Asset Management, Financial Lending, Treasury operations and Remittance Services.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AFSL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Abans Financial Services Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 3.0% \u2014 poor capital efficiency",
+  "verdict_memo": "Abans Financial Services Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 3.0% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 3.0% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Abans Financial Services Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 3.0% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.84,
+    "normalised_score": -0.409
+  },
+  "laxmi": {
+    "symbol": "AFSL",
+    "name": "Abans Financial Services Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Abans Financial Services Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 3.0% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "Low ROCE: 3.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 2.97,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -2.0,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AFSL",
+    "name": "Abans Financial Services Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Abans Financial Services Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 12.4% of 52w high \u2014 strong momentum. Concerns: Revenue 0.0% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 64.9,
+    "from_high_pct": 12.4,
+    "revenue_growth_pct": 0.0,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 12.4% of 52w high \u2014 strong momentum; Revenue 0.0% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 211.0,
+      "52w_high": 241.0,
+      "52w_low": 194.0,
+      "position_pct": 36.2,
+      "from_high_pct": 12.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AFSL",
+    "name": "Abans Financial Services Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Abans Financial Services Ltd has a mixed narrative (score 3.0/10). Positives: Established company (founded ~2009), No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2009)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

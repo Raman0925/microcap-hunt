@@ -1,0 +1,116 @@
+{
+  "symbol": "BAJEL",
+  "name": "Bajel Projects Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,187Cr.",
+  "market_cap_cr": 2187.0,
+  "description": "AboutIncorporated in 2022, Bajel Projects Ltd is in the business of Engineering, Procurement and Construction[1]Bajel Projects Limited (BPL)is a carved out legal entity from Bajaj Electricals Ltd. It's EPC segment comprises of Power Transmission & Power Distribution. BPL provides end to end solutions ranging from inhouse design, testing, procurement, manufacturing, installation & commissioning of the projects.Key PointsPromoter GroupThe company is a part of the Bajaj Group, India's third-largest group by market capitalization, operating in industries like Financial Services, Automobiles, Consumer Appliances, EPC, Steel, Insurance, Material Handling, Tours & Travels, etc, with a $167+ Bn market cap. It has 40+ group companies, 100,000+ employees, and a presence in 70+ countries.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BAJEL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bajel Projects Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "Bajel Projects Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/4 years \u2014 adequate; ROCE 12.4% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bajel Projects Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.51,
+    "normalised_score": -0.558
+  },
+  "laxmi": {
+    "symbol": "BAJEL",
+    "name": "Bajel Projects Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Bajel Projects Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 3/4 years \u2014 adequate",
+      "ROCE 12.4% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 12.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 48.75,
+    "forensic_flags": [],
+    "owner_earnings": -2.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BAJEL",
+    "name": "Bajel Projects Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Bajel Projects Ltd \u2014 weak technical setup (score 1.0/6): Revenue -43.2% YoY \u2014 declining; Net profit declined -150.0% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 66.1,
+    "from_high_pct": 16.7,
+    "revenue_growth_pct": -43.2,
+    "profit_growth_pct": -150.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 16.7% of 52w high \u2014 moderate momentum; Revenue -43.2% YoY \u2014 declining; Net profit declined -150.0% YoY",
+    "price_position": {
+      "current_price": 189.0,
+      "52w_high": 227.0,
+      "52w_low": 135.0,
+      "position_pct": 58.7,
+      "from_high_pct": 16.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BAJEL",
+    "name": "Bajel Projects Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Bajel Projects Ltd has a mixed narrative (score 5.0/10). Positives: Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

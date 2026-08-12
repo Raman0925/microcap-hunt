@@ -1,0 +1,106 @@
+{
+  "symbol": "AUBANK",
+  "name": "AU Small Finance Bank Ltd",
+  "sector": "",
+  "market_cap": "\u20b980,310Cr.",
+  "market_cap_cr": 80310.0,
+  "description": "AboutAU Small Finance Bank Limited is engaged in providing a range of banking and financial services including retail banking, wholesale banking, treasury operations and other services.[1]Key PointsBusiness SegmentsRetail Banking:74% in Q3 FY26 vs 79% in FY22Treasury:13% in Q3 FY26 vs 15% in FY22Wholesale Banking:10% in Q3 FY26 vs 5% in FY22Others:3% in Q3 FY26 vs 1% in FY22[1][2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AUBANK/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "AU Small Finance Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "AU Small Finance Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 7.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 AU Small Finance Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.963,
+    "normalised_score": -0.658
+  },
+  "laxmi": {
+    "symbol": "AUBANK",
+    "name": "AU Small Finance Bank Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "AU Small Finance Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 7.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 7.66,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -5.34,
+    "forensic_flags": [],
+    "owner_earnings": 140.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AUBANK",
+    "name": "AU Small Finance Bank Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "AU Small Finance Bank Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 3.2% of 52w high \u2014 strong momentum. Concerns: Revenue -30.3% YoY \u2014 declining, Net profit declined -34.0% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 28.1,
+    "from_high_pct": 3.2,
+    "revenue_growth_pct": -30.3,
+    "profit_growth_pct": -34.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 3.2% of 52w high \u2014 strong momentum; Revenue -30.3% YoY \u2014 declining; Net profit declined -34.0% YoY",
+    "price_position": {
+      "current_price": 1071.0,
+      "52w_high": 1106.0,
+      "52w_low": 682.0,
+      "position_pct": 91.7,
+      "from_high_pct": 3.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AUBANK",
+    "name": "AU Small Finance Bank Ltd",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "AU Small Finance Bank Ltd \u2014 rejected (score 1.5/10): failed qualitative checks",
+    "score": 1.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

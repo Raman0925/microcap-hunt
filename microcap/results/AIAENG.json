@@ -1,0 +1,110 @@
+{
+  "symbol": "AIAENG",
+  "name": "AIA Engineering Ltd",
+  "sector": "",
+  "market_cap": "\u20b944,622Cr.",
+  "market_cap_cr": 44622.0,
+  "description": "AboutAIA manufactures high-chrome grinding media, liners and diaphragms, collectively known as mill internals. These are used for crushing and grinding operations in the cement, power utility & aggregates and mining industries.[1]Key PointsProducts & Services[1]The company specializes in the design, manufacture, installation, and servicing of high-chromium wear-resistant grinding media, mill liners, and diaphragms, collectively known as mill internals, used across the mining, cement, thermal power, and quarrying industries.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AIAENG/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "AIA Engineering Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "AIA Engineering Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 21.9% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.24"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.087,
+    "normalised_score": -0.242
+  },
+  "laxmi": {
+    "symbol": "AIAENG",
+    "name": "AIA Engineering Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "AIA Engineering Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 21.9% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 21.9% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 21.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.78,
+    "forensic_flags": [],
+    "owner_earnings": 415.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AIAENG",
+    "name": "AIA Engineering Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "AIA Engineering Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 7.7% of 52w high \u2014 strong momentum, Revenue +15.1% YoY \u2014 growing. Concerns: Net profit declined -32.6% YoY.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 34.9,
+    "from_high_pct": 7.7,
+    "revenue_growth_pct": 15.1,
+    "profit_growth_pct": -32.6,
+    "optionality_signals": [],
+    "technical_notes": "Price within 7.7% of 52w high \u2014 strong momentum; Revenue +15.1% YoY \u2014 growing; Net profit declined -32.6% YoY",
+    "price_position": {
+      "current_price": 4782.0,
+      "52w_high": 5180.0,
+      "52w_low": 3001.0,
+      "position_pct": 81.7,
+      "from_high_pct": 7.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AIAENG",
+    "name": "AIA Engineering Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "AIA Engineering Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 0.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "symbol": "AERONEU",
+  "name": "Aeroflex Neu Ltd",
+  "sector": "",
+  "market_cap": "\u20b9217Cr.",
+  "market_cap_cr": 217.0,
+  "description": "AboutIncorporated in 1992, Sah PolymersLtd does manufacturing and marketingof FIBC and other flexible packagingproducts[1]Key PointsBusiness Overview:[1][2]SAHPL is a Recognized Star Export House by the Government of India. It manufactures Flexible Intermediate Bulk Containers from Simple builder bags to complex C panel and circular baffle bags, Polypropylene Woven Bags, BOPP Laminated BagsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AERONEU/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aeroflex Neu Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.3% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Aeroflex Neu Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.3% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 4.3% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aeroflex Neu Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.3% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.55,
+    "normalised_score": -0.567
+  },
+  "laxmi": {
+    "symbol": "AERONEU",
+    "name": "Aeroflex Neu Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Aeroflex Neu Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.3% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 4.3% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 4.34,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 33.0,
+    "forensic_flags": [],
+    "owner_earnings": 0.1,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AERONEU",
+    "name": "Aeroflex Neu Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Aeroflex Neu Ltd \u2014 weak technical setup (score 1.0/6): Price 32.7% below 52w high \u2014 weak price action; Revenue -2.2% YoY \u2014 declining",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 1033.0,
+    "from_high_pct": 32.7,
+    "revenue_growth_pct": -2.2,
+    "profit_growth_pct": 500.0,
+    "optionality_signals": [],
+    "technical_notes": "Profit +500.0% YoY with margin expansion \u2014 quality growth; Price 32.7% below 52w high \u2014 weak price action; Revenue -2.2% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 84.1,
+      "52w_high": 125.0,
+      "52w_low": 58.6,
+      "position_pct": 38.4,
+      "from_high_pct": 32.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AERONEU",
+    "name": "Aeroflex Neu Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Aeroflex Neu Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b9217cr mcap) \u2014 large runway ahead, Established company (founded ~1992). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9217cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1992)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

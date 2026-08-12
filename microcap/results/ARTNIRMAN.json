@@ -1,0 +1,116 @@
+{
+  "symbol": "ARTNIRMAN",
+  "name": "Art Nirman Ltd",
+  "sector": "",
+  "market_cap": "\u20b9104Cr.",
+  "market_cap_cr": 104.0,
+  "description": "AboutIncorporated in 2011, Art Nirman Ltd is in the business of real estate development and allied activities[1]Key PointsBusiness Overview:[1]ANL in the business of infrastructure and real estate development in residential, commercial and Plotting projects. Its residential projects range from Affordable housing to luxurious flat and towers and luxorious bungalows. Company's commercial projects comprise premium office spaces and showrooms and shopsRead MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/ARTNIRMAN/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Art Nirman Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Art Nirman Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 5.8% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Art Nirman Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.8% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "ARTNIRMAN",
+    "name": "Art Nirman Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Art Nirman Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.8% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 5.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/3 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 5.85,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 6.5,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ARTNIRMAN",
+    "name": "Art Nirman Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Art Nirman Ltd \u2014 weak technical setup (score 0.0/6): Price 38.1% below 52w high \u2014 weak price action; Revenue -4.5% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 199.0,
+    "from_high_pct": 38.1,
+    "revenue_growth_pct": -4.5,
+    "profit_growth_pct": -96.1,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 38.1% below 52w high \u2014 weak price action; Revenue -4.5% YoY \u2014 declining; Net profit declined -96.1% YoY",
+    "price_position": {
+      "current_price": 41.5,
+      "52w_high": 67.0,
+      "52w_low": 29.4,
+      "position_pct": 32.2,
+      "from_high_pct": 38.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ARTNIRMAN",
+    "name": "Art Nirman Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Art Nirman Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b9104cr mcap) \u2014 large runway ahead, Established company (founded ~2011). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9104cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2011)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

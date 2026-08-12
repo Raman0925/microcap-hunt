@@ -1,0 +1,109 @@
+{
+  "symbol": "ACL",
+  "name": "Andhra Cements Ltd",
+  "sector": "",
+  "market_cap": "\u20b9446Cr.",
+  "market_cap_cr": 446.0,
+  "description": "AboutIncorporated in 1936, Andhra Cements Ltd is in the business of manufacturing and selling cement[1]Key PointsCorporate History & Ownership Changes[1]Andhra Cements Limited has undergone multiple ownership transitions over the years from the Bennett Coleman Group to the Duncan Goenka Group in 1994, followed by the Jaypee Group in 2012. Following severe financial stress and plant shutdowns between 2020-2023, the company underwentCIRP. In Feb'23, theNCLT approved the resolution plan of Sagar Cements Ltd., which infused Rs. 322 Crs.and acquired control of the company. Andhra Cements is now a subsidiary of Sagar Cements[2]and part of the Sagar Group.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ACL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Andhra Cements Ltd \u2014 rejected (score 3.5/10): Low ROCE: -6.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Andhra Cements Ltd \u2014 rejected (score 3.5/10): Low ROCE: -6.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: -6.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Andhra Cements Ltd \u2014 rejected (score 3.5/10): Low ROCE: -6.0% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.56,
+    "normalised_score": -0.569
+  },
+  "laxmi": {
+    "symbol": "ACL",
+    "name": "Andhra Cements Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Andhra Cements Ltd \u2014 rejected (score 3.5/10): Low ROCE: -6.0% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: -6.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": -6.01,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": -99.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ACL",
+    "name": "Andhra Cements Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Andhra Cements Ltd \u2014 weak technical setup (score 0.0/6): Price 56.0% below 52w high \u2014 weak price action; Revenue -4.8% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": null,
+    "from_high_pct": 56.0,
+    "revenue_growth_pct": -4.8,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price 56.0% below 52w high \u2014 weak price action; Revenue -4.8% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 48.4,
+      "52w_high": 110.0,
+      "52w_low": 40.4,
+      "position_pct": 11.5,
+      "from_high_pct": 56.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ACL",
+    "name": "Andhra Cements Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Andhra Cements Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b9446cr mcap) \u2014 large runway ahead, Established company (founded ~1994). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9446cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1994)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

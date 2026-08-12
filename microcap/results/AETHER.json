@@ -1,0 +1,113 @@
+{
+  "symbol": "AETHER",
+  "name": "Aether Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b921,688Cr.",
+  "market_cap_cr": 21688.0,
+  "description": "AboutIncorporated in 2013, Aether Industries Limited is a manufacturer of specialty chemicals. The company is sole Indian manufacturer for chemicals such as 4-(2-Methoxyethyl) Phenol (4MEP), and 3-Methoxy-2-Methylbenzoyl Chloride (MMBC), Thiophene-2-Ethanol (T2E), Ortho Tolyl Benzo Nitrile (OTBN), N-Octyl-D-Glucamine, Delta-Valerolactone, and Bifenthrin Alcohol.[1]Key PointsBusiness Segments[1][2]a) Contract / Exclusive Manufacturing (46% in FY26 vs 31% in FY25):[3]The company produces products for its customers under contractual supply agreements that can be either short-term or long-term, and may be exclusive or non-exclusive in nature. It has entered into long-term take-or-pay contracts with global clients such asBaker Hughes, SEQENS, and Saudi Aramco.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AETHER/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aether Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 10.0% \u2014 poor capital efficiency",
+  "verdict_memo": "Aether Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 10.0% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 10.0% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aether Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 10.0% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.84,
+    "normalised_score": -0.409
+  },
+  "laxmi": {
+    "symbol": "AETHER",
+    "name": "Aether Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Aether Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 10.0% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 10.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 9.99,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.75,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AETHER",
+    "name": "Aether Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Aether Industries Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 0.7% of 52w high \u2014 strong momentum. Concerns: Revenue -95.8% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 116.0,
+    "from_high_pct": 0.7,
+    "revenue_growth_pct": -95.8,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 0.7% of 52w high \u2014 strong momentum; Revenue -95.8% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 1634.0,
+      "52w_high": 1645.0,
+      "52w_low": 723.0,
+      "position_pct": 98.8,
+      "from_high_pct": 0.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AETHER",
+    "name": "Aether Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Aether Industries Ltd has a mixed narrative (score 5.5/10). Positives: Established company (founded ~2013), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2013)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

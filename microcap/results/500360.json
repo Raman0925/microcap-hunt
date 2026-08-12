@@ -1,0 +1,118 @@
+{
+  "symbol": "500360",
+  "name": "Rapicut Carbides Ltd",
+  "sector": "",
+  "market_cap": "\u20b9163Cr.",
+  "market_cap_cr": 163.0,
+  "description": "AboutIncorporated in 1977, Rapicut Carbides Ltd manufactures Tungsten Carbide products used in metal cutting, mining, wear parts and various other industries[1]Key PointsProduct Profile:[1]a)Mining Products:[2]Drill Steel Inserts, Octagonal and Square Inserts, Tungsten Carbide Buttons, Bucket Wheel Excavation (BWE) Inserts, Carset/Cross Bits Inserts, Flow Beans/ Nozzles, etc.b)Wear Parts:[3]Tungsten Carbide Seal Rings, Pellets/Nibs, Jute Eyelets, etc.c)Metal Cutting:[4]2000 different varieties of standard tips, apart from custom-built special tipsd)Intermediates:[5]Tungsten Metal Powder, Tungsten Carbide Powder, Fused Tungsten Carbide Powder, Ready to Press Powder, etc.e)Finished Product:[6]Stem and seat for High Pressure Control Valve, Tungsten Carbide Seat for pneumatic valve, Scarfing tools and Pressure/ Squeeze Rolls for ERW Tube, Forming tools for various Industry. Company supplies Flats, segments, Bushes, Rods, Brazed Tools etc. for various applicationsRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/500360/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Rapicut Carbides Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Rapicut Carbides Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 11.3% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 5.0/6 \u2014 pass (60% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Rapicut Carbides Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.3,
+    "normalised_score": -0.289
+  },
+  "laxmi": {
+    "symbol": "500360",
+    "name": "Rapicut Carbides Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Rapicut Carbides Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.3% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 11.3,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 1.0,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "500360",
+    "name": "Rapicut Carbides Ltd",
+    "verdict": "pass",
+    "confidence": 0.6,
+    "report": "Rapicut Carbides Ltd \u2014 solid technical setup (score 5.0/6). Signals: Price within 0.0% of 52w high \u2014 strong momentum, Revenue +15.2% YoY \u2014 growing, Profit +100.0% YoY with margin expansion \u2014 quality growth, PE 14.0 < revenue growth 15.2% \u2014 undervalued vs growth. Notes: none.",
+    "score": 5.0,
+    "price_signal": "bullish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "growing",
+    "pe_ratio": 14.0,
+    "from_high_pct": 0.0,
+    "revenue_growth_pct": 15.2,
+    "profit_growth_pct": 100.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 0.0% of 52w high \u2014 strong momentum; Revenue +15.2% YoY \u2014 growing; Profit +100.0% YoY with margin expansion \u2014 quality growth; PE 14.0 < revenue growth 15.2% \u2014 undervalued vs growth",
+    "price_position": {
+      "current_price": 303.0,
+      "52w_high": 303.0,
+      "52w_low": 66.7,
+      "position_pct": 100.0,
+      "from_high_pct": 0.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "500360",
+    "name": "Rapicut Carbides Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Rapicut Carbides Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b9163cr mcap) \u2014 large runway ahead, Established company (founded ~1977). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9163cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1977)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

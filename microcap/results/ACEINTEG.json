@@ -1,0 +1,116 @@
+{
+  "symbol": "ACEINTEG",
+  "name": "Ace Integrated Solutions Ltd",
+  "sector": "",
+  "market_cap": "\u20b918.9Cr.",
+  "market_cap_cr": 18.9,
+  "description": "AboutIncorporated in 1997, Ace IntegratedSolutions Ltd is engaged in contractbusiness for manpower recruitment[1]Key PointsBusiness Overview:[1]AISL is in the business of HR and recruitment and has completed 500+ projects across India. It has also diversified into Building Information Modelling (BIM) and technology solutions for major government construction projects.The company specializes in CAD and BIM drafting, documentation, and allied technology services, designed to meet the requirements of large-scale infrastructure developments.Read MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/ACEINTEG/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ace Integrated Solutions Ltd \u2014 rejected (score 2.5/10): Low ROCE: -6.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Ace Integrated Solutions Ltd \u2014 rejected (score 2.5/10): Low ROCE: -6.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: -6.8% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ace Integrated Solutions Ltd \u2014 rejected (score 2.5/10): Low ROCE: -6.8% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "ACEINTEG",
+    "name": "Ace Integrated Solutions Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Ace Integrated Solutions Ltd \u2014 rejected (score 2.5/10): Low ROCE: -6.8% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: -6.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": -6.79,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -0.52,
+    "forensic_flags": [],
+    "owner_earnings": 1.1,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ACEINTEG",
+    "name": "Ace Integrated Solutions Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Ace Integrated Solutions Ltd \u2014 weak technical setup (score 0.0/6): Price 38.1% below 52w high \u2014 weak price action; Revenue -27.7% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": null,
+    "from_high_pct": 38.1,
+    "revenue_growth_pct": -27.7,
+    "profit_growth_pct": -27.9,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 38.1% below 52w high \u2014 weak price action; Revenue -27.7% YoY \u2014 declining; Net profit declined -27.9% YoY",
+    "price_position": {
+      "current_price": 18.5,
+      "52w_high": 29.9,
+      "52w_low": 14.2,
+      "position_pct": 27.4,
+      "from_high_pct": 38.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ACEINTEG",
+    "name": "Ace Integrated Solutions Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Ace Integrated Solutions Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b919cr mcap) \u2014 large runway ahead, Established company (founded ~1997). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b919cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1997)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

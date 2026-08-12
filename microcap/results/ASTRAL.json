@@ -1,0 +1,115 @@
+{
+  "symbol": "ASTRAL",
+  "name": "Astral Ltd",
+  "sector": "",
+  "market_cap": "\u20b938,280Cr.",
+  "market_cap_cr": 38280.0,
+  "description": "AboutAstral Poly Technik Ltd was established in 1996, with the aim to manufacture pro-India plumbing and drainage systems in the country. The company is into manufacturing of Pipes, water tanks, bathware, specialised valves, paints, adhesives and sealants, infrastructure solutions, specialised fittings and construction chemicals.[1]Key PointsBusiness Segments:a) Plumbing (71% in FY26 vs 73% in FY24):[1]The company offers PVC, CPVC and lead-free PVC plumbing systems and fittings including drainage systems, agriculture systems, fire sprinkler systems, Industrial and urban infrastructure piping systems, specialized fittings, water tanks, cable protection system etc.It is amongIndia's leading players in the high-margin CPVC pipes and fittings business.[2]b) Paints and Adhesives (29% in FY26 vs 27% in FY24):The company offers adhesives, sealants, specialized valves, construction chemicals,and other infrastructure products. It also offersa range of paints including Interior Emulsion, Exterio",
+  "screener_url": "https://www.screener.in/company/ASTRAL/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "Astral Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "verdict_memo": "Astral Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "investment_thesis": "Astral Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 21.9% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "ASTRAL",
+    "name": "Astral Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Astral Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 21.9% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 21.9% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 21.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.22,
+    "forensic_flags": [],
+    "owner_earnings": 69.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASTRAL",
+    "name": "Astral Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Astral Ltd \u2014 weak technical setup (score 1.0/6): Revenue -6.3% YoY \u2014 declining; Net profit declined -5.5% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 63.6,
+    "from_high_pct": 19.4,
+    "revenue_growth_pct": -6.3,
+    "profit_growth_pct": -5.5,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 19.4% of 52w high \u2014 moderate momentum; Revenue -6.3% YoY \u2014 declining; Net profit declined -5.5% YoY",
+    "price_position": {
+      "current_price": 1425.0,
+      "52w_high": 1769.0,
+      "52w_low": 1270.0,
+      "position_pct": 31.1,
+      "from_high_pct": 19.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASTRAL",
+    "name": "Astral Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Astral Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1996), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1996)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

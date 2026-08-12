@@ -1,0 +1,112 @@
+{
+  "symbol": "ARE&M",
+  "name": "Amara Raja Energy & Mobility Ltd",
+  "sector": "",
+  "market_cap": "\u20b917,758Cr.",
+  "market_cap_cr": 17758.0,
+  "description": "AboutAmara Raja Batteries Limited[1](ARBL), the flagship company of the Amara Raja Group, is the technology leader and is one of the largest manufacturers of lead-acid batteries for both industrial and automotive applications in the Indian storage battery industry.ARBL has prestigious OEMs as its clients. The Company's Industrial and Automotive batteries are exported to over 50 countries across the globe.In India, Amara Raja is the preferred supplier to major telecom service providers, Telecom equipment manufacturers, UPS sector (OEM & Replacement), Indian Railways and to Power, Oil & Gas among other industry segments.Termination of Shareholders Agreement (tie up) with Johnson Control[2]Key PointsFormer Name:[1]The company was formerly calledas Amara Raja Batteries Limited till2023.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ARE&M/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Amara Raja Energy & Mobility Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "Amara Raja Energy & Mobility Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 13.4% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Amara Raja Energy & Mobility Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "ARE&M",
+    "name": "Amara Raja Energy & Mobility Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Amara Raja Energy & Mobility Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 13.4% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 13.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.96,
+    "forensic_flags": [],
+    "owner_earnings": 411.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ARE&M",
+    "name": "Amara Raja Energy & Mobility Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Amara Raja Energy & Mobility Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 8.3% of 52w high \u2014 strong momentum. Concerns: Revenue -8.8% YoY \u2014 declining, Net profit declined -16.5% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 22.6,
+    "from_high_pct": 8.3,
+    "revenue_growth_pct": -8.8,
+    "profit_growth_pct": -16.5,
+    "optionality_signals": [],
+    "technical_notes": "Price within 8.3% of 52w high \u2014 strong momentum; Revenue -8.8% YoY \u2014 declining; Net profit declined -16.5% YoY",
+    "price_position": {
+      "current_price": 970.0,
+      "52w_high": 1058.0,
+      "52w_low": 670.0,
+      "position_pct": 77.3,
+      "from_high_pct": 8.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ARE&M",
+    "name": "Amara Raja Energy & Mobility Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Amara Raja Energy & Mobility Ltd has a mixed narrative (score 5.0/10). Positives: Growth ambition evident in description, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

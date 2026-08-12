@@ -1,0 +1,108 @@
+{
+  "symbol": "523160",
+  "name": "Foseco Crucible (India) Ltd",
+  "sector": "",
+  "market_cap": "\u20b9885Cr.",
+  "market_cap_cr": 885.0,
+  "description": "AboutIncorporated in 1986, Morganite Crucible (India) Ltd manufactures and sells silicon carbide and clay graphite crucibles and its accessories[1]Key PointsBusiness Overview:[1]MCIL is a part of Morgan AdvancedMaterials Plc, a UK-based Group. It is a manufacturer of high-performance crucibles, foundry consumables, and allied refractory products. It supplies crucibles to non-ferrous metals industries and specializes in providing melting solutions to foundries, die-casters, and metal melting facilities covering applications including Zinc, Precious Metals, Aluminium, Copper/Brass/Bronze, and other non-ferrous metalsRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/523160/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Foseco Crucible (India) Ltd \u2014 rejected (score -0.41). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "verdict_memo": "Foseco Crucible (India) Ltd \u2014 rejected (score -0.41). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 33.2% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.41"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -1.837,
+    "normalised_score": -0.408
+  },
+  "laxmi": {
+    "symbol": "523160",
+    "name": "Foseco Crucible (India) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Foseco Crucible (India) Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 33.2% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 33.2% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 33.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.5,
+    "forensic_flags": [],
+    "owner_earnings": 6.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "523160",
+    "name": "Foseco Crucible (India) Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Foseco Crucible (India) Ltd \u2014 weak technical setup (score 1.0/6): Revenue 0.0% YoY \u2014 declining; Net profit declined -40.0% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 22.5,
+    "from_high_pct": 19.6,
+    "revenue_growth_pct": 0.0,
+    "profit_growth_pct": -40.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 19.6% of 52w high \u2014 moderate momentum; Revenue 0.0% YoY \u2014 declining; Net profit declined -40.0% YoY",
+    "price_position": {
+      "current_price": 1580.0,
+      "52w_high": 1964.0,
+      "52w_low": 1155.0,
+      "position_pct": 52.5,
+      "from_high_pct": 19.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "523160",
+    "name": "Foseco Crucible (India) Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Foseco Crucible (India) Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1986)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,110 @@
+{
+  "symbol": "ASTRAZEN",
+  "name": "Astrazeneca Pharma India Ltd",
+  "sector": "",
+  "market_cap": "\u20b919,866Cr.",
+  "market_cap_cr": 19866.0,
+  "description": "AboutAstraZeneca Pharma India Ltd is engaged in the business of manufacture, distribution and marketing of pharmaceutical products.[1]Key PointsPart of AstraZeneca UK plcThe company is promoted by AstraZeneca plc, a multinational pharmaceutical and biotechnology company headquartered in England. It has a diverse portfolio in various disease areas and has been successful in developing and manufacturing the Oxford-AstraZeneca COVID-19 vaccine. AstraZeneca Pharmaceuticals AB holds 75% of the company's shareholding.[1][2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ASTRAZEN/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Astrazeneca Pharma India Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Astrazeneca Pharma India Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 29.3% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "ASTRAZEN",
+    "name": "Astrazeneca Pharma India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Astrazeneca Pharma India Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 29.3% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 29.3% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 29.3,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 11.4,
+    "forensic_flags": [],
+    "owner_earnings": -21.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASTRAZEN",
+    "name": "Astrazeneca Pharma India Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Astrazeneca Pharma India Ltd \u2014 weak technical setup (score 1.0/6): Revenue -8.3% YoY \u2014 declining; Net profit declined -520.0% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 115.0,
+    "from_high_pct": 19.3,
+    "revenue_growth_pct": -8.3,
+    "profit_growth_pct": -520.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 19.3% of 52w high \u2014 moderate momentum; Revenue -8.3% YoY \u2014 declining; Net profit declined -520.0% YoY",
+    "price_position": {
+      "current_price": 7946.0,
+      "52w_high": 9850.0,
+      "52w_low": 7552.0,
+      "position_pct": 17.1,
+      "from_high_pct": 19.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASTRAZEN",
+    "name": "Astrazeneca Pharma India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Astrazeneca Pharma India Ltd has a mixed narrative (score 3.0/10). Positives: Operating in large / growing sector, No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "symbol": "ANTELOPUS",
+  "name": "Antelopus Selan Energy Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,858Cr.",
+  "market_cap_cr": 2858.0,
+  "description": "AboutIncorporated in 1985, Selan Exploration Technology Ltd is in the business of oil & gas exploration and production[1]Key PointsBusienss Overview:[1][2]SETL is in the business of exploration & production of Oil and Gas in India. It was amongst the first companies to secure development rights for three dicovered oilfields in Gujarat: Bakrol, Lohar, and Karjisan, all with proven oil and gas reserves. SETL operates in the segment of Crude Oil and Natural Gas. Its crude oil is sold to refineries and its natural gas is consumed by local industry located around the vicinity of its fields. The crude oil prices are benchmarked to global markets and the gas prices are benchmarked to the Government of India notified domestic gas priceRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ANTELOPUS/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Antelopus Selan Energy Ltd \u2014 borderline (score 0.16). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Antelopus Selan Energy Ltd \u2014 borderline (score 0.16). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "Antelopus Selan Energy Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 21.2% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 6.0/6 \u2014 pass (70% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.16"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.7,
+    "normalised_score": 0.156
+  },
+  "laxmi": {
+    "symbol": "ANTELOPUS",
+    "name": "Antelopus Selan Energy Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Antelopus Selan Energy Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 21.2% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 21.2% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 21.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 2.21,
+    "forensic_flags": [],
+    "owner_earnings": 28.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ANTELOPUS",
+    "name": "Antelopus Selan Energy Ltd",
+    "verdict": "pass",
+    "confidence": 0.7,
+    "report": "Antelopus Selan Energy Ltd \u2014 solid technical setup (score 6.0/6). Signals: Price within 13.0% of 52w high \u2014 strong momentum, Revenue +27.4% YoY \u2014 strong momentum, Profit +115.4% YoY with margin expansion \u2014 quality growth, PE 20.4 < revenue growth 27.4% \u2014 undervalued vs growth. Notes: none.",
+    "score": 6.0,
+    "price_signal": "bullish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 20.4,
+    "from_high_pct": 13.0,
+    "revenue_growth_pct": 27.4,
+    "profit_growth_pct": 115.4,
+    "optionality_signals": [],
+    "technical_notes": "Price within 13.0% of 52w high \u2014 strong momentum; Revenue +27.4% YoY \u2014 strong momentum; Profit +115.4% YoY with margin expansion \u2014 quality growth; PE 20.4 < revenue growth 27.4% \u2014 undervalued vs growth",
+    "price_position": {
+      "current_price": 813.0,
+      "52w_high": 934.0,
+      "52w_low": 357.0,
+      "position_pct": 79.0,
+      "from_high_pct": 13.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ANTELOPUS",
+    "name": "Antelopus Selan Energy Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Antelopus Selan Energy Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~1985), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1985)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

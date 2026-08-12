@@ -1,0 +1,112 @@
+{
+  "symbol": "LAMBODHARA",
+  "name": "Lambodhara Textiles Ltd",
+  "sector": "",
+  "market_cap": "\u20b9119Cr.",
+  "market_cap_cr": 119.0,
+  "description": "AboutIncorporated in 1994, Lambodhara Textiles Ltd does manufacturing of premium quality synthetic fancy yarns[1]Key PointsBusiness Overview:[1]Company manufactures synthetic yarns such as PSF yarn, VSF yarn and blended yarns like PV yarn and PC yarns in the count range of 30s to 60s. It also manufactures value-added synthetic yarns such as neppy yarn, slub yarn, multi-twist yarn and siro yarn, etc. It has installed 3 windmills and a  solar power plant and owns a commercial complex in CoimbatoreRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/LAMBODHARA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Lambodhara Textiles Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "Lambodhara Textiles Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 12.3% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Low PE 9.6 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Lambodhara Textiles Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.26,
+    "normalised_score": -0.28
+  },
+  "laxmi": {
+    "symbol": "LAMBODHARA",
+    "name": "Lambodhara Textiles Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Lambodhara Textiles Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 12.3% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 12.3,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 1.2,
+    "forensic_flags": [],
+    "owner_earnings": 5.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "LAMBODHARA",
+    "name": "Lambodhara Textiles Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Lambodhara Textiles Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 29.4% of 52w high \u2014 moderate momentum, Revenue +11.8% YoY \u2014 growing, Profit +25.0% YoY with margin expansion \u2014 quality growth, PE 9.6 < revenue growth 11.8% \u2014 undervalued vs growth. Notes: none. Optionality: Low PE 9.6 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 4.0,
+    "price_signal": "neutral",
+    "entry_zone": "attractive",
+    "revenue_momentum": "growing",
+    "pe_ratio": 9.6,
+    "from_high_pct": 29.4,
+    "revenue_growth_pct": 11.8,
+    "profit_growth_pct": 25.0,
+    "optionality_signals": [
+      "Low PE 9.6 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Price within 29.4% of 52w high \u2014 moderate momentum; Revenue +11.8% YoY \u2014 growing; Profit +25.0% YoY with margin expansion \u2014 quality growth; PE 9.6 < revenue growth 11.8% \u2014 undervalued vs growth",
+    "price_position": {
+      "current_price": 115.0,
+      "52w_high": 163.0,
+      "52w_low": 81.8,
+      "position_pct": 40.9,
+      "from_high_pct": 29.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "LAMBODHARA",
+    "name": "Lambodhara Textiles Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Lambodhara Textiles Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b9119cr mcap) \u2014 large runway ahead, Established company (founded ~1994). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9119cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1994)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

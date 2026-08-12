@@ -1,0 +1,107 @@
+{
+  "symbol": "BALRAMCHIN",
+  "name": "Balrampur Chini Mills Ltd",
+  "sector": "",
+  "market_cap": "\u20b913,276Cr.",
+  "market_cap_cr": 13276.0,
+  "description": "AboutBalrampur Chini Mills Limited (BCML) is one of the largest integrated sugar companies in India. The allied businesses of the Company comprise distillery operations and cogeneration of power.[1]Key PointsBusiness Segments[1]The company isone of the largest integrated sugar companies in India, with allied businesses indistillery operations and co-generation of power.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BALRAMCHIN/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Balrampur Chini Mills Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.1% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Balrampur Chini Mills Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.1% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 9.1% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Balrampur Chini Mills Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.1% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.925,
+    "normalised_score": -0.65
+  },
+  "laxmi": {
+    "symbol": "BALRAMCHIN",
+    "name": "Balrampur Chini Mills Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Balrampur Chini Mills Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.1% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 9.1% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 9.06,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 1.47,
+    "forensic_flags": [],
+    "owner_earnings": -58.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BALRAMCHIN",
+    "name": "Balrampur Chini Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Balrampur Chini Mills Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 5.7% of 52w high \u2014 strong momentum, Revenue +8.3% YoY \u2014 growing. Concerns: Net profit declined -158.0% YoY.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 38.7,
+    "from_high_pct": 5.7,
+    "revenue_growth_pct": 8.3,
+    "profit_growth_pct": -158.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 5.7% of 52w high \u2014 strong momentum; Revenue +8.3% YoY \u2014 growing; Net profit declined -158.0% YoY",
+    "price_position": {
+      "current_price": 628.0,
+      "52w_high": 666.0,
+      "52w_low": 393.0,
+      "position_pct": 86.1,
+      "from_high_pct": 5.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BALRAMCHIN",
+    "name": "Balrampur Chini Mills Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Balrampur Chini Mills Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

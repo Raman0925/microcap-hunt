@@ -1,0 +1,111 @@
+{
+  "symbol": "AHLADA",
+  "name": "Ahlada Engineers Ltd",
+  "sector": "",
+  "market_cap": "\u20b951.5Cr.",
+  "market_cap_cr": 51.5,
+  "description": "AboutIncorporated in 2005, Ahlada Engineers Ltd manufactures steel doors, windows, and clean room equipment.[1]Key PointsBusiness Overview:[1]AEL manufactures steel doors and steel windows (steel frame) for the residential and commercial segment, and green chalkboards, dual desks, purified drinking water systems, and reverse osmosis plants for the government-run schools in Andhra Pradesh.Read MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/AHLADA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ahlada Engineers Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 2.7% \u2014 poor capital efficiency",
+  "verdict_memo": "Ahlada Engineers Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 2.7% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 2.7% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ahlada Engineers Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 2.7% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.64,
+    "normalised_score": -0.587
+  },
+  "laxmi": {
+    "symbol": "AHLADA",
+    "name": "Ahlada Engineers Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Ahlada Engineers Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 2.7% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "Low ROCE: 2.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 2.69,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -0.5,
+    "forensic_flags": [],
+    "owner_earnings": 2.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AHLADA",
+    "name": "Ahlada Engineers Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Ahlada Engineers Ltd \u2014 weak technical setup (score 0.0/6): Price 44.7% below 52w high \u2014 weak price action; Revenue -55.0% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 286.0,
+    "from_high_pct": 44.7,
+    "revenue_growth_pct": -55.0,
+    "profit_growth_pct": -33.3,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 44.7% below 52w high \u2014 weak price action; Revenue -55.0% YoY \u2014 declining; Net profit declined -33.3% YoY",
+    "price_position": {
+      "current_price": 39.8,
+      "52w_high": 72.0,
+      "52w_low": 31.2,
+      "position_pct": 21.1,
+      "from_high_pct": 44.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AHLADA",
+    "name": "Ahlada Engineers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Ahlada Engineers Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b952cr mcap) \u2014 large runway ahead, Established company (founded ~2005). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b952cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2005)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

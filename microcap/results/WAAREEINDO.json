@@ -1,0 +1,111 @@
+{
+  "symbol": "WAAREEINDO",
+  "name": "Indosolar Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,276Cr.",
+  "market_cap_cr": 1276.0,
+  "description": "AboutIncorporated in 2005, Indosolar Ltd manufactures PV solar modules.[1]Key PointsBusiness Overview[1]Indosolar Limited, a subsidiary of Waaree Energies Limited, operates as a solar PV module manufacturer.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/WAAREEINDO/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "Indosolar Ltd \u2014 rescued from reject by optionality signals (Laxmi score 6.5/10). Meera optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality; Low PE 7.7 with positive revenue growth \u2014 potentially overlooked. Laxmi: borderline | Meera: borderline | Tara: reject. High-risk contrarian watch.",
+  "verdict_memo": "Indosolar Ltd \u2014 rescued from reject by optionality signals (Laxmi score 6.5/10). Meera optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality; Low PE 7.7 with positive revenue growth \u2014 potentially overlooked. Laxmi: borderline | Meera: borderline | Tara: reject. High-risk contrarian watch.",
+  "investment_thesis": "Indosolar Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 124.0% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 6.5/10 \u2014 borderline (48% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality; Low PE 7.7 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.25"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.125,
+    "normalised_score": -0.25
+  },
+  "laxmi": {
+    "symbol": "WAAREEINDO",
+    "name": "Indosolar Ltd",
+    "verdict": "borderline",
+    "confidence": 0.475,
+    "report": "Indosolar Ltd scores 6.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 124.0% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 6.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 124.0% > 20% \u2014 exceptional capital efficiency",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 124.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": -78.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "WAAREEINDO",
+    "name": "Indosolar Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Indosolar Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Revenue +14.7% YoY \u2014 growing, PE 7.7 < revenue growth 14.7% \u2014 undervalued vs growth. Concerns: Price 57.7% below 52w high \u2014 weak price action. Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality; Low PE 7.7 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 2.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 7.67,
+    "from_high_pct": 57.7,
+    "revenue_growth_pct": 14.7,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+      "Low PE 7.7 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Revenue +14.7% YoY \u2014 growing; PE 7.7 < revenue growth 14.7% \u2014 undervalued vs growth; Price 57.7% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 307.0,
+      "52w_high": 725.0,
+      "52w_low": 283.0,
+      "position_pct": 5.4,
+      "from_high_pct": 57.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "WAAREEINDO",
+    "name": "Indosolar Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Indosolar Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2005)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

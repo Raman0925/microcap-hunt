@@ -1,0 +1,112 @@
+{
+  "symbol": "BAIDFIN",
+  "name": "Baid Finserv Ltd",
+  "sector": "",
+  "market_cap": "\u20b9153Cr.",
+  "market_cap_cr": 153.0,
+  "description": "AboutBaid Finserv Limited (Formerly Known as Baid Leasing and Finance Company Limited) is a Non- Deposit Taking NBFC carrying out the business of providing Car Loans, Commercial Vehicle Loans (new & used), MSME Loans, Loan Against Property and other asset backed loans. The Company is deeply penetrated in Rajasthan and has started operations in Madhya Pradesh.[1]Key PointsScale Based Regulations[1]The RBI has introduced the Scale Based Regulation (SBR), a revised regulatory framework for NBFCs, classifying them into Base, Middle, Upper and Top Layers. Under this framework, the Company is classified as a Base Layer (NBFC-BL) entity.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BAIDFIN/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Baid Finserv Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Baid Finserv Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 10.9% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Baid Finserv Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.775,
+    "normalised_score": -0.839
+  },
+  "laxmi": {
+    "symbol": "BAIDFIN",
+    "name": "Baid Finserv Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Baid Finserv Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "Low ROCE: 10.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 10.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -10.0,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BAIDFIN",
+    "name": "Baid Finserv Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Baid Finserv Ltd \u2014 weak technical setup (score 1.0/6): Revenue -55.6% YoY \u2014 declining; Net profit declined -66.7% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 10.2,
+    "from_high_pct": 26.9,
+    "revenue_growth_pct": -55.6,
+    "profit_growth_pct": -66.7,
+    "optionality_signals": [],
+    "technical_notes": "Price within 26.9% of 52w high \u2014 moderate momentum; Revenue -55.6% YoY \u2014 declining; Net profit declined -66.7% YoY",
+    "price_position": {
+      "current_price": 9.87,
+      "52w_high": 13.5,
+      "52w_low": 8.8,
+      "position_pct": 22.8,
+      "from_high_pct": 26.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BAIDFIN",
+    "name": "Baid Finserv Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Baid Finserv Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9153cr mcap) \u2014 large runway ahead",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

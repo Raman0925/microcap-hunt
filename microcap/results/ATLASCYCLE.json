@@ -1,0 +1,112 @@
+{
+  "symbol": "ATLASCYCLE",
+  "name": "Atlas Cycles (Haryana) Ltd",
+  "sector": "",
+  "market_cap": "\u20b963.3Cr.",
+  "market_cap_cr": 63.3,
+  "description": "AboutIncorporated in 1951, Atlas Cycles Ltd are the manufacturers of bicycles[1]Key PointsBusiness Overview:[1][2]ACL is an ISO 9001:2000 certified and one of India's oldest and largest manufacturers of bicycles in the world. Its bicycles are ridden over 50 countries. Company manufactures bicycles for the domestic and export markets under theAtlasbrand.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ATLASCYCLE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Atlas Cycles (Haryana) Ltd \u2014 rejected (score 3.5/10): Low ROCE: -2.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Atlas Cycles (Haryana) Ltd \u2014 rejected (score 3.5/10): Low ROCE: -2.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; Revenue grew 3/4 years consistently. What to watch: Low ROCE: -2.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Atlas Cycles (Haryana) Ltd \u2014 rejected (score 3.5/10): Low ROCE: -2.0% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "ATLASCYCLE",
+    "name": "Atlas Cycles (Haryana) Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Atlas Cycles (Haryana) Ltd \u2014 rejected (score 3.5/10): Low ROCE: -2.0% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: -2.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": -2.05,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": -3.66,
+    "forensic_flags": [],
+    "owner_earnings": -18.9,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ATLASCYCLE",
+    "name": "Atlas Cycles (Haryana) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Atlas Cycles (Haryana) Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 28.9% of 52w high \u2014 moderate momentum, Revenue +4.1% YoY \u2014 growing. Concerns: none.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": null,
+    "from_high_pct": 28.9,
+    "revenue_growth_pct": 4.1,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 28.9% of 52w high \u2014 moderate momentum; Revenue +4.1% YoY \u2014 growing",
+    "price_position": {
+      "current_price": 97.4,
+      "52w_high": 137.0,
+      "52w_low": 74.3,
+      "position_pct": 36.8,
+      "from_high_pct": 28.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ATLASCYCLE",
+    "name": "Atlas Cycles (Haryana) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Atlas Cycles (Haryana) Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b963cr mcap) \u2014 large runway ahead, Established company (founded ~1951). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b963cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1951)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,118 @@
+{
+  "symbol": "534338",
+  "name": "Max Heights Infrastructure Ltd",
+  "sector": "",
+  "market_cap": "\u20b917.8Cr.",
+  "market_cap_cr": 17.8,
+  "description": "AboutIncorporated in 1981, MaxheightsInfrastructure Ltd is in the businessof real estate development[1]Key PointsBusiness Overview:[1][2]MHIL specializes in developing residential, commercial, and mixed-use properties. The operations of the company span all aspects of real estate development, from the identificationand acquisition of land, to planning, execution, construction, and marketing of projects. The company is also engaged in the business of maintenance services and recreational activities which are related to the overall development of real estate business.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/534338/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Max Heights Infrastructure Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Max Heights Infrastructure Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 4.0% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Max Heights Infrastructure Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.7,
+    "normalised_score": -0.6
+  },
+  "laxmi": {
+    "symbol": "534338",
+    "name": "Max Heights Infrastructure Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Max Heights Infrastructure Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 4.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 3.96,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -1.29,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "534338",
+    "name": "Max Heights Infrastructure Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Max Heights Infrastructure Ltd \u2014 weak technical setup (score 0.0/6): Price 32.1% below 52w high \u2014 weak price action; Revenue -11.0% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 18.2,
+    "from_high_pct": 32.1,
+    "revenue_growth_pct": -11.0,
+    "profit_growth_pct": -15.8,
+    "optionality_signals": [],
+    "technical_notes": "Price 32.1% below 52w high \u2014 weak price action; Revenue -11.0% YoY \u2014 declining; Net profit declined -15.8% YoY",
+    "price_position": {
+      "current_price": 11.4,
+      "52w_high": 16.8,
+      "52w_low": 10.1,
+      "position_pct": 19.4,
+      "from_high_pct": 32.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "534338",
+    "name": "Max Heights Infrastructure Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Max Heights Infrastructure Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b918cr mcap) \u2014 large runway ahead, Established company (founded ~1981). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b918cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1981)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

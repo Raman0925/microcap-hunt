@@ -1,0 +1,113 @@
+{
+  "symbol": "ATLANTAA",
+  "name": "Atlantaa Ltd",
+  "sector": "",
+  "market_cap": "\u20b9364Cr.",
+  "market_cap_cr": 364.0,
+  "description": "AboutIncorporated in 1977, Atlanta Ltd is engaged in the Construction business[1]Key PointsBusiness Overview:[1][2]Atlanta is an ISO 9001:2015 certified company which is deals ina)Infrastructure development activitiesviz. Construction of Road, Highways, Bridges and Runwaysb)Engineering, Procurement, Construction(EPC) contractsc)Public Private Partnership Model(PPP) on Build Operate and Transfer (BOT), and Design, Build, Finance, Operate and Transfer (DBFOT) basisd)Hybrid Annuity ModeProjects (HAM)e)Operation and Maintenance Transfer(OMT)f) Real estate development, tourism & hospitality coupled with surface mining of limestone and coalRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ATLANTAA/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Atlantaa Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Atlantaa Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Atlantaa Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; Revenue grew 3/4 years consistently. What to watch: Low ROCE: 1.7% \u2014 poor capital efficiency; D/E ratio not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.11"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.5,
+    "normalised_score": 0.111
+  },
+  "laxmi": {
+    "symbol": "ATLANTAA",
+    "name": "Atlantaa Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Atlantaa Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, Revenue grew 3/4 years consistently. Concerns: Low ROCE: 1.7% \u2014 poor capital efficiency, D/E ratio not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 1.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 1.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 3.96,
+    "forensic_flags": [],
+    "owner_earnings": 46.5,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ATLANTAA",
+    "name": "Atlantaa Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Atlantaa Ltd \u2014 solid technical setup (score 4.0/6). Signals: Revenue +265.2% YoY \u2014 strong momentum, Profit +1293.1% YoY with margin expansion \u2014 quality growth, PE 89.3 < revenue growth 265.2% \u2014 undervalued vs growth. Notes: Price 39.1% below 52w high \u2014 weak price action.",
+    "score": 4.0,
+    "price_signal": "bearish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 89.3,
+    "from_high_pct": 39.1,
+    "revenue_growth_pct": 265.2,
+    "profit_growth_pct": 1293.1,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +265.2% YoY \u2014 strong momentum; Profit +1293.1% YoY with margin expansion \u2014 quality growth; PE 89.3 < revenue growth 265.2% \u2014 undervalued vs growth; Price 39.1% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 44.7,
+      "52w_high": 73.4,
+      "52w_low": 29.4,
+      "position_pct": 34.8,
+      "from_high_pct": 39.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ATLANTAA",
+    "name": "Atlantaa Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Atlantaa Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b9364cr mcap) \u2014 large runway ahead, Established company (founded ~1977). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9364cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1977)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

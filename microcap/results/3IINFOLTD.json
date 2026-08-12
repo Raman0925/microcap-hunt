@@ -1,0 +1,111 @@
+{
+  "symbol": "3IINFOLTD",
+  "name": "3i Infotech Ltd",
+  "sector": "",
+  "market_cap": "\u20b9572Cr.",
+  "market_cap_cr": 572.0,
+  "description": "AboutIncorporated in 1993, 3i Infotech Ltd provides information technology services and software solutions[1]Key PointsBusiness Overview:[1]3iIL  is in the business of providingIT Solutions and Transaction Services. The IT Solutions business comprises Cloud Computing, AAA, Platform  Solutions, Infrastructure Management  Services, Application Development, Digital Transformation Consulting, and NextGen Business services while  Transaction Services comprise BPS and KPO services covering management of back-office operations.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/3IINFOLTD/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "3i Infotech Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "3i Infotech Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "3i Infotech Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; Revenue grew 3/4 years consistently. What to watch: Low ROCE: 11.4% \u2014 poor capital efficiency; D/E ratio not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "3IINFOLTD",
+    "name": "3i Infotech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "3i Infotech Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, Revenue grew 3/4 years consistently. Concerns: Low ROCE: 11.4% \u2014 poor capital efficiency, D/E ratio not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 11.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 1.24,
+    "forensic_flags": [],
+    "owner_earnings": -1058.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "3IINFOLTD",
+    "name": "3i Infotech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "3i Infotech Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 0.4% of 52w high \u2014 strong momentum, Revenue +16.2% YoY \u2014 growing. Concerns: none.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 20.1,
+    "from_high_pct": 0.4,
+    "revenue_growth_pct": 16.2,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 0.4% of 52w high \u2014 strong momentum; Revenue +16.2% YoY \u2014 growing",
+    "price_position": {
+      "current_price": 27.6,
+      "52w_high": 27.7,
+      "52w_low": 12.6,
+      "position_pct": 99.3,
+      "from_high_pct": 0.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "3IINFOLTD",
+    "name": "3i Infotech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "3i Infotech Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1993), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1993)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,110 @@
+{
+  "symbol": "BBTCL",
+  "name": "B&B Triplewall Containers Ltd",
+  "sector": "",
+  "market_cap": "\u20b9461Cr.",
+  "market_cap_cr": 461.0,
+  "description": "AboutIncorporated in 2011, B&B Triplewall Containers Ltd manufactures corrugated boxes and boards[1]Key PointsBusiness Overview:[1][2][3]BBTCL was the first company in India to put up an automated plant with a BHS corrugator and BOBST FFG. It manufactures paper container packaging products viz. corrugated boxes, boards, sheets, etc. used for packaging needs of various industriesRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BBTCL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "B&B Triplewall Containers Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "B&B Triplewall Containers Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 14.5% (adequate). What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 B&B Triplewall Containers Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "BBTCL",
+    "name": "B&B Triplewall Containers Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "B&B Triplewall Containers Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 14.5% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 14.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.5,
+    "forensic_flags": [],
+    "owner_earnings": -1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BBTCL",
+    "name": "B&B Triplewall Containers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "B&B Triplewall Containers Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 10.7% of 52w high \u2014 strong momentum. Concerns: Revenue -90.6% YoY \u2014 declining, Net profit declined -150.0% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 20.1,
+    "from_high_pct": 10.7,
+    "revenue_growth_pct": -90.6,
+    "profit_growth_pct": -150.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 10.7% of 52w high \u2014 strong momentum; Revenue -90.6% YoY \u2014 declining; Net profit declined -150.0% YoY",
+    "price_position": {
+      "current_price": 225.0,
+      "52w_high": 252.0,
+      "52w_low": 150.0,
+      "position_pct": 73.5,
+      "from_high_pct": 10.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BBTCL",
+    "name": "B&B Triplewall Containers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "B&B Triplewall Containers Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b9461cr mcap) \u2014 large runway ahead, Established company (founded ~2011). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9461cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2011)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

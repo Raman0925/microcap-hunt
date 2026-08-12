@@ -1,0 +1,107 @@
+{
+  "symbol": "BORORENEW",
+  "name": "Borosil Renewables Ltd",
+  "sector": "",
+  "market_cap": "\u20b97,979Cr.",
+  "market_cap_cr": 7979.0,
+  "description": "AboutBorosil Renewables is engaged in manufacturing extra clear patterned glass and Low Iron Solar Glass for application in Photovoltaic panels, Flat plate collectors and Greenhouses. (Source: 202003-01 Annual Report Page No:188)Key PointsMarket Share[1]The company isIndia's largest manufacturer of low-iron textured solar glass, holding over15%market share, and is also theworld's largest solar glass produceroutside China.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BORORENEW/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Borosil Renewables Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "Borosil Renewables Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 26.6% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.24"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.087,
+    "normalised_score": -0.242
+  },
+  "laxmi": {
+    "symbol": "BORORENEW",
+    "name": "Borosil Renewables Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Borosil Renewables Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 26.6% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 26.6% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 26.6,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.08,
+    "forensic_flags": [],
+    "owner_earnings": 49.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BORORENEW",
+    "name": "Borosil Renewables Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Borosil Renewables Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 22.1% of 52w high \u2014 moderate momentum, Profit +206.2% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -21.2% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 19.9,
+    "from_high_pct": 22.1,
+    "revenue_growth_pct": -21.2,
+    "profit_growth_pct": 206.2,
+    "optionality_signals": [],
+    "technical_notes": "Price within 22.1% of 52w high \u2014 moderate momentum; Profit +206.2% YoY with margin expansion \u2014 quality growth; Revenue -21.2% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 562.0,
+      "52w_high": 721.0,
+      "52w_low": 374.0,
+      "position_pct": 54.2,
+      "from_high_pct": 22.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BORORENEW",
+    "name": "Borosil Renewables Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Borosil Renewables Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,114 @@
+{
+  "symbol": "BIRLAPREC",
+  "name": "Birla Precision Technologies Ltd",
+  "sector": "",
+  "market_cap": "\u20b9244Cr.",
+  "market_cap_cr": 244.0,
+  "description": "AboutIncorporated in 1986, Birla Precision Technologies Ltd manufactures and sells Machine Tool Accessories, Tools, Precision / Automotive Componentsand Castings[1]Key PointsBusiness Overview:[1]BPTL was formed as a JV company between Birla Group and Kennametal Inc, USA. Company provides tooling solutions via manufacturing of High Precision AT3 class Tool Holders, High Precision Work Holding, Expanding Mandrel, Production Boosters, Capital Items, Boring Bars and custom built solutionsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BIRLAPREC/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Birla Precision Technologies Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Birla Precision Technologies Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 9.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Birla Precision Technologies Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 1,
+    "borderlines": 0,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "BIRLAPREC",
+    "name": "Birla Precision Technologies Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Birla Precision Technologies Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 9.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 9.56,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 2.33,
+    "forensic_flags": [],
+    "owner_earnings": -1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BIRLAPREC",
+    "name": "Birla Precision Technologies Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Birla Precision Technologies Ltd \u2014 weak technical setup (score 1.0/6): Price 34.3% below 52w high \u2014 weak price action",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "growing",
+    "pe_ratio": 21.0,
+    "from_high_pct": 34.3,
+    "revenue_growth_pct": 3.4,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +3.4% YoY \u2014 growing; Price 34.3% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 35.8,
+      "52w_high": 54.5,
+      "52w_low": 25.4,
+      "position_pct": 35.7,
+      "from_high_pct": 34.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BIRLAPREC",
+    "name": "Birla Precision Technologies Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Birla Precision Technologies Ltd has a strong story (score 6.0/10). Catalysts: Small size (\u20b9244cr mcap) \u2014 large runway ahead, Established company (founded ~1986), Growth ambition evident in description. Taleb signals: Optionality: capability expansion signals detected. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9244cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1986)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 3.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

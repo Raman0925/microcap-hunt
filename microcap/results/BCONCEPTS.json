@@ -1,0 +1,111 @@
+{
+  "symbol": "BCONCEPTS",
+  "name": "Brand Concepts Ltd",
+  "sector": "",
+  "market_cap": "\u20b9219Cr.",
+  "market_cap_cr": 219.0,
+  "description": "AboutBrand Concepts Ltd specializes in the manufacturing of bags, backpacks & fashion accessories for the Indian & International markets.[1]Key PointsBusiness Profile:[1]Brand Concepts designs, licenses, manufactures and retails travel gear(hard/soft luggage, backpacks), smallleather goods (belts, wallets), women's handbags, and accessories across6licensed international brands (Tommy Hilfiger, United Colors of Benetton, Juicy Couture, Superdry, Off-White, Aeropostale) and 2 in-house brands (Sugarush and The Vertical).The company has transformed from abrand distributor to a vertically integratedmulti-brand lifestyle platform with end-to-end control from design and sourcing to manufacturing, warehousing, and retail.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BCONCEPTS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Brand Concepts Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Brand Concepts Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 7.2% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Brand Concepts Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.2% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "BCONCEPTS",
+    "name": "Brand Concepts Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Brand Concepts Ltd \u2014 rejected (score 2.5/10): Low ROCE: 7.2% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 7.2% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 7.19,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 4.0,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BCONCEPTS",
+    "name": "Brand Concepts Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Brand Concepts Ltd \u2014 weak technical setup (score 0.0/6): Price 60.8% below 52w high \u2014 weak price action; Revenue -23.5% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 159.0,
+    "from_high_pct": 60.8,
+    "revenue_growth_pct": -23.5,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price 60.8% below 52w high \u2014 weak price action; Revenue -23.5% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 176.0,
+      "52w_high": 449.0,
+      "52w_low": 164.0,
+      "position_pct": 4.2,
+      "from_high_pct": 60.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BCONCEPTS",
+    "name": "Brand Concepts Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Brand Concepts Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b9219cr mcap) \u2014 large runway ahead, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9219cr mcap) \u2014 large runway ahead",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

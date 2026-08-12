@@ -1,0 +1,116 @@
+{
+  "symbol": "3MINDIA",
+  "name": "3M India Ltd",
+  "sector": "",
+  "market_cap": "\u20b940,702Cr.",
+  "market_cap_cr": 40702.0,
+  "description": "About3M India is a subsidiary of 3M Company, USA. The Company manages its operations in four operating segments: Safety & Industrial , Transportation & Electronics, Health Care and Consumer. In India, the Company has manufacturing facilities at Ahmedabad, Bangalore, Pune and has a R&D Center in Bangalore.(Source : 202003 Annual Report Page No:137)Key PointsHistory of the company3M was incorporated in 1902 in the USA as a Mining company and now 3M is one of the world\u2019s leading conglomerates with a presence in 70+ countries. 3M ventured into India as a part of their expansion strategy. Birla 3M India was incorporated in 1986 as a Joint venture between the 3M group and the Birla group and later Y. Birla sold his stake and eventually the name of the company was changed to 3M India in 2002.[1][2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/3MINDIA/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "3M India Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "3M India Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "3M India Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 50.0% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Convexity: both B2B and B2C revenue streams",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "3MINDIA",
+    "name": "3M India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "3M India Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 50.0% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 50.0% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 50.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.64,
+    "forensic_flags": [],
+    "owner_earnings": 108.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "3MINDIA",
+    "name": "3M India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "3M India Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 5.7% of 52w high \u2014 strong momentum. Concerns: Revenue -14.0% YoY \u2014 declining, Net profit declined -44.6% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 75.1,
+    "from_high_pct": 5.7,
+    "revenue_growth_pct": -14.0,
+    "profit_growth_pct": -44.6,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 5.7% of 52w high \u2014 strong momentum; Revenue -14.0% YoY \u2014 declining; Net profit declined -44.6% YoY",
+    "price_position": {
+      "current_price": 36115.0,
+      "52w_high": 38300.0,
+      "52w_low": 28730.0,
+      "position_pct": 77.2,
+      "from_high_pct": 5.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "3MINDIA",
+    "name": "3M India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "3M India Ltd has a mixed narrative (score 5.5/10). Positives: Established company (founded ~1986), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1986)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,111 @@
+{
+  "symbol": "APLAPOLLO",
+  "name": "APL Apollo Tubes Ltd",
+  "sector": "",
+  "market_cap": "\u20b955,884Cr.",
+  "market_cap_cr": 55884.0,
+  "description": "AboutAPL Apollo Tubes Limited (APL Apollo) is one of India\u2019s leading branded steel products manufacturers. Headquartered at Delhi NCR, the Company runs 10 manufacturing facilities churning out over 1,500 varieties of MS Black Pipes, Galvanised Tubes, Pre-Galvanised Tubes, Structural ERW Steel Tubes and Hollow Sections to serve industry applications like urban infrastructures, housing, irrigation, solar plants, greenhouses and engineering.[1]Key PointsProduct Segments:[1]a) Apollo Structural:The company offers a range of structural steel tubes forsuper-heavy, light, and generalconstruction applications. The portfolio includes India's first DFT technology-based structural tubes, lightweight furniture tubes, door frames, planks, and square and rectangular hollow sections. These products are widely used in high-rise buildings, warehouses, infrastructure projects, columns, beams, door frames, staircases, furniture, etc.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/APLAPOLLO/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "APL Apollo Tubes Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "APL Apollo Tubes Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "APL Apollo Tubes Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 21.5% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "APLAPOLLO",
+    "name": "APL Apollo Tubes Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "APL Apollo Tubes Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 21.5% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 21.5% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 21.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 4.45,
+    "forensic_flags": [],
+    "owner_earnings": 31.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "APLAPOLLO",
+    "name": "APL Apollo Tubes Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "APL Apollo Tubes Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 12.5% of 52w high \u2014 strong momentum. Concerns: Revenue -29.9% YoY \u2014 declining, Net profit declined 0.0% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 96.7,
+    "from_high_pct": 12.5,
+    "revenue_growth_pct": -29.9,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 12.5% of 52w high \u2014 strong momentum; Revenue -29.9% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 2013.0,
+      "52w_high": 2301.0,
+      "52w_low": 1575.0,
+      "position_pct": 60.3,
+      "from_high_pct": 12.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "APLAPOLLO",
+    "name": "APL Apollo Tubes Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "APL Apollo Tubes Ltd has a mixed narrative (score 3.5/10). Positives: Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

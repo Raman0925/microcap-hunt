@@ -1,0 +1,115 @@
+{
+  "symbol": "ARIHANTSUP",
+  "name": "Arihant Superstructures Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,126Cr.",
+  "market_cap_cr": 1126.0,
+  "description": "AboutIncorporated in 1994, Arihant Superstructures Ltd is in the business of real estatedevelopment[1]Key PointsBusiness Overview:[1]a)ASL is a real estate player in affordable and mid-income housing  segment in the MMR regionb)It has recently ventured into premium luxury real estate segment to develop Villa projects, a hotel and a sports gymkhanac)Company has expertise in land acquisition & procurement, liaison, design & engineering, EPC and marketing & salesd)Company enters into JD, JV, and DM arrangements in the mid-income segment to remain Asset-Light with ~19% of Ongoing development area on asset-light modelRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ARIHANTSUP/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Arihant Superstructures Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.3% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Arihant Superstructures Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.3% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 4.3% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Arihant Superstructures Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.3% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "ARIHANTSUP",
+    "name": "Arihant Superstructures Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Arihant Superstructures Ltd \u2014 rejected (score 2.5/10): Low ROCE: 4.3% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 4.3% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 4.34,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -0.1,
+    "forensic_flags": [],
+    "owner_earnings": 10.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ARIHANTSUP",
+    "name": "Arihant Superstructures Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Arihant Superstructures Ltd \u2014 weak technical setup (score 0.0/6): Price 44.4% below 52w high \u2014 weak price action; Revenue -28.9% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 659.0,
+    "from_high_pct": 44.4,
+    "revenue_growth_pct": -28.9,
+    "profit_growth_pct": -41.2,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 44.4% below 52w high \u2014 weak price action; Revenue -28.9% YoY \u2014 declining; Net profit declined -41.2% YoY",
+    "price_position": {
+      "current_price": 260.0,
+      "52w_high": 468.0,
+      "52w_low": 188.0,
+      "position_pct": 25.7,
+      "from_high_pct": 44.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ARIHANTSUP",
+    "name": "Arihant Superstructures Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Arihant Superstructures Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~1994), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1994)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,111 @@
+{
+  "symbol": "BHAGYANGR",
+  "name": "Bhagyanagar India Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,236Cr.",
+  "market_cap_cr": 1236.0,
+  "description": "AboutIncorporated in 1985, Bhagyanagar India Ltd. is engaged in manufacturing of copper and other copper products and alloys. The company is also in the business of wind power generation.Key PointsBusiness Overview:[1]Company deals in Copper products and has been a partner to its clients who are primarily Original Equipment Manufacturer (OEM). Company has diversified into Telecom products, Solar products and Real Estate and has forayed into the non conventional energy sector with a wind power project.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BHAGYANGR/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bhagyanagar India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 2.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Bhagyanagar India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 2.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 2.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bhagyanagar India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 2.0% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.888,
+    "normalised_score": -0.642
+  },
+  "laxmi": {
+    "symbol": "BHAGYANGR",
+    "name": "Bhagyanagar India Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Bhagyanagar India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 2.0% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 2.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 2.02,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -11.25,
+    "forensic_flags": [],
+    "owner_earnings": 2.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BHAGYANGR",
+    "name": "Bhagyanagar India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Bhagyanagar India Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 11.9% of 52w high \u2014 strong momentum, Profit +1.5% YoY with margin expansion \u2014 quality growth. Concerns: Revenue -11.4% YoY \u2014 declining. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 808.0,
+    "from_high_pct": 11.9,
+    "revenue_growth_pct": -11.4,
+    "profit_growth_pct": 1.5,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 11.9% of 52w high \u2014 strong momentum; Profit +1.5% YoY with margin expansion \u2014 quality growth; Revenue -11.4% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 386.0,
+      "52w_high": 438.0,
+      "52w_low": 85.0,
+      "position_pct": 85.3,
+      "from_high_pct": 11.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BHAGYANGR",
+    "name": "Bhagyanagar India Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Bhagyanagar India Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1985)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

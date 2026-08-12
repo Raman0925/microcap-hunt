@@ -45,6 +45,59 @@ def _tally_votes(laxmi: dict, meera: dict, tara: dict) -> dict:
     }
 
 
+def _build_reasoning_chain(
+    laxmi: dict, meera: dict, tara: dict, final_verdict: str, confidence: float, reason: str
+) -> list[str]:
+    """Human-readable trace of how the final verdict was reached."""
+    chain: list[str] = []
+    chain.append(
+        f"Laxmi (fundamentals): {laxmi.get('score')}/10 — {laxmi.get('verdict')} "
+        f"({laxmi.get('confidence', 0):.0%} conf)"
+    )
+    chain.append(
+        f"Meera (technical): {meera.get('score')}/6 — {meera.get('verdict')} "
+        f"({meera.get('confidence', 0):.0%} conf)"
+    )
+    chain.append(
+        f"Tara (story): {tara.get('score')}/10 — {tara.get('verdict')} "
+        f"({tara.get('confidence', 0):.0%} conf)"
+    )
+    forensic = laxmi.get("forensic_flags") or []
+    if forensic:
+        chain.append(f"⚠️ Forensic flags: {'; '.join(forensic[:2])}")
+    taleb = tara.get("taleb_signals") or []
+    if taleb:
+        chain.append(f"Taleb signals: {'; '.join(taleb[:2])}")
+    opt = meera.get("optionality_signals") or []
+    if opt:
+        chain.append(f"Optionality: {'; '.join(opt[:2])}")
+    if tara.get("governance_signal"):
+        chain.append(f"Governance: {tara.get('governance_signal')}")
+    chain.append(f"Final: {final_verdict} ({confidence:.0%} confidence) — {reason}")
+    return chain
+
+
+def _build_thesis(laxmi: dict, final_verdict: str, base_thesis: str) -> str:
+    """2-3 sentence investment thesis: strengths, risks, and the call."""
+    strengths = laxmi.get("key_strengths") or []
+    risks = laxmi.get("key_risks") or []
+    parts: list[str] = []
+    if base_thesis:
+        parts.append(base_thesis.rstrip("."))
+    if strengths:
+        parts.append(f"What makes it interesting: {'; '.join(strengths[:2])}")
+    if risks:
+        parts.append(f"What to watch: {'; '.join(risks[:2])}")
+    verdict_word = {
+        "shortlist": "Call: shortlist for deeper diligence",
+        "borderline": "Call: keep on watchlist",
+        "reject": "Call: pass for now",
+    }.get(final_verdict, "")
+    if verdict_word:
+        parts.append(verdict_word)
+    return ". ".join(parts) + "." if parts else ""
+
+
 def debate(laxmi: dict, meera: dict = None, tara: dict = None) -> dict:
     """
     Aggregate three agent verdicts and return a final verdict dict.
@@ -92,6 +145,10 @@ def debate(laxmi: dict, meera: dict = None, tara: dict = None) -> dict:
             "final_verdict": "reject",
             "confidence": 0.90,
             "report": reason,
+            "investment_thesis": _build_thesis(laxmi, "reject", ""),
+            "debate_reasoning": _build_reasoning_chain(
+                laxmi, meera, tara, "reject", 0.90, reason
+            ),
             "debated": False,
             "vote_tally": tally,
         }
@@ -110,9 +167,14 @@ def debate(laxmi: dict, meera: dict = None, tara: dict = None) -> dict:
             "final_verdict": "shortlist",
             "confidence": 0.88,
             "report": combined,
-            "investment_thesis": (
+            "investment_thesis": _build_thesis(
+                laxmi,
+                "shortlist",
                 f"{name} passes all three filters — solid fundamentals, "
-                f"good technicals, clean story."
+                f"good technicals, clean story",
+            ),
+            "debate_reasoning": _build_reasoning_chain(
+                laxmi, meera, tara, "shortlist", 0.88, "unanimous pass across all three analysts"
             ),
             "debated": False,
             "vote_tally": tally,
@@ -186,13 +248,17 @@ def debate(laxmi: dict, meera: dict = None, tara: dict = None) -> dict:
     if tara_opt and tara_opt >= 5:
         report += f"\n🔍 Narrative optionality score: {tara_opt}/10"
 
+    final_conf = min(confidence, 0.95)
     return {
         "symbol": symbol,
         "name": name,
         "final_verdict": verdict,
-        "confidence": min(confidence, 0.95),
+        "confidence": final_conf,
         "report": report,
-        "investment_thesis": thesis,
+        "investment_thesis": _build_thesis(laxmi, verdict, thesis),
+        "debate_reasoning": _build_reasoning_chain(
+            laxmi, meera, tara, verdict, final_conf, f"combined score {norm:.2f}"
+        ),
         "suggested_entry": "",
         "watch_for": "",
         "vote_tally": tally,

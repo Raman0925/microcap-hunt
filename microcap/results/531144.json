@@ -1,0 +1,114 @@
+{
+  "symbol": "531144",
+  "name": "EL Forge Ltd",
+  "sector": "",
+  "market_cap": "\u20b938.1Cr.",
+  "market_cap_cr": 38.1,
+  "description": "AboutIncorporated in 1934, EL Forge Ltd is in the business of manufacture and sale of Steel Forgings.[1]Key PointsBusiness Overview:[1]ELFL is engaged in the business of productionRough Steel Forgings i.e. fuel injection forgings,steering rods, tie rods, engine and gear boxes,starter items etc. for OEMs in automobile industry. The company exports its productsto countries like US, China, etc.It is also engaged in development of land.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/531144/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "EL Forge Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.1% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "EL Forge Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.1% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 11.1% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 EL Forge Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.1% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 2,
+    "borderlines": 0,
+    "weighted_score": -0.55,
+    "normalised_score": -0.122
+  },
+  "laxmi": {
+    "symbol": "531144",
+    "name": "EL Forge Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "EL Forge Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.1% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.1% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 11.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 1.56,
+    "forensic_flags": [],
+    "owner_earnings": -17.8,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "531144",
+    "name": "EL Forge Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "EL Forge Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 19.7% of 52w high \u2014 moderate momentum, Revenue +38.6% YoY \u2014 strong momentum, PE 16.0 < revenue growth 38.6% \u2014 undervalued vs growth. Notes: none.",
+    "score": 4.0,
+    "price_signal": "neutral",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 16.0,
+    "from_high_pct": 19.7,
+    "revenue_growth_pct": 38.6,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 19.7% of 52w high \u2014 moderate momentum; Revenue +38.6% YoY \u2014 strong momentum; PE 16.0 < revenue growth 38.6% \u2014 undervalued vs growth",
+    "price_position": {
+      "current_price": 18.8,
+      "52w_high": 23.4,
+      "52w_low": 12.1,
+      "position_pct": 59.3,
+      "from_high_pct": 19.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "531144",
+    "name": "EL Forge Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "EL Forge Ltd has a strong story (score 6.0/10). Catalysts: Small size (\u20b938cr mcap) \u2014 large runway ahead, Growth ambition evident in description, Operating in large / growing sector. Taleb signals: Optionality: capability expansion signals detected, Antifragility: geographic diversification. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b938cr mcap) \u2014 large runway ahead",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

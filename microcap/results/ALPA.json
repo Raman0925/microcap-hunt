@@ -1,0 +1,121 @@
+{
+  "symbol": "ALPA",
+  "name": "Alpa Laboratories Ltd",
+  "sector": "",
+  "market_cap": "\u20b9143Cr.",
+  "market_cap_cr": 143.0,
+  "description": "AboutIncorporated in 1988, Alpa Laboratories Ltd manufactures and sells Drugs and Chemicals[1]Key PointsBusiness Overview:[1]ALL is a WHO-GMP and ISO 9001:2000 certified company. It manufactures a wide range of Pharmaceutical Finished Dosage Forms under its own brand and for other Indian and multinational companies. The product range includes a wide variety of ethical, generic, and over-the-counter (OTC) drugs in various Finished Dosage Forms for both human and veterinary useRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ALPA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Alpa Laboratories Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Alpa Laboratories Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 8.9% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Optionality: Low PE 9.6 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Alpa Laboratories Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.65,
+    "normalised_score": -0.589
+  },
+  "laxmi": {
+    "symbol": "ALPA",
+    "name": "Alpa Laboratories Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Alpa Laboratories Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "Low ROCE: 8.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 8.91,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -3.12,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ALPA",
+    "name": "Alpa Laboratories Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Alpa Laboratories Ltd \u2014 weak technical setup (score 1.0/6): Price 32.8% below 52w high \u2014 weak price action; Net profit declined -112.5% YoY Optionality: Low PE 9.6 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 1.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 9.55,
+    "from_high_pct": 32.8,
+    "revenue_growth_pct": 7.5,
+    "profit_growth_pct": -112.5,
+    "optionality_signals": [
+      "Low PE 9.6 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Revenue +7.5% YoY \u2014 growing; Price 32.8% below 52w high \u2014 weak price action; Net profit declined -112.5% YoY",
+    "price_position": {
+      "current_price": 67.9,
+      "52w_high": 101.0,
+      "52w_low": 46.0,
+      "position_pct": 39.8,
+      "from_high_pct": 32.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ALPA",
+    "name": "Alpa Laboratories Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Alpa Laboratories Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b9143cr mcap) \u2014 large runway ahead, Established company (founded ~1988). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9143cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1988)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

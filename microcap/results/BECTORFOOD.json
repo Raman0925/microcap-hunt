@@ -1,0 +1,112 @@
+{
+  "symbol": "BECTORFOOD",
+  "name": "Mrs Bectors Food Specialities Ltd",
+  "sector": "",
+  "market_cap": "\u20b97,387Cr.",
+  "market_cap_cr": 7387.0,
+  "description": "AboutIncorporated in 1995, Mrs. Bectors Food Specialities Ltd  manufactures biscuits and bakery products.[1]Key PointsBusiness Profile[1]The company a leading player in the biscuits segment under theCremicabrand and a premium bakery products company under theEnglish Ovenbrand. It caters to diverse consumer segments across India and international markets and is also a preferred supplier to major QSR chains, cloud kitchens, and multiplexes.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BECTORFOOD/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Mrs Bectors Food Specialities Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/0 years positive; D/E ratio not available",
+  "verdict_memo": "Mrs Bectors Food Specialities Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/0 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 12.9% (adequate). What to watch: FCF inconsistent \u2014 only 0/0 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Mrs Bectors Food Specialities Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/0 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "BECTORFOOD",
+    "name": "Mrs Bectors Food Specialities Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Mrs Bectors Food Specialities Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/0 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 12.9% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/0 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 12.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": 27.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BECTORFOOD",
+    "name": "Mrs Bectors Food Specialities Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Mrs Bectors Food Specialities Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 24.2% of 52w high \u2014 moderate momentum, Revenue +0.5% YoY \u2014 growing. Concerns: Net profit declined -30.8% YoY.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 57.2,
+    "from_high_pct": 24.2,
+    "revenue_growth_pct": 0.5,
+    "profit_growth_pct": -30.8,
+    "optionality_signals": [],
+    "technical_notes": "Price within 24.2% of 52w high \u2014 moderate momentum; Revenue +0.5% YoY \u2014 growing; Net profit declined -30.8% YoY",
+    "price_position": {
+      "current_price": 241.0,
+      "52w_high": 318.0,
+      "52w_low": 165.0,
+      "position_pct": 49.7,
+      "from_high_pct": 24.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BECTORFOOD",
+    "name": "Mrs Bectors Food Specialities Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Mrs Bectors Food Specialities Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~1995), No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1995)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

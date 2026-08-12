@@ -1,0 +1,116 @@
+{
+  "symbol": "BCG",
+  "name": "Brightcom Group Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,994Cr.",
+  "market_cap_cr": 1994.0,
+  "description": "AboutIncorporated in 2010, Brightcom Group Ltd (formerly Lycos Internet Ltd) offers digital marketing solutions to businesses, agencies and online publishers worldwide[1]Key PointsBusiness Segments:a) Ad-Tech & Digital Marketing (core earnings engine):[1]The company offers digital marketing solutions across video, banners, email, search, social, mobile, display, CTV, etc to businesses, agencies and online publishers globally.In FY26, consolidated revenue from operations grew 34.6% YoY to Rs.6,928.06 Cr and PATgrew 35.5% YoY to Rs.962.33 Cr; Q4 FY26 revenue was Rs.1,596.64 Cr and PAT were Rs.207.83 Cr.[2]OMS remained active across programmatic, video, CTV, mobile, in-app, gaming advertising and publisher monetization, and continued rollout of 100% Fill Technology with server-side architecture, OpenRTB and Amazon TAM integrations.[3][4]b) Software Development (9% in H1 FY25 vs 7% in FY22):[5][6]The company is a global IT implementationand outsourcing services provider. It specializes in ",
+  "screener_url": "https://www.screener.in/company/BCG/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Brightcom Group Ltd \u2014 rejected (score 3.5/10): Low ROCE: 0.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Brightcom Group Ltd \u2014 rejected (score 3.5/10): Low ROCE: 0.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 0.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Brightcom Group Ltd \u2014 rejected (score 3.5/10): Low ROCE: 0.0% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.51,
+    "normalised_score": -0.558
+  },
+  "laxmi": {
+    "symbol": "BCG",
+    "name": "Brightcom Group Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Brightcom Group Ltd \u2014 rejected (score 3.5/10): Low ROCE: 0.0% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 0.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 0.02,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 32.5,
+    "forensic_flags": [],
+    "owner_earnings": 2.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BCG",
+    "name": "Brightcom Group Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Brightcom Group Ltd \u2014 weak technical setup (score 1.0/6): Price 44.2% below 52w high \u2014 weak price action Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 1.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 33228.0,
+    "from_high_pct": 44.2,
+    "revenue_growth_pct": 7.2,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +7.2% YoY \u2014 growing; Price 44.2% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 9.88,
+      "52w_high": 17.7,
+      "52w_low": 7.7,
+      "position_pct": 21.8,
+      "from_high_pct": 44.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BCG",
+    "name": "Brightcom Group Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Brightcom Group Ltd has a mixed narrative (score 5.5/10). Positives: Established company (founded ~2010), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2010)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

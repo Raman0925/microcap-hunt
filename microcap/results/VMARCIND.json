@@ -1,0 +1,110 @@
+{
+  "symbol": "VMARCIND",
+  "name": "V-Marc India Ltd",
+  "sector": "",
+  "market_cap": "\u20b95,539Cr.",
+  "market_cap_cr": 5539.0,
+  "description": "AboutIncorporated in 2014, V -Marc India Ltd manufactures PVC Insulated Wires & Cables[1]Key PointsBusiness Overview:[1]Company manufactures various types of wires & cables in Single & Multi-core with Copper /Aluminium Conductors and possess properties of FR, HRFR, FRLS, HFFR etc.Read MoreWebsiteNSE\n                - SM",
+  "screener_url": "https://www.screener.in/company/VMARCIND/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "V-Marc India Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "V-Marc India Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 41.4% > 20% \u2014 exceptional capital efficiency. What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 V-Marc India Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.885,
+    "normalised_score": -0.641
+  },
+  "laxmi": {
+    "symbol": "VMARCIND",
+    "name": "V-Marc India Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "V-Marc India Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "ROCE 41.4% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 41.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -0.0,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "VMARCIND",
+    "name": "V-Marc India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "V-Marc India Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 0.8% of 52w high \u2014 strong momentum. Concerns: Revenue -93.0% YoY \u2014 declining, Net profit declined -100.0% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 55.3,
+    "from_high_pct": 0.8,
+    "revenue_growth_pct": -93.0,
+    "profit_growth_pct": -100.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 0.8% of 52w high \u2014 strong momentum; Revenue -93.0% YoY \u2014 declining; Net profit declined -100.0% YoY",
+    "price_position": {
+      "current_price": 378.0,
+      "52w_high": 381.0,
+      "52w_low": 70.0,
+      "position_pct": 99.0,
+      "from_high_pct": 0.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "VMARCIND",
+    "name": "V-Marc India Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "V-Marc India Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2014)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

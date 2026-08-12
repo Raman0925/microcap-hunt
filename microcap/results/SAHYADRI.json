@@ -1,0 +1,108 @@
+{
+  "symbol": "SAHYADRI",
+  "name": "Sahyadri Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b9373Cr.",
+  "market_cap_cr": 373.0,
+  "description": "AboutIncorporated in 1947, Sahyadri Industries is engaged in production of cement sheets and accessories, trading of steel doors and in generation of wind power electricity[1]Key PointsBusiness Overview:[1][2]SIL is a flagship company of The PatelGroup. It provides building material productsfor interior and exterior building systems and roofing solutions. It manufactures and sells products such as asbestos corrugated sheets and boards and non-asbestos cement boards.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/SAHYADRI/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Sahyadri Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Sahyadri Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 9.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 5.0/6 \u2014 pass (60% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Sahyadri Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 1,
+    "borderlines": 0,
+    "weighted_score": -2.248,
+    "normalised_score": -0.499
+  },
+  "laxmi": {
+    "symbol": "SAHYADRI",
+    "name": "Sahyadri Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Sahyadri Industries Ltd \u2014 rejected (score 3.5/10): Low ROCE: 9.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 9.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 9.72,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 3.57,
+    "forensic_flags": [],
+    "owner_earnings": 7.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "SAHYADRI",
+    "name": "Sahyadri Industries Ltd",
+    "verdict": "pass",
+    "confidence": 0.6,
+    "report": "Sahyadri Industries Ltd \u2014 solid technical setup (score 5.0/6). Signals: Price within 3.9% of 52w high \u2014 strong momentum, Revenue +20.1% YoY \u2014 strong momentum, PE 12.6 < revenue growth 20.1% \u2014 undervalued vs growth. Notes: none.",
+    "score": 5.0,
+    "price_signal": "bullish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 12.6,
+    "from_high_pct": 3.9,
+    "revenue_growth_pct": 20.1,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 3.9% of 52w high \u2014 strong momentum; Revenue +20.1% YoY \u2014 strong momentum; PE 12.6 < revenue growth 20.1% \u2014 undervalued vs growth",
+    "price_position": {
+      "current_price": 341.0,
+      "52w_high": 355.0,
+      "52w_low": 200.0,
+      "position_pct": 91.0,
+      "from_high_pct": 3.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "SAHYADRI",
+    "name": "Sahyadri Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Sahyadri Industries Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9373cr mcap) \u2014 large runway ahead",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

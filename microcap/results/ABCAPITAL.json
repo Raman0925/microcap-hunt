@@ -1,0 +1,108 @@
+{
+  "symbol": "ABCAPITAL",
+  "name": "Aditya Birla Capital Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,11,415Cr.",
+  "market_cap_cr": 111415.0,
+  "description": "AboutAditya Birla Capital Limited, the holding company for the financial services businesses of the Aditya Birla Group, is a universal financial solutions group catering to the diverse financial needs of its customers across their life stages.[1]Key PointsBusiness Segments1) Life Insurance (44% in 9M FY25 vs 52% in FY22):[1][2]The company\u2019s subsidiary, Aditya Birla Sun Life Insurance Ltd, isone of the leading private life insurers, offering protection solutions, children\u2019s future solutions, wealth with protection solutions, retirement solutions, etc, through 11 Banca Tie-ups, 360+ own branches, 26,300+ bank branches, and 60,000 agents across 4,700+ cities.[3][4]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ABCAPITAL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aditya Birla Capital Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 8.8% \u2014 poor capital efficiency",
+  "verdict_memo": "Aditya Birla Capital Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 8.8% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 8.8% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aditya Birla Capital Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 8.8% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.928,
+    "normalised_score": -0.651
+  },
+  "laxmi": {
+    "symbol": "ABCAPITAL",
+    "name": "Aditya Birla Capital Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Aditya Birla Capital Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 8.8% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 8.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 8.75,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.75,
+    "forensic_flags": [],
+    "owner_earnings": -49.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ABCAPITAL",
+    "name": "Aditya Birla Capital Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Aditya Birla Capital Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 5.6% of 52w high \u2014 strong momentum. Concerns: Revenue -42.9% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 33.4,
+    "from_high_pct": 5.6,
+    "revenue_growth_pct": -42.9,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 5.6% of 52w high \u2014 strong momentum; Revenue -42.9% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 407.0,
+      "52w_high": 431.0,
+      "52w_low": 267.0,
+      "position_pct": 85.4,
+      "from_high_pct": 5.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ABCAPITAL",
+    "name": "Aditya Birla Capital Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Aditya Birla Capital Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

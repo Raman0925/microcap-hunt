@@ -1,0 +1,112 @@
+{
+  "symbol": "AGIIL",
+  "name": "AGI Infra Ltd",
+  "sector": "",
+  "market_cap": "\u20b93,752Cr.",
+  "market_cap_cr": 3752.0,
+  "description": "AboutIncorporated in 2005, AGI Infra Ltd is in the business of Real Estate and Construction Services[1]Key PointsBusiness Overview:[1]AGIIL is ISO 9001-2008 certified and an honorary member of theGreen Building Council of India. It is in the business of construction and real estate development. It has undertaken various affordable housing projects in Punjab under the Pradhan Mantri Awas Yojana. Also, company has constructed mega residential projects in Jalandhar having over 5000 homesRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AGIIL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "AGI Infra Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "AGI Infra Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 20.8% > 20% \u2014 exceptional capital efficiency. What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 AGI Infra Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.56,
+    "normalised_score": -0.569
+  },
+  "laxmi": {
+    "symbol": "AGIIL",
+    "name": "AGI Infra Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "AGI Infra Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "ROCE 20.8% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 20.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -1.33,
+    "forensic_flags": [],
+    "owner_earnings": 3.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AGIIL",
+    "name": "AGI Infra Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "AGI Infra Ltd \u2014 weak technical setup (score 0.0/6): Price 30.9% below 52w high \u2014 weak price action; Revenue -32.8% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 39.6,
+    "from_high_pct": 30.9,
+    "revenue_growth_pct": -32.8,
+    "profit_growth_pct": -25.0,
+    "optionality_signals": [],
+    "technical_notes": "Price 30.9% below 52w high \u2014 weak price action; Revenue -32.8% YoY \u2014 declining; Net profit declined -25.0% YoY",
+    "price_position": {
+      "current_price": 300.0,
+      "52w_high": 434.0,
+      "52w_low": 212.0,
+      "position_pct": 39.6,
+      "from_high_pct": 30.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AGIIL",
+    "name": "AGI Infra Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "AGI Infra Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~2005), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2005)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

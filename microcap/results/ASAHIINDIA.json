@@ -1,0 +1,113 @@
+{
+  "symbol": "ASAHIINDIA",
+  "name": "Asahi India Glass Ltd",
+  "sector": "",
+  "market_cap": "\u20b922,986Cr.",
+  "market_cap_cr": 22986.0,
+  "description": "AboutAsahi India Glass Ltd. (AIS) is India\u2019s leading value-added and integrated glass solutions company and a dominant player both in the automotive and architectural glass segments. Established in 1984, It was formed as a Joint Venture between The Labroo Family, Asahi Glass Co. of Japan and Maruti Udyog Ltd (now Maruti Suzuki India Ltd).AIS provides end to end solutions in the entire glass value chain - from the manufacturing offloat glass, processing, fabrication to installation services. As a sand-to-solutions company, AISoffers varied types of glass products and services to its customers in India and across the globe.[1]Key PointsPromoterAsahi Glass Company Ltd (AGC), is the largest shareholder holding a 21.18% stake in the company as of Dec 2025, AGC is one of the leading manufacturers of glass globally, with a 12% global market share in the float glass segment and 30% in the auto glass segment, it also provides technical support to the company.[1][2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ASAHIINDIA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Asahi India Glass Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Asahi India Glass Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 11.4% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Asahi India Glass Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.4% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.55,
+    "normalised_score": -0.567
+  },
+  "laxmi": {
+    "symbol": "ASAHIINDIA",
+    "name": "Asahi India Glass Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Asahi India Glass Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.4% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 11.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 0.96,
+    "forensic_flags": [],
+    "owner_earnings": 50.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASAHIINDIA",
+    "name": "Asahi India Glass Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Asahi India Glass Ltd \u2014 weak technical setup (score 1.0/6): Revenue -5.1% YoY \u2014 declining; Net profit declined -48.5% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 53.1,
+    "from_high_pct": 16.0,
+    "revenue_growth_pct": -5.1,
+    "profit_growth_pct": -48.5,
+    "optionality_signals": [],
+    "technical_notes": "Price within 16.0% of 52w high \u2014 moderate momentum; Revenue -5.1% YoY \u2014 declining; Net profit declined -48.5% YoY",
+    "price_position": {
+      "current_price": 902.0,
+      "52w_high": 1074.0,
+      "52w_low": 775.0,
+      "position_pct": 42.5,
+      "from_high_pct": 16.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASAHIINDIA",
+    "name": "Asahi India Glass Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Asahi India Glass Ltd has a mixed narrative (score 5.0/10). Positives: Established company (founded ~1984), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1984)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

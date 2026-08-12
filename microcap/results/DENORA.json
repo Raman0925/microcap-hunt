@@ -1,0 +1,115 @@
+{
+  "symbol": "DENORA",
+  "name": "DE Nora India Ltd",
+  "sector": "",
+  "market_cap": "\u20b9464Cr.",
+  "market_cap_cr": 464.0,
+  "description": "AboutIncorporated in 1989, De Nora India Ltd manufactures and services Electrolytic products[1]Key PointsBusiness Overview:[1][2]DNIL is a part of Oronzio De Nora International B.V. of De Nora Group which is an Italian multinational company and has 24 operating companies in 10 countries and 5 R&D centers in Italy, United States, and Japan. It holds53.68%of equity of DNIL. Company has brought the latest technologies to India with support from De Nora\u2019s technical expertise and management. DNIL is a supplier of technologies for the production of chlorine, caustic soda, and derivatives for the Chlor-alkali industry, as well as the world\u2019s largest manufacturer and recoater of noble metal-coated electrodes, electrolyzers, coating solutions for the electro chemical industries in general.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/DENORA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "DE Nora India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "DE Nora India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 9.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 DE Nora India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.05,
+    "normalised_score": -0.233
+  },
+  "laxmi": {
+    "symbol": "DENORA",
+    "name": "DE Nora India Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "DE Nora India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 9.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 9.62,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 2.5,
+    "forensic_flags": [],
+    "owner_earnings": 4.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "DENORA",
+    "name": "DE Nora India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "DE Nora India Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 9.0% of 52w high \u2014 strong momentum. Concerns: Revenue -39.2% YoY \u2014 declining, Net profit declined -66.7% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 38.1,
+    "from_high_pct": 9.0,
+    "revenue_growth_pct": -39.2,
+    "profit_growth_pct": -66.7,
+    "optionality_signals": [],
+    "technical_notes": "Price within 9.0% of 52w high \u2014 strong momentum; Revenue -39.2% YoY \u2014 declining; Net profit declined -66.7% YoY",
+    "price_position": {
+      "current_price": 875.0,
+      "52w_high": 962.0,
+      "52w_low": 559.0,
+      "position_pct": 78.4,
+      "from_high_pct": 9.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "DENORA",
+    "name": "DE Nora India Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "DE Nora India Ltd has a strong story (score 6.0/10). Catalysts: Small size (\u20b9464cr mcap) \u2014 large runway ahead, Established company (founded ~1989), Operating in large / growing sector. Taleb signals: Optionality: capability expansion signals detected, Antifragility: multiple segments / diversified revenue. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9464cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1989)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "symbol": "AQYLON",
+  "name": "Aqylon Nexus Ltd",
+  "sector": "",
+  "market_cap": "\u20b9644Cr.",
+  "market_cap_cr": 644.0,
+  "description": "AboutIncorporated in 1994, Sri Adhikari Brothers Television Network Ltd is a media company and operates in the field of content production and syndication of content to various broadcasters, aggregators and satellite networks.Key PointsBusiness Overview:[1]Sri Adhikari Brothers Group is an Indian Media & Entertainment company which deals in Broadcast, films, content production and publishing. Group has 3 listed entities viz.,Sri Adhikari Brothers Television Network, TV Vision Ltd and SAB Events and GovernanceRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AQYLON/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Aqylon Nexus Ltd \u2014 rejected (score -0.43). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "verdict_memo": "Aqylon Nexus Ltd \u2014 rejected (score -0.43). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 131.0% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.43"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -1.925,
+    "normalised_score": -0.428
+  },
+  "laxmi": {
+    "symbol": "AQYLON",
+    "name": "Aqylon Nexus Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Aqylon Nexus Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 2/5 years \u2014 adequate, ROCE 131.0% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 131.0% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 131.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 1.0,
+    "forensic_flags": [],
+    "owner_earnings": 5.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AQYLON",
+    "name": "Aqylon Nexus Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Aqylon Nexus Ltd \u2014 weak technical setup (score 0.0/6): Price 88.8% below 52w high \u2014 weak price action; Revenue -15.7% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 908.0,
+    "from_high_pct": 88.8,
+    "revenue_growth_pct": -15.7,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price 88.8% below 52w high \u2014 weak price action; Revenue -15.7% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 25.4,
+      "52w_high": 226.0,
+      "52w_low": 23.5,
+      "position_pct": 0.9,
+      "from_high_pct": 88.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AQYLON",
+    "name": "Aqylon Nexus Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Aqylon Nexus Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1994)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

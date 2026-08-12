@@ -1,0 +1,108 @@
+{
+  "symbol": "531287",
+  "name": "National Plastic Technologies Ltd",
+  "sector": "",
+  "market_cap": "\u20b9139Cr.",
+  "market_cap_cr": 139.0,
+  "description": "AboutIncorporated in 1952, National Plastic Ltd isa manufacturer of plastic -based household products.[1]Key PointsBusiness Overview:[1][2]NPIL is a part of the Parekh family.  It is mainly engaged in the manufacturing and marketing of a wide range of injection-moulded plastic products categorized for furniture, household, and commercial items. These are sold under the brand nameNational. The company is in the process of addition of new range of plastic furniture. Additionally, the company discontinued its cooler business in September 2024.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/531287/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "National Plastic Technologies Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "National Plastic Technologies Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate; ROCE 16.8% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 National Plastic Technologies Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.597,
+    "normalised_score": -0.799
+  },
+  "laxmi": {
+    "symbol": "531287",
+    "name": "National Plastic Technologies Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "National Plastic Technologies Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate",
+      "ROCE 16.8% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 16.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -1.0,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "531287",
+    "name": "National Plastic Technologies Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "National Plastic Technologies Ltd \u2014 weak technical setup (score 1.0/6): Price 31.7% below 52w high \u2014 weak price action; Net profit declined 0.0% YoY",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "growing",
+    "pe_ratio": 14.3,
+    "from_high_pct": 31.7,
+    "revenue_growth_pct": 2.9,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +2.9% YoY \u2014 growing; Price 31.7% below 52w high \u2014 weak price action; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 228.0,
+      "52w_high": 334.0,
+      "52w_low": 190.0,
+      "position_pct": 26.4,
+      "from_high_pct": 31.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "531287",
+    "name": "National Plastic Technologies Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "National Plastic Technologies Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9139cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1952)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,116 @@
+{
+  "symbol": "544056",
+  "name": "Sahara Maritime Ltd",
+  "sector": "",
+  "market_cap": "\u20b97.06Cr.",
+  "market_cap_cr": 7.06,
+  "description": "AboutIncorporated in 2009, Sahara Maritime Ltd is in the business of providing Freight forwarding & Warehousing services.[1]Key PointsServices Offered:[1][2]SML initially operated as a customs clearance broker. Gradually, it expanded across domains, geographies, and industries, and currently offers a comprehensive suite of logistics services for all maritime needs through a vast network of reliable partners and suppliers. The services include:a) Core offerings:- Transport management services.- Freight-related servicesRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/544056/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Sahara Maritime Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Sahara Maritime Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 8.5% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Sahara Maritime Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.65,
+    "normalised_score": -0.589
+  },
+  "laxmi": {
+    "symbol": "544056",
+    "name": "Sahara Maritime Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Sahara Maritime Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 8.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 8.46,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.4,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "544056",
+    "name": "Sahara Maritime Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Sahara Maritime Ltd \u2014 weak technical setup (score 1.0/6): Price 50.0% below 52w high \u2014 weak price action; Revenue -51.7% YoY \u2014 declining",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 9.05,
+    "from_high_pct": 50.0,
+    "revenue_growth_pct": -51.7,
+    "profit_growth_pct": 25.0,
+    "optionality_signals": [],
+    "technical_notes": "Profit +25.0% YoY with margin expansion \u2014 quality growth; Price 50.0% below 52w high \u2014 weak price action; Revenue -51.7% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 23.0,
+      "52w_high": 46.0,
+      "52w_low": 15.3,
+      "position_pct": 25.1,
+      "from_high_pct": 50.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "544056",
+    "name": "Sahara Maritime Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Sahara Maritime Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b97cr mcap) \u2014 large runway ahead, Established company (founded ~2009). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b97cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2009)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 3.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

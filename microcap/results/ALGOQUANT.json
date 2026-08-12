@@ -1,0 +1,111 @@
+{
+  "symbol": "ALGOQUANT",
+  "name": "Algoquant Fintech Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,896Cr.",
+  "market_cap_cr": 1896.0,
+  "description": "AboutIncorporated in 1983, Algoquant Fintech Ltd is in the business of trading in financial instruments[1]Key PointsBusiness Overview:[1][2]AFL (Formerly known as Hindustan Everest Tools Limited ) is a technology driven trading Firm. It deals in low risk arbitrage and high frequency trading in the Indian Capital Markets by running sophisticated algorithms at ultralow latencies. It is in the business of completely hedged derivatives arbitrage with a high focus on technology development and innovation. Algoquant combines mathematics, economics with software and latest hardware to provide arbitrage trade management, risk management systems and execution engines.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ALGOQUANT/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Algoquant Fintech Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Algoquant Fintech Ltd \u2014 borderline (score 0.11). Laxmi: borderline | Meera: pass | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Algoquant Fintech Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 31.4% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.11"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 1,
+    "borderlines": 2,
+    "weighted_score": 0.5,
+    "normalised_score": 0.111
+  },
+  "laxmi": {
+    "symbol": "ALGOQUANT",
+    "name": "Algoquant Fintech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Algoquant Fintech Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 31.4% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 31.4% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/2 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 31.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -0.4,
+    "forensic_flags": [],
+    "owner_earnings": -1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ALGOQUANT",
+    "name": "Algoquant Fintech Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Algoquant Fintech Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 26.5% of 52w high \u2014 moderate momentum, Revenue +59.3% YoY \u2014 strong momentum, PE 57.9 < revenue growth 59.3% \u2014 undervalued vs growth. Notes: none.",
+    "score": 4.0,
+    "price_signal": "neutral",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 57.9,
+    "from_high_pct": 26.5,
+    "revenue_growth_pct": 59.3,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 26.5% of 52w high \u2014 moderate momentum; Revenue +59.3% YoY \u2014 strong momentum; PE 57.9 < revenue growth 59.3% \u2014 undervalued vs growth",
+    "price_position": {
+      "current_price": 67.4,
+      "52w_high": 91.7,
+      "52w_low": 47.8,
+      "position_pct": 44.6,
+      "from_high_pct": 26.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ALGOQUANT",
+    "name": "Algoquant Fintech Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Algoquant Fintech Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~1983), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1983)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

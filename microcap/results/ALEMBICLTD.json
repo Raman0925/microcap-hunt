@@ -1,0 +1,112 @@
+{
+  "symbol": "ALEMBICLTD",
+  "name": "Alembic Ltd",
+  "sector": "",
+  "market_cap": "\u20b92,227Cr.",
+  "market_cap_cr": 2227.0,
+  "description": "AboutAlembic Limited is engaged in the businesses of Pharmaceuticals, Real Estate, and Power Assets. The company was started in 1907 as the flagship company of the Alembic Group. In 2010, the company demerged its core pharmaceutical business (formulations) into a wholly-owned subsidiary, Alembic Pharma Ltd and after the demerger, APL became the flagship company of the Alembic Group.With its registered office in Vadodra, Alembic Ltd currently holds a 28.41% stake in Alembic Pharma Ltd and a 19.01% stake in another group entity Paushak Limited.[1]Key PointsBusiness Segments:[1]a) Real Estate (81% in FY26 vs 85% in FY25):[2]The company develops residential and commercial real estate projects, providesproject management and marketing consultancy services and generates rental income by leasing commercial properties.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ALEMBICLTD/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Alembic Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Alembic Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Alembic Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 16.9% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "ALEMBICLTD",
+    "name": "Alembic Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Alembic Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 16.9% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 16.9% (adequate)",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 16.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 0.92,
+    "forensic_flags": [],
+    "owner_earnings": 24.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ALEMBICLTD",
+    "name": "Alembic Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Alembic Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 21.2% of 52w high \u2014 moderate momentum, Revenue +7.5% YoY \u2014 growing. Concerns: Net profit declined -4.0% YoY.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 18.2,
+    "from_high_pct": 21.2,
+    "revenue_growth_pct": 7.5,
+    "profit_growth_pct": -4.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 21.2% of 52w high \u2014 moderate momentum; Revenue +7.5% YoY \u2014 growing; Net profit declined -4.0% YoY",
+    "price_position": {
+      "current_price": 86.7,
+      "52w_high": 110.0,
+      "52w_low": 70.5,
+      "position_pct": 41.0,
+      "from_high_pct": 21.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ALEMBICLTD",
+    "name": "Alembic Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Alembic Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~2010), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2010)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

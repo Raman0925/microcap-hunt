@@ -1,0 +1,111 @@
+{
+  "symbol": "EMMBI",
+  "name": "Emmbi Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b9162Cr.",
+  "market_cap_cr": 162.0,
+  "description": "AboutIncorporated in 1994, Emmbi Industries Ltd manufactures HDPE & PP - Woven Polymer based products[1]Key PointsBusiness Overview:[1]EIL manufactures woven polymer-based products and flexible intermediate bulk containers (FIBCs). Company\u2019s Woven Sacks and Liners are used in containers, irrigation canals, man-made water bodies, flexible tanks, car covers, furniture covers, etc.Read MoreWebsiteBSENSE\n                - BE",
+  "screener_url": "https://www.screener.in/company/EMMBI/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Emmbi Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Emmbi Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 8.8% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Emmbi Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.8% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.637,
+    "normalised_score": -0.808
+  },
+  "laxmi": {
+    "symbol": "EMMBI",
+    "name": "Emmbi Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Emmbi Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.8% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 8.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 8.75,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.33,
+    "forensic_flags": [],
+    "owner_earnings": 6.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "EMMBI",
+    "name": "Emmbi Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Emmbi Industries Ltd \u2014 weak technical setup (score 1.0/6): Revenue -12.0% YoY \u2014 declining; Net profit declined -45.5% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 18.1,
+    "from_high_pct": 28.1,
+    "revenue_growth_pct": -12.0,
+    "profit_growth_pct": -45.5,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 28.1% of 52w high \u2014 moderate momentum; Revenue -12.0% YoY \u2014 declining; Net profit declined -45.5% YoY",
+    "price_position": {
+      "current_price": 84.1,
+      "52w_high": 117.0,
+      "52w_low": 60.1,
+      "position_pct": 42.2,
+      "from_high_pct": 28.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "EMMBI",
+    "name": "Emmbi Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Emmbi Industries Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9162cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1994)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

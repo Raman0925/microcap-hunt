@@ -1,0 +1,113 @@
+{
+  "symbol": "ATULAUTO",
+  "name": "Atul Auto Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,371Cr.",
+  "market_cap_cr": 1371.0,
+  "description": "AboutIncorporated in 1986, Atul Auto Ltd manufactures and exports Auto rickshaws[1]Key PointsBusiness Overview:[1][2]Atul Auto Ltd. (AAL) operates in the three-wheeler segment of the automotive industry, manufacturing a complete range of vehicles under theAtulbrand. Its offerings span goods and passenger segments, including petrol, diesel, LPG, and electric variants, along with spare parts and allied products. The company holds approximately4%of the domestic market and a3%share in combined domestic and export sales among Indian manufacturers, making it the only player with such a comprehensive product portfolio in this space.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ATULAUTO/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Atul Auto Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "Atul Auto Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 16.2% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Atul Auto Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.51,
+    "normalised_score": -0.558
+  },
+  "laxmi": {
+    "symbol": "ATULAUTO",
+    "name": "Atul Auto Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Atul Auto Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 16.2% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 16.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.68,
+    "forensic_flags": [],
+    "owner_earnings": 41.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ATULAUTO",
+    "name": "Atul Auto Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Atul Auto Ltd \u2014 weak technical setup (score 1.0/6): Revenue -7.2% YoY \u2014 declining; Net profit declined -12.8% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 24.9,
+    "from_high_pct": 17.3,
+    "revenue_growth_pct": -7.2,
+    "profit_growth_pct": -12.8,
+    "optionality_signals": [],
+    "technical_notes": "Price within 17.3% of 52w high \u2014 moderate momentum; Revenue -7.2% YoY \u2014 declining; Net profit declined -12.8% YoY",
+    "price_position": {
+      "current_price": 494.0,
+      "52w_high": 597.0,
+      "52w_low": 380.0,
+      "position_pct": 52.5,
+      "from_high_pct": 17.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ATULAUTO",
+    "name": "Atul Auto Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Atul Auto Ltd has a mixed narrative (score 5.5/10). Positives: Established company (founded ~1986), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1986)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

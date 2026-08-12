@@ -1,0 +1,111 @@
+{
+  "symbol": "AHLEAST",
+  "name": "Asian Hotels (East) Ltd",
+  "sector": "",
+  "market_cap": "\u20b9244Cr.",
+  "market_cap_cr": 244.0,
+  "description": "AboutIncorporated in 2007, Asian Hotels (East)Ltd is operating through Hyatt Regency Kolkata, a five-star Hotel in Kolkata[1]Key PointsHotels:[1][2]The company owns and operates Hyatt Regency Kolkata; a 5-star hotel with 233 rooms and 4 restaurants with a space of ~36,000 sq. ft., through its wholly-owned subsidiaryRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AHLEAST/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Asian Hotels (East) Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "Asian Hotels (East) Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 15.4% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Low PE 8.9 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.24"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.087,
+    "normalised_score": -0.242
+  },
+  "laxmi": {
+    "symbol": "AHLEAST",
+    "name": "Asian Hotels (East) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Asian Hotels (East) Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 15.4% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 15.4% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 15.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 1.2,
+    "forensic_flags": [],
+    "owner_earnings": 15.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AHLEAST",
+    "name": "Asian Hotels (East) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Asian Hotels (East) Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 25.4% of 52w high \u2014 moderate momentum, Revenue +2.0% YoY \u2014 growing, Profit +7.1% YoY with margin expansion \u2014 quality growth. Concerns: none. Optionality: Low PE 8.9 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 3.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 8.91,
+    "from_high_pct": 25.4,
+    "revenue_growth_pct": 2.0,
+    "profit_growth_pct": 7.1,
+    "optionality_signals": [
+      "Low PE 8.9 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Price within 25.4% of 52w high \u2014 moderate momentum; Revenue +2.0% YoY \u2014 growing; Profit +7.1% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 141.0,
+      "52w_high": 189.0,
+      "52w_low": 124.0,
+      "position_pct": 26.2,
+      "from_high_pct": 25.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AHLEAST",
+    "name": "Asian Hotels (East) Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Asian Hotels (East) Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9244cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2007)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

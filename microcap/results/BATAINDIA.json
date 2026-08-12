@@ -1,0 +1,109 @@
+{
+  "symbol": "BATAINDIA",
+  "name": "Bata India Ltd",
+  "sector": "",
+  "market_cap": "\u20b98,995Cr.",
+  "market_cap_cr": 8995.0,
+  "description": "AboutBata India is primarily engaged in the business of manufacturing and trading of footwear and accessories through its retail and wholesale network.Key PointsParentageAs of Sep 2025, the Bata Corporation holds a 50% stake in the company. Founded in 1894 in the Czech Republic, Bata Corporation is the world's leading shoemaker by volume having a retail presence of over 5,300 shops in more than 70 countries across 5 continents, and operates 21 production facilities in 18 countries.[1][2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BATAINDIA/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Bata India Ltd \u2014 rejected (score -0.42). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "verdict_memo": "Bata India Ltd \u2014 rejected (score -0.42). Laxmi: borderline | Meera: reject | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 12.8% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.5/6 \u2014 reject (72% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.42"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -1.888,
+    "normalised_score": -0.419
+  },
+  "laxmi": {
+    "symbol": "BATAINDIA",
+    "name": "Bata India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Bata India Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 12.8% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 12.8% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 12.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.52,
+    "forensic_flags": [],
+    "owner_earnings": 231.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BATAINDIA",
+    "name": "Bata India Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Bata India Ltd \u2014 weak technical setup (score 1.5/6): Price 45.4% below 52w high \u2014 weak price action; Profit grew +6.0% but margin compressed Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 1.5,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 51.9,
+    "from_high_pct": 45.4,
+    "revenue_growth_pct": 11.6,
+    "profit_growth_pct": 6.0,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +11.6% YoY \u2014 growing; Price 45.4% below 52w high \u2014 weak price action; Profit grew +6.0% but margin compressed",
+    "price_position": {
+      "current_price": 700.0,
+      "52w_high": 1282.0,
+      "52w_low": 605.0,
+      "position_pct": 14.0,
+      "from_high_pct": 45.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BATAINDIA",
+    "name": "Bata India Ltd",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "Bata India Ltd \u2014 rejected (score 1.5/10): failed qualitative checks",
+    "score": 1.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

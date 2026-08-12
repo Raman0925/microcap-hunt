@@ -1,0 +1,111 @@
+{
+  "symbol": "GVT&D",
+  "name": "GE Vernova T&D India Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,13,174Cr.",
+  "market_cap_cr": 113174.0,
+  "description": "AboutGE T&D is the listed entity of GE\u2019s Grid Solutions business in India. It has been in the power transmission and distribution business for more than 100 years and provides a versatile range of solutions for connecting and evacuating power from generation sources onto the grid.[1]Key PointsParentage[1]The company is part of theGE Vernova group, a global energy company comprising the Power, Wind, and Electrification segments. GE Vernova is headquartered in Cambridge, Massachusetts, U.S., with over85,000employees across100+countries.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/GVT&D/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "GE Vernova T&D India Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "GE Vernova T&D India Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "GE Vernova T&D India Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 76.4% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "GVT&D",
+    "name": "GE Vernova T&D India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "GE Vernova T&D India Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 76.4% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 76.4% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 76.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 4.15,
+    "forensic_flags": [],
+    "owner_earnings": 121.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "GVT&D",
+    "name": "GE Vernova T&D India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "GE Vernova T&D India Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 21.8% of 52w high \u2014 moderate momentum, Revenue +12.4% YoY \u2014 growing, Profit +255.9% YoY with margin expansion \u2014 quality growth. Concerns: none.",
+    "score": 3.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 83.8,
+    "from_high_pct": 21.8,
+    "revenue_growth_pct": 12.4,
+    "profit_growth_pct": 255.9,
+    "optionality_signals": [],
+    "technical_notes": "Price within 21.8% of 52w high \u2014 moderate momentum; Revenue +12.4% YoY \u2014 growing; Profit +255.9% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 4420.0,
+      "52w_high": 5650.0,
+      "52w_low": 2523.0,
+      "position_pct": 60.7,
+      "from_high_pct": 21.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "GVT&D",
+    "name": "GE Vernova T&D India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "GE Vernova T&D India Ltd has a mixed narrative (score 3.5/10). Positives: Growth ambition evident in description, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

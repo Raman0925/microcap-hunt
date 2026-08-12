@@ -1,0 +1,113 @@
+{
+  "symbol": "BAJAJ-AUTO",
+  "name": "Bajaj Auto Ltd",
+  "sector": "",
+  "market_cap": "\u20b93,21,988Cr.",
+  "market_cap_cr": 321988.0,
+  "description": "AboutBajaj Auto, the flagship company of Bajaj Group, is a two-wheeler and three-wheeler manufacturing company that exports to 79 countries across several countries in Latin America, Southeast Asia, and many more. Its headquarter is in Pune, India.It has acquired 48% of the KTM Brand which manufactures sports and super sports two-wheelers, which was 14% in 2007 when the company first acquired KTM.[1]Key PointsMarket LeadershipThe company is the2nd-largest playerin the domestic motorcycle segment in terms of volume. It is the largest3W producer in the world and the largest exporter of 2W and 3W from India.[1][2]Segment Performance1) Motorcycles:The company holds a market share of 18.2% in FY24 vs 17.3% in FY23 of motorcycle sales in India.[3]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BAJAJ-AUTO/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Bajaj Auto Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Bajaj Auto Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "Bajaj Auto Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 38.5% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "BAJAJ-AUTO",
+    "name": "Bajaj Auto Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Bajaj Auto Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 38.5% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 38.5% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 38.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.76,
+    "forensic_flags": [],
+    "owner_earnings": 2814.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BAJAJ-AUTO",
+    "name": "Bajaj Auto Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Bajaj Auto Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 1.2% of 52w high \u2014 strong momentum. Concerns: Revenue -4.3% YoY \u2014 declining, Net profit declined -28.4% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 30.0,
+    "from_high_pct": 1.2,
+    "revenue_growth_pct": -4.3,
+    "profit_growth_pct": -28.4,
+    "optionality_signals": [],
+    "technical_notes": "Price within 1.2% of 52w high \u2014 strong momentum; Revenue -4.3% YoY \u2014 declining; Net profit declined -28.4% YoY",
+    "price_position": {
+      "current_price": 11717.0,
+      "52w_high": 11863.0,
+      "52w_low": 8189.0,
+      "position_pct": 96.0,
+      "from_high_pct": 1.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BAJAJ-AUTO",
+    "name": "Bajaj Auto Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Bajaj Auto Ltd has a mixed narrative (score 5.5/10). Positives: Established company (founded ~2007), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2007)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

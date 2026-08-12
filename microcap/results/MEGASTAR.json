@@ -1,0 +1,121 @@
+{
+  "symbol": "MEGASTAR",
+  "name": "Megastar Foods Ltd",
+  "sector": "",
+  "market_cap": "\u20b9361Cr.",
+  "market_cap_cr": 361.0,
+  "description": "AboutIncorporated in 2013, Megastar FoodsLtd is a producer and supplier of wheatflour, organic wheat flour and alliedproducts[1]Key PointsBusiness Overview:[1][2][3]MFL is in the business of bulkfood manufacturing, processing,and exporting a wide range of foodproducts from the Wheat Flour Productrange. Company mills wheat to produceand allied flour products like refined wheatflour, suji /rava, and wheat bran. It sells 2/3rdof its total production to corporate buyers and 1/3rd of it to local vendors. It has also obtained international certifications to utilize export opportunities.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/MEGASTAR/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Megastar Foods Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Megastar Foods Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/3 years positive; Low ROCE: 11.6% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Megastar Foods Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.65,
+    "normalised_score": -0.589
+  },
+  "laxmi": {
+    "symbol": "MEGASTAR",
+    "name": "Megastar Foods Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Megastar Foods Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/3 years positive",
+      "Low ROCE: 11.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 11.6,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.0,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "MEGASTAR",
+    "name": "Megastar Foods Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Megastar Foods Ltd \u2014 weak technical setup (score 1.0/6): Revenue -43.6% YoY \u2014 declining; Net profit declined -100.0% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 39.4,
+    "from_high_pct": 18.6,
+    "revenue_growth_pct": -43.6,
+    "profit_growth_pct": -100.0,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 18.6% of 52w high \u2014 moderate momentum; Revenue -43.6% YoY \u2014 declining; Net profit declined -100.0% YoY",
+    "price_position": {
+      "current_price": 319.0,
+      "52w_high": 392.0,
+      "52w_low": 198.0,
+      "position_pct": 62.4,
+      "from_high_pct": 18.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "MEGASTAR",
+    "name": "Megastar Foods Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Megastar Foods Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b9361cr mcap) \u2014 large runway ahead, Established company (founded ~2013). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9361cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2013)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

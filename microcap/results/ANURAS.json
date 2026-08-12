@@ -1,0 +1,115 @@
+{
+  "symbol": "ANURAS",
+  "name": "Anupam Rasayan India Ltd",
+  "sector": "",
+  "market_cap": "\u20b913,768Cr.",
+  "market_cap_cr": 13768.0,
+  "description": "AboutAnupam Rasayan India Ltd is engaged in manufacturing of specialty chemicals, which are sold in local as well as exported to other countries.[1]Key PointsBusiness Verticals FY241) Life Science Specialty Chemicals (91%):a. Agrochemicals (65%)-Manufactures agro intermediates and agro active ingredients (insecticides, fungicides, and herbicides) for the agrochemical industry.b. Personal Care (17%) -Manufactures antibacterial and ultraviolet protection intermediates and ingredients for the personal care industry.c. Pharmaceuticals (9%)-The segment focuses on developing intermediates and \u2018key starting materials\u2019 for active pharmaceutical ingredients.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ANURAS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Anupam Rasayan India Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 7.0% \u2014 poor capital efficiency",
+  "verdict_memo": "Anupam Rasayan India Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 7.0% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 7.0% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Anupam Rasayan India Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 7.0% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.84,
+    "normalised_score": -0.409
+  },
+  "laxmi": {
+    "symbol": "ANURAS",
+    "name": "Anupam Rasayan India Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Anupam Rasayan India Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 7.0% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "Low ROCE: 7.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 6.95,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.89,
+    "forensic_flags": [],
+    "owner_earnings": 36.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ANURAS",
+    "name": "Anupam Rasayan India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Anupam Rasayan India Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 14.6% of 52w high \u2014 strong momentum. Concerns: Revenue -5.2% YoY \u2014 declining, Net profit declined -16.3% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 85.3,
+    "from_high_pct": 14.6,
+    "revenue_growth_pct": -5.2,
+    "profit_growth_pct": -16.3,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 14.6% of 52w high \u2014 strong momentum; Revenue -5.2% YoY \u2014 declining; Net profit declined -16.3% YoY",
+    "price_position": {
+      "current_price": 1209.0,
+      "52w_high": 1415.0,
+      "52w_low": 1045.0,
+      "position_pct": 44.3,
+      "from_high_pct": 14.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ANURAS",
+    "name": "Anupam Rasayan India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Anupam Rasayan India Ltd has a mixed narrative (score 5.5/10). Positives: Growth ambition evident in description, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

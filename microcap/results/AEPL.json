@@ -1,0 +1,116 @@
+{
+  "symbol": "AEPL",
+  "name": "Artemis Electricals & Projects Ltd",
+  "sector": "",
+  "market_cap": "\u20b9398Cr.",
+  "market_cap_cr": 398.0,
+  "description": "AboutIncorporated in 2009, Artemis Electricals and Projects Ltd maufectures LED lights and deals in work contracts[1]Key PointsBusiness Overview:[1][2]AEAPL is in the business of product design, procurement, turnkey manufacturing, repairs and maintenance, etc. It is an OEM in India focused on providing solutions for all types of LED lighting and allied products.Company supplies products to OEM partners viz. Bajaj. It also markets its own brand through stockiest, distributors & retailers\u2019 chains in 5 states across 62 distributors. Further, company is also actively pursuing to enter export marketsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AEPL/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Artemis Electricals & Projects Ltd \u2014 rejected (score -0.18). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Artemis Electricals & Projects Ltd \u2014 rejected (score -0.18). Laxmi: borderline | Meera: reject | Tara: borderline.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 13.0% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Convexity: both B2B and B2C revenue streams",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.18"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.8,
+    "normalised_score": -0.178
+  },
+  "laxmi": {
+    "symbol": "AEPL",
+    "name": "Artemis Electricals & Projects Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Artemis Electricals & Projects Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 13.0% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 13.0% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 13.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 2.88,
+    "forensic_flags": [],
+    "owner_earnings": 0.3,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AEPL",
+    "name": "Artemis Electricals & Projects Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Artemis Electricals & Projects Ltd \u2014 weak technical setup (score 0.0/6): Price 43.2% below 52w high \u2014 weak price action; Revenue -80.3% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 45.0,
+    "from_high_pct": 43.2,
+    "revenue_growth_pct": -80.3,
+    "profit_growth_pct": -79.4,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 43.2% below 52w high \u2014 weak price action; Revenue -80.3% YoY \u2014 declining; Net profit declined -79.4% YoY",
+    "price_position": {
+      "current_price": 15.9,
+      "52w_high": 28.0,
+      "52w_low": 13.0,
+      "position_pct": 19.3,
+      "from_high_pct": 43.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AEPL",
+    "name": "Artemis Electricals & Projects Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Artemis Electricals & Projects Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b9398cr mcap) \u2014 large runway ahead, Established company (founded ~2009). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9398cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2009)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

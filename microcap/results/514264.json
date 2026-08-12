@@ -1,0 +1,113 @@
+{
+  "symbol": "514264",
+  "name": "Seasons Textiles Ltd",
+  "sector": "",
+  "market_cap": "\u20b913.8Cr.",
+  "market_cap_cr": 13.8,
+  "description": "AboutIncorporated in 1986, Seasons Textiles Ltd is engaged in the manufacturing, trading, and export of Furnishing Fabrics.[1]Key PointsBusiness Overview:[1][2]STL is the flagship company of the Seasons Group. It is in the business of manufacturingof Furnishing Fabrics/Technical Textiles (Flame Retardant), along with export and trading in furnishing fabrics and made-upsRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/514264/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Seasons Textiles Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Seasons Textiles Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.9% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 3.9% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Seasons Textiles Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.9% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.55,
+    "normalised_score": -0.567
+  },
+  "laxmi": {
+    "symbol": "514264",
+    "name": "Seasons Textiles Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Seasons Textiles Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.9% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 3.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 3.94,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 6.23,
+    "forensic_flags": [],
+    "owner_earnings": 0.6,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "514264",
+    "name": "Seasons Textiles Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Seasons Textiles Ltd \u2014 weak technical setup (score 1.0/6): Revenue -2.0% YoY \u2014 declining; Net profit declined -4.8% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 81.5,
+    "from_high_pct": 23.9,
+    "revenue_growth_pct": -2.0,
+    "profit_growth_pct": -4.8,
+    "optionality_signals": [],
+    "technical_notes": "Price within 23.9% of 52w high \u2014 moderate momentum; Revenue -2.0% YoY \u2014 declining; Net profit declined -4.8% YoY",
+    "price_position": {
+      "current_price": 18.5,
+      "52w_high": 24.3,
+      "52w_low": 14.3,
+      "position_pct": 42.0,
+      "from_high_pct": 23.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "514264",
+    "name": "Seasons Textiles Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Seasons Textiles Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b914cr mcap) \u2014 large runway ahead, Established company (founded ~1986). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b914cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1986)",
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

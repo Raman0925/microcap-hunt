@@ -1,0 +1,112 @@
+{
+  "symbol": "AEROPLANE",
+  "name": "Amir Chand Jagdish Kumar (Exports) Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,894Cr.",
+  "market_cap_cr": 1894.0,
+  "description": "AboutIncorporated in 2003, Amir Chand Jagdish Kumar (Exports) Limited is a processor and exporter of basmati rice and other FMCG products in India.[1]Key PointsBusiness Profile[1]Amir Chand Jagdish Kumar (Exports) Ltd is a fully integrated basmati rice player, managing the entire value chain from procurement, storage, and processing to packaging, marketing, and distribution. The company is ranked3rd amongits peers by revenue.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AEROPLANE/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Amir Chand Jagdish Kumar (Exports) Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Amir Chand Jagdish Kumar (Exports) Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "Amir Chand Jagdish Kumar (Exports) Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 13.8% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "AEROPLANE",
+    "name": "Amir Chand Jagdish Kumar (Exports) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Amir Chand Jagdish Kumar (Exports) Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 13.8% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 13.8% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 13.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 3.25,
+    "forensic_flags": [],
+    "owner_earnings": 12.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AEROPLANE",
+    "name": "Amir Chand Jagdish Kumar (Exports) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Amir Chand Jagdish Kumar (Exports) Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 12.9% of 52w high \u2014 strong momentum, Revenue +10.5% YoY \u2014 growing. Concerns: Net profit declined -14.3% YoY.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 21.4,
+    "from_high_pct": 12.9,
+    "revenue_growth_pct": 10.5,
+    "profit_growth_pct": -14.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 12.9% of 52w high \u2014 strong momentum; Revenue +10.5% YoY \u2014 growing; Net profit declined -14.3% YoY",
+    "price_position": {
+      "current_price": 183.0,
+      "52w_high": 210.0,
+      "52w_low": 117.0,
+      "position_pct": 71.0,
+      "from_high_pct": 12.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AEROPLANE",
+    "name": "Amir Chand Jagdish Kumar (Exports) Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Amir Chand Jagdish Kumar (Exports) Ltd has a mixed narrative (score 4.5/10). Positives: Established company (founded ~2003), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2003)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

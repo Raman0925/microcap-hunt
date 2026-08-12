@@ -1,0 +1,118 @@
+{
+  "symbol": "AARVI",
+  "name": "Aarvi Encon Ltd",
+  "sector": "",
+  "market_cap": "\u20b9230Cr.",
+  "market_cap_cr": 230.0,
+  "description": "AboutIncorporated in 1987, Aarvi is India\u2019s leading technical staffing company, which specializes in providing expert engineering staffing solutions.[1]Key PointsBusiness Overview:[1]a)AEL is an ISO 9001: 2015 certified company with a CRISIL SME-1 rating. It provides Engineering and Manpower Outsourcing Services in India and abroadb)Aarvi provides engineers /designers/technicians right from project conceptualization, Design, Construction, and its Commissioning, including the plant maintenancec)It can also mobilize manpower for shutdown assignmentof 15 days to a few monthsd) Aarvi has a large in-house 8+ lac resume database anda referral-based programRead MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/AARVI/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aarvi Encon Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Aarvi Encon Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 11.5% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 4.5/10 \u2014 borderline (48% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aarvi Encon Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.4,
+    "normalised_score": -0.311
+  },
+  "laxmi": {
+    "symbol": "AARVI",
+    "name": "Aarvi Encon Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Aarvi Encon Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 11.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 11.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.67,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AARVI",
+    "name": "Aarvi Encon Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Aarvi Encon Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 7.7% of 52w high \u2014 strong momentum, Revenue +4.6% YoY \u2014 growing, Profit +100.0% YoY with margin expansion \u2014 quality growth. Notes: none.",
+    "score": 4.0,
+    "price_signal": "bullish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "growing",
+    "pe_ratio": 19.7,
+    "from_high_pct": 7.7,
+    "revenue_growth_pct": 4.6,
+    "profit_growth_pct": 100.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 7.7% of 52w high \u2014 strong momentum; Revenue +4.6% YoY \u2014 growing; Profit +100.0% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 155.0,
+      "52w_high": 168.0,
+      "52w_low": 108.0,
+      "position_pct": 78.3,
+      "from_high_pct": 7.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AARVI",
+    "name": "Aarvi Encon Ltd",
+    "verdict": "borderline",
+    "confidence": 0.485,
+    "report": "Aarvi Encon Ltd has a mixed narrative (score 4.5/10). Positives: Small size (\u20b9230cr mcap) \u2014 large runway ahead, Established company (founded ~1987). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9230cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1987)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,111 @@
+{
+  "symbol": "BALUFORGE",
+  "name": "Balu Forge Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b95,572Cr.",
+  "market_cap_cr": 5572.0,
+  "description": "AboutBalu Forge Industries Ltd is engaged in the manufacturing of fully finished and semi-finished forged crankshafts and Forged Components. It has the capability to manufacture components conforming to the New Emission Regulations & the New Energy Vehicles[1]Key PointsProduct Portfolio:[1]a) Auto Components- Crankshaft **- Under Carriage Components **- Chassis components:Front axle beams, Steering knuckles, Control arms, Forks, Steering components- Transmission & Clutch Systems: Drive shafts, Input shafts, Output shafts, Main shafts, Yokes- Brake Components:Hubs, Brake flanges, Brake discs, Calipers- Towing Accessories: Swan necks, Flange balls, Tow barsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BALUFORGE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Balu Forge Industries Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available",
+  "verdict_memo": "Balu Forge Industries Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 17.3% (adequate). What to watch: FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Balu Forge Industries Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "BALUFORGE",
+    "name": "Balu Forge Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Balu Forge Industries Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 17.3% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 17.3,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BALUFORGE",
+    "name": "Balu Forge Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Balu Forge Industries Ltd \u2014 weak technical setup (score 0.0/6): Price 34.1% below 52w high \u2014 weak price action; Insufficient revenue data Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "flat",
+    "pe_ratio": 36.4,
+    "from_high_pct": 34.1,
+    "revenue_growth_pct": null,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 34.1% below 52w high \u2014 weak price action; Insufficient revenue data",
+    "price_position": {
+      "current_price": 459.0,
+      "52w_high": 697.0,
+      "52w_low": 341.0,
+      "position_pct": 33.1,
+      "from_high_pct": 34.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BALUFORGE",
+    "name": "Balu Forge Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Balu Forge Industries Ltd has a mixed narrative (score 3.0/10). Positives: Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

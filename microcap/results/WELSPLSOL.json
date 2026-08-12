@@ -1,0 +1,107 @@
+{
+  "symbol": "WELSPLSOL",
+  "name": "WELSPLSOL",
+  "sector": "",
+  "market_cap": "",
+  "market_cap_cr": null,
+  "description": "",
+  "screener_url": "https://www.screener.in/company/WELSPLSOL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "WELSPLSOL \u2014 rejected (score 0.0/10): FCF data unavailable; ROCE not available",
+  "verdict_memo": "WELSPLSOL \u2014 rejected (score 0.0/10): FCF data unavailable; ROCE not available",
+  "investment_thesis": "What to watch: FCF data unavailable; ROCE not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 0.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 WELSPLSOL \u2014 rejected (score 0.0/10): FCF data unavailable; ROCE not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.863,
+    "normalised_score": -0.858
+  },
+  "laxmi": {
+    "symbol": "WELSPLSOL",
+    "name": "WELSPLSOL",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "WELSPLSOL \u2014 rejected (score 0.0/10): FCF data unavailable; ROCE not available",
+    "score": 0.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF data unavailable",
+      "ROCE not available",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue data unavailable"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": null,
+    "roce_5yr_avg": null,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "WELSPLSOL",
+    "name": "WELSPLSOL",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "WELSPLSOL \u2014 weak technical setup (score 0.0/6): 52w high/low data unavailable; Insufficient revenue data",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "flat",
+    "pe_ratio": null,
+    "from_high_pct": null,
+    "revenue_growth_pct": null,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "52w high/low data unavailable; Insufficient revenue data",
+    "price_position": {
+      "current_price": null,
+      "52w_high": null,
+      "52w_low": null,
+      "position_pct": null,
+      "from_high_pct": null
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "WELSPLSOL",
+    "name": "WELSPLSOL",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "WELSPLSOL \u2014 rejected (score 1.5/10): Company description very short or missing \u2014 possible shell company",
+    "score": 1.5,
+    "red_flags": [
+      "Company description very short or missing \u2014 possible shell company"
+    ],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

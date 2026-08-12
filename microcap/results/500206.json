@@ -1,0 +1,114 @@
+{
+  "symbol": "500206",
+  "name": "Margo Finance Ltd",
+  "sector": "",
+  "market_cap": "\u20b929.9Cr.",
+  "market_cap_cr": 29.9,
+  "description": "AboutIncorporated in 1991, Margo Finance Ltd is engaged in Investment activities.[1]Key PointsBusiness Overview:[1][2][3]MFL is a non-systemically important non-deposit taking non-banking financial companyand its principal business is acquisition of securities and provides investment andinvestment related financial services. The company's financing activities were discontinued in previous years.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/500206/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Margo Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Margo Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 1.3% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Margo Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.737,
+    "normalised_score": -0.831
+  },
+  "laxmi": {
+    "symbol": "500206",
+    "name": "Margo Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Margo Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 1.3% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 1.28,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 3.33,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "500206",
+    "name": "Margo Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Margo Finance Ltd \u2014 weak technical setup (score 1.0/6): Revenue -22.2% YoY \u2014 declining; Net profit declined -133.3% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 24.5,
+    "from_high_pct": 27.3,
+    "revenue_growth_pct": -22.2,
+    "profit_growth_pct": -133.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 27.3% of 52w high \u2014 moderate momentum; Revenue -22.2% YoY \u2014 declining; Net profit declined -133.3% YoY",
+    "price_position": {
+      "current_price": 65.4,
+      "52w_high": 90.0,
+      "52w_low": 54.0,
+      "position_pct": 31.7,
+      "from_high_pct": 27.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "500206",
+    "name": "Margo Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Margo Finance Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b930cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1991)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

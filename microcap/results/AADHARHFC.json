@@ -1,0 +1,113 @@
+{
+  "symbol": "AADHARHFC",
+  "name": "Aadhar Housing Finance Ltd",
+  "sector": "",
+  "market_cap": "\u20b921,935Cr.",
+  "market_cap_cr": 21935.0,
+  "description": "AboutAadhar Housing Finance Ltd is one of the largest low-income housing finance companies in India servicing the home financing needs of the low income sections of the society.[1]Key PointsFocus on Low-Income Financing[1]Aadhar Housing Finance is a housing finance company (HFC) focused on the low-income housing segment with a ticket size of < Rs 15 lakh. The average ticket size of loans was Rs 10 lakh, with an average loan-to-value of 58.3% end of December 2023.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AADHARHFC/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Aadhar Housing Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Aadhar Housing Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 11.4% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 1.5/10 \u2014 reject (78% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Aadhar Housing Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -3.062,
+    "normalised_score": -0.681
+  },
+  "laxmi": {
+    "symbol": "AADHARHFC",
+    "name": "Aadhar Housing Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Aadhar Housing Finance Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "Low ROCE: 11.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 11.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -15.79,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AADHARHFC",
+    "name": "Aadhar Housing Finance Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Aadhar Housing Finance Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 10.8% of 52w high \u2014 strong momentum. Concerns: Revenue -9.6% YoY \u2014 declining, Net profit declined -14.3% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 19.0,
+    "from_high_pct": 10.8,
+    "revenue_growth_pct": -9.6,
+    "profit_growth_pct": -14.3,
+    "optionality_signals": [],
+    "technical_notes": "Price within 10.8% of 52w high \u2014 strong momentum; Revenue -9.6% YoY \u2014 declining; Net profit declined -14.3% YoY",
+    "price_position": {
+      "current_price": 502.0,
+      "52w_high": 563.0,
+      "52w_low": 425.0,
+      "position_pct": 55.8,
+      "from_high_pct": 10.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AADHARHFC",
+    "name": "Aadhar Housing Finance Ltd",
+    "verdict": "reject",
+    "confidence": 0.775,
+    "report": "Aadhar Housing Finance Ltd \u2014 rejected (score 1.5/10): operates in high-risk sector: housing finance",
+    "score": 1.5,
+    "red_flags": [
+      "operates in high-risk sector: housing finance"
+    ],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "negative",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

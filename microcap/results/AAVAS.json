@@ -1,0 +1,117 @@
+{
+  "symbol": "AAVAS",
+  "name": "AAVAS Financiers Ltd",
+  "sector": "",
+  "market_cap": "\u20b911,075Cr.",
+  "market_cap_cr": 11075.0,
+  "description": "AboutIncorporated in 2011, Aavas Financiers Ltd provides housing loans & advances[1]Key PointsBusiness OverviewAavas is a retail, affordable housing finance company, primarily serving low and middle-income self-employed customers in semi-urban and rural India. The company\u2019s product offering consists of home loans for the purchase or construction of residential properties and the extension and repair of existing housing units, Loans against property, and MSME loans.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AAVAS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "AAVAS Financiers Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "AAVAS Financiers Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/4 years positive; Low ROCE: 9.9% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Convexity: both B2B and B2C revenue streams",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 AAVAS Financiers Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.737,
+    "normalised_score": -0.831
+  },
+  "laxmi": {
+    "symbol": "AAVAS",
+    "name": "AAVAS Financiers Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "AAVAS Financiers Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 1.0,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/4 years positive",
+      "Low ROCE: 9.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 9.92,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -17.91,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AAVAS",
+    "name": "AAVAS Financiers Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "AAVAS Financiers Ltd \u2014 weak technical setup (score 1.0/6): Revenue -45.5% YoY \u2014 declining; Net profit declined -42.4% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 16.1,
+    "from_high_pct": 21.3,
+    "revenue_growth_pct": -45.5,
+    "profit_growth_pct": -42.4,
+    "optionality_signals": [],
+    "technical_notes": "Price within 21.3% of 52w high \u2014 moderate momentum; Revenue -45.5% YoY \u2014 declining; Net profit declined -42.4% YoY",
+    "price_position": {
+      "current_price": 1397.0,
+      "52w_high": 1775.0,
+      "52w_low": 1050.0,
+      "position_pct": 47.9,
+      "from_high_pct": 21.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AAVAS",
+    "name": "AAVAS Financiers Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "AAVAS Financiers Ltd \u2014 rejected (score 2.5/10): operates in high-risk sector: housing finance",
+    "score": 2.5,
+    "red_flags": [
+      "operates in high-risk sector: housing finance"
+    ],
+    "positive_catalysts": [
+      "Established company (founded ~2011)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "negative",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

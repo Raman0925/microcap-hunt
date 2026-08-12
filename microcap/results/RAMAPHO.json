@@ -1,0 +1,114 @@
+{
+  "symbol": "RAMAPHO",
+  "name": "Rama Phosphates Ltd",
+  "sector": "",
+  "market_cap": "\u20b9434Cr.",
+  "market_cap_cr": 434.0,
+  "description": "AboutIncorporated in 1982, Rama Phosphates Ltd manufactures Fertilizer, Sulphuric Acid, Micro Nutrients and Soya oil[1]Key PointsProduct Profile:[1]a)Fertilizers:[2]Fortified Fertilizers namely Zinacated & Boronated Single Super Phosphate in Powder and Granule form, Mixed Fertilizers namely NPK of various grades, Water Soluble Complex Fertilizers, Micronutrients namely Magnesium Sulphate, Insecticides, Soil Conditioner,b)Chemicals:[3]Sulphuric Acid 98%, Oleum 23%, and Linear Alkyl Benzene Sulphonic Acid (Labsa)c)Oil:[4]Oil division is engaged in extraction of Soya Bean Crude Oil, Soya De -Oiled Cake, Soya Refined Edible Oil, LecithinRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/RAMAPHO/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "Rama Phosphates Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality; Low PE 8.1 with positive revenue growth \u2014 potentially overlooked. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "verdict_memo": "Rama Phosphates Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality; Low PE 8.1 with positive revenue growth \u2014 potentially overlooked. Laxmi: borderline | Meera: reject | Tara: borderline. High-risk contrarian watch.",
+  "investment_thesis": "Rama Phosphates Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 15.4% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality; Low PE 8.1 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "RAMAPHO",
+    "name": "Rama Phosphates Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Rama Phosphates Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 15.4% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 15.4% (adequate)",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 15.4,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 2.25,
+    "forensic_flags": [],
+    "owner_earnings": -10.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "RAMAPHO",
+    "name": "Rama Phosphates Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Rama Phosphates Ltd \u2014 weak technical setup (score 1.0/6): Price 43.3% below 52w high \u2014 weak price action; Net profit declined -225.0% YoY Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality; Low PE 8.1 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 1.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 8.07,
+    "from_high_pct": 43.3,
+    "revenue_growth_pct": 2.6,
+    "profit_growth_pct": -225.0,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+      "Low PE 8.1 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Revenue +2.6% YoY \u2014 growing; Price 43.3% below 52w high \u2014 weak price action; Net profit declined -225.0% YoY",
+    "price_position": {
+      "current_price": 123.0,
+      "52w_high": 217.0,
+      "52w_low": 103.0,
+      "position_pct": 17.5,
+      "from_high_pct": 43.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "RAMAPHO",
+    "name": "Rama Phosphates Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Rama Phosphates Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b9434cr mcap) \u2014 large runway ahead, Established company (founded ~1982). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9434cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1982)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

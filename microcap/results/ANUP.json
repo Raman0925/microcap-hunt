@@ -1,0 +1,112 @@
+{
+  "symbol": "ANUP",
+  "name": "The Anup Engineering Ltd",
+  "sector": "",
+  "market_cap": "\u20b93,822Cr.",
+  "market_cap_cr": 3822.0,
+  "description": "AboutThe Anup Engineering Limited demerged from its holding company Arvind Limited in 2018.[1]. It manufactures Heat Exchangers, Reactors, Pressure Vessels, Columns & Towers, Industrial Centrifuges and Formed Components.[2]The company's products are used in wide range of process industries including Oil & Gas, Petrochemicals, LNG, Fertilizers, Chemicals, Pharmaceuticals, Power, Water, Paper & Pulp and Aerospace.[2][3]Key PointsProduct PortfolioThe company offers a range of Heat Exchangers, Reactors, Pressure Vessels, Columns & Towers, Industrial Centrifuges & Formed Components catering to various process industries like Oil & Gas, Petrochemicals, LNG, Hydrogen, Fertilizers, Chemicals/ Pharmaceuticals, Power, Water, Paper & Pulp, and Aerospace.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ANUP/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "The Anup Engineering Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "The Anup Engineering Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 20.7% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "ANUP",
+    "name": "The Anup Engineering Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "The Anup Engineering Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 20.7% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 20.7% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 20.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 1.31,
+    "forensic_flags": [],
+    "owner_earnings": -0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ANUP",
+    "name": "The Anup Engineering Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "The Anup Engineering Ltd \u2014 weak technical setup (score 1.0/6): Revenue -0.8% YoY \u2014 declining; Net profit declined -100.0% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 45.3,
+    "from_high_pct": 25.9,
+    "revenue_growth_pct": -0.8,
+    "profit_growth_pct": -100.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 25.9% of 52w high \u2014 moderate momentum; Revenue -0.8% YoY \u2014 declining; Net profit declined -100.0% YoY",
+    "price_position": {
+      "current_price": 1908.0,
+      "52w_high": 2576.0,
+      "52w_low": 1410.0,
+      "position_pct": 42.7,
+      "from_high_pct": 25.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ANUP",
+    "name": "The Anup Engineering Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "The Anup Engineering Ltd has a mixed narrative (score 4.0/10). Positives: Established company (founded ~2018), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2018)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

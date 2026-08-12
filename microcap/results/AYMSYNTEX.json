@@ -1,0 +1,113 @@
+{
+  "symbol": "AYMSYNTEX",
+  "name": "AYM Syntex Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,504Cr.",
+  "market_cap_cr": 1504.0,
+  "description": "AboutIncorporated in 1985, AYM SyntexLtd is a manufacturer and exporterof Polyester Filament Yarn, NylonFilament Yarn and Bulk, ContinuousFilament Yarn[1]Key PointsBusiness Overview:[1]ASL is a leading manufacturer of multi-polymer technical yarn catering to various applications, including fashion textiles, automotive interiors, and industrial sectors. It is led by experienced leadership with a strong textiles and manufacturing engineering background.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AYMSYNTEX/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "AYM Syntex Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.3% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "AYM Syntex Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.3% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 5.3% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 AYM Syntex Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.3% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "AYMSYNTEX",
+    "name": "AYM Syntex Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "AYM Syntex Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.3% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 5.3% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 5.35,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 2.12,
+    "forensic_flags": [],
+    "owner_earnings": 43.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AYMSYNTEX",
+    "name": "AYM Syntex Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "AYM Syntex Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 8.9% of 52w high \u2014 strong momentum, Revenue +4.4% YoY \u2014 growing. Concerns: Net profit declined -10.4% YoY.",
+    "score": 3.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 80.0,
+    "from_high_pct": 8.9,
+    "revenue_growth_pct": 4.4,
+    "profit_growth_pct": -10.4,
+    "optionality_signals": [],
+    "technical_notes": "Price within 8.9% of 52w high \u2014 strong momentum; Revenue +4.4% YoY \u2014 growing; Net profit declined -10.4% YoY",
+    "price_position": {
+      "current_price": 256.0,
+      "52w_high": 281.0,
+      "52w_low": 142.0,
+      "position_pct": 82.0,
+      "from_high_pct": 8.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AYMSYNTEX",
+    "name": "AYM Syntex Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "AYM Syntex Ltd has a mixed narrative (score 5.5/10). Positives: Established company (founded ~1985), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1985)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

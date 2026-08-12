@@ -1,0 +1,110 @@
+{
+  "symbol": "BAJAJCON",
+  "name": "Bajaj Consumer Care Ltd",
+  "sector": "",
+  "market_cap": "\u20b97,066Cr.",
+  "market_cap_cr": 7066.0,
+  "description": "AboutBajaj Consumer Care is engaged in the business of cosmetics, toiletries and other personal care products. The Company has presence in both domestic and international markets.(Source : 201903 Annual Report Page No: 98)Key PointsProduct Portfolio:a) Hair Care Products:[1]The segment is led by its flagship product,Bajaj Almond Drops Hair Oil (ADHO)\u2014a premium, non-sticky oil that has abrand recognition and has diversifiedinto shampoos, conditioners, serums,and a cooling variant. The other products includeAyurvedic and functional oils like Brahmi Amla, Amla Aloe Vera, Sarson Amla, and Coco Onion. Their 100% Pure Coconut Oil has shown notable growth (19% in FY25), capturing a2% all-India market share, with6\u201310% shares in key states.[2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BAJAJCON/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Bajaj Consumer Care Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "Bajaj Consumer Care Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 29.0% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.24"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.087,
+    "normalised_score": -0.242
+  },
+  "laxmi": {
+    "symbol": "BAJAJCON",
+    "name": "Bajaj Consumer Care Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Bajaj Consumer Care Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 29.0% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 29.0% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 29.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 1.2,
+    "forensic_flags": [],
+    "owner_earnings": 173.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BAJAJCON",
+    "name": "Bajaj Consumer Care Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Bajaj Consumer Care Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 21.8% of 52w high \u2014 moderate momentum, Revenue +2.1% YoY \u2014 growing. Concerns: Net profit declined -12.6% YoY.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 31.4,
+    "from_high_pct": 21.8,
+    "revenue_growth_pct": 2.1,
+    "profit_growth_pct": -12.6,
+    "optionality_signals": [],
+    "technical_notes": "Price within 21.8% of 52w high \u2014 moderate momentum; Revenue +2.1% YoY \u2014 growing; Net profit declined -12.6% YoY",
+    "price_position": {
+      "current_price": 541.0,
+      "52w_high": 692.0,
+      "52w_low": 220.0,
+      "position_pct": 68.0,
+      "from_high_pct": 21.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BAJAJCON",
+    "name": "Bajaj Consumer Care Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Bajaj Consumer Care Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 0.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "symbol": "526709",
+  "name": "BITS Ltd",
+  "sector": "",
+  "market_cap": "\u20b983.0Cr.",
+  "market_cap_cr": 83.0,
+  "description": "AboutIncorporated in 1992, Bits Ltd is in the  business of imparting education in all  streams through institutes, colleges,  universities, etc.[1]Key PointsBusiness Overview:[1]BL provides education in Arts, Commerce, Science, Management, Engineering, Hospitality, and IT through institutes, colleges, universities, and distance learning programs in India and abroad.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/526709/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "BITS Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "BITS Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 3.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 BITS Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "526709",
+    "name": "BITS Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "BITS Ltd \u2014 rejected (score 2.5/10): Low ROCE: 3.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 3.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 3.67,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -0.59,
+    "forensic_flags": [],
+    "owner_earnings": 0.2,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "526709",
+    "name": "BITS Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "BITS Ltd \u2014 weak technical setup (score 0.0/6): Price 60.3% below 52w high \u2014 weak price action; Revenue -4.3% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 109.0,
+    "from_high_pct": 60.3,
+    "revenue_growth_pct": -4.3,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price 60.3% below 52w high \u2014 weak price action; Revenue -4.3% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 7.42,
+      "52w_high": 18.7,
+      "52w_low": 6.45,
+      "position_pct": 7.9,
+      "from_high_pct": 60.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "526709",
+    "name": "BITS Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "BITS Ltd has a mixed narrative (score 3.5/10). Positives: Small size (\u20b983cr mcap) \u2014 large runway ahead, Established company (founded ~1992). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b983cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1992)",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

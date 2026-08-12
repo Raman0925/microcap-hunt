@@ -1,0 +1,109 @@
+{
+  "symbol": "BHAGCHEM",
+  "name": "Bhagiradha Chemicals & Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b93,716Cr.",
+  "market_cap_cr": 3716.0,
+  "description": "AboutBhagiradha Chemicals & Industries is an Agro Chemical Company in India involved in the manufacturing of insecticides, fungicides, herbicides etc. It was Promoted by late Sri S. Koteswara Rao, a former scientist of Indian Institute of Chemical Technology, Hyderabad in the year 1993.[1][2]Key PointsProduct Portfolio (32 Active Ingredients)[1]The company's product portfolio includes a wide range of insecticides, fungicides, herbicides, and specialty intermediariesa. Insecticides:Chlorpyrifos, Diafenthiuron, Fipronil, Buprofezin, etc.b. Fungicides:Azoxystrobinc. Herbicides:Imazethapyr, Clodinafop-propargyl, Cloquintocet-mexyld. Specialty-intermediaries:R-HPPA, 2,6-Dichloroaniline, etc[2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BHAGCHEM/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bhagiradha Chemicals & Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Bhagiradha Chemicals & Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 5.2% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bhagiradha Chemicals & Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.2% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.3,
+    "normalised_score": -0.289
+  },
+  "laxmi": {
+    "symbol": "BHAGCHEM",
+    "name": "Bhagiradha Chemicals & Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Bhagiradha Chemicals & Industries Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.2% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 5.2% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 5.22,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 0.33,
+    "forensic_flags": [],
+    "owner_earnings": 3.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BHAGCHEM",
+    "name": "Bhagiradha Chemicals & Industries Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Bhagiradha Chemicals & Industries Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 9.5% of 52w high \u2014 strong momentum, Revenue +44.7% YoY \u2014 strong momentum. Notes: none.",
+    "score": 4.0,
+    "price_signal": "bullish",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 130.0,
+    "from_high_pct": 9.5,
+    "revenue_growth_pct": 44.7,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 9.5% of 52w high \u2014 strong momentum; Revenue +44.7% YoY \u2014 strong momentum",
+    "price_position": {
+      "current_price": 287.0,
+      "52w_high": 317.0,
+      "52w_low": 170.0,
+      "position_pct": 79.6,
+      "from_high_pct": 9.5
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BHAGCHEM",
+    "name": "Bhagiradha Chemicals & Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Bhagiradha Chemicals & Industries Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~1993), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1993)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

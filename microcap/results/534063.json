@@ -1,0 +1,108 @@
+{
+  "symbol": "534063",
+  "name": "Futuristic Solutions Ltd",
+  "sector": "",
+  "market_cap": "\u20b945.9Cr.",
+  "market_cap_cr": 45.9,
+  "description": "AboutIncorporated in 1983, Futuristic Solutions Ltd provides recovery of disputed debts and granting and handling of loan portfolios.[1]Key PointsBusiness Overview:[1][2]FSL is registered as a non-systematically important non-deposit taking non-banking financial company and engages itself in buying loan portfolios from other NBFC. The company's main business is to provide the solutions for arbitration cases, recovery of disputed debts, sale, purchase, discounting and dealing in the actionable claims, debt resolution, recoverable debts, claims, arbitration, and granting of the personal /business loans, etc.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/534063/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Futuristic Solutions Ltd \u2014 rejected (score -0.12). Laxmi: borderline | Meera: pass | Tara: reject.",
+  "verdict_memo": "Futuristic Solutions Ltd \u2014 rejected (score -0.12). Laxmi: borderline | Meera: pass | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; Revenue grew 3/4 years consistently. What to watch: Low ROCE: 7.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 4.5/6 \u2014 pass (55% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.12"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -0.537,
+    "normalised_score": -0.119
+  },
+  "laxmi": {
+    "symbol": "534063",
+    "name": "Futuristic Solutions Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Futuristic Solutions Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, Revenue grew 3/4 years consistently. Concerns: Low ROCE: 7.0% \u2014 poor capital efficiency, D/E ratio not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "Low ROCE: 7.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 7.04,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 1.34,
+    "forensic_flags": [],
+    "owner_earnings": 1.2,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "534063",
+    "name": "Futuristic Solutions Ltd",
+    "verdict": "pass",
+    "confidence": 0.55,
+    "report": "Futuristic Solutions Ltd \u2014 solid technical setup (score 4.5/6). Signals: Price within 29.4% of 52w high \u2014 moderate momentum, Revenue +35.6% YoY \u2014 strong momentum, PE 17.1 < revenue growth 35.6% \u2014 undervalued vs growth. Notes: Profit grew +26.0% but margin compressed.",
+    "score": 4.5,
+    "price_signal": "neutral",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 17.1,
+    "from_high_pct": 29.4,
+    "revenue_growth_pct": 35.6,
+    "profit_growth_pct": 26.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 29.4% of 52w high \u2014 moderate momentum; Revenue +35.6% YoY \u2014 strong momentum; PE 17.1 < revenue growth 35.6% \u2014 undervalued vs growth; Profit grew +26.0% but margin compressed",
+    "price_position": {
+      "current_price": 43.8,
+      "52w_high": 62.0,
+      "52w_low": 33.2,
+      "position_pct": 36.8,
+      "from_high_pct": 29.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "534063",
+    "name": "Futuristic Solutions Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Futuristic Solutions Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b946cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1983)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

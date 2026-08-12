@@ -1,0 +1,113 @@
+{
+  "symbol": "AMNPLST",
+  "name": "Amines & Plasticizers Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,097Cr.",
+  "market_cap_cr": 1097.0,
+  "description": "AboutIncorporated in 1973, Amines & Plasticizers Ltd manufactures over 60 different varieties of organic chemicals, amines, solvents, andfertilizers.[1]Key PointsBusiness Overview:[1]APL was initially formed to take over India Carbons Ltd.\u2019s project for manufacturing 3,000 tonnes of DOP plasticizers used in PVC applications. Over time, it evolved into a manufacturer and trader of organic and inorganic chemicals, including ethanolamines, morpholine, plasticizers, alkyl morpholine, gas treating solvents (like methyl diethanolamine), and morpholine oxide. Today, APL is a global supplier serving a wide range of industries.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AMNPLST/",
+  "verdict": "borderline",
+  "confidence": 0.45,
+  "verdict_reason": "Amines & Plasticizers Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "verdict_memo": "Amines & Plasticizers Ltd \u2014 borderline (score 0.00). Laxmi: borderline | Meera: borderline | Tara: borderline. Worth watching but not a buy yet.",
+  "investment_thesis": "Amines & Plasticizers Ltd is worth monitoring \u2014 mixed signals across the three filters. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 16.9% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: borderline (45% confidence) \u2014 combined score 0.00"
+  ],
+  "vote_tally": {
+    "rejects": 0,
+    "passes": 0,
+    "borderlines": 3,
+    "weighted_score": 0.0,
+    "normalised_score": 0.0
+  },
+  "laxmi": {
+    "symbol": "AMNPLST",
+    "name": "Amines & Plasticizers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Amines & Plasticizers Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 16.9% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 16.9% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 16.9,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.5,
+    "forensic_flags": [],
+    "owner_earnings": 8.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AMNPLST",
+    "name": "Amines & Plasticizers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Amines & Plasticizers Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 22.0% of 52w high \u2014 moderate momentum, Revenue +15.4% YoY \u2014 growing. Concerns: Net profit declined -20.0% YoY.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 30.1,
+    "from_high_pct": 22.0,
+    "revenue_growth_pct": 15.4,
+    "profit_growth_pct": -20.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 22.0% of 52w high \u2014 moderate momentum; Revenue +15.4% YoY \u2014 growing; Net profit declined -20.0% YoY",
+    "price_position": {
+      "current_price": 199.0,
+      "52w_high": 255.0,
+      "52w_low": 127.0,
+      "position_pct": 56.2,
+      "from_high_pct": 22.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AMNPLST",
+    "name": "Amines & Plasticizers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Amines & Plasticizers Ltd has a mixed narrative (score 5.0/10). Positives: Established company (founded ~1973), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1973)",
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

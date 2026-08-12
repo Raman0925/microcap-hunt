@@ -1,0 +1,110 @@
+{
+  "symbol": "ANDHRSUGAR",
+  "name": "Andhra Sugars Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,345Cr.",
+  "market_cap_cr": 1345.0,
+  "description": "AboutIncorporated in 1947, Andhra Sugars Limited is a manufacturer of Sugar, Industrial Alcohol, Chlor Alkali Products, Aspirin, Sulphuric Acid, Liquid & Solid Propellants. It also generates power for captive use[1]Key PointsBusiness Segments1) Chlor-alkali (37% in FY24 vs 38% in FY22):[1][2]The company offers Chlor-alkali products like caustic soda, caustic potash and its co-products. The segment revenue declined by 6% between FY22 and FY24, due to a significant decline in the realization of caustic soda.[3]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ANDHRSUGAR/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Andhra Sugars Ltd \u2014 rejected (score 3.5/10): Low ROCE: 10.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Andhra Sugars Ltd \u2014 rejected (score 3.5/10): Low ROCE: 10.2% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation. What to watch: Low ROCE: 10.2% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.0/10 \u2014 reject (75% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Andhra Sugars Ltd \u2014 rejected (score 3.5/10): Low ROCE: 10.2% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.885,
+    "normalised_score": -0.641
+  },
+  "laxmi": {
+    "symbol": "ANDHRSUGAR",
+    "name": "Andhra Sugars Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Andhra Sugars Ltd \u2014 rejected (score 3.5/10): Low ROCE: 10.2% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation"
+    ],
+    "key_risks": [
+      "Low ROCE: 10.2% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 10.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 6.0,
+    "forensic_flags": [],
+    "owner_earnings": 3.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ANDHRSUGAR",
+    "name": "Andhra Sugars Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Andhra Sugars Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 7.3% of 52w high \u2014 strong momentum. Concerns: Revenue -10.4% YoY \u2014 declining, Net profit declined -93.5% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 11.0,
+    "from_high_pct": 7.3,
+    "revenue_growth_pct": -10.4,
+    "profit_growth_pct": -93.5,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 7.3% of 52w high \u2014 strong momentum; Revenue -10.4% YoY \u2014 declining; Net profit declined -93.5% YoY",
+    "price_position": {
+      "current_price": 99.2,
+      "52w_high": 107.0,
+      "52w_low": 63.3,
+      "position_pct": 82.2,
+      "from_high_pct": 7.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ANDHRSUGAR",
+    "name": "Andhra Sugars Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Andhra Sugars Ltd \u2014 rejected (score 2.0/10): failed qualitative checks",
+    "score": 2.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

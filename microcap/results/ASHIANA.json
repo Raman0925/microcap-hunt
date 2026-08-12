@@ -1,0 +1,116 @@
+{
+  "symbol": "ASHIANA",
+  "name": "Ashiana Housing Ltd",
+  "sector": "",
+  "market_cap": "\u20b93,833Cr.",
+  "market_cap_cr": 3833.0,
+  "description": "AboutAshiana Housing is principal business activity of the company is Real Estate Development.Key PointsBusiness Model[1]Ashiana Housing's business model emphasizes in-house end-to-end execution for premium homes, kid-centric residences, and senior living projects across 8 locations. It treats land as raw material, relies on in-house construction, sales, marketing, and facility management to ensure quality, on-time delivery, and customer satisfaction.Their differentiated offering is senior living housing accounting for 25%+ of presales,with target to reach 50%.[2]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ASHIANA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ashiana Housing Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Ashiana Housing Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: ROCE 15.0% (adequate). What to watch: FCF inconsistent \u2014 only 0/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ashiana Housing Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.9,
+    "normalised_score": -0.422
+  },
+  "laxmi": {
+    "symbol": "ASHIANA",
+    "name": "Ashiana Housing Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Ashiana Housing Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "ROCE 15.0% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 15.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": -0.46,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASHIANA",
+    "name": "Ashiana Housing Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Ashiana Housing Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 15.0% of 52w high \u2014 strong momentum. Concerns: Revenue -76.3% YoY \u2014 declining, Net profit declined -57.4% YoY.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 30.9,
+    "from_high_pct": 15.0,
+    "revenue_growth_pct": -76.3,
+    "profit_growth_pct": -57.4,
+    "optionality_signals": [],
+    "technical_notes": "Price within 15.0% of 52w high \u2014 strong momentum; Revenue -76.3% YoY \u2014 declining; Net profit declined -57.4% YoY",
+    "price_position": {
+      "current_price": 381.0,
+      "52w_high": 448.0,
+      "52w_low": 269.0,
+      "position_pct": 62.6,
+      "from_high_pct": 15.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASHIANA",
+    "name": "Ashiana Housing Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Ashiana Housing Ltd has a mixed narrative (score 3.0/10). Positives: Contrarian: currently unloved/unfollowed sector, No recent news coverage \u2014 possible hidden gem. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 3.3,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected"
+    ],
+    "smile_score": 0.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

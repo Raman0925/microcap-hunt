@@ -1,0 +1,111 @@
+{
+  "symbol": "507981",
+  "name": "Jindal Hotels Ltd",
+  "sector": "",
+  "market_cap": "\u20b942.8Cr.",
+  "market_cap_cr": 42.8,
+  "description": "AboutIncorporated in 1984, Jindal Hotels Ltd is in the business of operating 3-star category Hotel[1]Key PointsBusiness Overview:[1][2]JHL operates a 3-star hotel,Grand Mercure Surya Palace, in Vadodara under a franchise agreement with the Accor group. The hotel features 146 rooms, including Deluxe and Executive Suites, with an average occupancy of 70%. It offers 6 banquet halls, a spa, a gym, a swimming pool, conference rooms, and a multi-cuisine restaurant. Strategically located in Sayajigunj, near the central business district, it caters to both business and leisure travelers.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/507981/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Jindal Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Jindal Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.7% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 11.7% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Jindal Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.7% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.688,
+    "normalised_score": -0.819
+  },
+  "laxmi": {
+    "symbol": "507981",
+    "name": "Jindal Hotels Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Jindal Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 11.7% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 11.7% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 11.7,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 3.49,
+    "forensic_flags": [],
+    "owner_earnings": 1.6,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "507981",
+    "name": "Jindal Hotels Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Jindal Hotels Ltd \u2014 weak technical setup (score 0.0/6): Price 34.2% below 52w high \u2014 weak price action; Revenue -11.9% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 0.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 12.1,
+    "from_high_pct": 34.2,
+    "revenue_growth_pct": -11.9,
+    "profit_growth_pct": -3.7,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price 34.2% below 52w high \u2014 weak price action; Revenue -11.9% YoY \u2014 declining; Net profit declined -3.7% YoY",
+    "price_position": {
+      "current_price": 61.2,
+      "52w_high": 93.0,
+      "52w_low": 54.0,
+      "position_pct": 18.5,
+      "from_high_pct": 34.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "507981",
+    "name": "Jindal Hotels Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Jindal Hotels Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b943cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1984)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

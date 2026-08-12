@@ -1,0 +1,112 @@
+{
+  "symbol": "ASTEC",
+  "name": "Astec Lifesciences Ltd",
+  "sector": "",
+  "market_cap": "\u20b91,371Cr.",
+  "market_cap_cr": 1371.0,
+  "description": "AboutThe Company is into manufacturing of agrochemical active ingredients (technical), bulk and formulations, intermediate products and it sells its products in India as well as exports them to approximately 24 countries.Astec also has undertaken a number of custom synthesis projects, for its clients in Europe, Japan and the US. It is present only in business to business sale (B2B).[1][2][3]Key PointsProduct PortfolioThe company offers a range of products and intermediates, including fungicides, insecticides, herbicides, and various chemical compounds, serving global customers and including triazole fungicides, heterocyclic herbicides, sulfonylurea herbicides, synthetic pyrethroids, fluorinated compounds, halides, intermediates, ketones, ethers, alcohols, and many others.[1]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ASTEC/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Astec Lifesciences Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: -5.5% \u2014 poor capital efficiency",
+  "verdict_memo": "Astec Lifesciences Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: -5.5% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: -5.5% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Astec Lifesciences Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: -5.5% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.59,
+    "normalised_score": -0.576
+  },
+  "laxmi": {
+    "symbol": "ASTEC",
+    "name": "Astec Lifesciences Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Astec Lifesciences Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: -5.5% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: -5.5% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": -5.46,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.2,
+    "forensic_flags": [],
+    "owner_earnings": 15.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASTEC",
+    "name": "Astec Lifesciences Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Astec Lifesciences Ltd \u2014 weak technical setup (score 1.0/6): Price 34.7% below 52w high \u2014 weak price action",
+    "score": 1.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "growing",
+    "pe_ratio": null,
+    "from_high_pct": 34.7,
+    "revenue_growth_pct": 14.0,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Revenue +14.0% YoY \u2014 growing; Price 34.7% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 615.0,
+      "52w_high": 942.0,
+      "52w_low": 512.0,
+      "position_pct": 24.0,
+      "from_high_pct": 34.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASTEC",
+    "name": "Astec Lifesciences Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Astec Lifesciences Ltd has a mixed narrative (score 5.5/10). Positives: Growth ambition evident in description, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

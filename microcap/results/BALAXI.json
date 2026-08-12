@@ -1,0 +1,113 @@
+{
+  "symbol": "BALAXI",
+  "name": "Balaxi Pharmaceuticals Ltd",
+  "sector": "",
+  "market_cap": "\u20b9131Cr.",
+  "market_cap_cr": 131.0,
+  "description": "AboutBalaxi Pharmaceuticals Ltd is an IPR-based pharmaceutical Company engaged in producing, stocking, selling, and supplying branded and generic medicines.[1]Key PointsProduct Portfolio:[1]The Co's portfolio includes a balanced mix of generic and branded generic medicines. The strongest product categories are Antibiotics(84 products), Analgesics(65 products), Medical Devices(32 products)and Vitamins **(26 products) **Read MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/BALAXI/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Balaxi Pharmaceuticals Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 5.9% \u2014 poor capital efficiency",
+  "verdict_memo": "Balaxi Pharmaceuticals Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 5.9% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 5.9% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Balaxi Pharmaceuticals Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 5.9% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.84,
+    "normalised_score": -0.409
+  },
+  "laxmi": {
+    "symbol": "BALAXI",
+    "name": "Balaxi Pharmaceuticals Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Balaxi Pharmaceuticals Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 5.9% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 5.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/2 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 5.93,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 2.1,
+    "forensic_flags": [],
+    "owner_earnings": 0.1,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BALAXI",
+    "name": "Balaxi Pharmaceuticals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Balaxi Pharmaceuticals Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Revenue +140.0% YoY \u2014 strong momentum, PE 35.3 < revenue growth 140.0% \u2014 undervalued vs growth. Concerns: Price 52.4% below 52w high \u2014 weak price action. Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 3.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "strong",
+    "pe_ratio": 35.3,
+    "from_high_pct": 52.4,
+    "revenue_growth_pct": 140.0,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +140.0% YoY \u2014 strong momentum; PE 35.3 < revenue growth 140.0% \u2014 undervalued vs growth; Price 52.4% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 23.6,
+      "52w_high": 49.6,
+      "52w_low": 15.2,
+      "position_pct": 24.4,
+      "from_high_pct": 52.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BALAXI",
+    "name": "Balaxi Pharmaceuticals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Balaxi Pharmaceuticals Ltd has a mixed narrative (score 3.5/10). Positives: Small size (\u20b9131cr mcap) \u2014 large runway ahead, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9131cr mcap) \u2014 large runway ahead",
+      "Operating in large / growing sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

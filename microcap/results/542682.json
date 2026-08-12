@@ -1,0 +1,113 @@
+{
+  "symbol": "542682",
+  "name": "Harish Textile Engineers Ltd",
+  "sector": "",
+  "market_cap": "\u20b924.0Cr.",
+  "market_cap_cr": 24.0,
+  "description": "AboutIncorporated in 2010, Harish Textile Engineers Ltd manufactures textile processing & finishing machineries, non-textile projects, and regenerated polyester staple fibre.[1]Key PointsBusiness Overview:[1]HTEL is a producer of textile processing and finishing machinery in India. It is also engaged in the production of non-woven fabrics, primarily used in automotive interiors, filtration, and hygiene segments. Furthermore, the company is involved in the production of polyester staple fibre (PSF) by recycling PET bottles and waste polyester.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/542682/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Harish Textile Engineers Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/2 years positive; D/E ratio not available",
+  "verdict_memo": "Harish Textile Engineers Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/2 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 26.5% > 20% \u2014 exceptional capital efficiency. What to watch: FCF inconsistent \u2014 only 1/2 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 4.0/10 \u2014 borderline (47% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Harish Textile Engineers Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/2 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "542682",
+    "name": "Harish Textile Engineers Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Harish Textile Engineers Ltd \u2014 rejected (score 3.5/10): FCF inconsistent \u2014 only 1/2 years positive; D/E ratio not available",
+    "score": 3.5,
+    "key_strengths": [
+      "ROCE 26.5% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/2 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 26.5,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 2.0,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "542682",
+    "name": "Harish Textile Engineers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Harish Textile Engineers Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 4.8% of 52w high \u2014 strong momentum. Concerns: Revenue -32.0% YoY \u2014 declining. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 4.33,
+    "from_high_pct": 4.8,
+    "revenue_growth_pct": -32.0,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 4.8% of 52w high \u2014 strong momentum; Revenue -32.0% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 71.9,
+      "52w_high": 75.5,
+      "52w_low": 52.4,
+      "position_pct": 84.4,
+      "from_high_pct": 4.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "542682",
+    "name": "Harish Textile Engineers Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Harish Textile Engineers Ltd has a mixed narrative (score 4.0/10). Positives: Small size (\u20b924cr mcap) \u2014 large runway ahead, Established company (founded ~2010). Red flags: none. Sector: sector appears acceptable.",
+    "score": 4.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b924cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2010)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

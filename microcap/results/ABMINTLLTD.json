@@ -1,0 +1,119 @@
+{
+  "symbol": "ABMINTLLTD",
+  "name": "A B M International Ltd",
+  "sector": "",
+  "market_cap": "\u20b949.4Cr.",
+  "market_cap_cr": 49.4,
+  "description": "AboutIncorporated in 1965, A B M InternationalLtd is primarily engaged in the import ofplastic raw material[1]Key PointsBusiness Overview:[1][2]ABMIL is in the business of importing and selling of plastic raw material PVC resin, finished leather, DOP, urea, polypropylene and high-density polyethylene. It is a government recognized export house. The company is presently importing PVC Resin regularly and closely watchingboth international prices and domestic market demands.Read MoreWebsiteNSE",
+  "screener_url": "https://www.screener.in/company/ABMINTLLTD/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "A B M International Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "A B M International Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: Revenue grew 3/4 years consistently. What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: -10.1% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 A B M International Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.9,
+    "normalised_score": -0.422
+  },
+  "laxmi": {
+    "symbol": "ABMINTLLTD",
+    "name": "A B M International Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "A B M International Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: -10.1% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": -10.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": -10.79,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ABMINTLLTD",
+    "name": "A B M International Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "A B M International Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 16.2% of 52w high \u2014 moderate momentum, Revenue +43.2% YoY \u2014 strong momentum. Concerns: Net profit declined -13.2% YoY.",
+    "score": 3.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "strong",
+    "pe_ratio": null,
+    "from_high_pct": 16.2,
+    "revenue_growth_pct": 43.2,
+    "profit_growth_pct": -13.2,
+    "optionality_signals": [],
+    "technical_notes": "Price within 16.2% of 52w high \u2014 moderate momentum; Revenue +43.2% YoY \u2014 strong momentum; Net profit declined -13.2% YoY",
+    "price_position": {
+      "current_price": 52.6,
+      "52w_high": 62.8,
+      "52w_low": 34.0,
+      "position_pct": 64.6,
+      "from_high_pct": 16.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ABMINTLLTD",
+    "name": "A B M International Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "A B M International Ltd has a mixed narrative (score 5.0/10). Positives: Small size (\u20b949cr mcap) \u2014 large runway ahead, Established company (founded ~1965). Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b949cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1965)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

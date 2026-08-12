@@ -1,0 +1,113 @@
+{
+  "symbol": "ADANIPOWER",
+  "name": "Adani Power Ltd",
+  "sector": "",
+  "market_cap": "\u20b94,03,050Cr.",
+  "market_cap_cr": 403050.0,
+  "description": "AboutAdani Power (APL), a part of the diversified Adani Group, is the largest private thermal power producer in India. The co along with its subsidiaries sell power generated from these projects under a combination of long term Power Purchase Agreements, Short term PPA and on merchant basis.[1][2]Key PointsBusiness Profile:[1]The company operates under the broaderAdani Group\u2019s Energy & Utility portfolio, which includespower generation, transmission, distribution, renewable energy, and international power exports.Market Position:[2][3]The company is thelargest private thermal power producer in India, accounting for7.3%of India\u2019s domestic coal-based power generation capacity.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ADANIPOWER/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Adani Power Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.",
+  "verdict_memo": "Adani Power Ltd \u2014 rejected (score -0.17). Laxmi: borderline | Meera: reject | Tara: borderline.\n\ud83d\udd0d Narrative optionality score: 5.0/10",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 19.1% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 4.5/10 \u2014 borderline (38% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 5.5/10 \u2014 borderline (52% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.17"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -0.75,
+    "normalised_score": -0.167
+  },
+  "laxmi": {
+    "symbol": "ADANIPOWER",
+    "name": "Adani Power Ltd",
+    "verdict": "borderline",
+    "confidence": 0.375,
+    "report": "Adani Power Ltd scores 4.5/10 on fundamentals. Strengths: FCF positive 3/5 years \u2014 adequate, ROCE 19.1% (adequate). Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 4.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 19.1% (adequate)",
+      "Revenue grew 3/4 years consistently"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 19.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 3,
+    "cfo_to_ebitda": 19.27,
+    "forensic_flags": [],
+    "owner_earnings": -69.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ADANIPOWER",
+    "name": "Adani Power Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Adani Power Ltd \u2014 weak technical setup (score 1.0/6): Revenue -17.6% YoY \u2014 declining; Net profit declined -171.1% YoY",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 33.7,
+    "from_high_pct": 17.7,
+    "revenue_growth_pct": -17.6,
+    "profit_growth_pct": -171.1,
+    "optionality_signals": [],
+    "technical_notes": "Price within 17.7% of 52w high \u2014 moderate momentum; Revenue -17.6% YoY \u2014 declining; Net profit declined -171.1% YoY",
+    "price_position": {
+      "current_price": 209.0,
+      "52w_high": 254.0,
+      "52w_low": 116.0,
+      "position_pct": 67.4,
+      "from_high_pct": 17.7
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ADANIPOWER",
+    "name": "Adani Power Ltd",
+    "verdict": "borderline",
+    "confidence": 0.515,
+    "report": "Adani Power Ltd has a mixed narrative (score 5.5/10). Positives: Growth ambition evident in description, Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 5.0,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

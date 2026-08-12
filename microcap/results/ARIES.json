@@ -1,0 +1,108 @@
+{
+  "symbol": "ARIES",
+  "name": "Aries Agro Ltd",
+  "sector": "",
+  "market_cap": "\u20b9463Cr.",
+  "market_cap_cr": 463.0,
+  "description": "AboutIncorporated in 1969, Aries Agro Ltd offers products in the primary, secondary and microfertilizer sector, ranging from individual elements to mixed specialty plant nutrient fertilizers[1]Key PointsBusiness Overview:[1][2][3]AAL is in the business of manufacturing micronutrients and other customized nutritional products for plants and animals. It introduced the chelation technology for manufacturing micronutrients in India and is the market leader in the same. Company offers  bio-degradable complexes of plant nutrients, water soluble NPK fertilizers, value added secondary nutrients, natural and biological products and water treatment formulations. Currently, company has134 brandscustomized based on crop, and agro climatic requirements, with21  organically certified productsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ARIES/",
+  "verdict": "reject",
+  "confidence": 0.7,
+  "verdict_reason": "Aries Agro Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "verdict_memo": "Aries Agro Ltd \u2014 rejected (score -0.24). Laxmi: borderline | Meera: borderline | Tara: reject.",
+  "investment_thesis": "What makes it interesting: FCF positive 5/5 years \u2014 excellent cash generation; ROCE 21.0% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Governance: clean",
+    "Final: reject (70% confidence) \u2014 combined score -0.24"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.087,
+    "normalised_score": -0.242
+  },
+  "laxmi": {
+    "symbol": "ARIES",
+    "name": "Aries Agro Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "Aries Agro Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 5/5 years \u2014 excellent cash generation, ROCE 21.0% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 5/5 years \u2014 excellent cash generation",
+      "ROCE 21.0% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 5,
+    "roce_5yr_avg": 21.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 2.58,
+    "forensic_flags": [],
+    "owner_earnings": 12.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ARIES",
+    "name": "Aries Agro Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Aries Agro Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Price within 22.6% of 52w high \u2014 moderate momentum, Revenue +0.5% YoY \u2014 growing, Profit +100.0% YoY with margin expansion \u2014 quality growth. Concerns: none.",
+    "score": 3.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 10.8,
+    "from_high_pct": 22.6,
+    "revenue_growth_pct": 0.5,
+    "profit_growth_pct": 100.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 22.6% of 52w high \u2014 moderate momentum; Revenue +0.5% YoY \u2014 growing; Profit +100.0% YoY with margin expansion \u2014 quality growth",
+    "price_position": {
+      "current_price": 356.0,
+      "52w_high": 460.0,
+      "52w_low": 285.0,
+      "position_pct": 40.6,
+      "from_high_pct": 22.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ARIES",
+    "name": "Aries Agro Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Aries Agro Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9463cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1969)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

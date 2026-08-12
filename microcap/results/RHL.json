@@ -1,0 +1,114 @@
+{
+  "symbol": "RHL",
+  "name": "Robust Hotels Ltd",
+  "sector": "",
+  "market_cap": "\u20b9293Cr.",
+  "market_cap_cr": 293.0,
+  "description": "AboutIncorporated in 2007, Robust HotelsLtd is in the business of managing andoperating Hotel Hyatt Regency Chennai[1]Key PointsBusiness Overview:[1]RHL is a part of Saraf group. It is in the business of managing hotel operations, serving both domestic and international clientele. Company operates a 5-star hotel property under the Hyatt Regency brand in Chennai. The hotel has 325 rooms, including 28 suits, and is equipped with a swimming pool, fitness center, business center, banquet hall, salon and restaurantsRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/RHL/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Robust Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Robust Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 3.0/6 \u2014 borderline (47% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Robust Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "RHL",
+    "name": "Robust Hotels Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Robust Hotels Ltd \u2014 rejected (score 2.5/10): Low ROCE: 5.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 5.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 5.62,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.49,
+    "forensic_flags": [],
+    "owner_earnings": -21.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "RHL",
+    "name": "Robust Hotels Ltd",
+    "verdict": "borderline",
+    "confidence": 0.47,
+    "report": "Robust Hotels Ltd \u2014 mixed technical signals (score 3.0/6). Positives: Revenue +272.0% YoY \u2014 strong momentum, PE 11.9 < revenue growth 272.0% \u2014 undervalued vs growth. Concerns: Price 49.9% below 52w high \u2014 weak price action. Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 3.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "strong",
+    "pe_ratio": 11.9,
+    "from_high_pct": 49.9,
+    "revenue_growth_pct": 272.0,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +272.0% YoY \u2014 strong momentum; PE 11.9 < revenue growth 272.0% \u2014 undervalued vs growth; Price 49.9% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 170.0,
+      "52w_high": 339.0,
+      "52w_low": 160.0,
+      "position_pct": 5.6,
+      "from_high_pct": 49.9
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "RHL",
+    "name": "Robust Hotels Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Robust Hotels Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b9293cr mcap) \u2014 large runway ahead, Established company (founded ~2007). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9293cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2007)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

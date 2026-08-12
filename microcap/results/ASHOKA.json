@@ -1,0 +1,111 @@
+{
+  "symbol": "ASHOKA",
+  "name": "Ashoka Buildcon Ltd",
+  "sector": "",
+  "market_cap": "\u20b93,284Cr.",
+  "market_cap_cr": 3284.0,
+  "description": "AboutAshoka Buildcon Ltd is engaged in the business of construction and infrastructure facilities on EPC and BOT basis. It is also involved in the sale of RMC (ready mix and making switchgear concrete).[1]Key PointsBusiness Segments[1]a) Construction Contract (70% in FY26 vs 63% in FY25):[2][3][4]The company undertakes engineering, procurement, and construction (EPC) of roads, rail, power projects, etc. It is aFortune India 500 company and one of the leading highway developers in India. It has constructed14,000+ lane kmof highways and electrified30,000+ villagesthrough power T&D projects. Additionally, it has completed750+ Tkmsof overhead electrification, linked170+ Tkmsof railway tracks, laid32,000 kmof optical fibre, and built10+ Mn sq. ft.of buildings.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ASHOKA/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Ashoka Buildcon Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Ashoka Buildcon Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.6% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 8.6% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Ashoka Buildcon Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.6% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "ASHOKA",
+    "name": "Ashoka Buildcon Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Ashoka Buildcon Ltd \u2014 rejected (score 2.5/10): Low ROCE: 8.6% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 8.6% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 8.59,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": -0.53,
+    "forensic_flags": [],
+    "owner_earnings": 142.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ASHOKA",
+    "name": "Ashoka Buildcon Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Ashoka Buildcon Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Revenue +1.5% YoY \u2014 growing, Profit +2.2% YoY with margin expansion \u2014 quality growth. Concerns: Price 45.3% below 52w high \u2014 weak price action. Optionality: Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality.",
+    "score": 2.0,
+    "price_signal": "optionality",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "growing",
+    "pe_ratio": 17.2,
+    "from_high_pct": 45.3,
+    "revenue_growth_pct": 1.5,
+    "profit_growth_pct": 2.2,
+    "optionality_signals": [
+      "Price weakness despite revenue growth \u2014 possible Laurus-2023-type optionality"
+    ],
+    "technical_notes": "Revenue +1.5% YoY \u2014 growing; Profit +2.2% YoY with margin expansion \u2014 quality growth; Price 45.3% below 52w high \u2014 weak price action",
+    "price_position": {
+      "current_price": 117.0,
+      "52w_high": 214.0,
+      "52w_low": 101.0,
+      "position_pct": 14.2,
+      "from_high_pct": 45.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ASHOKA",
+    "name": "Ashoka Buildcon Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "Ashoka Buildcon Ltd has a mixed narrative (score 3.0/10). Positives: Operating in large / growing sector, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

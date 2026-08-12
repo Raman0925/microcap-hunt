@@ -1,0 +1,110 @@
+{
+  "symbol": "IOB",
+  "name": "Indian Overseas Bank",
+  "sector": "",
+  "market_cap": "\u20b965,877Cr.",
+  "market_cap_cr": 65877.0,
+  "description": "AboutIndian Overseas Bank was founded in 1937 by Chidambaram Chettyar. It was one of the 14 major banks that were nationalized in 1969.[1]Key PointsBusiness Mix Q3 FY26[1]Advances: 46%Term Deposits: 32%Savings Bank: 18%Current Deposits: 4%Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/IOB/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Indian Overseas Bank \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 6.1% \u2014 poor capital efficiency",
+  "verdict_memo": "Indian Overseas Bank \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 6.1% \u2014 poor capital efficiency",
+  "investment_thesis": "What makes it interesting: Revenue grew 4/4 years consistently. What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 6.1% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Indian Overseas Bank \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 6.1% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.888,
+    "normalised_score": -0.642
+  },
+  "laxmi": {
+    "symbol": "IOB",
+    "name": "Indian Overseas Bank",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Indian Overseas Bank \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 6.1% \u2014 poor capital efficiency",
+    "score": 2.5,
+    "key_strengths": [
+      "Revenue grew 4/4 years consistently"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 6.1% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 6.07,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 4,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": -454.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "IOB",
+    "name": "Indian Overseas Bank",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Indian Overseas Bank \u2014 mixed technical signals (score 2.0/6). Positives: Price within 18.2% of 52w high \u2014 moderate momentum, Revenue +1.8% YoY \u2014 growing. Concerns: none.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 11.4,
+    "from_high_pct": 18.2,
+    "revenue_growth_pct": 1.8,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 18.2% of 52w high \u2014 moderate momentum; Revenue +1.8% YoY \u2014 growing",
+    "price_position": {
+      "current_price": 34.2,
+      "52w_high": 41.8,
+      "52w_low": 31.2,
+      "position_pct": 28.3,
+      "from_high_pct": 18.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "IOB",
+    "name": "Indian Overseas Bank",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Indian Overseas Bank \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1969)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

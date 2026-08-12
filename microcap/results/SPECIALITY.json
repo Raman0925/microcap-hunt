@@ -1,0 +1,109 @@
+{
+  "symbol": "SPECIALITY",
+  "name": "Speciality Restaurants Ltd",
+  "sector": "",
+  "market_cap": "\u20b9765Cr.",
+  "market_cap_cr": 765.0,
+  "description": "AboutIncorporated in 1999, Speciality RestaurantLtd is in the business of operating restaurant outlets / sweet shops[1]Key PointsBusiness Overview:[1]SRL operates specialty restaurants in Fine Dining and Casual Dining. It has various brands, including Fine Dining, Casual Dining, Resto Bar, Cloud kitchens, and Confectioneries. Currently, SRL has124 outlets (112 owned units + 12 Franchisee Units )across 14 Indian cities, and international locations in London, Oman, and Dubai.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/SPECIALITY/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Speciality Restaurants Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 9.8% \u2014 poor capital efficiency",
+  "verdict_memo": "Speciality Restaurants Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 9.8% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 9.8% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Speciality Restaurants Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 9.8% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.928,
+    "normalised_score": -0.651
+  },
+  "laxmi": {
+    "symbol": "SPECIALITY",
+    "name": "Speciality Restaurants Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "Speciality Restaurants Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 1/5 years positive; Low ROCE: 9.8% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "Low ROCE: 9.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 9.76,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 1.22,
+    "forensic_flags": [],
+    "owner_earnings": 9.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "SPECIALITY",
+    "name": "Speciality Restaurants Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Speciality Restaurants Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 4.8% of 52w high \u2014 strong momentum. Concerns: Revenue -6.9% YoY \u2014 declining.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "neutral",
+    "revenue_momentum": "declining",
+    "pe_ratio": 28.9,
+    "from_high_pct": 4.8,
+    "revenue_growth_pct": -6.9,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 4.8% of 52w high \u2014 strong momentum; Revenue -6.9% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 159.0,
+      "52w_high": 167.0,
+      "52w_low": 82.7,
+      "position_pct": 90.5,
+      "from_high_pct": 4.8
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "SPECIALITY",
+    "name": "Speciality Restaurants Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Speciality Restaurants Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1999)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,119 @@
+{
+  "symbol": "BAJAJELEC",
+  "name": "Bajaj Electricals Ltd",
+  "sector": "",
+  "market_cap": "\u20b94,158Cr.",
+  "market_cap_cr": 4158.0,
+  "description": "AboutBajaj Electricals Limited is a part of the Bajaj Group of companies and is a leading FMEG company spread across  Consumer Products - Appliances, Fans, Lighting, Exports, and EPC - Illumination, Transmission Towers and Power Distribution. It also has its presence in premium home appliances and cookware segments with brands like Morphy Richards and Nirlep.[1]Key PointsBusiness Profile[1]Bajaj Electricals Limited operates in the Consumer Products (CP) and Lighting Solutions (LS) segments. The company specializes in home appliances, kitchen appliances, fans, lighting solutions, and professional lighting services.It is in top 2-3 players in the other appliances and in top 5 in fans and lighting categoriesRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BAJAJELEC/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bajaj Electricals Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "verdict_memo": "Bajaj Electricals Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate. What to watch: Low ROCE: 3.9% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.0/10 \u2014 reject (95% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 5.0/10 \u2014 borderline (50% conf)",
+    "\u26a0\ufe0f Forensic flags: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bajaj Electricals Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.7,
+    "normalised_score": -0.6
+  },
+  "laxmi": {
+    "symbol": "BAJAJELEC",
+    "name": "Bajaj Electricals Ltd",
+    "verdict": "reject",
+    "confidence": 0.95,
+    "report": "Bajaj Electricals Ltd \u2014 FORENSIC VETO: CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern",
+    "score": 2.0,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 3.9% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)",
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "red_flags": [
+      "Forensic VETO: CFO/Net Profit < 0.3x for 2+ years"
+    ],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 3.94,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 2.77,
+    "forensic_flags": [
+      "CFO << Net Profit for 2+ consecutive years \u2014 earnings quality concern"
+    ],
+    "owner_earnings": null,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BAJAJELEC",
+    "name": "Bajaj Electricals Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "Bajaj Electricals Ltd \u2014 weak technical setup (score 0.0/6): Price 45.0% below 52w high \u2014 weak price action; Revenue -7.8% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": null,
+    "from_high_pct": 45.0,
+    "revenue_growth_pct": -7.8,
+    "profit_growth_pct": -112.7,
+    "optionality_signals": [],
+    "technical_notes": "Price 45.0% below 52w high \u2014 weak price action; Revenue -7.8% YoY \u2014 declining; Net profit declined -112.7% YoY",
+    "price_position": {
+      "current_price": 360.0,
+      "52w_high": 654.0,
+      "52w_low": 301.0,
+      "position_pct": 16.7,
+      "from_high_pct": 45.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BAJAJELEC",
+    "name": "Bajaj Electricals Ltd",
+    "verdict": "borderline",
+    "confidence": 0.5,
+    "report": "Bajaj Electricals Ltd has a mixed narrative (score 5.0/10). Positives: Growth ambition evident in description, Contrarian: currently unloved/unfollowed sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 5.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

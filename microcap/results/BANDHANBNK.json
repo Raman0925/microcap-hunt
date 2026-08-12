@@ -1,0 +1,115 @@
+{
+  "symbol": "BANDHANBNK",
+  "name": "Bandhan Bank Ltd",
+  "sector": "",
+  "market_cap": "\u20b928,033Cr.",
+  "market_cap_cr": 28033.0,
+  "description": "AboutIncorporated in 2014, Bandhan Bank is a commercial bank focused on serving underbanked and underpenetrated markets in India. The company has a PAN-India presence and offers a wide range of banking products & services and asset & liability products and services designed for micro banking and general banking.[1][2]Key PointsHistory[1]The Co. was first set up as Bandhan Financial Services Pvt. Ltd (BFSL) in 2006. BFSL was the largest NBFC-MFI in India until 2014, after which the Co. received a banking license from the RBI. Bandhan Bank commenced its operations in 2015, BFSL's entire microfinance portfolio was transferred to the books of Bandhan Bank.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BANDHANBNK/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bandhan Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Bandhan Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.4% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/3 years \u2014 adequate. What to watch: Low ROCE: 6.4% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Taleb signals: Antifragility: multiple segments / diversified revenue",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bandhan Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.4% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 3,
+    "passes": 0,
+    "borderlines": 0,
+    "weighted_score": -3.637,
+    "normalised_score": -0.808
+  },
+  "laxmi": {
+    "symbol": "BANDHANBNK",
+    "name": "Bandhan Bank Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Bandhan Bank Ltd \u2014 rejected (score 2.5/10): Low ROCE: 6.4% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/3 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 6.4% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 6.41,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 7.99,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BANDHANBNK",
+    "name": "Bandhan Bank Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Bandhan Bank Ltd \u2014 weak technical setup (score 1.0/6): Revenue -59.6% YoY \u2014 declining; Net profit declined -99.6% YoY Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 20.7,
+    "from_high_pct": 21.3,
+    "revenue_growth_pct": -59.6,
+    "profit_growth_pct": -99.6,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 21.3% of 52w high \u2014 moderate momentum; Revenue -59.6% YoY \u2014 declining; Net profit declined -99.6% YoY",
+    "price_position": {
+      "current_price": 174.0,
+      "52w_high": 221.0,
+      "52w_low": 134.0,
+      "position_pct": 46.0,
+      "from_high_pct": 21.3
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BANDHANBNK",
+    "name": "Bandhan Bank Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Bandhan Bank Ltd \u2014 rejected (score 2.5/10): operates in high-risk sector: microfinance",
+    "score": 2.5,
+    "red_flags": [
+      "operates in high-risk sector: microfinance"
+    ],
+    "positive_catalysts": [
+      "Established company (founded ~2014)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: multiple segments / diversified revenue"
+    ],
+    "smile_score": 0.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "negative",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

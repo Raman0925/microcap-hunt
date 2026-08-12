@@ -1,0 +1,111 @@
+{
+  "symbol": "BANARISUG",
+  "name": "Bannari Amman Sugars Ltd",
+  "sector": "",
+  "market_cap": "\u20b94,369Cr.",
+  "market_cap_cr": 4369.0,
+  "description": "AboutBannari Amman Sugars Limited is one of the leading sugar manufacturers in India. It has three sugar factories with cogeneration plants in Tamilnadu and two sugar factories with co-generation plants in Karnataka. It has two distillery units one in Tamilnadu and another in Karnataka. It has a Granite Processing unit in Tamilnadu. The company also has windmills which are located in the southern part of Tamilnadu.[1]Key PointsFY22 Business SegmentsSugar (84% of revenue)-[1]It has an installed capacity of 23700 Tons per day (TCD) for cane crushing across all 5 units. 3 facilities are located in Tamilnadu and 2 in Karnataka. It established its first sugar factory in the year 1986 with a crushing capacity of 1250 TCPD.[2][3]In the sugar business it sells sugar (77% revenue) and other by-products like Molasses, Bagasse, Bioproducts, fertilizer & pesticides. (together generates 7% of total revenue).[4]Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BANARISUG/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Bannari Amman Sugars Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.3% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Bannari Amman Sugars Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.3% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 9.3% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Bannari Amman Sugars Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.3% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.888,
+    "normalised_score": -0.642
+  },
+  "laxmi": {
+    "symbol": "BANARISUG",
+    "name": "Bannari Amman Sugars Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Bannari Amman Sugars Ltd \u2014 rejected (score 2.5/10): Low ROCE: 9.3% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 9.3% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 9.32,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 20.0,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BANARISUG",
+    "name": "Bannari Amman Sugars Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Bannari Amman Sugars Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 15.0% of 52w high \u2014 strong momentum. Concerns: Revenue -36.1% YoY \u2014 declining, Net profit declined -96.9% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 29.5,
+    "from_high_pct": 15.0,
+    "revenue_growth_pct": -36.1,
+    "profit_growth_pct": -96.9,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 15.0% of 52w high \u2014 strong momentum; Revenue -36.1% YoY \u2014 declining; Net profit declined -96.9% YoY",
+    "price_position": {
+      "current_price": 3484.0,
+      "52w_high": 4100.0,
+      "52w_low": 2915.0,
+      "position_pct": 48.0,
+      "from_high_pct": 15.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BANARISUG",
+    "name": "Bannari Amman Sugars Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "Bannari Amman Sugars Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1986)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 0.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

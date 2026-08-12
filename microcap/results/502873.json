@@ -1,0 +1,115 @@
+{
+  "symbol": "502873",
+  "name": "H P Cotton Textile Mills Ltd",
+  "sector": "",
+  "market_cap": "\u20b939.2Cr.",
+  "market_cap_cr": 39.2,
+  "description": "AboutIncorporated in 1981, H.P. Cotton TextileMills Ltd manufactures and exports cotton specialty yarns and cotton sewing threads[1]Key PointsBusiness Overview:[1][2]HPCTML was formerly a part of the Dora group. Currently, the company manufactures sewing threads for retail and industrial purposes. It deals with the production of two types of thread, viz. Sewing Threads and Hosiery Yarn.Read MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/502873/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "H P Cotton Textile Mills Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "H P Cotton Textile Mills Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/5 years \u2014 adequate; ROCE 19.0% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: geographic diversification",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 H P Cotton Textile Mills Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -1.01,
+    "normalised_score": -0.224
+  },
+  "laxmi": {
+    "symbol": "502873",
+    "name": "H P Cotton Textile Mills Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "H P Cotton Textile Mills Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 3/5 years \u2014 adequate",
+      "ROCE 19.0% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 19.0,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 3.0,
+    "forensic_flags": [],
+    "owner_earnings": 2.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "502873",
+    "name": "H P Cotton Textile Mills Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "H P Cotton Textile Mills Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 24.2% of 52w high \u2014 moderate momentum, Revenue +4.5% YoY \u2014 growing. Concerns: Net profit declined 0.0% YoY.",
+    "score": 2.0,
+    "price_signal": "neutral",
+    "entry_zone": "neutral",
+    "revenue_momentum": "growing",
+    "pe_ratio": 12.7,
+    "from_high_pct": 24.2,
+    "revenue_growth_pct": 4.5,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price within 24.2% of 52w high \u2014 moderate momentum; Revenue +4.5% YoY \u2014 growing; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 100.0,
+      "52w_high": 132.0,
+      "52w_low": 95.0,
+      "position_pct": 13.5,
+      "from_high_pct": 24.2
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "502873",
+    "name": "H P Cotton Textile Mills Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "H P Cotton Textile Mills Ltd has a strong story (score 6.0/10). Catalysts: Small size (\u20b939cr mcap) \u2014 large runway ahead, Established company (founded ~1981), Growth ambition evident in description. Taleb signals: Optionality: capability expansion signals detected, Antifragility: geographic diversification. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b939cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1981)",
+      "Growth ambition evident in description",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: geographic diversification",
+      "Convexity: both B2B and B2C revenue streams"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "symbol": "BELRISE",
+  "name": "Belrise Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b924,563Cr.",
+  "market_cap_cr": 24563.0,
+  "description": "AboutIncorporated in 1988, Belrise Industries Limited manufactures Automotive Sheet Metal and casting parts, Polymer components, Suspension, and mirror systems for automotives.[1]Key PointsBusiness Profile:[1]Belrise Industries is a premier automotive component manufacturer specializing in safety-critical systems for two-wheelers, passenger vehicles, and agricultural machinery.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BELRISE/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Belrise Industries Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "verdict_memo": "Belrise Industries Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/4 years \u2014 adequate; ROCE 13.8% (adequate). What to watch: D/E ratio not available; Promoter holding data not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 3.5/10 \u2014 reject (88% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Belrise Industries Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.76,
+    "normalised_score": -0.391
+  },
+  "laxmi": {
+    "symbol": "BELRISE",
+    "name": "Belrise Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.88,
+    "report": "Belrise Industries Ltd \u2014 rejected (score 3.5/10): D/E ratio not available; Promoter holding data not available",
+    "score": 3.5,
+    "key_strengths": [
+      "FCF positive 2/4 years \u2014 adequate",
+      "ROCE 13.8% (adequate)"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 13.8,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": 2.26,
+    "forensic_flags": [],
+    "owner_earnings": 205.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BELRISE",
+    "name": "Belrise Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Belrise Industries Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 1.6% of 52w high \u2014 strong momentum. Concerns: Revenue -25.4% YoY \u2014 declining, Net profit declined -10.9% YoY. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 50.9,
+    "from_high_pct": 1.6,
+    "revenue_growth_pct": -25.4,
+    "profit_growth_pct": -10.9,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 1.6% of 52w high \u2014 strong momentum; Revenue -25.4% YoY \u2014 declining; Net profit declined -10.9% YoY",
+    "price_position": {
+      "current_price": 254.0,
+      "52w_high": 258.0,
+      "52w_low": 134.0,
+      "position_pct": 96.8,
+      "from_high_pct": 1.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BELRISE",
+    "name": "Belrise Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Belrise Industries Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~1988), Operating in large / growing sector. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~1988)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.5,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

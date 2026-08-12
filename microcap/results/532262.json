@@ -1,0 +1,111 @@
+{
+  "symbol": "532262",
+  "name": "TCI Industries Ltd",
+  "sector": "",
+  "market_cap": "\u20b9117Cr.",
+  "market_cap_cr": 117.0,
+  "description": "AboutIncorporated in 1965, TCI IndustriesLtd provides space for film shooting,TV serials and advertisements[1]Key PointsServices Offered:[1][2]a)Textile Tradingb)Real Estate activities within its landc)Providing space for film shooting, TV serials and advertisementsRead MoreWebsiteBSE",
+  "screener_url": "https://www.screener.in/company/532262/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "TCI Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 4.3% \u2014 poor capital efficiency",
+  "verdict_memo": "TCI Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 4.3% \u2014 poor capital efficiency",
+  "investment_thesis": "What to watch: FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 4.3% \u2014 poor capital efficiency. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 1.5/10 \u2014 reject (92% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 TCI Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 4.3% \u2014 poor capital efficiency"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.59,
+    "normalised_score": -0.576
+  },
+  "laxmi": {
+    "symbol": "532262",
+    "name": "TCI Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.92,
+    "report": "TCI Industries Ltd \u2014 rejected (score 1.5/10): FCF inconsistent \u2014 only 0/5 years positive; Low ROCE: 4.3% \u2014 poor capital efficiency",
+    "score": 1.5,
+    "key_strengths": [],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 0/5 years positive",
+      "Low ROCE: 4.3% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 0,
+    "roce_5yr_avg": 4.33,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": null,
+    "forensic_flags": [],
+    "owner_earnings": -0.5,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "532262",
+    "name": "TCI Industries Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "TCI Industries Ltd \u2014 weak technical setup (score 1.0/6): Revenue -62.4% YoY \u2014 declining Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 333.0,
+    "from_high_pct": 19.1,
+    "revenue_growth_pct": -62.4,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 19.1% of 52w high \u2014 moderate momentum; Revenue -62.4% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 1296.0,
+      "52w_high": 1601.0,
+      "52w_low": 1225.0,
+      "position_pct": 18.9,
+      "from_high_pct": 19.1
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "532262",
+    "name": "TCI Industries Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "TCI Industries Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b9117cr mcap) \u2014 large runway ahead, Established company (founded ~1965). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9117cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1965)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

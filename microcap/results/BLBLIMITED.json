@@ -1,0 +1,111 @@
+{
+  "symbol": "BLBLIMITED",
+  "name": "BLB Ltd",
+  "sector": "",
+  "market_cap": "\u20b984.9Cr.",
+  "market_cap_cr": 84.9,
+  "description": "AboutIncorporated in 1981, BLB Ltd does tradingand investment in Shares and Securities[1]Key PointsBusiness Overview:[1]Company is a part of BLB group and is acorporate stock broking company. It is aspecialist in Jobbing and Arbitrage and isin the business of trading and investmentin Shares and SecuritiesRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/BLBLIMITED/",
+  "verdict": "borderline",
+  "confidence": 0.4,
+  "verdict_reason": "BLB Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Low PE 2.5 with positive revenue growth \u2014 potentially overlooked. Laxmi: borderline | Meera: pass | Tara: reject. High-risk contrarian watch.",
+  "verdict_memo": "BLB Ltd \u2014 rescued from reject by optionality signals (Laxmi score 5.5/10). Meera optionality: Low PE 2.5 with positive revenue growth \u2014 potentially overlooked. Laxmi: borderline | Meera: pass | Tara: reject. High-risk contrarian watch.",
+  "investment_thesis": "BLB Ltd is a speculative contrarian candidate \u2014 strong fundamentals but weak near-term technicals with optionality upside. What makes it interesting: FCF positive 4/5 years \u2014 excellent cash generation; ROCE 40.2% > 20% \u2014 exceptional capital efficiency. What to watch: D/E ratio not available; Promoter holding data not available. Call: keep on watchlist.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 5.5/10 \u2014 borderline (42% conf)",
+    "Meera (technical): 4.0/6 \u2014 pass (50% conf)",
+    "Tara (story): 2.5/10 \u2014 reject (72% conf)",
+    "Optionality: Low PE 2.5 with positive revenue growth \u2014 potentially overlooked",
+    "Governance: clean",
+    "Final: borderline (40% confidence) \u2014 combined score -0.13"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 1,
+    "borderlines": 1,
+    "weighted_score": -0.587,
+    "normalised_score": -0.131
+  },
+  "laxmi": {
+    "symbol": "BLBLIMITED",
+    "name": "BLB Ltd",
+    "verdict": "borderline",
+    "confidence": 0.425,
+    "report": "BLB Ltd scores 5.5/10 on fundamentals. Strengths: FCF positive 4/5 years \u2014 excellent cash generation, ROCE 40.2% > 20% \u2014 exceptional capital efficiency. Concerns: D/E ratio not available, Promoter holding data not available.",
+    "score": 5.5,
+    "key_strengths": [
+      "FCF positive 4/5 years \u2014 excellent cash generation",
+      "ROCE 40.2% > 20% \u2014 exceptional capital efficiency"
+    ],
+    "key_risks": [
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (2/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 4,
+    "roce_5yr_avg": 40.2,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 2,
+    "cfo_to_ebitda": 1.0,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "BLBLIMITED",
+    "name": "BLB Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "BLB Ltd \u2014 solid technical setup (score 4.0/6). Signals: Price within 28.4% of 52w high \u2014 moderate momentum, Revenue +385.5% YoY \u2014 strong momentum, PE 2.5 < revenue growth 385.5% \u2014 undervalued vs growth. Notes: Net profit declined 0.0% YoY. Optionality: Low PE 2.5 with positive revenue growth \u2014 potentially overlooked.",
+    "score": 4.0,
+    "price_signal": "neutral",
+    "entry_zone": "attractive",
+    "revenue_momentum": "strong",
+    "pe_ratio": 2.55,
+    "from_high_pct": 28.4,
+    "revenue_growth_pct": 385.5,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [
+      "Low PE 2.5 with positive revenue growth \u2014 potentially overlooked"
+    ],
+    "technical_notes": "Price within 28.4% of 52w high \u2014 moderate momentum; Revenue +385.5% YoY \u2014 strong momentum; PE 2.5 < revenue growth 385.5% \u2014 undervalued vs growth; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 16.1,
+      "52w_high": 22.5,
+      "52w_low": 12.0,
+      "position_pct": 39.0,
+      "from_high_pct": 28.4
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "BLBLIMITED",
+    "name": "BLB Ltd",
+    "verdict": "reject",
+    "confidence": 0.725,
+    "report": "BLB Ltd \u2014 rejected (score 2.5/10): failed qualitative checks",
+    "score": 2.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b985cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1981)",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

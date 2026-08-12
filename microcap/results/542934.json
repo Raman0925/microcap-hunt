@@ -1,0 +1,115 @@
+{
+  "symbol": "542934",
+  "name": "Chandra Bhagat Pharma Ltd",
+  "sector": "",
+  "market_cap": "\u20b936.1Cr.",
+  "market_cap_cr": 36.1,
+  "description": "AboutIncorporated in 2003, Chandra Bhagat Pharma Ltd manufactures chemical and pharmaceutical products.[1]Key PointsBusiness Overview:[1][2]a)CBPL, under the brand name CBC, is engaged in manufacturing pharmaceutical formulations such as intravenous (IV) and intramuscular (IM) injections, tablets, and capsulesfor both domestic and international markets.b)The company operates primarily through contract manufacturing and job work arrangements, while maintaininga diversified product portfolio across a multiple therapeutic segments including oncology, antibiotics, anesthesia, hormones, orthopedics, cardiology, nephrology, neurology, pediatrics, antifungal, and antiviral treatments.c)In addition to formulations, CBPL is actively involved in the ethical promotion and marketing of Active Pharmaceutical Ingredients (APIs), specialty chemicals, and intermediates, leveraging its own distribution network and sales force.d)Its major focus lies in supplying critical disease treatments\u2014particularly ",
+  "screener_url": "https://www.screener.in/company/542934/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Chandra Bhagat Pharma Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "verdict_memo": "Chandra Bhagat Pharma Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: ROCE 12.1% (adequate). What to watch: FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 1.0/6 \u2014 reject (75% conf)",
+    "Tara (story): 6.0/10 \u2014 pass (50% conf)",
+    "Taleb signals: Optionality: capability expansion signals detected; Antifragility: multiple segments / diversified revenue",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Chandra Bhagat Pharma Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 1,
+    "borderlines": 0,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "542934",
+    "name": "Chandra Bhagat Pharma Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Chandra Bhagat Pharma Ltd \u2014 rejected (score 2.5/10): FCF inconsistent \u2014 only 1/5 years positive; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "ROCE 12.1% (adequate)"
+    ],
+    "key_risks": [
+      "FCF inconsistent \u2014 only 1/5 years positive",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue declining or flat"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 1,
+    "roce_5yr_avg": 12.1,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 0,
+    "cfo_to_ebitda": -9.0,
+    "forensic_flags": [],
+    "owner_earnings": 0.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "542934",
+    "name": "Chandra Bhagat Pharma Ltd",
+    "verdict": "reject",
+    "confidence": 0.75,
+    "report": "Chandra Bhagat Pharma Ltd \u2014 weak technical setup (score 1.0/6): Revenue -23.8% YoY \u2014 declining",
+    "score": 1.0,
+    "price_signal": "neutral",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 11.8,
+    "from_high_pct": 19.0,
+    "revenue_growth_pct": -23.8,
+    "profit_growth_pct": null,
+    "optionality_signals": [],
+    "technical_notes": "Price within 19.0% of 52w high \u2014 moderate momentum; Revenue -23.8% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 47.8,
+      "52w_high": 59.0,
+      "52w_low": 29.7,
+      "position_pct": 61.8,
+      "from_high_pct": 19.0
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "542934",
+    "name": "Chandra Bhagat Pharma Ltd",
+    "verdict": "pass",
+    "confidence": 0.5,
+    "report": "Chandra Bhagat Pharma Ltd has a strong story (score 6.0/10). Catalysts: Small size (\u20b936cr mcap) \u2014 large runway ahead, Established company (founded ~2003), Operating in large / growing sector. Taleb signals: Optionality: capability expansion signals detected, Antifragility: multiple segments / diversified revenue. Governance: clean.",
+    "score": 6.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b936cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~2003)",
+      "Operating in large / growing sector",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 6.7,
+    "taleb_signals": [
+      "Optionality: capability expansion signals detected",
+      "Antifragility: multiple segments / diversified revenue",
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 2.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "positive",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

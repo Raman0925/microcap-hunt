@@ -1,0 +1,114 @@
+{
+  "symbol": "AMAGI",
+  "name": "Amagi Media Labs Ltd",
+  "sector": "",
+  "market_cap": "\u20b914,268Cr.",
+  "market_cap_cr": 14268.0,
+  "description": "AboutFounded in 2008, Amagi Media Labs Ltd. is engaged in cloud-based broadcast and connected TV technology.[1]Key PointsBusiness Profile[1]Amagi Media Labs is a global SaaS company providing a full-stack, cloud-native, AI-enabled platform for the media & entertainment industry. It connects content providers, distributors, and advertisers and supports the entire video lifecycle, from live production and content preparation to global distribution and advertising monetization.Read MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/AMAGI/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "Amagi Media Labs Ltd \u2014 rejected (score 2.5/10): Low ROCE: 2.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "Amagi Media Labs Ltd \u2014 rejected (score 2.5/10): Low ROCE: 2.8% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 2/5 years \u2014 adequate. What to watch: Low ROCE: 2.8% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 2.0/6 \u2014 borderline (43% conf)",
+    "Tara (story): 3.5/10 \u2014 borderline (46% conf)",
+    "Taleb signals: Antifragility: geographic diversification",
+    "Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 Amagi Media Labs Ltd \u2014 rejected (score 2.5/10): Low ROCE: 2.8% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 1,
+    "passes": 0,
+    "borderlines": 2,
+    "weighted_score": -1.8,
+    "normalised_score": -0.4
+  },
+  "laxmi": {
+    "symbol": "AMAGI",
+    "name": "Amagi Media Labs Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "Amagi Media Labs Ltd \u2014 rejected (score 2.5/10): Low ROCE: 2.8% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 2/5 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 2.8% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 2,
+    "roce_5yr_avg": 2.82,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 0.83,
+    "forensic_flags": [],
+    "owner_earnings": 12.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "AMAGI",
+    "name": "Amagi Media Labs Ltd",
+    "verdict": "borderline",
+    "confidence": 0.43,
+    "report": "Amagi Media Labs Ltd \u2014 mixed technical signals (score 2.0/6). Positives: Price within 5.6% of 52w high \u2014 strong momentum. Concerns: Revenue -45.2% YoY \u2014 declining. Optionality: Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround.",
+    "score": 2.0,
+    "price_signal": "bullish",
+    "entry_zone": "contrarian",
+    "revenue_momentum": "declining",
+    "pe_ratio": 539.0,
+    "from_high_pct": 5.6,
+    "revenue_growth_pct": -45.2,
+    "profit_growth_pct": null,
+    "optionality_signals": [
+      "Quarter-on-quarter revenue inflecting while annual is flat \u2014 possible turnaround"
+    ],
+    "technical_notes": "Price within 5.6% of 52w high \u2014 strong momentum; Revenue -45.2% YoY \u2014 declining",
+    "price_position": {
+      "current_price": 660.0,
+      "52w_high": 699.0,
+      "52w_low": 310.0,
+      "position_pct": 90.0,
+      "from_high_pct": 5.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "AMAGI",
+    "name": "Amagi Media Labs Ltd",
+    "verdict": "borderline",
+    "confidence": 0.455,
+    "report": "Amagi Media Labs Ltd has a mixed narrative (score 3.5/10). Positives: Established company (founded ~2008), Growth ambition evident in description. Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.5,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Established company (founded ~2008)",
+      "Growth ambition evident in description",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 1.7,
+    "taleb_signals": [
+      "Antifragility: geographic diversification"
+    ],
+    "smile_score": 1.5,
+    "contrarian_angle": "under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}

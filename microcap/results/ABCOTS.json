@@ -1,0 +1,109 @@
+{
+  "symbol": "ABCOTS",
+  "name": "AB Cotspin India Ltd",
+  "sector": "",
+  "market_cap": "\u20b9439Cr.",
+  "market_cap_cr": 439.0,
+  "description": "AboutIncorporated in 1997, A B Cotspin India Ltd is in the business of manufacturing of cotton yarn, knitted fabric, cottonseed oil and oil cakes[1]Key PointsBusiness Overview:[1]a)ABCIL is in the business of cotton ginning, manufacturing & trading of cotton yarn and fabrics both combed and kardedb)It sells its products to textile in Punjab and  Haryanac)Company is also engaged in extraction of oil and production of cakes from cotton seeds (by-product of the ginning process)d)It manufactures yarn in various types including 100% cotton yarn of counts 20-30s, double yarn of counts 20-30s, slub yarn, etc.e)Company produces knitted fabrics, which includes combed, carded, and slub fabricsf)The requirement of yarn of knitted fabric manufacturing unit is met in-houseRead MoreWebsiteBSENSE",
+  "screener_url": "https://www.screener.in/company/ABCOTS/",
+  "verdict": "reject",
+  "confidence": 0.9,
+  "verdict_reason": "AB Cotspin India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "verdict_memo": "AB Cotspin India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.0% \u2014 poor capital efficiency; D/E ratio not available",
+  "investment_thesis": "What makes it interesting: FCF positive 3/4 years \u2014 adequate. What to watch: Low ROCE: 10.0% \u2014 poor capital efficiency; D/E ratio not available. Call: pass for now.",
+  "debate_reasoning": [
+    "Laxmi (fundamentals): 2.5/10 \u2014 reject (90% conf)",
+    "Meera (technical): 0.0/6 \u2014 reject (80% conf)",
+    "Tara (story): 3.0/10 \u2014 borderline (44% conf)",
+    "Governance: clean",
+    "Final: reject (90% confidence) \u2014 AB Cotspin India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.0% \u2014 poor capital efficiency; D/E ratio not available"
+  ],
+  "vote_tally": {
+    "rejects": 2,
+    "passes": 0,
+    "borderlines": 1,
+    "weighted_score": -2.6,
+    "normalised_score": -0.578
+  },
+  "laxmi": {
+    "symbol": "ABCOTS",
+    "name": "AB Cotspin India Ltd",
+    "verdict": "reject",
+    "confidence": 0.9,
+    "report": "AB Cotspin India Ltd \u2014 rejected (score 2.5/10): Low ROCE: 10.0% \u2014 poor capital efficiency; D/E ratio not available",
+    "score": 2.5,
+    "key_strengths": [
+      "FCF positive 3/4 years \u2014 adequate"
+    ],
+    "key_risks": [
+      "Low ROCE: 10.0% \u2014 poor capital efficiency",
+      "D/E ratio not available",
+      "Promoter holding data not available",
+      "Revenue growth inconsistent (1/4 years)"
+    ],
+    "red_flags": [],
+    "fcf_positive_years": 3,
+    "roce_5yr_avg": 9.96,
+    "debt_equity": null,
+    "promoter_holding": null,
+    "promoter_pledge_pct": null,
+    "inventory_days": null,
+    "receivable_days": null,
+    "payable_days": null,
+    "cash_conversion_cycle": null,
+    "revenue_growth_years": 1,
+    "cfo_to_ebitda": 6.0,
+    "forensic_flags": [],
+    "owner_earnings": 1.0,
+    "agent": "laxmi"
+  },
+  "meera": {
+    "symbol": "ABCOTS",
+    "name": "AB Cotspin India Ltd",
+    "verdict": "reject",
+    "confidence": 0.8,
+    "report": "AB Cotspin India Ltd \u2014 weak technical setup (score 0.0/6): Price 60.6% below 52w high \u2014 weak price action; Revenue -10.7% YoY \u2014 declining",
+    "score": 0.0,
+    "price_signal": "bearish",
+    "entry_zone": "weak",
+    "revenue_momentum": "declining",
+    "pe_ratio": 33.1,
+    "from_high_pct": 60.6,
+    "revenue_growth_pct": -10.7,
+    "profit_growth_pct": 0.0,
+    "optionality_signals": [],
+    "technical_notes": "Price 60.6% below 52w high \u2014 weak price action; Revenue -10.7% YoY \u2014 declining; Net profit declined 0.0% YoY",
+    "price_position": {
+      "current_price": 200.0,
+      "52w_high": 508.0,
+      "52w_low": 197.0,
+      "position_pct": 1.0,
+      "from_high_pct": 60.6
+    },
+    "agent": "meera"
+  },
+  "tara": {
+    "symbol": "ABCOTS",
+    "name": "AB Cotspin India Ltd",
+    "verdict": "borderline",
+    "confidence": 0.44,
+    "report": "AB Cotspin India Ltd has a mixed narrative (score 3.0/10). Positives: Small size (\u20b9439cr mcap) \u2014 large runway ahead, Established company (founded ~1997). Red flags: none. Sector: sector appears acceptable.",
+    "score": 3.0,
+    "red_flags": [],
+    "positive_catalysts": [
+      "Small size (\u20b9439cr mcap) \u2014 large runway ahead",
+      "Established company (founded ~1997)",
+      "Contrarian: currently unloved/unfollowed sector",
+      "No recent news coverage \u2014 possible hidden gem"
+    ],
+    "governance_signal": "clean",
+    "optionality_score": 0.0,
+    "taleb_signals": [],
+    "smile_score": 1.0,
+    "contrarian_angle": "unloved sector + under-followed",
+    "sector_view": "neutral",
+    "news_used": "",
+    "agent": "tara"
+  },
+  "analyzed_at": "2026-08-12T02:34:34.140848+00:00"
+}
