@@ -158,9 +158,30 @@ def fetch_company_data(symbol: str, url: str, session: requests.Session) -> dict
         "face_value": "Face Value",
         "debt_to_equity": "Debt to equity",
         "promoter_holding": "Promoter holding",
+        "promoter_pledging": "Pledged percentage",
     }
     for key, label in ratio_fields.items():
         data[key] = _extract_table_value(soup, label)
+
+    # Try alternate label variants for D/E and promoter holding (screener.in varies by company)
+    if data.get("debt_to_equity") is None:
+        for alt in ["Debt / Equity", "D/E", "Debt/Equity"]:
+            v = _extract_table_value(soup, alt)
+            if v is not None:
+                data["debt_to_equity"] = v
+                break
+
+    if data.get("promoter_holding") is None:
+        # Try extracting from shareholding table directly
+        sh_table = soup.select_one("table#quarterly-shp, table.data-table")
+        if sh_table:
+            for row in sh_table.select("tbody tr"):
+                cells = row.find_all("td")
+                if cells and "promoter" in cells[0].get_text(strip=True).lower():
+                    vals = [c.get_text(strip=True) for c in cells[1:] if c.get_text(strip=True)]
+                    if vals:
+                        data["promoter_holding"] = vals[-1]
+                    break
 
     # Parse market cap as numeric for filtering
     data["market_cap_cr"] = _parse_number(data.get("market_cap") or "")
